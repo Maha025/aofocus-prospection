@@ -1,0 +1,140 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-09-19",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=1",
+  "_methode": "Fiche goafricaonline ouverte pour chaque bureau (nom, adresse, téléphones, activités, bouton « Site web »), puis site officiel parcouru (accueil, contact, à propos, mentions légales) ; à défaut, recherches web sur le nom, le sigle, le téléphone et test d'adresses probables. Aucun email deviné : chaque adresse retenue a été lue sur la page citée dans preuve_url.",
+  "bureaux": [
+    {
+      "nom": "2 DBC (2 D BUSINESS CONSULTING )",
+      "sigle": "2 DBC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@2dbc.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "+221 33 864 57 67",
+      "adresse": "Rue A X 3 Point E, Immeuble Tamsir Mboup, 1er Etage | BP 25798 | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "http://www.2dbc.com",
+      "site_source": "fiche goafrica",
+      "specialite": "L’entreprise est spécialisée dans le domaine de l'ingénierie informatique. 2DBC est un éditeur de logiciels de gestion financière, comptable et technique pour les organisations de type entreprise, ministère, projets…",
+      "fiche_url": "https://www.goafricaonline.com/sn/592612-2dbc-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.2dbc.com",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592612-2dbc-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » -> http://www.2dbc.com)",
+        "Site ouvert : http://www.2dbc.com — email info@2dbc.com lu sur la page d'accueil"
+      ],
+      "statut": "a_verifier",
+      "note": ""
+    },
+    {
+      "nom": "2SKD CONSULTING",
+      "sigle": "2SKD",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "+221 33 825 50 71",
+      "adresse": "MGVR+833, Rue PE 43 - Fann-Point E-Amitié | Dakar | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782894-2skd-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782894-2skd-consulting (aucun bouton « Site web »)",
+        "Recherche web : \"2SKD CONSULTING\" Sénégal — seul résultat pertinent : profil LinkedIn https://www.linkedin.com/in/2skd-consulting-191bb7187/ (aucun email public)",
+        "Recherche web : \"2SKD\" Dakar contact email consulting — aucun résultat correspondant au bureau",
+        "Recherche web du téléphone : \"33 825 50 71\" Sénégal — et au format +221 33 825 50 71 — aucune page citant ce numéro pour ce bureau",
+        "Recherche web : \"2SKD CONSULTING\" (entre guillemets, seul) — rien d'exploitable",
+        "Adresses probables testées : 2skd.sn (injoignable), 2skdconsulting.com (injoignable), 2skd.com (site « Icone Stock », sans rapport avec le bureau — écarté)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun site propre trouvé. 2skd.com existe mais héberge un site « Icone Stock » sans rapport avec le bureau : ni site ni email ne lui sont attribués. Une page LinkedIn existe mais ne publie pas d'email."
+    },
+    {
+      "nom": "A VOS CAS CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "",
+      "adresse": "- | Dakar - 99000 - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.facebook.com/profile.php?id=100000429024107",
+      "site_source": "fiche goafrica",
+      "specialite": "Notre Cabinet de Conseils juridique s'active dans la consultance aux affaires juridiques, fiscales, immobilières, droit du Travail, de la Famille, recouvrement de créances, constitution d'entreprises et GIE, associations, ONG, manuel de procédure, contrats, protocole d'accord, convention, etc.",
+      "fiche_url": "https://www.goafricaonline.com/sn/611876-avos-cas-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/611876-avos-cas-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » -> profil Facebook)",
+        "Page Facebook ouverte : https://www.facebook.com/profile.php?id=100000429024107 — Facebook renvoie un écran de connexion, aucun email ni coordonnée lisible sans compte",
+        "Recherche web : \"A VOS CAS CONSULTING\" Sénégal Dakar — aucun résultat correspondant au bureau",
+        "Recherche web : \"A VOS CAS CONSULTING\" (entre guillemets, seul) — rien d'exploitable",
+        "Adresses probables testées : avoscas.sn (injoignable), avoscasconsulting.com (injoignable)"
+      ],
+      "statut": "a_verifier",
+      "note": "Le lien « Site web » de la fiche pointe vers un profil Facebook personnel, non vers un site : consultable seulement après connexion, donc aucun email. Aucun téléphone sur la fiche, ce qui empêche la recherche par numéro."
+    },
+    {
+      "nom": "A VOS CAS CONSULTING SUARL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "+221 77 695 74 73",
+      "adresse": "Ouest-Foire Cité des enseignants universitaires | Dakar - 99000 - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Notre cabinet intervient aussi bien en tant que partenaire professionnel pour une assistance normative des activités du secteur Public-Privé (Etat, Collectivités, Direction Nationale, Agence, Société SA- SARL- EI- TPE-PME-PMI) ainsi que conseiller des particuliers et préconisateurs de l’économie sociale et solidaire (Coopératives, Associations, GIE, ONG). Nous comptabilisons une expérience de plus de 10 ans.",
+      "fiche_url": "https://www.goafricaonline.com/sn/841072-vos-cas-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/841072-vos-cas-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+        "Recherche web : \"A VOS CAS CONSULTING\" Sénégal Dakar — aucun résultat correspondant",
+        "Recherche web du téléphone : \"77 695 74 73\" et \"+221 77 695 74 73\" Sénégal consulting — aucune page citant ce numéro",
+        "Recherche web : \"A VOS CAS CONSULTING SUARL\" (entre guillemets, seul) — rien d'exploitable",
+        "Adresses probables testées : avoscas.sn (injoignable), avoscasconsulting.com (injoignable)"
+      ],
+      "statut": "a_verifier",
+      "note": "Probablement la même enseigne que « A VOS CAS CONSULTING » (fiche 611876), à une autre adresse ; les deux fiches sont conservées telles quelles. Aucun email trouvé."
+    },
+    {
+      "nom": "A2I-CABINET CONSEILS",
+      "sigle": "A2I",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "+221 77 639 43 83",
+      "adresse": "- | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/611932-a2i-cabinet-vureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/611932-a2i-cabinet-vureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+        "Recherche web : \"A2I\" cabinet conseils Dakar Sénégal email contact — aucun résultat correspondant au bureau",
+        "Recherche web du téléphone : \"77 639 43 83\" Sénégal (et au format +221 77 639 43 83) — aucune page citant ce numéro",
+        "Recherche web : \"A2I-CABINET CONSEILS\" (entre guillemets, seul) — rien d'exploitable",
+        "Adresses probables testées : a2i.sn (injoignable), a2iconseils.sn (injoignable)"
+      ],
+      "statut": "a_verifier",
+      "note": "Sigle très court et très répandu : plusieurs homonymes « A2I » dans d'autres pays, aucun ne correspondant à l'adresse ni au téléphone de la fiche — aucun site ni email ne lui est attribué."
+    }
+  ]
+}
