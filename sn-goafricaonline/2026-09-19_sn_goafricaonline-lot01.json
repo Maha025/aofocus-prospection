@@ -272,6 +272,142 @@
       ],
       "statut": "a_verifier",
       "note": "À ne pas confondre avec Africa Consultants International (ACI/Baobab, Dakar), seul homonyme trouvé : celui-ci est établi à Saly-Portudal (M'bour). Aucun site ni email ne lui est attribué."
+    },
+    {
+      "nom": "ACCONSEILS",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "+221 77 569 29 22",
+      "adresse": "Cite Asecna virage Yoff | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592659-acconseils-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592659-acconseils-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+        "Recherche web : \"ACCONSEILS\" Sénégal Dakar Yoff contact — aucun résultat correspondant",
+        "Recherche web du téléphone : \"77 569 29 22\" (et au format +221 77 569 29 22) — aucune page citant ce numéro",
+        "Recherche web : \"ACCONSEILS\" (entre guillemets, seul) — rien d'exploitable",
+        "Adresse probable testée : acconseils.sn (injoignable)"
+      ],
+      "statut": "a_verifier",
+      "note": ""
+    },
+    {
+      "nom": "ACE HOSPITYALITY CONSULTING",
+      "sigle": "ACE",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "+221 33 867 01 17",
+      "adresse": "liberte 6 extension, 23 bis Rte du Front de Terre - Sicap-Liberté | Dakar | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782921-ace-hospityality-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782921-ace-hospityality-consulting (bouton « Site web » -> https://ace-hospityality-consulting.business.site/)",
+        "Site tenté : https://ace-hospityality-consulting.business.site/ — erreur 404, les sites « Google Business Site » ont été fermés par Google : aucune page à lire",
+        "Recherche web : \"ACE Hospitality Consulting\" Dakar Sénégal email \"33 867 01 17\" — les résultats renvoient à des homonymes en Inde, en Floride et à ACE CONSULTING Sénégal (aceconsulting.sn), société différente",
+        "Recherche web du téléphone : \"33 867 01 17\" (et au format +221 33 867 01 17) — aucune page citant ce numéro",
+        "Recherche web : \"ACE HOSPITYALITY CONSULTING\" (entre guillemets, seul) — rien hors goafricaonline",
+        "Adresse probable testée : acehospitalityconsulting.com — répond mais sert une page vide (114 octets), rien ne confirme l'identité du bureau : écartée"
+      ],
+      "statut": "a_verifier",
+      "note": "Le lien « Site web » de la fiche pointe vers un site Google Business désormais fermé (404). Ne pas confondre avec ACE CONSULTING Sénégal (aceconsulting.sn), société distincte. Aucun email."
+    },
+    {
+      "nom": "ACI (AFRICAINE DE CONSULTANCE ET D'INGIENERIE)",
+      "sigle": "ACI",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "aci@aci.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "+221 32 824 30 00; +221 32 824 30 01",
+      "adresse": "Keur Massar, Cité Caritas villa n°73 – Dakar | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.aci.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592619-aci-bureaux-etudes-conseils-consultances-dakar-senegal",
+      "preuve_url": "https://www.aci.sn/dmxConnect/api/public/sites/siteinfo.php",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592619-aci-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » -> https://www.aci.sn)",
+        "Site ouvert : https://www.aci.sn — page entièrement construite en JavaScript ; le texte visible ne contient que des gabarits ({{SiteInfo…}}) et un faux exemple « gorgui.diop@entreprise.com » dans le formulaire de contact, écarté car ce n'est pas une vraie adresse",
+        "Page ouverte : https://www.aci.sn/page.html?id=2 (« A Propos d'ACI ») — même gabarit, aucun email lisible",
+        "Source de contenu du site ouverte : https://www.aci.sn/dmxConnect/api/public/sites/siteinfo.php — données publiées par le site lui-même : siteEmail « aci@aci.sn », adresse « Keur Massar, Cité Caritas villa n°73 – Dakar, SENEGAL », téléphones 221 32 824 30 00 / 221 32 824 30 01",
+        "Recherche web : \"Africaine de Consultance et d'Ingénierie\" ACI Sénégal aci.sn contact email"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : l'adresse et les deux téléphones publiés par le site sont identiques à ceux de la fiche. Un résumé de moteur de recherche attribuait à ce bureau « administratif@aci-sn.sn » avec une autre adresse (Rue Mohamed V) : non retenu, aucune page ne l'a confirmé et cela contredit les données du site."
+    },
+    {
+      "nom": "ACI - Africa Consultants International (Senegal)",
+      "sigle": "ACI",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "senegal@centrebaobab.org",
+        "cbi@centrebaobab.org"
+      ],
+      "email_qualite": "ok",
+      "tels": "+221 33 824 83 38",
+      "adresse": "482, Sicap Baobab Dakar SN - Mermoz Sacre-coeur | Dakar | Dakar - 12523 - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.acibaobab.org",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782881-aci-africa-consultants-international-senegal",
+      "preuve_url": "https://www.acibaobab.org/contactus",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782881-aci-africa-consultants-international-senegal (bouton « Site web » -> https://www.acibaobab.org)",
+        "Site ouvert : https://www.acibaobab.org — email senegal@centrebaobab.org lu en pied de page",
+        "Page ouverte : https://www.acibaobab.org/contactus — « Centre Baobab 510, Sicap Baobab, Dakar », téléphones +221 33 824 07 41 / +221 77 470 45 59, emails cbi@centrebaobab.org et senegal@centrebaobab.org",
+        "Recherche web : \"AC SA\" \"AFRICA CONSULANTS\" Sénégal — confirme qu'Africa Consultants International (ACI / Centre Baobab) est bien établi à Dakar depuis 1984"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site est celui du Centre Baobab International, structure d'Africa Consultants International (même nom, même quartier Sicap Baobab à Dakar, lien donné par la fiche elle-même). Le numéro de rue (510 sur le site, 482 sur la fiche) et les téléphones diffèrent : coordonnées du site plus récentes, celles de la fiche conservées telles quelles."
+    },
+    {
+      "nom": "ACP-CONSULTING",
+      "sigle": "ACP",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "+221 33 825 17 88",
+      "adresse": "Rue de Kaolack | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.facebook.com/AssistanceConseilPrestation/",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480518-acp-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480518-acp-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » -> page Facebook)",
+        "Page Facebook ouverte : https://www.facebook.com/AssistanceConseilPrestation/ — Facebook renvoie un écran de connexion, aucun email ni coordonnée lisible sans compte",
+        "Recherche web : \"ACP\" \"Assistance Conseil Prestation\" Dakar Sénégal email contact — aucun résultat correspondant",
+        "Recherche web du téléphone : \"33 825 17 88\" Dakar Sénégal ACP (et au format +221 33 825 17 88) — aucune page citant ce numéro",
+        "Recherche web : \"ACP-CONSULTING\" (entre guillemets, seul) — nombreux homonymes hors Sénégal, aucun correspondant",
+        "Adresses probables testées : acpconsulting.sn (injoignable), acp-consulting.sn (injoignable)"
+      ],
+      "statut": "a_verifier",
+      "note": "Le lien « Site web » de la fiche pointe vers une page Facebook (« Assistance Conseil Prestation »), consultable seulement après connexion : aucun email lisible. Le nom complet du sigle ACP est confirmé par l'adresse de cette page Facebook."
     }
   ]
 }
