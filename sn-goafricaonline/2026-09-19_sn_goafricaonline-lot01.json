@@ -341,7 +341,7 @@
       "ville": "Dakar",
       "site_web": "https://www.aci.sn",
       "site_source": "fiche goafrica",
-      "specialite": "",
+      "specialite": "L'Africaine de Consultance et d'Ingénierie (ACI) est une entité composée d'Ingénieurs chevronnés, ayant pour objet la fourniture de prestations d'Ingénieurs-Conseils dans divers domaines, pour le compte de maîtres d'ouvrages publics, mixtes ou privés.",
       "fiche_url": "https://www.goafricaonline.com/sn/592619-aci-bureaux-etudes-conseils-consultances-dakar-senegal",
       "preuve_url": "https://www.aci.sn/dmxConnect/api/public/sites/siteinfo.php",
       "recherches": [
@@ -408,6 +408,142 @@
       ],
       "statut": "a_verifier",
       "note": "Le lien « Site web » de la fiche pointe vers une page Facebook (« Assistance Conseil Prestation »), consultable seulement après connexion : aucun email lisible. Le nom complet du sigle ACP est confirmé par l'adresse de cette page Facebook."
+    },
+    {
+      "nom": "ACT - FI",
+      "sigle": "ACT - FI",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "+221 33 820 76 76",
+      "adresse": "Route Du Méridien Président, Ngor | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "ACT accompagne les petites et moyennes entreprises dans tous leurs projets. Bénéficiez de conseils d’experts en comptabilité et fiscalité.",
+      "fiche_url": "https://www.goafricaonline.com/sn/384223-act-fi-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/384223-act-fi-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+        "Recherche web : \"ACT-FI\" OR \"ACT FI\" Ngor Dakar Sénégal comptabilité fiscalité contact — aucun résultat correspondant",
+        "Recherche web du téléphone : \"33 820 76 76\" Sénégal (et au format +221 33 820 76 76) — aucune page identifiant ce numéro",
+        "Recherche web : \"ACT - FI\" (entre guillemets, seul) — rien hors goafricaonline",
+        "Adresses probables testées : actfi.sn (injoignable), act-fi.sn (injoignable)"
+      ],
+      "statut": "a_verifier",
+      "note": "Sigle très court, aucune page hors annuaire ne cite ce bureau. Ni site ni email."
+    },
+    {
+      "nom": "AD CONSEILS SARL",
+      "sigle": "AD CONSEILS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "b.diagouraga@adconseils.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "+221 77 842 34 02; +221 78 223 71 98",
+      "adresse": "Patte d'oie, Résidence la paix, Lot 6 Bloc C villa 612 Cité Mixta-Africa | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseils en gestion.",
+      "fiche_url": "https://www.goafricaonline.com/sn/384225-ad-conseils-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.onecca.org/fr/annuaire/societes-expertise-comptable/ad-conseils-sarl/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/384225-ad-conseils-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+        "Recherche web : \"AD CONSEILS\" SARL Dakar Sénégal \"Patte d'oie\" contact email",
+        "Page ouverte : https://www.onecca.org/fr/annuaire/societes-expertise-comptable/ad-conseils-sarl/ (annuaire officiel de l'Ordre national des experts-comptables du Sénégal) — « AD Conseils Sarl, Cabinet d'Expertise Comptable », adresse « Cité Mixta - villa 612 C », e-mail b.diagouraga@adconseils.sn, téléphone +221 78 447 74 02",
+        "Site ouvert : https://www.expert-comptable-dakar.sn/ et sa page https://www.expert-comptable-dakar.sn/notre-equipe/ — aucune adresse email publiée",
+        "Recherche web du téléphone : \"77 842 34 02\" et \"78 223 71 98\" (puis au format +221) — aucune page citant ces numéros",
+        "Adresse probable testée : adconseils.sn — le domaine ne sert pas de site web (injoignable en HTTP), il n'est utilisé que pour la messagerie"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée par l'adresse : l'annuaire de l'ONECCA situe AD Conseils Sarl « Cité Mixta - villa 612 C », soit la villa 612 de la Cité Mixta indiquée sur la fiche. Le téléphone de l'ONECCA (+221 78 447 74 02) diffère de ceux de la fiche, gardés tels quels. Adresse email nominative, aucune adresse générique publiée."
+    },
+    {
+      "nom": "ADA CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "+221 77 069 01 38",
+      "adresse": "Sacré coeur 2 N°8632E | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592542-ada-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592542-ada-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+        "Recherche web : \"ADA CONSULTING\" Sénégal Dakar \"Sacré coeur\" contact email — aucun résultat correspondant",
+        "Recherche web du téléphone : \"77 069 01 38\" Sénégal Dakar (et au format +221 77 069 01 38) — aucune page citant ce numéro",
+        "Recherche web : \"ADA CONSULTING\" (entre guillemets, seul) — homonymes hors Sénégal uniquement",
+        "Adresse probable testée : adaconsulting.sn (injoignable)"
+      ],
+      "statut": "a_verifier",
+      "note": "Ne pas confondre avec « Ada Groupe » (adagroupe.com, contact@adagroupe.com, tél. +221 33 825 93 63), seule société de nom voisin trouvée à Dakar : nom, téléphone et adresse différents de la fiche — ni site ni email ne lui sont attribués."
+    },
+    {
+      "nom": "ADEPME (AGENCE DE DEVELOPPEMENT ET D'ENCADREMENT DES PETITES ET MOYENNES ENTREPRISES)",
+      "sigle": "ADEPME",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@adepme.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "+221 33 869 70 70; +221 33 869 70 71",
+      "adresse": "Avenue Cheikh Anta Diop, Rue Léo Frobénius, Immeuble Seydi Djamil, 8ème étage, Fann Résidence | BP 45333 | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://adepme.sn/",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592562-adepme-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://adepme.sn/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592562-adepme-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » -> http://www.adepme.sn)",
+        "Site ouvert : http://www.adepme.sn (redirige vers https://adepme.sn/) — bandeau de contact « contact@adepme.sn (+221) 33 869 70 70 », email également en lien mailto"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : le téléphone affiché sur le site (+221 33 869 70 70) est celui de la fiche. Agence publique d'État d'appui aux PME."
+    },
+    {
+      "nom": "ADEX SENEGAL",
+      "sigle": "ADEX",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "adex@adexsenegalsarl.com",
+        "alassane.diongue@adexsenegalsarl.com",
+        "babacar.ndiaye@adexsenegalsarl.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "+221 33 868 97 81",
+      "adresse": "Sicap Sacré-Cœur 1, villa 8588 1er étage Gauche | Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://adexsenegalsarl.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "ADEX SENEGAL propose des services personnalisés aux acteurs du secteur public et une réponse adaptée aux besoins des clients publics et privés. Nous suscitons et développons les compétences et les aptitudes de votre organisation et nous mettons les nôtres à votre disposition pour ensemble atteindre vos objectifs, avec professionnalisme, dans le respect de l’éthique et de la déontologie de notre métier.",
+      "fiche_url": "https://www.goafricaonline.com/sn/596883-adex-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://adexsenegalsarl.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/596883-adex-senegal (bouton « Site web » -> https://adexsenegalsarl.com/)",
+        "Site ouvert : https://adexsenegalsarl.com/ — email adex@adexsenegalsarl.com",
+        "Page ouverte : https://adexsenegalsarl.com/contact/ — adex@adexsenegalsarl.com",
+        "Page ouverte : https://adexsenegalsarl.com/qui-sommes-nous/ — adex@adexsenegalsarl.com",
+        "Page ouverte : https://adexsenegalsarl.com/equipes/ — adresses nominatives alassane.diongue@adexsenegalsarl.com et babacar.ndiaye@adexsenegalsarl.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Adresse générique du cabinet en premier, suivie des deux adresses nominatives publiées sur la page « Équipes »."
     }
   ]
 }
