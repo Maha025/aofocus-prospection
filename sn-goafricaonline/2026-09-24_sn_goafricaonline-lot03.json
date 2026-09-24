@@ -247,6 +247,255 @@
    ],
    "statut": "a_verifier",
    "note": "Point Com Center (pointcomcenter.sn, Sicap Amitié II) est une autre agence de communication de Dakar : adresse et téléphone différents, homonyme écarté. Aucun email trouvé."
+  },
+  {
+   "nom": "AGENCE DE SUIVI ET DE RECHERCHE EN GESTION D'ENTREPRISE-ASRG",
+   "sigle": "ASRG",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33860205; (+221) 77 634 62 62",
+   "adresse": "VDN liberté 6 extension, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/666092-asrg-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/666092-asrg-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"ASRG\" \"Agence de suivi et de recherche en gestion\" Sénégal Dakar",
+    "Adresse probable testée (aucune réponse) : asrg.sn"
+   ],
+   "statut": "a_verifier",
+   "note": "Le bureau a une seconde fiche goafricaonline en catégorie « Prestation de service » sous le sigle ASRGE (https://www.goafricaonline.com/sn/524281-asrge-prestation-service-dakar-senegal), avec le même téléphone 33 867 02 05 et une adresse voisine (Sacré-Cœur 3 VDN). Aucun email trouvé."
+  },
+  {
+   "nom": "AGIS",
+   "sigle": "AGIS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@agisafrique.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 750 38 18; (+221) 76 188 12 50",
+   "adresse": "Villa N° 16 Mermoz Pyrotechnie, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.agisafrique.com/",
+   "site_source": "recherche web",
+   "specialite": "Cartographie géophysique, localisation de puits d'eau, caractérisation de nappe, suivi de l'eau souterraine, modélisation ; géomatique, géologie, géotechnique, hydrogéologie, BTP.",
+   "fiche_url": "https://www.goafricaonline.com/sn/843267-agis-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.agisafrique.com/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/843267-agis-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"AGIS\" Sénégal Dakar géophysique hydrogéologie \"77 750 38 18\"",
+    "Pages testées : https://agisafrique.com/ et http://agisafrique.com/ (pas de réponse), agiscompagny.com (domaine non résolu)",
+    "Page ouverte : https://www.agisafrique.com/ — email contact@agisafrique.com lu sur la page, avec le téléphone +221 77 750 38 18 et l'adresse « Mermoz pyrotechnie, Dakar - Sénégal »",
+    "Page ouverte : https://afriqmarket.com/entreprises/profil/cabinet-dexpertise-en-geophysique-et-hydrogeologie-avec-african-global-ingenierie-and-services-agis/ — aucun email"
+   ],
+   "statut": "a_verifier",
+   "note": "Nom complet : African Global Ingenierie and Service (AGIS). Identité confirmée : le site affiche le même téléphone (77 750 38 18) et la même adresse (Mermoz Pyrotechnie) que la fiche. L'adresse nomutilisateur@mail.com présente dans le code de la page est un exemple de formulaire, écartée."
+  },
+  {
+   "nom": "AGRO B&S CONSULTING GROUP",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 286 73 39; (+221) 76 282 73 39",
+   "adresse": "-, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Comptabilité, business plan, suivi et conseil, cartographie.",
+   "fiche_url": "https://www.goafricaonline.com/sn/611698-agro-bsconsulting-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/611698-agro-bsconsulting-group-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web », adresse non renseignée)",
+    "Recherche web : \"AGRO B&S CONSULTING\" OR \"Agro BS Consulting\" Sénégal Dakar contact"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucune trace du bureau hors goafricaonline ; les résultats renvoient à d'autres sociétés agro (Agro Business, Smart Agro Consulting). Aucun email trouvé."
+  },
+  {
+   "nom": "ALINIS (ALLIANCE INGENIERIE INFORMATIQUE ET SERVICES)",
+   "sigle": "ALINIS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 842 67 39; (+221) 33 821 55 17",
+   "adresse": "57, Avenue Albert Sarraut, BP 3360, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Conseil, audit et ingénierie informatique : Internet/intranet/extranet, e-commerce, aide à la décision, bases de données.",
+   "fiche_url": "https://www.goafricaonline.com/sn/592551-alinis-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592551-alinis-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"ALINIS\" \"Alliance Ingénierie Informatique et Services\" Sénégal Dakar contact",
+    "Recherche web : \"alinis.sn\" OR \"ALINIS\" Sénégal Dakar informatique email contact",
+    "Pages testées : http://www.alinis.sn/presentation.php , http://alinis.sn/ , https://alinis.sn/ — connexion refusée ou certificat invalide, contenu inaccessible ; alinis.com répond par une erreur 403"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site www.alinis.sn est référencé par les moteurs de recherche et par les annuaires (mêmes téléphone 33 842 67 39 et adresse 57 Avenue Albert Sarraut que la fiche), mais il n'a pas pu être ouvert depuis cette machine : non retenu en site_web faute de contenu vérifié. Aucun email trouvé."
+  },
+  {
+   "nom": "ALIOS FINANCE SENEGAL",
+   "sigle": "ALIOS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "senegal@alios-finance.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 859 00 90; (+221) 33 889 18 80; (+221) 33 889 18 83",
+   "adresse": "Phare Pointe des Almadies Rond-point NGor Almadies Zone 10 - Immeuble ALIOS, BP 23775, Dakar - 32339 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.alios-finance.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "Financement et crédit-bail aux entreprises et aux particuliers (groupe panafricain Alios Finance).",
+   "fiche_url": "https://www.goafricaonline.com/sn/592590-alios-finance-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.alios-finance.com/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592590-alios-finance-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : www.alios-finance.com)",
+    "Page ouverte : https://www.alios-finance.com/ — bloc « Alios Finance Sénégal » avec lien mailto:senegal@alios-finance.com, adresse 1 Rue Amadou Assane Ndoye x Mass Diokhane et fax (221) 33 859 00 90"
+   ],
+   "statut": "a_verifier",
+   "note": "Le fax indiqué sur le site (33 859 00 90) correspond au premier téléphone de la fiche, ce qui confirme l'identité. L'adresse postale du site (1 Rue Amadou Assane Ndoye) diffère de celle de la fiche (Immeuble ALIOS, Almadies). La page fait aussi apparaître, dans le code du formulaire rattaché au Sénégal, les adresses vassidiki.doumbia@, dkasson@ et abdoulaye.ngom@alios-finance.com : rattachement incertain, non retenues."
+  },
+  {
+   "nom": "ALLIANCE AUDIT & CONSEIL",
+   "sigle": "ALLIANCE",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Kalidou Sow",
+   "emails": [
+    "alliance@alliance-ac.net"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 867 18 94",
+   "adresse": "PGHJ+M8H - Sicap-Liberté, Dakar, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Cabinet d'expertise comptable, d'audit et de conseil (inscrit à l'ONECCA).",
+   "fiche_url": "https://www.goafricaonline.com/sn/782918-alliance-audit-conseil",
+   "preuve_url": "https://demo.onecca.org/societes-dexpertise-comptable/alliance-audit-conseils/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782918-alliance-audit-conseil (aucun bouton « Site web »)",
+    "Recherche web : \"ALLIANCE AUDIT\" conseil Dakar Sénégal \"33 867 18 94\" contact",
+    "Page ouverte : https://demo.onecca.org/societes-dexpertise-comptable/ puis la fiche https://demo.onecca.org/societes-dexpertise-comptable/alliance-audit-conseils/ — email alliance@alliance-ac.net lu sur la page, avec le téléphone 33 867 18 94 et le dirigeant KALIDOU SOW",
+    "Adresse probable testée (aucune réponse) : alliance-audit-conseil.com"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité confirmée par le même téléphone (33 867 18 94) sur l'annuaire officiel des sociétés d'expertise comptable (ONECCA). L'adresse y est Mermoz VDN, villa n° 7284, différente du repère Sicap-Liberté de la fiche goafricaonline. Le domaine de l'email (alliance-ac.net) n'a pas été ouvert."
+  },
+  {
+   "nom": "ALLIANCE CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 551 85 21",
+   "adresse": "34, Liberté 6 extension, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480076-alliance-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480076-alliance-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"ALLIANCE CONSULTING\" Sénégal Dakar \"Liberté 6\" OR \"77 551 85 21\"",
+    "Adresse probable testée (aucune réponse) : allianceconsulting.sn"
+   ],
+   "statut": "a_verifier",
+   "note": "À distinguer d'ALLIANCE AUDIT & CONSEIL (fiche précédente), téléphone et adresse différents. Aucune trace hors goafricaonline ; aucun email trouvé."
+  },
+  {
+   "nom": "ALOHA CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 308 30 20",
+   "adresse": "Fahn Hock, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592610-aloha-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592610-aloha-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"ALOHA CONSULTING\" Sénégal Dakar \"77 308 30 20\"",
+    "Adresse probable testée (aucune réponse) : alohaconsulting.sn"
+   ],
+   "statut": "a_verifier",
+   "note": "Le bureau a une seconde fiche goafricaonline en catégorie « Agences de voyage » (https://www.goafricaonline.com/sn/131172-aloha-consulting-dakar-senegal) ; activités déclarées : publicité, conseil en gestion, information touristique et voyages. Aucun email trouvé sur les annuaires consultés."
+  },
+  {
+   "nom": "ALS CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 822 99 18",
+   "adresse": "115, Rue Carnot, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592554-als-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592554-als-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"ALS CONSULTING\" Dakar Sénégal \"Rue Carnot\" contact email",
+    "Adresse probable testée (aucune réponse) : alsconsulting.sn"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucune trace du bureau hors goafricaonline ; les résultats renvoient à d'autres entreprises de la rue Carnot ou à « AS Consulting », nom différent. Aucun email trouvé."
+  },
+  {
+   "nom": "ALYSO CONSULTING",
+   "sigle": "ALYSO",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "info@alyso.es"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 821 84 71; (+221) 77 236 17 29",
+   "adresse": "1, Rue Mohamed V, 2ème étage droite, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.alyso.es/fr/accueil/",
+   "site_source": "fiche goafrica",
+   "specialite": "Accompagnement des entreprises et organismes publics pour leur implantation et leur consolidation en Afrique de l'Ouest, avec présence permanente au Sénégal et délégations en Espagne et au Portugal.",
+   "fiche_url": "https://www.goafricaonline.com/sn/592620-alyso-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.alyso.es/fr/contact/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592620-alyso-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : www.alyso.es/fr/accueil/)",
+    "Pages ouvertes : https://www.alyso.es/fr/accueil/ et https://www.alyso.es/fr/contact/ — email info@alyso.es lu sur les deux pages (lien mailto)"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site, désigné par la fiche du bureau lui-même, décrit un cabinet à « présence permanente au Sénégal » accompagnant l'implantation en Afrique de l'Ouest, ce qui concorde avec le bureau ; il ne republie toutefois ni l'adresse de Dakar ni les téléphones de la fiche. info@alyso.es est l'adresse générique du cabinet."
   }
  ]
 }
