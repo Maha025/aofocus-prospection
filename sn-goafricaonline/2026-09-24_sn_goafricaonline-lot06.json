@@ -369,6 +369,125 @@
    ],
    "statut": "a_verifier",
    "note": "Rattachement fondé sur le sigle BEIEC (rare), l'activité (ingénierie environnementale) et la ville (Dakar) : le site ne republie ni l'adresse de Point E ni les téléphones de la fiche, à confirmer avant prospection. Le fondateur présenté sur le site est Cheikh Ndiaye Sylla, ancien directeur de cabinet du ministère de l'Environnement et ancien directeur de la DEEC. Une seconde fiche goafricaonline « BEIEC » (https://www.goafricaonline.com/sn/592591-beiec-bureaux-etudes-conseils-consultants-dakar-senegal) reste à traiter au prochain passage."
+  },
+  {
+   "nom": "BEIEC SUARL",
+   "sigle": "BEIEC",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@beiec.org"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 459 33 70",
+   "adresse": "Hann Mariste 2 villa R152, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://beiec.org/",
+   "site_source": "fiche goafrica",
+   "specialite": "Ingénierie environnementale et développement durable.",
+   "fiche_url": "https://www.goafricaonline.com/sn/592591-beiec-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://beiec.org/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592591-beiec-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : beiec.org)",
+    "Pages ouvertes : https://beiec.org/ et https://beiec.org/le-bureau/ — adresse contact@beiec.org lue sur les deux pages"
+   ],
+   "statut": "a_verifier",
+   "note": "Cette fiche désigne elle-même beiec.org comme site du bureau, ce qui confirme le rattachement fait pour la fiche « BEIEC ENVIRONNEMENT » du même lot. Les deux fiches portent des adresses (Hann Mariste 2 / Point E) et des téléphones différents : il s'agit soit de deux implantations, soit d'une fiche périmée."
+  },
+  {
+   "nom": "BELEL GROUP",
+   "sigle": "BELEL",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "info@belelgroup.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 868 21 91",
+   "adresse": "Lot N°4 Cite Coopérative des Douanes, 3éme Etage, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://belelgroup.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592657-belel-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://belelgroup.com/contact/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592657-belel-group-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : belelgroup.com)",
+    "Pages ouvertes : https://belelgroup.com/ (aucune adresse sur l'accueil) et https://belelgroup.com/contact/ — adresse info@belelgroup.com lue sur la page Contact"
+   ],
+   "statut": "a_verifier",
+   "note": "Adresse générique du groupe."
+  },
+  {
+   "nom": "BEMCD-SOLUTION (BUREAU D'ETUDES MANAGERIALES ET CONSEIL EN DEVELOPPEMENT)",
+   "sigle": "BEMCD",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 236 58 98",
+   "adresse": "910, HLM Grand Médine, BP 11906, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480026-bemcd-solution-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480026-bemcd-solution-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : www.bemcd.baobabtic.net)",
+    "Page testée : http://www.bemcd.baobabtic.net/ — aucune réponse du serveur"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site indiqué sur la fiche était hébergé sur la plateforme baobabtic.net et ne répond plus : non retenu. Aucun email trouvé."
+  },
+  {
+   "nom": "BENTER CONSULTING (BENTER CONSULTING)",
+   "sigle": "BENTER",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 522 02 75",
+   "adresse": "Rue 11 X 12 Médina, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480075-benter-consulting-benter-consulting-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480075-benter-consulting-benter-consulting-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"BENTER CONSULTING\" Sénégal Dakar Médina contact email"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucune trace du bureau hors goafricaonline ; aucun email trouvé."
+  },
+  {
+   "nom": "BERKSHIRE LOGISTICS",
+   "sigle": "BK LOGISTICS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 784 21 75",
+   "adresse": "11 rue Malan X, Bd El Hadj Djily Mbaye - Dakar-Plateau, Dakar, Dakar - 35169 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/782851-berkshire-logistics",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782851-berkshire-logistics (bouton « Site web » : bklogisticssn.business.site et www.berkshire-logistics.com)",
+    "Pages testées : https://www.berkshire-logistics.com/ — page de parking du domaine, sans contenu ; https://bklogisticssn.business.site/ — erreur 404 de Google (les sites « business.site » ont été fermés)"
+   ],
+   "statut": "a_verifier",
+   "note": "Les deux adresses de site indiquées sur la fiche sont hors service (domaine parqué et page Google Business supprimée) : aucun site retenu. Aucun email trouvé."
   }
  ]
 }
