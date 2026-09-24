@@ -1,0 +1,253 @@
+{
+ "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN&p=3",
+ "_extrait_le": "2026-09-24",
+ "_agent": "routine prospection goafrica SN",
+ "_pays": "SN",
+ "_pages": "p=3",
+ "_methode": "Début de la page p=3 de l'annuaire ; pour chaque bureau, fiche goafricaonline puis recherche de l'email sur son site (accueil, contact, pied de page, mentions légales) et, à défaut, recherches web sur le nom, le sigle, le téléphone et les annuaires professionnels, puis test des adresses de site probables.",
+ "bureaux": [
+  {
+   "nom": "AM CONSEILS",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 439 86 33",
+   "adresse": "162, Boulevard de Gaulle, BP 35775, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480017-am-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480017-am-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"AM CONSEILS\" Dakar Sénégal \"Boulevard de Gaulle\" OR \"77 439 86 33\""
+   ],
+   "statut": "a_verifier",
+   "note": "Aucune trace du bureau hors goafricaonline ; AM-CO Consulting & Services, seul résultat proche, est une autre société. Aucun email trouvé."
+  },
+  {
+   "nom": "AMC (AFRIQUE MANAGEMENT CONSEIL)",
+   "sigle": "AMC",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "secretariat@afriquemanagement.com",
+    "secretariat@afriquemanagementconseil.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 859 75 00",
+   "adresse": "Sicap Amitie 3 Villa N°4435, BP 15708, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.afriquemanagementconseil.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/384304-amc-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.afriquemanagementconseil.com/nous-contacter/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/384304-amc-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : www.afriquemanagementconseil.com)",
+    "Page ouverte : https://www.afriquemanagementconseil.com/nous-contacter/ — adresse secretariat@afriquemanagement.com affichée et en lien mailto ; secretariat@afriquemanagementconseil.com également présente dans le code de la même page"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité confirmée : la page Contact affiche la même adresse (Sicap Amitié 3 n° 4435, BP 15708) et le même téléphone (+221 33 859 75 00) que la fiche. L'adresse affichée aux visiteurs est secretariat@afriquemanagement.com (domaine différent de celui du site) ; secretariat@afriquemanagementconseil.com n'apparaît que dans le code de la page, elle est conservée en second."
+  },
+  {
+   "nom": "AMINE GROUP",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "amine@amine-group.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+216) 25 29 64 00",
+   "adresse": "-, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.amine-group.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "Formation et conseil en affaires.",
+   "fiche_url": "https://www.goafricaonline.com/sn/1196629-amine-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.amine-group.com/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1196629-amine-group-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : www.amine-group.com)",
+    "Page ouverte : https://www.amine-group.com/ — email amine@amine-group.com lu sur la page"
+   ],
+   "statut": "a_verifier",
+   "note": "La fiche est classée au Sénégal mais ne donne aucune adresse et affiche un téléphone tunisien (+216 25 29 64 00) : implantation sénégalaise à vérifier avant toute prospection."
+  },
+  {
+   "nom": "AMSO",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 78 759 50 77",
+   "adresse": "-, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Plateforme de gestion de flotte : centralisation des informations, rappels, détection de collision, données OBD.",
+   "fiche_url": "https://www.goafricaonline.com/sn/1198732-amso-bureaux-etues-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1198732-amso-bureaux-etues-conseils-consultants-dakar-senegal (bouton « Site web » : www.amsocare.com/amsobrochure)",
+    "Pages testées : https://www.amsocare.com/amsobrochure et https://www.amsocare.com/ — le domaine ne renvoie plus qu'une page « Squarespace - Website Expired »",
+    "Recherche web : \"AMSO\" Sénégal Dakar gestion de flotte amsocare contact"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site amsocare.com indiqué sur la fiche a expiré (page Squarespace « Website Expired ») : non retenu. Aucun email trouvé."
+  },
+  {
+   "nom": "ANC (NEW AFRICA CONSULTING)",
+   "sigle": "ANC",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 827 11 88; (+221) 77 449 81 22",
+   "adresse": "42, BandeVerte VDN, en face SIPRES Mourtada 2, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/475807-anc-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/475807-anc-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : www.newafricaconsulting.com)",
+    "Pages testées : https://www.newafricaconsulting.com/ , https://www.newafricaconsulting.com/contact_us.html , https://newafricaconsulting.com/ , http://newafricaconsulting.com/ — le domaine ne se résout plus",
+    "Recherche web : \"New Africa Consulting\" ANC Sénégal Dakar VDN contact email",
+    "Page testée : https://www.facebook.com/NewAfricaConsulting/ — contenu réservé aux comptes connectés, aucun email"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site newafricaconsulting.com de la fiche n'existe plus (domaine non résolu) ; ses pages restent indexées. Une adresse contact@newafricaconsulting.com est annoncée par des agrégateurs de contacts commerciaux (ZoomInfo, Crunchbase) mais n'a pu être lue sur aucune page accessible : non retenue."
+  },
+  {
+   "nom": "AND CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 865 92 98; (+221) 33 865 92 98",
+   "adresse": "Non loin du Centre de lavage Les maristes - Hann Bel-Air, Dakar, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592529-and-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592529-and-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : and-consulting.business.site)",
+    "Page testée : https://and-consulting.business.site/ — erreur 404 de Google (les sites « business.site » ont été fermés)",
+    "Recherche web : \"AND CONSULTING\" Sénégal Dakar \"Hann\" OR \"33 865 92 98\""
+   ],
+   "statut": "a_verifier",
+   "note": "Le site indiqué sur la fiche était une page Google Business Profile, service arrêté : plus aucun contenu. Aucun email trouvé."
+  },
+  {
+   "nom": "ANGEL GROUP SERVICES COMMERCE INDUSTRIES",
+   "sigle": "ANGEL GROUP",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 848 22 00; (+221) 33 848 22 00",
+   "adresse": "Hann Maristes II n° 67 RB, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480034-angel-group-services-commerce-industries-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480034-angel-group-services-commerce-industries-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"ANGEL GROUP\" Sénégal Dakar \"Hann Maristes\" \"33 848 22 00\""
+   ],
+   "statut": "a_verifier",
+   "note": "Les résultats renvoient à l'Agence Immobilière Angel (autre entreprise, autre téléphone) : homonyme écarté. Aucun email trouvé."
+  },
+  {
+   "nom": "ANOD CONSULTING ET TRADING",
+   "sigle": "ANOD",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 865 24 38",
+   "adresse": "5, BD du Sud x rue 1 Point E, BP 15777, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592691-anod-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592691-anod-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"ANOD CONSULTING\" Sénégal Dakar \"Point E\" contact"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucune trace du bureau hors goafricaonline ; aucun email trouvé."
+  },
+  {
+   "nom": "APAPS",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 553 21 42",
+   "adresse": "Ouakam, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/642387-apaps-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/642387-apaps-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"APAPS\" Sénégal Dakar Ouakam bureau d'études conseil"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucune trace du bureau hors goafricaonline ; le sigle renvoie à d'autres structures (APS, APAVE). Aucun email trouvé."
+  },
+  {
+   "nom": "APAVE SAHEL",
+   "sigle": "APAVE",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "apave.sahel@apave.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 860 73 02; (+221) 33 860 73 01",
+   "adresse": "Cité Sipres Fort B lot n°63 Route du Camp Pénal - Quartier Cité Sipres, BP 6334, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://africa.apave.com/en/Apave-in-Africa/Our-locations-and-contacts-in-Africa/Apave-Senegal",
+   "site_source": "recherche web",
+   "specialite": "Inspection, contrôle technique, essais et conseil en maîtrise des risques ; filiale sénégalaise du groupe Apave couvrant huit pays de la sous-région.",
+   "fiche_url": "https://www.goafricaonline.com/sn/479948-apave-sahel-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.nexpages.com/phonebook/apave-sahel-senegal-4916",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/479948-apave-sahel-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"APAVE SAHEL\" Sénégal Dakar contact email",
+    "Page ouverte : https://www.nexpages.com/phonebook/apave-sahel-senegal-4916 — email apave.sahel@apave.com lu sur la page, avec la même adresse que la fiche (Cité Sipres Fort B lot n°63, BP 6334)",
+    "Pages ouvertes : https://africa.apave.com/en/Apave-in-Africa/Our-locations-and-contacts-in-Africa/Apave-Senegal et https://www.eurocham.sn/annuaire-des-membres/apave-sahel-sa/ — aucune adresse email du bureau (seule celle d'Eurocham y figure)"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité confirmée par l'adresse postale identique à la fiche sur l'annuaire nexpages. Raison sociale complète : APAVE SAHEL SA (membre d'Eurocham Sénégal). Le lien site_web est la page « Apave Senegal » du site du groupe, faute de site propre à la filiale."
+  }
+ ]
+}
