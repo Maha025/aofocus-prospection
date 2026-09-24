@@ -249,6 +249,126 @@
    ],
    "statut": "a_verifier",
    "note": "Aucune trace du bureau hors goafricaonline ; les résultats renvoient à d'autres structures aéronautiques de Dakar (ESA, Dakar Air Academy). Aucun email trouvé."
+  },
+  {
+   "nom": "BARHAM INTERNATIONAL CONSULTING - BISCO",
+   "sigle": "BISCO",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 864 07 43; (+221) 77 569 31 05",
+   "adresse": "Rue 13 Castors, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/653955-bisco-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/653955-bisco-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Adresses probables testées : bisco.sn (aucune réponse) et https://barham-consulting.com/ (le domaine ne sert plus qu'une page de liens publicitaires, sans rapport avec le bureau)"
+   ],
+   "statut": "a_verifier",
+   "note": "Le domaine barham-consulting.com a été détourné en page de liens : identité non confirmée, non retenu. Aucun email trouvé."
+  },
+  {
+   "nom": "BATIR (BUREAU D'ETUDES BATIR)",
+   "sigle": "BATIR",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 822 96 29; (+221) 33 821 94 24",
+   "adresse": "45 Boulevard Djily Mbaye, BP 21555, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/384986-batir-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/384986-batir-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"BATIR\" bureau d'études Dakar Sénégal \"Djily Mbaye\" contact email",
+    "Adresse probable testée (aucune réponse) : bati-r.sn"
+   ],
+   "statut": "a_verifier",
+   "note": "Nom très courant, qui rend les recherches peu discriminantes : aucun résultat ne correspond au bureau. Aucun email trouvé."
+  },
+  {
+   "nom": "BCS (BUSINES CONSULTING SENEGAL)",
+   "sigle": "BCS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 899 72 80; (+221) 77 407 85 46; (+221) 77 817 66 98",
+   "adresse": "Villa 6750, Sicap Liberté 6, BP 22555, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Solutions informatiques : système d'affichage dynamique et contextuel pour la diffusion de contenu multimédia à distance.",
+   "fiche_url": "https://www.goafricaonline.com/sn/592498-busines-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592498-busines-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Adresse probable testée (aucune réponse) : bcs.sn"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucune trace du bureau hors goafricaonline ; aucun email trouvé."
+  },
+  {
+   "nom": "BDA (BA DJIBRIL ET ASSOCIES)",
+   "sigle": "BDA",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 822 95 00; (+221) 33 822 47 00",
+   "adresse": "12, Rue Mohamed V, BP 1529, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/479993-bda-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/479993-bda-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : www.institutbda.com)",
+    "Pages testées : https://www.institutbda.com/ et https://www.institutbda.com/contact — aucune réponse du serveur"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site institutbda.com indiqué sur la fiche ne répond pas : non retenu. Aucun email trouvé."
+  },
+  {
+   "nom": "BEIEC ENVIRONNEMENT",
+   "sigle": "BEIEC",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Cheikh Ndiaye Sylla",
+   "emails": [
+    "contact@beiec.org"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 832 91 11; (+221) 77 653 26 14",
+   "adresse": "Rue 5 avenue Birago Diop immeuble Davenne Point E, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://beiec.org/",
+   "site_source": "recherche web",
+   "specialite": "Ingénierie environnementale et développement durable : modélisation des rejets liquides et gazeux, études de projets pour collectivités et industries, mise en conformité réglementaire, coordination de projets.",
+   "fiche_url": "https://www.goafricaonline.com/sn/592682-beiec-environnement-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://beiec.org/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592682-beiec-environnement-bureaux-etudes-conseils-consultants-dakar-senegal (aucun bouton « Site web »)",
+    "Recherche web : \"BEIEC\" Sénégal Dakar \"Point E\" environnement bureau études contact email",
+    "Pages ouvertes : https://beiec.org/ et https://beiec.org/le-bureau/ — adresse contact@beiec.org lue sur les deux pages",
+    "Adresses probables testées : beiec.sn (aucune réponse) ; https://beiec.com/ appartient à une société chinoise sans rapport, écartée"
+   ],
+   "statut": "a_verifier",
+   "note": "Rattachement fondé sur le sigle BEIEC (rare), l'activité (ingénierie environnementale) et la ville (Dakar) : le site ne republie ni l'adresse de Point E ni les téléphones de la fiche, à confirmer avant prospection. Le fondateur présenté sur le site est Cheikh Ndiaye Sylla, ancien directeur de cabinet du ministère de l'Environnement et ancien directeur de la DEEC. Une seconde fiche goafricaonline « BEIEC » (https://www.goafricaonline.com/sn/592591-beiec-bureaux-etudes-conseils-consultants-dakar-senegal) reste à traiter au prochain passage."
   }
  ]
 }
