@@ -252,6 +252,62 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email lu. La société a bien un site, alinis.sn, mais il n'est pas consultable depuis cet environnement : sa redirection HTTPS présente un certificat qui ne correspond pas au domaine, et la vérification TLS n'a pas été contournée. Un annuaire cite aussi un domaine alinis.com, protégé par un filtre anti-robot ; son rattachement à la société sénégalaise n'a pas pu être vérifié."
+    },
+    {
+      "nom": "ALLIANCE CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 551 85 21",
+      "adresse": "34, Liberté 6 extension, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480076-alliance-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480076-alliance-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : ALLIANCE CONSULTING Sénégal Liberté 6 extension Dakar — aucun résultat sur ce cabinet ; les réponses portent sur d'autres cabinets du même quartier (Genius Audit & Conseil, AZ Consulting, SIAT Sénégal)",
+        "R2 : \"Alliance Consulting\" Dakar email contact Sénégal — aucun résultat correspondant ; les adresses trouvées appartiennent à Alliance Energie SARL et à Allianz Sénégal",
+        "R3 : \"77 551 85 21\" OR \"+221 77 551 85 21\" — aucune page citant ce numéro",
+        "R4 : \"ALLIANCE CONSULTING\" Sénégal — uniquement des cabinets homonymes étrangers (Alliance Consulting en Suisse, Alliance Consulting & Digital Solutions au Nigeria, Alliance Conseil)",
+        "Pages ouvertes : https://alliance-consulting.com — page de revente de noms de domaine, sans rapport",
+        "Adresses probables testées : allianceconsulting.sn, alliance-consulting.sn (ne résolvent pas), allianceconsulting.com (403, contenu non lisible) et alliance-consulting.com (parking de domaines)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. Le nom est très courant : les cabinets « Alliance Consulting » repérés sont étrangers et aucun ne correspond à l'adresse ni au téléphone de la fiche."
+    },
+    {
+      "nom": "ALOHA CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 308 30 20",
+      "adresse": "Fahn Hock, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Consultant en gestion ; les annuaires lui rattachent aussi des activités de publicité, d'information touristique et d'agence de voyages.",
+      "fiche_url": "https://www.goafricaonline.com/sn/592610-aloha-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592610-aloha-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », fiche non revendiquée",
+        "R1 : ALOHA CONSULTING Sénégal Dakar consultant en gestion — fiches snyello.com, africalocalpages.com et une seconde fiche goafricaonline sous la rubrique « Agences de voyage » (https://www.goafricaonline.com/sn/131172-aloha-consulting-dakar-senegal) ; aucune adresse email",
+        "R2 : \"Aloha Consulting\" Dakar email contact — aucune adresse email pour l'entité dakaroise ; les résultats renvoient à des cabinets américains homonymes (Aloha Consulting Group, Aloha Consulting LLC, Aloha Hospitality Consulting)",
+        "R3 : \"77 308 30 20\" OR \"+221 77 308 30 20\" — aucune page citant ce numéro avec une adresse email",
+        "R4 : \"ALOHA CONSULTING\" Sénégal agence voyage Dakar — mêmes fiches d'annuaires, toujours sans email",
+        "Pages ouvertes : http://fr.snyello.com/company/11732/Aloha_Consulting et http://www.africalocalpages.com/doctors_/369391/aloha-consulting — aucune adresse email lisible ; https://alohaconsulting.com — site « Coming Soon » en construction, sans mention du Sénégal",
+        "Adresses probables testées : alohaconsulting.sn, aloha-consulting.sn, aloha-consulting.com (ne résolvent pas) et alohaconsulting.com (page en construction, identité non confirmée)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. Le domaine alohaconsulting.com affiche une page en construction sans aucun élément d'identification sénégalais : il n'est pas attribué à ce cabinet. Plusieurs cabinets américains portent le même nom."
     }
   ]
 }
