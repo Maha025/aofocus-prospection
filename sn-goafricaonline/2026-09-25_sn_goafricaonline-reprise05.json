@@ -154,6 +154,66 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email attribué, par doute sérieux sur l'identité : la fiche donne une adresse au 54 Rue Carnot (Dakar-Plateau), un mobile et un lien vers un profil LinkedIn personnel, alors que l'« Africa Consultants International » connue en ligne est l'ONG américaine ACI / Baobab Center, installée à Dakar-Fann, dont le site (devenu Centre Baobab International) affiche un autre téléphone et l'adresse senegal@centrebaobab.org : rien ne permet de rattacher cette adresse à la fiche, elle n'est donc pas reprise. Deux autres « ACI » sénégalais (aci.sn, acisenegal.com) sont également écartés. Seule coordonnée : le mobile de la fiche."
+    },
+    {
+      "nom": "Agence de Préinscription à Dakar",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "concoursnafrique@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 689 18 36",
+      "adresse": "Nord Foire Azurs Lot 92-93 - Yoff, Dakar, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://concoursn.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Plateforme et agence Concoursn Afrique : préinscriptions universitaires (Canada, États-Unis, France), bourses d'études (Maroc, Sénégal), concours et recrutements, stages, formations professionnelles et mobilité internationale",
+      "fiche_url": "https://www.goafricaonline.com/sn/782848-agence-de-preinscription-a-dakar",
+      "preuve_url": "https://concoursn.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782848-agence-de-preinscription-a-dakar (bouton « Site web » : concoursn.com/preinscription-et-bourses-de-concoursn)",
+        "Page du site indiquée par la fiche ouverte (https://concoursn.com/preinscription-et-bourses-de-concoursn) : structure « Concoursn Afrique », téléphone +221 770989918, adresse « Sacre Coeur 3 extension, VDN Dakar », groupe WhatsApp ; l'adresse email y est masquée par la protection anti-collecte Cloudflare (data-cfemail), non décodée",
+        "Accueil du site ouvert (https://concoursn.com/) : les données structurées schema.org publiées par le site donnent \"email\": \"concoursnafrique@gmail.com\" et \"telephone\": \"+221776891836\", ce dernier identique au téléphone de la fiche — adresse retenue, lue sur cette page",
+        "Autres pages du site ouvertes (bourse-detude-au-maroc, bourses-detudes-au-senegal) : seules adresses visibles, celles laissées par des visiteurs dans les commentaires — écartées",
+        "R1 : \"Agence de Préinscription\" Dakar Nord Foire Azurs Yoff Sénégal — reprise d'annuaire https://sn.africabz.com/dakar/agence-de-preinscription-a-dakar-383781 (mêmes adresse et téléphone) ; page non lisible (HTTP 403)",
+        "R2 : \"Concoursn\" Dakar email contact agence préinscription bourses — pages du site concoursn.com et la fiche africabz ; adresses complémentaires citées : Nord Foire Azurs lot 92-93 près du restaurant Yum Yum, Sacré-Coeur 3 (10562B, derrière les Résidences Mamounes, VDN) et Cité Keur Gorgui, Résidence Alima",
+        "R3 : \"77 689 18 36\" OR \"776891836\" — aucune autre page citant ce numéro",
+        "R4 : \"Agence de Préinscription à Dakar\" — la fiche africabz et d'autres agences de préinscription dakaroises distinctes (Agence de Pré-inscription Sénégalaise, Groupe 2IJ Consulting, CIO Sénégal, SoluEtude), dont aucune coordonnée n'est reprise",
+        "Adresses probables non nécessaires : le site officiel est connu et confirmé par la fiche (concoursn.com)"
+      ],
+      "statut": "a_verifier",
+      "note": "Email trouvé : concoursnafrique@gmail.com, lu dans les données structurées publiées par le site concoursn.com sur sa page d'accueil, où il est associé au téléphone +221 776891836 — exactement celui de la fiche, ce qui confirme l'identité. Sur la page de préinscription indiquée par la fiche, l'adresse est masquée par la protection Cloudflare et n'a pas été décodée. Le site mentionne aussi un second numéro (+221 77 098 99 18) et plusieurs adresses (Nord Foire Azurs lot 92-93, Sacré-Coeur 3 VDN, Cité Keur Gorgui)."
+    },
+    {
+      "nom": "Alix Corporation",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "alixboya@alixcorp.ovh",
+        "alixcorp19@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 78 152 02 25",
+      "adresse": "Sacré coeur III Bâtiment ecobank 3ème niveau, Dakar - Mermoz Sacre-coeur, 10300, Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://alixcorporation.com/",
+      "site_source": "adresse probable vérifiée",
+      "specialite": "Entreprise individuelle sénégalaise (RC N° SN DKR 2019 A 28483) : conseil en import-export, gestion de la relation client (avant-vente, après-vente, tunnel de vente) et négoce de produits agricoles et agroalimentaires",
+      "fiche_url": "https://www.goafricaonline.com/sn/782928-alix-corporation",
+      "preuve_url": "https://alixcorporation.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782928-alix-corporation (bouton « Site web » : www.alixcorporation.net ; horaires lun-ven 8h-17h30, sam 8h-14h30 ; comptes Facebook et Instagram @alix_corporation)",
+        "Site indiqué par la fiche : alixcorporation.net et www.alixcorporation.net ne résolvent pas (ni en http ni en https) — domaine abandonné, aucune page lisible",
+        "Adresses probables testées : alixcorporation.sn — ne résout pas ; alixcorporation.com — résout et sert le site « Alix Corporation »",
+        "Site alixcorporation.com ouvert (accueil, sections About et Contact Us) : identité confirmée — « Alix Corporation is a Senegalese sole proprietorship registered under N° SN DKR 2019 A 28483 » et bloc de contact « Mail: alixboya@alixcorp.ovh | alixcorp19@gmail.com — Phone: 00221 781520225 — Rue sc Sacré Coeur III, Dakar Sénégal », soit exactement le téléphone et l'adresse de la fiche ; les deux adresses email y sont lues telles quelles"
+      ],
+      "statut": "a_verifier",
+      "note": "Deux emails trouvés sur le site de l'entreprise, dont l'identité est confirmée par le téléphone (00221 78 152 02 25) et l'adresse (Rue SC Sacré-Coeur III, Dakar) identiques à la fiche. Le site indiqué par la fiche (alixcorporation.net) n'existe plus ; le site actif est alixcorporation.com, retenu comme adresse probable vérifiée. Aucune des deux adresses n'est générique : alixboya@alixcorp.ovh (domaine propre) et alixcorp19@gmail.com sont conservées dans l'ordre du site."
     }
   ]
 }
