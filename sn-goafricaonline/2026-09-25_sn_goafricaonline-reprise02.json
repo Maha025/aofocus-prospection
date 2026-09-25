@@ -362,6 +362,63 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email ni site trouvé. Les domaines am-conseils.com, a-mconseils.fr et amconseils.com appartiennent à des cabinets français homonymes, sans lien avec ce bureau de Dakar : écartés. L'adresse de la fiche renvoie au boulevard de Gaulle, rebaptisé boulevard Mamadou Dia en 2025."
+    },
+    {
+      "nom": "AMSO",
+      "sigle": "AMSO (Africa Mobility Solutions)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Amadou Mbodj (fondateur, d'après la presse spécialisée et son profil professionnel)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 759 50 77",
+      "adresse": "Dakar - Sénégal (aucune adresse précise sur la fiche)",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Mobilité intelligente et gestion de flotte : suivi de l'entretien des véhicules, diagnostic connecté (OBD), calcul des coûts et optimisation de flotte, via la solution AMSO Care.",
+      "fiche_url": "https://www.goafricaonline.com/sn/1198732-amso-bureaux-etues-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1198732-amso-bureaux-etues-conseils-consultants-dakar-senegal (bouton « Site web » : www.amsocare.com/amsobrochure)",
+        "Site de la fiche ouvert : https://www.amsocare.com/amsobrochure, https://www.amsocare.com/ et https://www.amsocare.com/contact — toutes renvoient « Squarespace - Website Expired » (HTTP 404) : site expiré, aucun contenu",
+        "R1 : AMSO Africa Mobility Solutions Sénégal gestion de flotte — articles AfricArena et Managers.tn, profils LinkedIn, fiche EuroQuity ; aucune adresse email",
+        "R2 : \"Africa Mobility Solutions\" OR \"AMSO\" Dakar email contact — un extrait de la fiche Google Play de l'application AMSO Care cite une adresse de contact et une adresse postale (SICAP Liberté 3 villa 1899, tél. +221 78 388 03 46), mais la page https://play.google.com/store/apps/details?id=com.amsocare&hl=en_US répond désormais 404 : l'adresse n'a pas pu être lue sur une page, elle n'est donc pas retenue",
+        "R3 : \"78 759 50 77\" OR \"+221 78 759 50 77\" — aucune page citant ce numéro",
+        "R4 : \"AMSO\" Sénégal startup mobilité Dakar — mêmes sources ; attention aux homonymes : « Africa Mobility Solutions » existe aussi en Afrique du Sud et au Moyen-Orient (africa-mobility-solutions.com), sans lien établi avec la société dakaroise",
+        "Pages ouvertes : https://www.euroquity.com/fr/societe/africa-mobility-solutions — la présentation confirme une société sénégalaise basée à Dakar, mais les coordonnées sont réservées aux membres inscrits (compte non créé)",
+        "Adresses probables testées : amobilitysolutions.com, amso.sn, amsocare.sn — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email lu sur une page : le site indiqué par la fiche (amsocare.com) est expiré, la fiche Google Play de l'application AMSO Care a disparu (404) et EuroQuity réserve les coordonnées à ses membres. Un extrait de recherche mentionne une adresse en @amobilitysolutions.com et un autre numéro (+221 78 388 03 46) ; faute de page consultable, rien n'est repris, aucune adresse n'étant reconstituée. Des sociétés du même nom existent en Afrique du Sud et au Moyen-Orient."
+    },
+    {
+      "nom": "ANC (NEW AFRICA CONSULTING)",
+      "sigle": "ANC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 11 88 / (+221) 77 449 81 22",
+      "adresse": "42, Bande Verte VDN, en face SIPRES Mourtada 2, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil aux entreprises et aux organisations en Afrique : montage de projets, systèmes de gestion et recherche de financements (d'après les fiches d'entreprises).",
+      "fiche_url": "https://www.goafricaonline.com/sn/475807-anc-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/475807-anc-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : www.newafricaconsulting.com)",
+        "Site de la fiche : tentatives d'ouverture de https://www.newafricaconsulting.com/, https://www.newafricaconsulting.com/contact_us.html, http://newafricaconsulting.com/contact_us.html et https://newafricaconsulting.com/contact_us.html — le domaine ne résout pas depuis cet environnement (erreurs DNS et 502 du proxy), aucune page n'a pu être lue",
+        "R1 : \"New Africa Consulting\" ANC Sénégal Dakar VDN — fiches ZoomInfo, Crunchbase, LinkedIn, Facebook ; l'adresse « 42 Bande Verte VDN-Sud Foire » et le numéro +221 33 827 11 88 concordent avec la fiche",
+        "R2 : \"New Africa Consulting\" Dakar email contact — l'extrait de la page contact du cabinet cite une adresse générique en @newafricaconsulting.com avec l'adresse postale et les deux numéros de la fiche ; la page n'étant pas accessible, l'adresse n'est pas reprise (voir note)",
+        "R3 : \"33 827 11 88\" OR \"77 449 81 22\" — couvert par R1 et R2 : les deux numéros ne ressortent que sur les fiches d'entreprises citées, sans adresse email lisible",
+        "R4 : \"NEW AFRICA CONSULTING\" — le cabinet dakarois, plus un homonyme sud-africain (newafrica.co.za) sans rapport",
+        "Adresses probables : le domaine du cabinet étant connu (newafricaconsulting.com), aucune variante supplémentaire n'a été testée ; ce domaine ne résout pas actuellement"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu faute d'avoir pu lire une page : le domaine newafricaconsulting.com ne résout pas depuis cet environnement, alors que sa page contact_us.html est encore indexée et qu'un extrait de recherche y cite une adresse générique contact@ ainsi que l'adresse postale et les deux téléphones de la fiche. À revérifier au prochain passage : si le site redevient accessible, l'adresse devra être lue sur https://www.newafricaconsulting.com/contact_us.html avant d'être enregistrée. Un cabinet sud-africain homonyme (newafrica.co.za) est sans lien."
     }
   ]
 }
