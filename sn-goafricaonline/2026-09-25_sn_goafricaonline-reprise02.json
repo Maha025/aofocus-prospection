@@ -308,6 +308,60 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email ni site trouvé. Le domaine alohaconsulting.com affiche une page en construction sans aucun élément d'identification sénégalais : il n'est pas attribué à ce cabinet. Plusieurs cabinets américains portent le même nom."
+    },
+    {
+      "nom": "ALS CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 822 99 18",
+      "adresse": "115, Rue Carnot, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592554-als-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592554-als-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », fiche non revendiquée",
+        "R1 : \"ALS CONSULTING\" Sénégal Dakar Rue Carnot — aucun résultat sur ce cabinet ; les réponses portent sur d'autres entreprises de la rue Carnot",
+        "R2 : \"ALS Consulting\" Dakar email contact Sénégal — aucun résultat correspondant ; les cabinets cités (AFRY, ACL Consulting, Antal, Aqualis) sont d'autres sociétés",
+        "R3 : \"33 822 99 18\" OR \"+221 33 822 99 18\" — aucune page citant ce numéro",
+        "R4 : \"ALS CONSULTING\" — uniquement des homonymes étrangers : ALS Consulting à New York, ALS Consulting + Staffing Services, ALS Consulting en Pologne, ALS Consulting Ltd au Royaume-Uni, ALS Global",
+        "Adresses probables testées : alsconsulting.sn, als-consulting.sn, alsconsulting-senegal.com — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. Le sigle ALS est porté par plusieurs cabinets étrangers, dont aucun ne peut être rattaché à l'adresse (115 rue Carnot) ni au téléphone de la fiche."
+    },
+    {
+      "nom": "AM CONSEILS",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 439 86 33",
+      "adresse": "162, Boulevard de Gaulle, BP 35775, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480017-am-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480017-am-bureaux-etudes-conseils-consultants-dakar-senegal — nom affiché « AM CONSEILS », aucun bouton « Site web »",
+        "R1 : \"AM CONSEILS\" Sénégal Dakar Boulevard de Gaulle — aucun résultat sur ce cabinet ; les réponses portent sur le changement de nom du boulevard (devenu boulevard Mamadou Dia en 2025) et sur un cabinet voisin, AD Conseils",
+        "R2 : \"AM Conseils\" Dakar email contact Sénégal bureau d'études — aucun résultat correspondant ; les adresses trouvées appartiennent à d'autres cabinets (Afrique Management Conseil notamment)",
+        "R3 : \"77 439 86 33\" OR \"+221 77 439 86 33\" — aucune page citant ce numéro",
+        "R4 : \"AM CONSEILS\" — uniquement des sociétés françaises homonymes (Nantes, Paris, Marseille, a-mconseils.fr, am-conseils.com, amconseils.com)",
+        "Adresses probables testées : amconseils.sn, am-conseils.sn, amconseils-senegal.com — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. Les domaines am-conseils.com, a-mconseils.fr et amconseils.com appartiennent à des cabinets français homonymes, sans lien avec ce bureau de Dakar : écartés. L'adresse de la fiche renvoie au boulevard de Gaulle, rebaptisé boulevard Mamadou Dia en 2025."
     }
   ]
 }
