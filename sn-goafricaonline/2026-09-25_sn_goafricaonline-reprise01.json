@@ -510,6 +510,60 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email ni site trouvé, et aucune autre trace de ce bureau en ligne. L'URL de la fiche porte la graphie « africk-biz » alors que le nom affiché est « AFRIK BIZ » ; les deux graphies ont été cherchées."
+    },
+    {
+      "nom": "AFRIKA CONSEIL SARL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 860 24 25 / (+221) 77 713 81 62",
+      "adresse": "Mermoz Pyrotechnie n° 251, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/653544-afrika-conseil-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/653544-afrika-conseil-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », fiche non revendiquée",
+        "R1 : AFRIKA CONSEIL SARL Sénégal Mermoz Pyrotechnie — aucun résultat sur ce cabinet ; les réponses portent sur d'autres cabinets du quartier (MGP-Afrique notamment)",
+        "R2 : \"Afrika Conseil\" Dakar email contact — aucun résultat sous ce nom ; les adresses trouvées appartiennent à d'autres cabinets dakarois (Cabinet Carrée, Eco Afrique, Afrique Management Conseil)",
+        "R3 : \"33 860 24 25\" OR \"77 713 81 62\" Sénégal — aucune page citant ces numéros",
+        "R4 : \"AFRIKA CONSEIL\" — uniquement des cabinets homonymes d'autres pays : Afrika Forward (Côte d'Ivoire), Afrique Conseil (Cotonou), afrikaconsult.com",
+        "Adresses probables testées : afrikaconseil.sn, afrikaconseil.com, afrika-conseil.com, afrikaconseil.net — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé, et aucune autre trace de ce cabinet en ligne en dehors de sa fiche goafricaonline."
+    },
+    {
+      "nom": "AFRIKSURVEY",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@afriksurvey.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 26 52",
+      "adresse": "Mermoz Pyrotechnique, lot n° 17, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://afriksurvey.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet d'études de marché et de sondages d'opinion, avec des bureaux au Sénégal, au Togo, au Bénin, au Niger, au Burkina Faso, au Mali et en Côte d'Ivoire.",
+      "fiche_url": "https://www.goafricaonline.com/sn/504630-afriksurvey-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://afriksurvey.com/politique-de-confidentialite/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/504630-afriksurvey-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : www.afriksurvey.com/)",
+        "Pages ouvertes sur son site : https://afriksurvey.com/ (accueil), https://afriksurvey.com/contact/ (formulaire, téléphone +221 33 822 12 91 et adresse « Mermoz Pyrotechnique, lot n°17 », sans email), https://afriksurvey.com/apropos/, https://afriksurvey.com/devis/, https://afriksurvey.com/plan-du-site/ et https://afriksurvey.com/politique-de-confidentialite/",
+        "Adresse lue sur la page « Politique de confidentialité » : contact@afriksurvey.com",
+        "R1 : AFRIKSURVEY Sénégal cabinet études de marché — confirme le cabinet (site, Facebook, X, senpages, vymaps) ; un extrait mentionne aussi une adresse Cité Keur Gorgui, Immeuble Hermès 2 n°38"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : le site reprend l'adresse de la fiche (Mermoz Pyrotechnique, lot n°17) comme siège social. La page Contact ne donne qu'un formulaire et le numéro +221 33 822 12 91, différent du 33 825 26 52 de la fiche ; l'adresse email figure sur la page « Politique de confidentialité ». Des extraits de recherche citent une seconde adresse (Cité Keur Gorgui, Immeuble Hermès 2 n°38), non reprise ici puisque non lue sur le site."
     }
   ]
 }
