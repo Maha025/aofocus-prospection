@@ -475,6 +475,61 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email ni site trouvé, et aucune trace de cette société en ligne en dehors de sa fiche goafricaonline. Le nom « Angel Group » est porté par plusieurs groupes étrangers sans lien avec elle."
+    },
+    {
+      "nom": "ANOD CONSULTING ET TRADING",
+      "sigle": "ANOD",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 865 24 38",
+      "adresse": "5, Boulevard du Sud x rue 1 Point E, BP 15777, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592691-anod-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592691-anod-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », fiche non revendiquée",
+        "R1 : \"ANOD CONSULTING\" Sénégal Dakar Point E — aucun résultat sur ce cabinet ; les réponses portent sur d'autres cabinets du quartier Point E",
+        "R2 : \"Anod Consulting\" OR \"Anod Trading\" Dakar email contact — aucun résultat au Sénégal ; les sociétés trouvées sont nigériane (A. N. Anod Trading Company) ou étrangères",
+        "R3 : \"33 865 24 38\" OR \"338652438\" — aucune page citant ce numéro",
+        "R4 : \"ANOD CONSULTING ET TRADING\" — aucun résultat exact ; uniquement des homonymes (société française ANOD, groupe suédois Addnode coté sous le symbole ANOD)",
+        "Adresses probables testées : anodconsulting.sn, anod.sn, anodconsulting.com, anod-consulting.com — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé, et aucune trace de ce cabinet en ligne en dehors de sa fiche goafricaonline."
+    },
+    {
+      "nom": "APAPS",
+      "sigle": "APAPS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 553 21 42",
+      "adresse": "Ouakam, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Études, enquêtes, information-éducation-communication (IEC) et plaidoyer.",
+      "fiche_url": "https://www.goafricaonline.com/sn/642387-apaps-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/642387-apaps-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », fiche non revendiquée",
+        "R1 : \"APAPS\" Sénégal Dakar Ouakam études enquêtes plaidoyer — un répertoire d'acteurs non étatiques (document PDF de plateforme-ane.sn) cite APAPS à Ouakam, BP 16292 Dakar-Fann, avec une adresse email en @orange.sn",
+        "R2 : \"APAPS\" Dakar email contact Sénégal — page Facebook « APAPS » à Dakar (organisation à but non lucratif, apolitique et laïque) et fiche yelu.sn, sans adresse email lisible",
+        "R3 : \"77 553 21 42\" OR \"+221 77 553 21 42\" — aucune page citant ce numéro",
+        "R4 : \"APAPS\" association Sénégal population — mêmes résultats ; attention aux homonymes (Agence de Presse Sénégalaise, Association Priorité Santé)",
+        "Pages ouvertes : https://www.plateforme-ane.sn/IMG/pdf/document_d_orientation_de_la_1e_re_universite_des_acteurs_non_e_tatiques.pdf — hôte injoignable depuis cet environnement (refus du proxy, puis erreur DNS), document non lu ; https://www.yelu.sn/company/17466/Apaps — adresse « Camp Mamelles » et téléphone 33 860 03 21, emails réservés à l'offre payante",
+        "Adresses probables testées : apaps.sn, apaps-senegal.org (ne résolvent pas) et apaps.org (page vide puis erreur 503, aucune identification possible)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu faute d'avoir pu lire une page : une adresse en apaps@orange.sn figure dans l'extrait de recherche du répertoire des acteurs non étatiques, avec une localisation à Ouakam concordant avec la fiche, mais le document n'a pas pu être ouvert (hôte bloqué). À revérifier au prochain passage. La fiche yelu.sn donne une autre adresse (Camp Mamelles) et un autre numéro (33 860 03 21) pour une association du même nom."
     }
   ]
 }
