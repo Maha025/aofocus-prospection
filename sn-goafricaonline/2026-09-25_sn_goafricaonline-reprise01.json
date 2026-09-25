@@ -258,6 +258,91 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email lu. Le cabinet possède bien le domaine act-afrique.com, mais le site ne répond plus (erreur serveur sur toutes les pages), et seul un format d'adresse supposé circule sur RocketReach : rien n'est retenu, aucune adresse n'étant reconstituée. Une autre fiche goafricaonline existe pour la même société sous la rubrique « Médias » (https://www.goafricaonline.com/sn/414495-act-africa-consulting-trading-dakar-senegal)."
+    },
+    {
+      "nom": "AFRICA ENVIRONNEMENT CONSULTANTS",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 824 37 75",
+      "adresse": "Sicap Bourguiba Villa N° 20, BP 5335, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/626084-africa-environnement-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/626084-africa-environnement-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : AFRICA ENVIRONNEMENT CONSULTANTS Sénégal — aucun résultat sur ce bureau ; les réponses portent sur d'autres bureaux d'études environnementales sénégalais (PDRA Consulting, Terra Consulting, Sylvatrop, KNT Consulting)",
+        "R2 : \"Africa Environnement\" Dakar email contact Sicap Bourguiba — le seul contact trouvé est celui d'« Environnement Afrique » (ALPE), Sicap Liberté 6 villa 7996, tél. 33 825 29 25 : entité différente, ni l'adresse ni le téléphone ne correspondent",
+        "R3 : \"33 824 37 75\" OR \"+221 33 824 37 75\" — aucune page citant ce numéro",
+        "R4 : \"AFRICA ENVIRONNEMENT CONSULTANTS\" — uniquement des cabinets anglophones sans rapport (EcoAfrica Environmental Consultants, ERM, Digby Wells, WSP)",
+        "Adresses probables testées : africaenvironnement.sn, africa-environnement.sn, africaenvironnement.com, africa-environnement.com, aec.sn — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. « Environnement Afrique » (contact@environnementafrique.com) porte un nom voisin mais a une autre adresse et un autre téléphone : rattachement écarté."
+    },
+    {
+      "nom": "AFRICA NITY GROUP",
+      "sigle": "AFRICANITY GROUP",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "Info@africanity-group.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 76 696 30 30",
+      "adresse": "Sacré Coeur VDN Lot 6, derrière Résidence Mamoune, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://africanity-group.com/",
+      "site_source": "recherche web",
+      "specialite": "Groupe sénégalais d'ingénierie numérique : réseaux et télécoms, infrastructures informatiques, cybersécurité, smart cities, énergies et infrastructures, digital factory.",
+      "fiche_url": "https://www.goafricaonline.com/sn/592545-africa-nity-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://africanity-group.com/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592545-africa-nity-group-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web » (seuls un compte Twitter et une chaîne YouTube sont indiqués)",
+        "R1 : AFRICA NITY GROUP Sénégal — repérage du groupe « Africanity » (ou AFRICA'NITY), présenté comme un groupe 100 % sénégalais d'ingénierie numérique",
+        "R2 : \"Africa Nity\" Dakar email contact — aucun résultat sous cette graphie",
+        "R3 : \"76 696 30 30\" OR \"+221 76 696 30 30\" — aucune page dans les résultats de recherche, mais le numéro figure en pied de page du site du groupe (voir ci-dessous)",
+        "R4 : \"AFRICA NITY GROUP\" — fiches DevelopmentAid (AFRICA'NITY Group), Facebook « Africa'nity » et page exposant IATF 2025",
+        "Pages ouvertes : https://2025.iatf.africa/exhibitor/africanity-group (indique le site africanity-group.com et rattache le groupe au Sénégal), https://africanity-group.com/ et https://africanity-group.com/contact — adresse Info@africanity-group.com lue sur les deux pages",
+        "Adresses probables testées : africanity.sn, africa-nity.com, africanitygroup.com (ne résolvent pas) et africanity.com (site sans rapport, « Africanity Network »)"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : le site reprend exactement l'adresse de la fiche (Sacré Coeur VDN Lot 6, derrière les résidences Mamounes) et le numéro +221 76 696 30 30 figure dans son pied de page, aux côtés du +221 33 801 82 41 et du +221 76 122 72 56. L'adresse email est écrite « Info@africanity-group.com » (majuscule initiale) sur le site, reprise telle quelle. La page IATF présente le groupe comme une filiale de l'ADEPME."
+    },
+    {
+      "nom": "AFRICA REGIONAL TRADE",
+      "sigle": "A.R.T.",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 258 01 92",
+      "adresse": "Route de Ngor Village - Ngor, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Entreprise sociale de conseil aux entreprises dont le siège est annoncé à Dakar (description reprise de son ancien site).",
+      "fiche_url": "https://www.goafricaonline.com/sn/782892-africa-regional-trade",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782892-africa-regional-trade — aucun bouton « Site web », fiche non revendiquée",
+        "R1 : AFRICA REGIONAL TRADE Sénégal Ngor Dakar — aucun résultat sur ce bureau ; les réponses portent sur le commerce régional sénégalais en général",
+        "R2 : \"Africa Regional Trade\" Dakar email contact — repérage du site africaregionaltrade.com (« Africa Regional Trade (A.R.T.) », entreprise sociale au siège à Dakar) ; aucune adresse email dans les extraits",
+        "R3 : \"77 258 01 92\" OR \"+221 77 258 01 92\" — aucune page citant ce numéro",
+        "R4 : \"AFRICA REGIONAL TRADE\" Senegal social enterprise — aucune fiche d'entreprise supplémentaire, seulement des études générales sur l'entrepreneuriat social et la ZLECAf",
+        "Pages ouvertes : https://africaregionaltrade.com/about-1, https://africaregionaltrade.com/ et https://africaregionaltrade.com/contact — le domaine ne résout plus (erreur DNS), aucune page consultable",
+        "Adresses probables testées : africaregionaltrade.com, africaregionaltrade.sn, africa-regional-trade.com, art.sn — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email lu. Le site africaregionaltrade.com apparaît encore dans les résultats de recherche mais son domaine ne résout plus : ni site ni email retenus. Le sigle A.R.T. provient de ces mêmes extraits, le rattachement à la fiche restant fondé sur le seul nom et la ville."
     }
   ]
 }
