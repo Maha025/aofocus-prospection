@@ -413,6 +413,33 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email et aucun site : le cabinet n'apparaît sur aucune page publique hors de la fiche goafricaonline. Les nombreux « Barham Consulting » britanniques, américain et espagnol sont des homonymes, dont rien n'est repris. Coordonnées utilisables : un fixe, un mobile et l'adresse (Rue 13, Castors)."
+    },
+    {
+      "nom": "BATIR (BUREAU D'ETUDES BATIR)",
+      "sigle": "BATIR",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 822 96 29 / (+221) 33 821 94 24",
+      "adresse": "45 Boulevard Djily Mbaye, BP 21555, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureau d'études (bâtiment et construction, d'après la raison sociale) ; aucune activité détaillée sur la fiche",
+      "fiche_url": "https://www.goafricaonline.com/sn/384986-batir-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/384986-batir-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web » (349 vues)",
+        "R1 : \"BUREAU D'ETUDES BATIR\" Sénégal Dakar Djily Mbaye — aucune page sur ce bureau ; résultats sur d'autres occupants du boulevard Djily Mbaye et d'autres bureaux de contrôle sénégalais (S.E.C.CO, ETECS)",
+        "R2 : \"BATIR\" bureau d'études Dakar email contact Sénégal Boulevard Djily Mbaye — sociétés voisines du même boulevard (CMA CGM, Forvis Mazars, Baliz, Institution Immaculée Conception) ; aucune mention de ce bureau ni de son email",
+        "R3 : \"33 822 96 29\" OR \"338229629\" OR \"33 821 94 24\" — aucune page citant ces numéros",
+        "R4 : \"BUREAU D'ETUDES BATIR\" — uniquement des sociétés françaises homonymes (Bureau d'Étude Batir à Wildersbach, SIREN 503644585, Bâtir Positif à Vaulx-en-Velin, Batir France Ingénierie, Bureau d'Études Battier à Vitrolles) ; rien au Sénégal",
+        "Adresses probables testées : batir.sn, batir-senegal.com, bebatir.sn, batirsn.com — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site : le bureau n'apparaît sur aucune page publique hors de la fiche goafricaonline, et tous les « Bureau d'études Batir » trouvés sont français, donc écartés. Coordonnées utilisables : deux fixes et l'adresse 45 boulevard Djily Mbaye / BP 21555."
     }
   ]
 }
