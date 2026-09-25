@@ -530,6 +530,34 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email retenu faute d'avoir pu lire une page : une adresse en apaps@orange.sn figure dans l'extrait de recherche du répertoire des acteurs non étatiques, avec une localisation à Ouakam concordant avec la fiche, mais le document n'a pas pu être ouvert (hôte bloqué). À revérifier au prochain passage. La fiche yelu.sn donne une autre adresse (Camp Mamelles) et un autre numéro (33 860 03 21) pour une association du même nom."
+    },
+    {
+      "nom": "APDS (ACTION POUR LE DEVELOPPEMENT DU SENEGAL)",
+      "sigle": "APDS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 456 74 04",
+      "adresse": "Rue 07 x Corniche, Cité Millionnaire, Médina, BP 28964, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480005-apds-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480005-apds-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », fiche non revendiquée",
+        "R1 : \"Action pour le Développement du Sénégal\" APDS Dakar — aucun résultat sur cette structure ; les réponses portent sur l'AFD et d'autres programmes de développement",
+        "R2 : \"APDS\" Dakar email contact Médina Sénégal — aucun résultat correspondant ; les adresses trouvées concernent l'Agence de Presse Sénégalaise, établie elle aussi à la Médina",
+        "R3 : \"77 456 74 04\" OR \"+221 77 456 74 04\" — aucune page citant ce numéro",
+        "R4 : \"APDS\" \"Sénégal\" ONG OR association OR bureau études — aucun résultat sur cette structure ; uniquement des répertoires généraux d'ONG sénégalaises",
+        "Pages ouvertes : https://apds.org — site de l'Association of Program Directors in Surgery (États-Unis), sans rapport",
+        "Adresses probables testées : apds.sn, apds-senegal.org, apdsenegal.org (ne résolvent pas) et apds.org (association américaine homonyme)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé, et aucune trace de cette structure en ligne en dehors de sa fiche goafricaonline. Le sigle APDS renvoie surtout à une association américaine de chirurgie, sans rapport."
     }
   ]
 }
