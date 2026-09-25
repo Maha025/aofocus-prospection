@@ -419,6 +419,62 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email retenu faute d'avoir pu lire une page : le domaine newafricaconsulting.com ne résout pas depuis cet environnement, alors que sa page contact_us.html est encore indexée et qu'un extrait de recherche y cite une adresse générique contact@ ainsi que l'adresse postale et les deux téléphones de la fiche. À revérifier au prochain passage : si le site redevient accessible, l'adresse devra être lue sur https://www.newafricaconsulting.com/contact_us.html avant d'être enregistrée. Un cabinet sud-africain homonyme (newafrica.co.za) est sans lien."
+    },
+    {
+      "nom": "AND CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 865 92 98",
+      "adresse": "Non loin du Centre de lavage Les Maristes - Hann Bel-Air, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Cabinet SARL créé en 2010, spécialisé dans l'intermédiation financière et commerciale : conseil et négociation de prêts pour des entreprises de toutes tailles (d'après un annuaire spécialisé).",
+      "fiche_url": "https://www.goafricaonline.com/sn/592529-and-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592529-and-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (bouton « Site web » : and-consulting.business.site/)",
+        "Site de la fiche ouvert : https://and-consulting.business.site/ et sa version HTTP — page Google Business supprimée (HTTP 404), aucun contenu",
+        "R1 : \"AND CONSULTING\" Sénégal Dakar Hann Bel-Air Maristes — aucun résultat sur ce cabinet ; les réponses portent sur le quartier",
+        "R2 : \"And Consulting\" Dakar email contact Sénégal — les adresses trouvées appartiennent à SAND Consulting (sandconsulting.sn), cabinet distinct",
+        "R3 : \"33 865 92 98\" OR \"+221 33 865 92 98\" — aucune page citant ce numéro seul",
+        "R4 : \"AND CONSULTING\" Sénégal — repérage d'une fiche sur l'annuaire spécialisé https://www.microfinance.sn/consultant/and-consulting/ : elle donne la description du cabinet, le numéro 33 865 92 98 (identique à la fiche), un second numéro 77 509 10 20 et une adresse email en @gmail.com",
+        "Page https://www.microfinance.sn/consultant/and-consulting/ : non consultable — le certificat TLS du site a expiré et la vérification n'a pas été contournée ; le serveur répond 503 par l'autre voie d'accès",
+        "Adresses probables : le cabinet n'a qu'une page Google Business (supprimée) ; aucune variante de domaine propre n'est apparue dans les recherches"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu faute d'avoir pu lire une page : l'adresse (une boîte Gmail, andconsulting2@…) n'apparaît que dans l'extrait de recherche de la fiche microfinance.sn, dont le certificat TLS est expiré. Le numéro 33 865 92 98 y concorde avec celui de la fiche goafricaonline, ce qui rend le rattachement très probable : à relire au prochain passage si le site redevient consultable. Ne pas confondre avec SAND Consulting (sandconsulting.sn), cabinet dakarois distinct."
+    },
+    {
+      "nom": "ANGEL GROUP SERVICES COMMERCE INDUSTRIES",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 848 22 00 / Fax (+221) 33 848 22 00",
+      "adresse": "Hann Maristes II n° 67 RB, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480034-angel-group-services-commerce-industries-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480034-angel-group-services-commerce-industries-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : \"ANGEL GROUP\" Services Commerce Industries Sénégal Hann Maristes — aucun résultat sur cette société ; les réponses portent sur d'autres établissements du quartier (Imprimerie des Maristes, SGBS, Senelec)",
+        "R2 : \"Angel Group\" Dakar email contact Sénégal — les résultats concernent Dakar Network Angels (réseau d'investisseurs) et l'agence Angel Immobilier, sociétés distinctes",
+        "R3 : \"33 848 22 00\" OR \"338482200\" Dakar — aucune page citant ce numéro",
+        "R4 : \"ANGEL GROUP SERVICES COMMERCE INDUSTRIES\" — aucun résultat exact ; uniquement des groupes homonymes étrangers (Angel Group LLC, Angel Group Global, Angel Group BD, Angel Group of Companies au Ghana)",
+        "Adresses probables testées : angelgroup.sn, angel-group.sn, agsci.sn, angelgroupsenegal.com — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé, et aucune trace de cette société en ligne en dehors de sa fiche goafricaonline. Le nom « Angel Group » est porté par plusieurs groupes étrangers sans lien avec elle."
     }
   ]
 }
