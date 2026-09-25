@@ -440,6 +440,33 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email et aucun site : le bureau n'apparaît sur aucune page publique hors de la fiche goafricaonline, et tous les « Bureau d'études Batir » trouvés sont français, donc écartés. Coordonnées utilisables : deux fixes et l'adresse 45 boulevard Djily Mbaye / BP 21555."
+    },
+    {
+      "nom": "BCS (BUSINES CONSULTING SENEGAL)",
+      "sigle": "BCS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 899 72 80 / (+221) 77 407 85 46 / (+221) 77 817 66 98",
+      "adresse": "Villa 6750, Sicap Liberté 6, BP 22555, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Solutions informatiques : système d'affichage dynamique et contextuel permettant de gérer la diffusion de contenu multimédia à distance et en temps réel sur des écrans géographiquement dispersés (une centaine de templates)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592498-busines-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592498-busines-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web » ; liens vers une page Facebook et un compte Twitter (@BCS81507691)",
+        "R1 : \"BUSINES CONSULTING SENEGAL\" OR \"Business Consulting Senegal\" BCS Dakar Sicap Liberté — aucune page sur cette société ; annuaires de consultants et pages sur le quartier Sicap-Liberté ; à noter une autre société dakaroise au même sigle sur goafricaonline, « BCS (BUSINESS CENTER SERVICES) », distincte",
+        "R2 : \"BCS\" Sénégal affichage dynamique email contact Dakar solutions informatiques — annuaires informatiques sénégalais et prestataires concurrents (Aruo, Sysnet, Dakar.IT.Services) ; aucune adresse email pour BCS",
+        "R3 : \"33 899 72 80\" OR \"338997280\" OR \"77 407 85 46\" — aucune page citant ces numéros",
+        "R4 : \"BUSINES CONSULTING SENEGAL\" — aucun résultat sur la société ; uniquement des annuaires et cabinets de conseil généralistes au Sénégal",
+        "Adresses probables testées : bcs.sn, bcs-senegal.com, businesconsulting.sn, bcsenegal.com — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site. La société a une page Facebook et un compte Twitter liés par la fiche, mais aucun n'a pu être ouvert sans compte et aucune page publique ne publie d'adresse. Attention à l'homonymie : une autre société dakaroise porte le sigle BCS (Business Center Services), dont rien n'est repris. Coordonnées utilisables : un fixe, deux mobiles et l'adresse Sicap Liberté 6 / BP 22555."
     }
   ]
 }
