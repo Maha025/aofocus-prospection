@@ -386,6 +386,33 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email et aucun site. Les deux annuaires qui reprennent le bureau ne publient pas d'adresse (la fiche Pages Jaunes du Sénégal est supprimée). Troisième téléphone relevé sur SenPages et sur la seconde fiche goafricaonline du même bureau : (+221) 33 842 75 88, à ajouter aux deux de la fiche. Ce bureau possède une seconde fiche goafricaonline (n° 384979, rubrique « Assistance aéroportuaire »), qui ne fait pas partie de la liste de reprise."
+    },
+    {
+      "nom": "BARHAM INTERNATIONAL CONSULTING - BISCO",
+      "sigle": "BISCO",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 864 07 43 / (+221) 77 569 31 05",
+      "adresse": "Rue 13 Castors, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Consultance, informatique, librairie",
+      "fiche_url": "https://www.goafricaonline.com/sn/653955-bisco-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/653955-bisco-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web » ; activités : consultance, informatique, librairie",
+        "R1 : \"BARHAM INTERNATIONAL CONSULTING\" OR \"BISCO\" Sénégal Dakar Castors — aucune page sur ce cabinet ; seulement des annuaires de consultants dakarois et des homonymes sans rapport (Castor International du groupe Vinci, Biscuiterie)",
+        "R2 : \"Barham International\" Dakar email contact Sénégal consultance informatique — profils personnels et autres sociétés (Barham Business Company, JB Monde, fondée par Barham Thiam) ; aucune adresse email pour BISCO",
+        "R3 : \"33 864 07 43\" OR \"338640743\" OR \"77 569 31 05\" — aucune page citant ces numéros",
+        "R4 : \"BARHAM INTERNATIONAL CONSULTING\" — uniquement des homonymes étrangers : Barham International Ltd et Barham Consulting Ltd au Royaume-Uni (Companies House n° 05440245, 12260245 et 09510927), Barham Management and Consulting LLC en Floride, barham.es en Espagne, barham-consulting.com ; rien au Sénégal",
+        "Adresses probables testées : bisco.sn, bisco-senegal.com, barhamconsulting.sn, barham.sn — aucun de ces domaines ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site : le cabinet n'apparaît sur aucune page publique hors de la fiche goafricaonline. Les nombreux « Barham Consulting » britanniques, américain et espagnol sont des homonymes, dont rien n'est repris. Coordonnées utilisables : un fixe, un mobile et l'adresse (Rue 13, Castors)."
     }
   ]
 }
