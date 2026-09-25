@@ -92,6 +92,68 @@
       ],
       "statut": "a_verifier",
       "note": "Site identifié et attribué : azsynergie.com, déclaré comme site officiel sur la page LinkedIn du cabinet (même nom, même ville, activité identique), mais il n'est pas installé (page OVHcloud « Site not installed ») ; un ancien domaine az-synergie.com ne résout plus. Aucune page n'a donc pu être lue et aucun email n'est retenu — des résumés de moteurs évoquent une adresse en contact@ de l'ancien domaine, non vérifiable et donc écartée. À reprendre si le site est remis en ligne. Un second bureau existe à Ouagadougou (Burkina Faso)."
+    },
+    {
+      "nom": "Afric Consult / Cisco Consulting",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 825 26 00",
+      "adresse": "MGWP+QHP, Rue 1 - Fann-Point E-Amitié, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Afric Consult : bureau d'études et génie civil (routes, hydraulique, transport, bâtiment), également classé en conseil en gestion. Cisco Consulting : conseil en actuariat, finance et management (banque, assurance, entreprises), groupe CISCO CONSULTING-SOLVISEO, Dakar et Paris",
+      "fiche_url": "https://www.goafricaonline.com/sn/782890-afric-consult-cisco-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782890-afric-consult-cisco-consulting — aucun bouton « Site web » (41 vues)",
+        "R1 : \"Afric Consult\" \"Cisco Consulting\" Sénégal Dakar Point E — sept reprises d'annuaire pour Afric Consult et une fiche Financial Afrik pour Cisco Consulting",
+        "Page business-senegal.com/fre/Entreprises/profilent/_10113 ouverte : « AFRIC CONSULT », Rue 2 n°9 B Point E Dakar, BP 23714 Dakar Ponty, tél. et fax (221) 338252600 — identique au téléphone de la fiche ; champ email non affiché, champ site web vide (« http:// »)",
+        "Page senpages.com/entreprise/afric-consult/ ouverte : Rue 2 N°9 B Point E, Dakar, +221338252600, entreprise de génie civil ; aucun email, aucun site",
+        "Page yelu.sn/company/19529/Afric_Consult ouverte : Zone A, Villa N°54 A, BP 23714 Ponty, Dakar, tél. 33 825 26 00, activités « Consultants en Gestion » et « Ingénierie Civile » ; aucun email",
+        "Page dobiza.com/eng/Entreprises/profilent/_10113 ouverte : mêmes données que business-senegal, aucun email",
+        "Page info-clipper.com/fr/entreprise/senegal/afric-consult.snd99d19b.html ouverte : Route 2 Villa Street 9B Point E, Dakar ; téléphone et DUNS partiellement masqués, aucun email lisible (données réservées aux rapports payants)",
+        "Page financialafrik.com/en/event-organizer/cisco-consulting/ ouverte : CISCO CONSULTING, actuariat-finance-management, Dakar et Paris, groupe CISCO CONSULTING-SOLVISEO, site déclaré http://www.cisafrikconsulting.com ; aucun email ni téléphone affiché",
+        "Site cisafrikconsulting.com : tentatives en http et https, avec et sans www, y compris /contact/ — aucune réponse du serveur (HTTP 503 puis échec de connexion), aucune page lisible",
+        "R2 : \"Cisco Consulting\" Dakar email contact Sénégal cabinet — ne renvoie que des homonymes liés à l'équipementier Cisco (AF Consulting infos@afconsulting.sn, centres de formation, ESMT) ; aucune adresse pour ce cabinet",
+        "R3 : \"33 825 26 00\" OR \"338252600\" — hors annuaires ci-dessus, aucune page citant ce numéro",
+        "R4 : \"Afric Consult\" Dakar génie civil bureau d'études Sénégal et recherche ciblée sur l'adresse \"africonsultsarl@yahoo.fr\" — aucune page consultable n'affiche d'adresse email pour ce bureau",
+        "Adresses probables testées : africconsult.sn, afric-consult.sn, ciscoconsulting.sn — ne résolvent pas ; africconsult.com et cisco-consulting.com — résolvent mais aucune réponse HTTP ; afric-consult.com — ne résout pas"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email lisible : aucun des six annuaires ouverts n'affiche d'adresse (info-clipper masque ses données derrière un rapport payant, ce qui compte comme absent). Un résumé de moteur évoque une adresse en yahoo.fr pour Afric Consult, introuvable sur toute page consultable : elle n'est donc pas retenue. La fiche réunit deux structures distinctes : Afric Consult (génie civil, Rue 2 n°9 B Point E, BP 23714 Dakar Ponty, dont le téléphone correspond exactement à celui de la fiche) et Cisco Consulting (actuariat et finance, Dakar et Paris), dont le site déclaré cisafrikconsulting.com ne répond pas. Adresse complémentaire relevée sur Yelu : Zone A, villa n°54 A."
+    },
+    {
+      "nom": "Africa Consultants International",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 76 612 17 85",
+      "adresse": "Pharmacy papa Malick SY, 54 Rue Carnot - Dakar-Plateau, Dakar - 11500 - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants (aucune activité détaillée sur la fiche)",
+      "fiche_url": "https://www.goafricaonline.com/sn/782868-africa-consultants-international",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782868-africa-consultants-international — aucun bouton « Site web », mais un lien vers un profil LinkedIn personnel (www.linkedin.com/in/boyon-james-suru-a9433040)",
+        "R1 : \"Africa Consultants International\" Sénégal Dakar Rue Carnot — les résultats portent tous sur l'ONG américaine ACI / Baobab Center, installée à Dakar-Fann depuis 1984 (acibaobab.org, page LinkedIn sn.linkedin.com/company/africa-consultants-international, fiche Idealist « Dakar Fann », page Facebook) ; aucune page ne cite le 54 Rue Carnot",
+        "R2 : \"Africa Consultants International\" ACI Dakar email contact — fiches ZoomInfo et RocketReach (qui ne donnent qu'un format d'adresse générique, non une adresse lue) et le site acibaobab.org",
+        "Site acibaobab.org ouvert : il présente aujourd'hui le « Centre Baobab International », à Dakar, avec l'adresse senegal@centrebaobab.org et le téléphone +221 77 470 45 59 — ni ce téléphone ni cette adresse ne correspondent à la fiche",
+        "R3 : \"76 612 17 85\" OR \"766121785\" — aucune page citant ce numéro",
+        "R4 : \"Africa Consultants International\" — confirme l'ONG américaine (siège 181 Pinehurst Dr, Bradenton, Floride, directeur Simon Badiane, fiche GuideStar 03-0341924) ; rien sur une structure du même nom rue Carnot",
+        "Adresses probables testées : africaconsultants.sn et africaconsultantsinternational.com — ne résolvent pas ; aci.sn — résout mais correspond à « Africaine de Consultance et d'Ingénierie », autre société ; acisenegal.com — résout mais correspond à « A.C.I. Sénégal », société d'inspection et de contrôle, également distincte"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email attribué, par doute sérieux sur l'identité : la fiche donne une adresse au 54 Rue Carnot (Dakar-Plateau), un mobile et un lien vers un profil LinkedIn personnel, alors que l'« Africa Consultants International » connue en ligne est l'ONG américaine ACI / Baobab Center, installée à Dakar-Fann, dont le site (devenu Centre Baobab International) affiche un autre téléphone et l'adresse senegal@centrebaobab.org : rien ne permet de rattacher cette adresse à la fiche, elle n'est donc pas reprise. Deux autres « ACI » sénégalais (aci.sn, acisenegal.com) sont également écartés. Seule coordonnée : le mobile de la fiche."
     }
   ]
 }
