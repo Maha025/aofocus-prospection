@@ -276,6 +276,60 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email et aucun site. Sigle très proche de BET PLUS / BETPLUS SAS (fiches 480010 et 592502) : ne pas confondre, l'adresse et le téléphone diffèrent, et l'email de BETPLUS n'est pas repris ici. Utilisables : un fixe et l'adresse de la fiche."
+    },
+    {
+      "nom": "BETPLUS SA",
+      "sigle": "BETPLUS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "betplus@betplus-sn.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 573 93 44 / (+221) 77 725 03 30",
+      "adresse": "Ouest Foire Lot 10, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://betplus-sn.com",
+      "site_source": "recherche web",
+      "specialite": "Bureau d'études techniques pluridisciplinaire : géomatique, géotechnique, électricité, eau et assainissement, urbanisme et aménagement du territoire",
+      "fiche_url": "https://www.goafricaonline.com/sn/653919-betplus-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://betplus-sn.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/653919-betplus-bureaux-etudes-conseils-consultants-dakar-senegal — deux mobiles, aucun bouton « Site web », aucun email (80 vues ; goafricaonline signale ne pas avoir son email). Adresse « Ouest Foire Lot 10 » et raison sociale identiques à BET PLUS / BET PLUS SA (fiches 480010 et 592502) : troisième fiche de la même société",
+        "Site de la société ouvert (identifié lors du traitement des fiches 480010 et 592502) : https://betplus-sn.com/ et https://betplus-sn.com/contact/ — « Adresse Ouest Foire Lot 10 Dakar », « Ouest foire lot 10 en face lotissement CDE », email betplus@betplus-sn.com, +221 78 595 60 60, +221 33 869 98 50 ; pied de page : « Bureau d'Études Techniques Plus (BET Plus S.A.S), Ouest Foire, Cité Air Afrique, Lot N° 10, BP 8117 Dakar Yoff ». Même nom et même adresse que la fiche : identité établie",
+        "R3 : \"77 573 93 44\" OR \"77 725 03 30\" Sénégal betplus — aucune page ne cite ces deux mobiles (ils n'apparaissent pas sur le site de la société, qui publie d'autres numéros)",
+        "Aucune autre adresse email publiée sur le site"
+      ],
+      "statut": "a_verifier",
+      "note": "Troisième fiche goafricaonline de la même société que 480010 et 592502 (BET PLUS / BET PLUS SA, Ouest Foire lot 10) : l'email betplus@betplus-sn.com lu sur son site officiel lui est attribué sur la base du nom et de l'adresse identiques. Les deux mobiles de cette fiche ne figurent pas sur le site : à vérifier lors de la prise de contact. La raison sociale exacte est une SAS d'après le site, alors que deux fiches indiquent « SA »."
+    },
+    {
+      "nom": "BEZEN",
+      "sigle": "BEZEN",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Augustin NAMATANE, directeur technique (ingénieur génie civil), cité sur le site",
+      "emails": [
+        "contact@bezenprojet.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 926 20 23 / (+33) 650 56 62 80 / (+221) 77 193 91 57 ; sur son site : (+221) 33 901 43 16 et (+33) 6 51 68 88 63",
+      "adresse": "Immeuble City Square, 1er étage, près du Crédit Mutuel, Saly - Sénégal",
+      "ville": "Saly",
+      "site_web": "http://bezenprojet.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études techniques et entreprise générale de construction : ingénierie et études (calculs de structure, plans béton armé, dimensionnement), modélisation BIM, gros œuvre, maîtrise d'œuvre, rénovation, accompagnement de la diaspora",
+      "fiche_url": "https://www.goafricaonline.com/sn/658910-bezen-bureaux-etudes-conseils-consultants-saly-senegal",
+      "preuve_url": "http://bezenprojet.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/658910-bezen-bureaux-etudes-conseils-consultants-saly-senegal — bouton « Site web » vers bezenprojet.com/, aucun email sur la fiche (81 vues)",
+        "Site du bureau : https://bezenprojet.com/ ne répond pas en HTTPS (connexion coupée) ; http://bezenprojet.com/ répond (HTTP 200) et sert « BEZEN PROJET | Construction & Ingénierie au Sénégal »",
+        "Section contact de la page d'accueil lue : « Bureau : Immeuble City Square, 1er étage, Saly Portudal, Sénégal — Téléphone SN : +221 77 193 91 57, SN : +221 33 901 43 16, FR : +33 6 51 68 88 63 — Email contact@bezenprojet.com ». Pied de page : « Croisement Malicounda, Saly Portudal, Sénégal — mêmes numéros — contact@bezenprojet.com — © 2026 BeZeN Projet ». L'adresse (Immeuble City Square, 1er étage, Saly) et le mobile 77 193 91 57 sont identiques à la fiche : identité établie",
+        "Autres pages du site repérées (contact.php, mentions légales, confidentialité, espace client) : aucune autre adresse email publiée ; la seule autre occurrence d'email sur la page est « votre@email.com », simple exemple dans le formulaire, écarté"
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact@bezenprojet.com lu sur le site officiel (lien de la fiche goafrica) ; identité établie par l'adresse et le mobile communs. Seul bureau de ce lot situé hors Dakar (Saly Portudal, Petite Côte). Le site n'est accessible qu'en HTTP, son certificat HTTPS ne répondant pas. Deux numéros supplémentaires figurent sur le site (33 901 43 16 et un mobile français), tandis que le fixe de la fiche (33 926 20 23) n'y apparaît pas."
     }
   ]
 }
