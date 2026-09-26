@@ -170,6 +170,33 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email et aucun site. Identité et coordonnées confirmées par une deuxième source (SenPages : même adresse, même fixe). Activité utile à noter pour la prospection : bâtiment, éclairage public et énergie solaire, donc marchés publics d'électrification. La fiche Business-Senegal du bureau est derrière une page de connexion, non franchie : piste restante pour un email. Utilisables : le fixe et l'adresse."
+    },
+    {
+      "nom": "BUREAU DE MISE A NIVEAU-BMN",
+      "sigle": "BMN",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@bmn.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 869 77 70 ; fax (+221) 33 860 70 92",
+      "adresse": "137 Sotrac Mermoz, sur ancienne piste, BP 16 595 Dakar-Fann, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.bmn.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau de Mise à niveau du Sénégal : programme public d'appui à la modernisation des entreprises (fonds de mise à niveau, critères d'éligibilité, programmes sectoriels, environnement et efficacité énergétique) ; agrée et référence des consultants (processus d'agrément et liste des consultants agréés publiés sur son site)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592504-bmn-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.bmn.sn/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592504-bmn-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers www.bmn.sn, horaires renseignés, aucun email sur la fiche (57 vues). Réseaux sociaux déclarés : facebook.com/BMNSENEGAL, twitter.com/BMNSenegal, linkedin.com/company/bmn-senegal, chaîne YouTube",
+        "Site ouvert : https://www.bmn.sn/ — bandeau « 137 Sotrac Mermoz - BP 16 595 Dakar - FANN, contact@bmn.sn », lien mailto:contact@bmn.sn",
+        "Page contact ouverte : https://www.bmn.sn/contact/ — « Bureau de Mise à niveau du Sénégal, 137 Sotrac Mermoz - BP 16 595 Dakar - FANN, Email contact@bmn.sn, Tél : +221 33 869 77 70 ». Email relevé ici ; adresse et téléphone identiques à la fiche, identité établie",
+        "Aucune autre adresse email publiée sur le site (accueil, contact, pages Présentation, Programmes, Consultants)"
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact@bmn.sn lu sur la page contact du site officiel (lien de la fiche goafrica) ; identité établie par l'adresse et le fixe communs. Attention à la nature de la structure : le BMN n'est pas un cabinet privé mais le Bureau de Mise à niveau du Sénégal, programme public d'appui aux entreprises. Intérêt particulier pour AOFocus : son site publie la liste des consultants agréés par le programme (https://www.bmn.sn/liste-des-consultants/), source à exploiter lors d'un prochain passage pour élargir la liste de prospection."
     }
   ]
 }
