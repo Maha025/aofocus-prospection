@@ -222,6 +222,60 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email : le site www.beteg.com que les moteurs attribuent au bureau ne résout plus, et les deux fiches annuaires détaillées (Business-Senegal / Dobiza) sont derrière une page de connexion, non franchie. Bureau intéressant malgré tout : agréé pour les études d'impact environnemental, donc candidat aux marchés publics. Deux fiches goafricaonline le décrivent (592494 en « Bureaux d'études » et 455838 en « Génie civil ») ; seule celle de notre rubrique est déposée ici. Utilisables : deux fixes et l'adresse."
+    },
+    {
+      "nom": "BETER",
+      "sigle": "BETER",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 834 15 14 / (+221) 77 639 77 46 / (+221) 77 659 28 40 ; fax (+221) 33 834 14 86",
+      "adresse": "911 H Sicap Mbao, BP 28143, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureau d'Études Techniques et d'Expertises des Réalisations",
+      "fiche_url": "https://www.goafricaonline.com/sn/651752-beter-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/651752-beter-bureaux-etudes-conseils-consultants-dakar-senegal — intitulé développé du sigle donné par le bureau, aucun bouton « Site web », aucun email (83 vues)",
+        "R1 : \"Bureau d'Etudes Techniques et d'Expertises des Réalisations\" BETER Sénégal — aucune page sur ce bureau ; les résultats sont d'autres bureaux d'études sénégalais aux noms voisins (BETPLUS SAS, BETEC SA betecsa.org, E.TE.C.S., Sahel Ingénierie, Axial Ingénierie, GCBTP)",
+        "R2 : BETER Dakar \"Sicap Mbao\" bureau études email contact — aucune adresse rattachable ; les résultats portent sur la commune de Diamaguène Sicap Mbao, sa mairie, SICAP SA (sicap@sicap.sn, société immobilière sans lien) et des équipements du quartier",
+        "R3 : \"33 834 15 14\" OR \"77 639 77 46\" OR \"77 659 28 40\" Sénégal — aucune page ne cite ces numéros",
+        "R4 : \"BETER\" Sarl Sénégal bureau études expertises réalisations Dakar — aucune occurrence propre à ce bureau (le mot « beter » étant par ailleurs un terme courant en anglais et en néerlandais, les résultats sont sans rapport)",
+        "Adresses probables testées : beter.sn, beter-senegal.com, betersenegal.com, beter.com.sn, beter-sn.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site. Homonymes voisins à ne pas confondre : BETEC SA (betecsa.org) et BET PLUS (betplus-sn.com), sociétés distinctes dont les adresses ne sont pas reprises. Utilisables : un fixe, deux mobiles, un fax et l'adresse de la fiche."
+    },
+    {
+      "nom": "BETP",
+      "sigle": "BETP",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 835 04 84 (numéro donné deux fois sur la fiche)",
+      "adresse": "Parcelle Assainies U 13, Villa N° 159, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants (aucune activité détaillée sur la fiche)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592518-betp-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592518-betp-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun email, aucune activité détaillée (85 vues)",
+        "R1 : \"BETP\" bureau études Sénégal Dakar \"Parcelles Assainies\" — aucune page sur ce bureau ; les résultats portent sur la commune des Parcelles Assainies, sa mairie et d'autres bureaux du quartier (Sahel Géomatique, annuaire topographie d'annuaire-senegal.com)",
+        "R2 : \"BETP\" Dakar email contact bureau d'études travaux publics Sénégal — aucune adresse rattachable ; les résultats sont d'autres sociétés du BTP sénégalais (BETPLUS SAS betplus@betplus-sn.com, BDTP bdtp-sn.com, E.TE.C.S., Optima Ingénierie, AGETIP, annuaires nexpages et spebtps) — aucune de ces adresses n'est reprise, ces sociétés étant distinctes",
+        "R3 : \"33 835 04 84\" OR \"338350484\" — aucune page ne cite ce numéro",
+        "R4 : \"BETP\" Sénégal société — aucune société sénégalaise de ce nom ; uniquement des homonymes français (BETP à La Chapelle-d'Armentières, SARL BETP à Vergèze, BETP à Sacquenay, fiches Pappers et Verif) et, au Sénégal, le seul voisin est Bureau d'Études Techniques Plus (BET-Plus, fiche Devex), société déjà traitée et différente",
+        "Adresses probables testées : betp.sn, betp-senegal.com, betpsenegal.com, betp.com.sn, betp-sn.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site. Sigle très proche de BET PLUS / BETPLUS SAS (fiches 480010 et 592502) : ne pas confondre, l'adresse et le téléphone diffèrent, et l'email de BETPLUS n'est pas repris ici. Utilisables : un fixe et l'adresse de la fiche."
     }
   ]
 }
