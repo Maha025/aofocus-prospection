@@ -1,0 +1,65 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-09-26",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=5",
+  "_methode": "Suite du parcours de la page p=5 de l'annuaire. Pour chaque bureau : fiche goafricaonline, puis son site s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email, R3 téléphone, R4 nom entre guillemets) et enfin des adresses probables en .sn et .com. Aucun email deviné : seulement des adresses lues sur une page citée dans preuve_url.",
+  "bureaux": [
+    {
+      "nom": "BUREAU D'ETUDE DE CONSULTANCE ET EXPERTISE",
+      "sigle": "BECE",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@bece.sn",
+        "becesenegal@bece.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 569 12 53 / (+221) 76 244 12 53 ; fax (+221) 33 842 47 91 (le site présente ce dernier numéro comme téléphone)",
+      "adresse": "Fronterre, Résidence, Liberté 6, Imm. B3 N° 324, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://bece.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet d'études d'impact économique, social et financier : structuration de projets en partenariat public-privé (élaboration de projets structurants, mobilisation de PTF, MoU et contrats commerciaux, prospection économique en Afrique), études préalables de faisabilité (socio-économiques, financières, techniques, impact environnemental et social), plans stratégiques de développement (PSD, contrats de performance, plans d'action, manuels de suivi-évaluation), expertise en gestion d'entreprise (études organisationnelles et institutionnelles, RH, renforcement de capacités, GPEC)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592585-bece-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://bece.sn/contacts/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592585-bece-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers bece.sn, horaires renseignés, aucun email sur la fiche (114 vues). La fiche déclare aussi ses réseaux sociaux : facebook.com/BECE-102987818278548, twitter.com/BeceSenegal, instagram.com/becesenegal221, linkedin.com/in/bece-senegal-5a5239217",
+        "Site du bureau ouvert : https://bece.sn/ — en-tête et pied de page : « Liberté 6, Immeuble B3 N° 324 – Dakar, +221 33 842 47 91, becesenegal@bece.sn », description « Cabinet d'étude d'impact économique, sociale et financière au Sénégal et la sous région », liste détaillée des services",
+        "Page contacts ouverte : https://bece.sn/contacts/ (redirection depuis /contact) — « Adresse Mail contact@bece.sn — Localisation Liberté 6, Immeuble B3 N° 324 – Dakar — Téléphone +221 77 569 12 53 ». Les deux adresses sont relevées ici, l'adresse générique contact@bece.sn en premier",
+        "Identité vérifiée : adresse (Liberté 6, Immeuble B3 n° 324) et téléphones (77 569 12 53, 33 842 47 91) identiques entre la fiche goafricaonline et le site"
+      ],
+      "statut": "a_verifier",
+      "note": "Deux adresses lues sur le site officiel (lien de la fiche goafrica) : contact@bece.sn, donnée comme adresse mail sur la page Contacts, et becesenegal@bece.sn, affichée en en-tête et pied de page. Identité établie par l'adresse postale et les téléphones communs. Cible de tout premier plan pour AOFocus : le cabinet travaille précisément sur les projets PPP, les études de faisabilité, les études d'impact environnemental et social et les plans stratégiques de développement, donc sur des marchés publics. Le numéro présenté comme fax par la fiche est utilisé comme téléphone sur le site."
+    },
+    {
+      "nom": "BUREAU D'ETUDE ET D'APPUI AU DEVELOPPEMENT",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 835 82 38",
+      "adresse": "N°110 Cité Damel, BP 64518, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants ; étude et appui au développement d'après sa raison sociale (aucune activité détaillée sur la fiche)",
+      "fiche_url": "https://www.goafricaonline.com/sn/654033-appui-developpement-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/654033-appui-developpement-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun email, aucune activité détaillée (51 vues ; goafricaonline signale ne pas avoir son email)",
+        "R1 : \"BUREAU D'ETUDE ET D'APPUI AU DEVELOPPEMENT\" Sénégal — aucune page sur ce bureau ; les résultats sont des pages générales sur les bureaux d'études au Sénégal (tegetudes, bureaudetudesafrique, c2aconsulting, Sahel Ingénierie) et des structures d'appui publiques (DASP)",
+        "R2 : \"bureau d'étude et d'appui au développement\" Dakar \"Cité Damel\" email contact — aucune adresse rattachable ; la seule structure identifiée dans ce quartier est Pyramide Consultants (Cité Keur Damel, 77 645 38 73, pyramideconsultants@gmail.com), société distincte dont l'adresse n'est pas reprise",
+        "R3 : \"33 835 82 38\" OR \"338358238\" — aucune page ne cite ce numéro",
+        "R4 : \"BUREAU D'ETUDE ET D'APPUI AU DEVELOPPEMENT\" seul — aucune occurrence sénégalaise ; uniquement des bureaux voisins d'autres pays (BACED au Burkina Faso, BEADEC, BECRD à Ouagadougou, DRIS, I&D)",
+        "Adresses probables testées : bead.sn, bead-sn.com, bead-senegal.com, beadsenegal.com — bead.sn et bead-sn.com répondent mais servent le site d'un autre cabinet, le « Bureau d'Études d'Architecture et de Décoration » (BEAD, 111 rue Joseph Gomis, +221 33 849 19 20, contact@bead.sn) : adresse et téléphone différents de cette fiche, donc aucun rattachement et aucun email repris"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site. Piège d'homonymie écarté : le sigle BEAD et le domaine bead.sn appartiennent au Bureau d'Études d'Architecture et de Décoration (rue Joseph Gomis, contact@bead.sn), cabinet d'architecture sans lien avec ce bureau de la Cité Damel — ni son site ni ses adresses ne sont attribués ici. Utilisables : le fixe et l'adresse de la fiche."
+    }
+  ]
+}
