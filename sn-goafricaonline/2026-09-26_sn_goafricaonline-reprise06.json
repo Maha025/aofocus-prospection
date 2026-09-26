@@ -1,0 +1,125 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-09-26",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "reprise des lots 02 à 06",
+  "_methode": "Pour chaque bureau : fiche goafricaonline (nom, adresse, téléphones, activités, bouton Site web), puis son site s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email, R3 téléphone, R4 nom entre guillemets) et enfin des adresses probables en .sn et .com. Aucun email deviné : seulement des adresses lues sur une page citée dans preuve_url.",
+  "bureaux": [
+    {
+      "nom": "BDA (BA DJIBRIL ET ASSOCIES)",
+      "sigle": "BDA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Yacine BA SALL, directrice générale (citée sur le site institutbda.com)",
+      "emails": [
+        "contact@institutbdasondages.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 822 95 00 ; fax (+221) 33 822 47 00",
+      "adresse": "12, Rue Mohamed V, BP 1529, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "http://institutbda.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Institut de sondage et d'études de marché : enquêtes quantitatives et qualitatives, sondages d'opinion, enquêtes agricoles, ingénierie des transports, formation (société anonyme créée le 11 novembre 1992)",
+      "fiche_url": "https://www.goafricaonline.com/sn/479993-bda-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://institutbda.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/479993-bda-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers www.institutbda.com, aucun email sur la fiche",
+        "Site du bureau : https://www.institutbda.com renvoie 503 et une coupure de connexion en HTTPS ; http://institutbda.com/ répond (HTTP 200) et sert le site « Institut BDA Sondages — Études & Sondages en Afrique depuis 1992 ». Pied de page lu : « Dakar, Sénégal — contact@institutbdasondages.com — +221 33 123 45 67 — © 2026 Institut BDA Sondages — Société Anonyme créée le 11 Novembre 1992 ». Aucun lien mailto, adresse en texte simple",
+        "Pages internes du site testées : /contacts.php, /contact.php, /presse.php, /organigramme.php — toutes en 404 (anciennes pages référencées par les moteurs, disparues après refonte) ; le site actuel est une page unique avec une section Contact en ancre",
+        "R1 : \"BA DJIBRIL ET ASSOCIES\" BDA Sénégal — confirme l'identité : institut sénégalais de sondage fondé le 11/11/1992 par Yacine BA (ex-BVA Afrique) et Djibril LY ; fiche Pages Jaunes du Sénégal (pagesjaunesdusenegal.com/pages/fiche.php?k=989, ouverte : 404 aujourd'hui), fiche goafricaonline, pages institutbda.com",
+        "R2 : \"Institut BDA\" OR \"Ba Djibril\" Dakar email contact — pages LinkedIn (sn.linkedin.com/company/institutbda), Facebook (Institut BDA Sondages et Etudes de Marchés), annuaires yelu.sn et sn.africabz.com (ouverte : 403 Forbidden), rocketreach. Les moteurs citent une adresse bda@institutbda.com et un fixe +221 33 825 68 57 (Point E, Rue de Louga x Rue 8) mais aucune page ouvrable ne l'affiche : adresse non retenue faute de preuve lisible",
+        "R3 : \"33 822 95 00\" OR \"338229500\" Dakar BDA — aucune page ne cite le numéro de la fiche",
+        "Adresses probables testées : institutbdasondages.com, institutbda.sn, bda.sn — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact@institutbdasondages.com lu tel quel dans le pied de page du site officiel (lien de la fiche goafrica), mais à contrôler avant tout envoi : le domaine institutbdasondages.com ne résout pas et la même ligne affiche un téléphone manifestement fictif (+221 33 123 45 67), signe d'un gabarit non renseigné. Les moteurs attribuent par ailleurs à ce bureau bda@institutbda.com et le fixe +221 33 825 68 57 (Point E, Rue de Louga x Rue 8) : non repris, aucune page ouvrable ne les affiche. Coordonnées sûres : fixe, fax et adresse de la fiche."
+    },
+    {
+      "nom": "BEMCD-SOLUTION (BUREAU D'ETUDES MANAGERIALES ET CONSEIL EN DEVELOPPEMENT)",
+      "sigle": "BEMCD-SOLUTION",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 236 58 98",
+      "adresse": "910, HLM Grand Médine, BP 11906, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants : études managériales et conseil en développement (aucune activité détaillée sur la fiche)",
+      "fiche_url": "https://www.goafricaonline.com/sn/480026-bemcd-solution-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480026-bemcd-solution-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers www.bemcd.baobabtic.net, aucun email sur la fiche",
+        "Site indiqué par la fiche : http://bemcd.baobabtic.net/ ne résout pas ; le domaine parent http://baobabtic.net/ ne résout pas non plus (hébergeur associatif disparu). Site non consultable, donc non retenu",
+        "R1 : \"BUREAU D'ETUDES MANAGERIALES ET CONSEIL EN DEVELOPPEMENT\" Sénégal — ne renvoie que la fiche goafricaonline et des pages d'autres bureaux d'études sénégalais (tegetudes.com, bureaudetudesafrique.com, c2aconsulting.org, dceg.sn, liste des consultants de la BMN) ; aucune page propre à ce bureau",
+        "R2 : BEMCD Dakar email contact bureau d'études — une seule page propre au bureau : fiche annuaire Business-Senegal.com (http://www.business-senegal.com/fre/Entreprises/profilent/_18590), ouverte : la fiche n'est pas accessible sans compte (la page servie est l'écran de connexion de l'annuaire), donc aucun email lisible. Les autres résultats concernent BEAD (bead.sn), BEM Dakar (bem.sn), sans lien",
+        "R3 : \"77 236 58 98\" OR \"772365898\" Sénégal — aucune page ne cite ce numéro",
+        "R4 : \"BEMCD\" — homonymes sans rapport : méthode statistique BEMCD (FastMCD), série de vidéos YouTube « MCQ I BEMCD », compte Twitter @bemcd ; la seule occurrence sénégalaise reste la fiche Business-Senegal citée en R2",
+        "Adresses probables testées : bemcd.sn, bemcd.com, bemcd-solution.com, bemcdsolution.com, bemcd-solution.sn — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email. Le site donné par la fiche (bemcd.baobabtic.net) n'existe plus, son hébergeur baobabtic.net ayant lui aussi disparu ; aucun site de remplacement trouvé. Une fiche annuaire propre au bureau existe sur Business-Senegal.com mais elle est derrière une page de connexion, non franchie. Utilisables : le mobile et l'adresse de la fiche."
+    },
+    {
+      "nom": "BENTER CONSULTING (BENTER CONSULTING)",
+      "sigle": "BENTER CONSULTING",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 522 02 75",
+      "adresse": "Rue 11 X 12 Médina, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants (aucune activité détaillée sur la fiche)",
+      "fiche_url": "https://www.goafricaonline.com/sn/480075-benter-consulting-benter-consulting-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480075-benter-consulting-benter-consulting-dakar-senegal — aucun bouton « Site web », aucun email",
+        "R1 : \"BENTER CONSULTING\" Sénégal — aucune page sur ce cabinet ; seuls des répertoires généraux de consultants au Sénégal (consultancy.africa, expat.com, bmn.sn/liste-des-consultants) et une société homonyme américaine (Benter Consulting LLC, Keller, Texas, fiche Buzzfile)",
+        "R2 : \"Benter\" consulting Dakar Médina email contact — aucune adresse rattachable ; les résultats sont des homonymes étrangers (Benter Consulting LLC au Texas, Benter Consulting GmbH à Munich, Bente Consulting ApS au Danemark, Benter Foundation, un contact personnel Benjamin Benter) et des listes de consultants dakarois sans ce nom",
+        "R3 : \"77 522 02 75\" OR \"775220275\" — aucune page ne cite ce numéro",
+        "R4 : \"BENTER CONSULTING\" seul (voir R1) — les seules occurrences sont les homonymes américain, allemand et danois ; rien au Sénégal",
+        "Adresses probables testées : benter.sn, benterconsulting.sn, benter-consulting.sn — ne résolvent pas ; benterconsulting.com et benter-consulting.com répondent mais ne servent qu'une redirection vers /lander (domaines parqués, sans contenu)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site. Homonymes à ne pas confondre : Benter Consulting LLC (Texas), Benter Consulting GmbH (Munich), Bente Consulting (Danemark) — aucune coordonnée reprise, ces sociétés n'ayant aucun lien avec Dakar. Utilisables : le mobile et l'adresse de la fiche."
+    },
+    {
+      "nom": "BERKSHIRE LOGISTICS",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Lamine Gueye (contact cité par l'annuaire CargoYellowPages)",
+      "emails": [
+        "berkshirelogistics@hotmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 784 21 75",
+      "adresse": "11 rue Malan X, Bd El Hadj Djily Mbaye - Dakar-Plateau",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Transitaire et logistique : transit, dédouanement, fret maritime, entreposage (entrepôt agréé), assistance aux formalités douanières au port de Dakar ; en activité depuis 2007",
+      "fiche_url": "https://www.goafricaonline.com/sn/782851-berkshire-logistics",
+      "preuve_url": "https://www.cargoyellowpages.com/en/senegal/dakar/freight-forwarders-berkshire-logistics-38841.html",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782851-berkshire-logistics — deux sites indiqués (bklogisticssn.business.site et www.berkshire-logistics.com), aucun email",
+        "Sites indiqués par la fiche : https://www.berkshire-logistics.com/ répond (HTTP 200) mais n'est qu'une page de domaine parqué (« This domain may be for sale »), sans contenu ni contact ; https://bklogisticssn.business.site/ renvoie 404, de même que https://berkshire-logistics.business.site/ (fiche Google My Business supprimée). Aucun site propre retenu",
+        "R1 : \"Berkshire Logistics\" Sénégal Dakar — confirme l'identité (transitaire de Dakar, même téléphone +221 77 784 21 75) : fiches JCtrans, Tera Logistics, CargoYellowPages, Courierslist, CargoDirectory, page Facebook officielle facebook.com/berkshirelogisticssenegal",
+        "R2 : \"Berkshire Logistics\" Dakar email contact transit — ouvert https://www.cargoyellowpages.com/en/senegal/dakar/freight-forwarders-berkshire-logistics-38841.html : affiche « BERKSHIRE LOGISTICS, Rue PL 23 Dakar 35169, +221777842175, contact Lamine Gueye, email berkshirelogistics@hotmail.com, Skype berkshirelogistics » — email retenu (téléphone identique à la fiche). Ouvert aussi https://www.teralogistics.com/forwarder/berkshire-logistics/ : même société (Rue PL 23, +221777842175, fondée en 2007) mais son email est masqué par la protection Cloudflare (email-protection) — non décodé, donc non relevé. https://www.courierslist.com/detail/senegal/dakar/freight-forward/768039/berkshire-logistics : erreur 500. https://www.jctrans.com/en/store/home/d13bb511a44dc94d3f1afdeabc0e215e : erreur 418 (accès refusé aux robots)",
+        "R3 : \"77 784 21 75\" OR \"+221777842175\" Dakar — le numéro est bien rattaché à Berkshire Logistics (Rue PL 23, Dakar) par les annuaires de fret, ce qui confirme l'identité",
+        "R4 : \"BERKSHIRE LOGISTICS\" — aucune confusion possible au Sénégal : toutes les occurrences dakaroises désignent ce transitaire ; à distinguer de « Berkshire Seatrans » (autre fiche, Africa Business Directory)",
+        "Adresses probables : inutile de tester, le domaine berkshire-logistics.com existe déjà mais est parqué"
+      ],
+      "statut": "a_verifier",
+      "note": "Email berkshirelogistics@hotmail.com lu tel quel sur la fiche CargoYellowPages, rattaché au même téléphone que la fiche goafricaonline : identité établie. Une deuxième adresse (bklogistics22@gmail.com) est citée par les moteurs mais n'apparaît sur aucune page ouvrable — non reprise. L'adresse email de la fiche Tera Logistics est masquée par une protection Cloudflare : non décodée, comptée comme absente. Les deux sites annoncés par la fiche goafrica sont morts (domaine parqué et fiche Google supprimée). À noter que l'activité réelle est le transit et la logistique, pas l'étude ou le conseil : à trier selon la cible de prospection. Adresse postale divergente selon les sources : 11 rue Malan x Bd El Hadj Djily Mbaye (fiche goafrica) ou Rue PL 23 (annuaires de fret)."
+    }
+  ]
+}
