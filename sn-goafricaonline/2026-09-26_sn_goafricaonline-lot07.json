@@ -330,6 +330,61 @@
       ],
       "statut": "a_verifier",
       "note": "Email contact@bezenprojet.com lu sur le site officiel (lien de la fiche goafrica) ; identité établie par l'adresse et le mobile communs. Seul bureau de ce lot situé hors Dakar (Saly Portudal, Petite Côte). Le site n'est accessible qu'en HTTP, son certificat HTTPS ne répondant pas. Deux numéros supplémentaires figurent sur le site (33 901 43 16 et un mobile français), tandis que le fixe de la fiche (33 926 20 23) n'y apparaît pas."
+    },
+    {
+      "nom": "BG Empire",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 429 26 26",
+      "adresse": "2 - Grand Yoff Dakar, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants (aucune activité détaillée sur la fiche ; ouvert du lundi au vendredi 08H30-18H00)",
+      "fiche_url": "https://www.goafricaonline.com/sn/782888-bg-empire",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782888-bg-empire — bouton « Site web » vers www.bgempire.com, horaires renseignés, aucun email (19 vues, fiche récente ; goafricaonline signale ne pas avoir son email)",
+        "Site indiqué par la fiche : http://www.bgempire.com/ redirige vers HugeDomains — « BgEmpire.com is for sale » : le nom de domaine est en vente, il n'y a aucun site du bureau. Non retenu",
+        "R1 : \"BG Empire\" Sénégal Dakar Grand Yoff — aucune page sur cette société ; les résultats portent sur le quartier de Grand Yoff et son hôpital",
+        "R2 : \"BG Empire\" Dakar email contact société conseil — aucune adresse rattachable ; les résultats concernent d'autres sociétés (Empire Général Trading, contact@empiregt.com, Yoff Virage — nom voisin mais société distincte, non reprise ; BGFIBank Sénégal)",
+        "R3 : \"77 429 26 26\" OR \"774292626\" Sénégal — aucune page ne cite ce numéro (le préfixe 77 429 est une plage mobile Sonatel/Orange)",
+        "R4 : \"BG Empire\" seul — uniquement des homonymes étrangers : BG Empire Investment & Acquisitions Corp. et BG Empire Corp. (Floride), comptes Instagram, boutique en ligne ; rien au Sénégal",
+        "Adresses probables testées : bgempire.sn, bg-empire.com, bgempire-sn.com, bgempire.africa — aucune ne résout (bgempire.com existe mais est en vente)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email. Fiche récente et peu renseignée (19 vues, aucune activité décrite) dont le site annoncé est en réalité un domaine mis en vente : présence en ligne inexistante. Ne pas confondre avec Empire Général Trading (Yoff Virage), dont l'adresse email n'est pas reprise. Utilisables : un mobile et l'adresse de la fiche."
+    },
+    {
+      "nom": "BICHRIE CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 102 90 04 (standard)",
+      "adresse": "Dakar - 11000 - Sénégal (aucune rue indiquée sur la fiche)",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Consultance : rédaction de business plans, de plans stratégiques et de plans locaux de développement, formation en gestion de projet et MS-Project",
+      "fiche_url": "https://www.goafricaonline.com/sn/578512-bichrie-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/578512-bichrie-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — activité décrite par le bureau, horaires renseignés, aucun bouton « Site web », aucun email, adresse réduite à « Dakar - 11000 » (88 vues)",
+        "R1 : \"Bichrie Consulting\" Sénégal — aucune page propre au cabinet ; le moteur ne fait que reprendre la description de la fiche goafricaonline (en ajoutant une localisation « Avenue Bourguiba, Dakar » non vérifiable sur une page ouvrable) et renvoie des répertoires de consultants (consultancy.africa, expat.com, enterpriseleague, SenPages)",
+        "R2 : \"Bichrie\" Dakar email contact business plan consultance — aucune adresse rattachable ; les résultats sont d'autres cabinets dakarois du même créneau (Cabinet MBS contacts.mbs@gmail.com, Cabinet Carrée contact@ccarree.com, AD Conseils) — adresses non reprises, sociétés distinctes",
+        "R3 : \"77 102 90 04\" OR \"771029004\" — aucune page ne cite ce numéro",
+        "R4 : \"BICHRIE CONSULTING\" seul — aucune occurrence : le moteur ne propose que des noms voisins étrangers (BI Consulting, Birgey Consulting en Thaïlande, Briie Consulting, BICTX Global Consulting)",
+        "Adresses probables testées : bichrie.com, bichrie.sn, bichrieconsulting.com, bichrie-consulting.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site. La fiche ne donne aucune rue ; les moteurs mentionnent une « Avenue Bourguiba » sans page consultable pour l'étayer, donc non retenue. Activité pourtant proche de la cible AOFocus (business plans, plans stratégiques, plans locaux de développement, formation en gestion de projet) : à joindre par téléphone. Utilisable : le mobile standard."
     }
   ]
 }
