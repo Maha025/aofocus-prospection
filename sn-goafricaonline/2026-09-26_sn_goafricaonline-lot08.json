@@ -253,6 +253,33 @@
       ],
       "statut": "a_verifier",
       "note": "Email info@bureaugaudillat.com lu sur le site officiel, trouvé par recherche web (la fiche goafrica n'indique aucun site) ; identité établie par l'adresse 516 Sicap Baobabs et le fixe 33 864 79 52 communs. Bureau d'études de structures ancien (1965) travaillant notamment sur des constructions gouvernementales, scolaires et universitaires : très bonne cible pour la veille d'appels d'offres. Un mobile supplémentaire figure sur le site (77 433 62 70). Les agrégateurs de contacts publient des adresses nominatives du même domaine, volontairement masquées : non reprises."
+    },
+    {
+      "nom": "BUREAU VERITAS",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Malick Diop, directeur général (cité par l'annuaire Eurocham Sénégal)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 865 12 20 / (+221) 77 638 70 16 ; fax (+221) 33 864 05 72",
+      "adresse": "Mermoz Pyrotechnique Vdn X Ancienne Piste, BP 592, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.bureauveritas.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Essais, inspection et certification (groupe Bureau Veritas, filiale Bureau Veritas Senegal SAU, couvrant aussi le Mali, la Mauritanie et la Guinée-Bissau) : contrôle technique de construction, qualité, sécurité, environnement et responsabilité sociale ; certifié ISO 9001, ISO 14001 et OHSAS 18001. Second site à Hann, route du Front de Terre (centre de contrôle technique)",
+      "fiche_url": "https://www.goafricaonline.com/sn/480044-bureau-veritas-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480044-bureau-veritas-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers www.bureauveritas.com, horaires renseignés, aucun email (145 vues)",
+        "Sites du groupe ouverts : https://www.bureauveritas.sn/ redirige vers https://www.bureauveritas.africa/ ; page contact du site Afrique (https://www.bureauveritas.africa/contact-us) ouverte : elle ne propose qu'un formulaire, aucune adresse email n'y est publiée. Pages « contactez-nous » de group.bureauveritas.com et bureauveritas.com ouvertes également (redirigées vers /fr/SafeGuard-contactez-nous) : aucune adresse email affichée",
+        "R1 : \"Bureau Veritas\" Sénégal Dakar contact email agence — confirme l'entité locale (Bureau Veritas Senegal SAU, VDN x ancienne piste Mermoz Pyrotechnique, BP 592, 33 865 12 20, DG Malick Diop) via Eurocham Sénégal, SenPages, annuaire-senegal, yelu, piaafrica, ZoomInfo ; aucune adresse email publiée",
+        "R2/R3 : \"Bureau Veritas\" Dakar \"33 865 12 20\" OR \"Mermoz Pyrotechnie\" contact — ouvert https://www.eurocham.sn/annuaire-des-membres/bureau-veritas-senegal-sau/ : mêmes adresse, téléphone et site que la fiche, DG Malick Diop, aucun email. Ouvert https://www.preventica-africa.com/bureau-veritas-senegal/ : donne les deux implantations dakaroises (siège Mermoz VDN angle Pyrotechnie ; centre de contrôle technique à Hann, route du Front de Terre, ex TP SOM) mais la seule adresse email de la page (international@preventica.com) est celle de l'organisateur du salon, non reprise",
+        "R4 : \"Bureau Veritas Senegal\" — pages du groupe (bureauveritas.sn, bureauveritas.africa, actualités sur la certification « Green Terminal » du port de Dakar et une mission de contrôle technique pour West African Energy), fiches info-clipper et ZoomInfo, page Facebook Bureau Veritas Senegal : aucune adresse email lisible",
+        "Adresses probables : inutile de tester, les domaines du groupe (bureauveritas.com, bureauveritas.sn, bureauveritas.africa) sont connus et ont été ouverts"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : le groupe ne publie que des formulaires de contact sur ses sites (y compris bureauveritas.sn, qui redirige vers son portail Afrique), et aucune fiche annuaire ouvrable n'affiche d'adresse. Filiale d'un groupe international coté, très active sur les marchés sénégalais (contrôle technique de construction, certifications) : joignable par téléphone ou via son formulaire, mais à traiter comme un grand compte plutôt que comme un bureau d'études local. Deux implantations à Dakar : siège à Mermoz VDN et centre de contrôle technique à Hann."
     }
   ]
 }
