@@ -197,6 +197,34 @@
       ],
       "statut": "a_verifier",
       "note": "Email contact@bmn.sn lu sur la page contact du site officiel (lien de la fiche goafrica) ; identité établie par l'adresse et le fixe communs. Attention à la nature de la structure : le BMN n'est pas un cabinet privé mais le Bureau de Mise à niveau du Sénégal, programme public d'appui aux entreprises. Intérêt particulier pour AOFocus : son site publie la liste des consultants agréés par le programme (https://www.bmn.sn/liste-des-consultants/), source à exploiter lors d'un prochain passage pour élargir la liste de prospection."
+    },
+    {
+      "nom": "BUREAU ECONOMIQUE ET COMMERCIAL DE L´AMBASSADE D´ESPAGNE AU SENEGAL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Daniel Jacobo Orea, conseiller économique et commercial (chef de bureau)",
+      "emails": [
+        "dakar@comercio.mineco.es"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 821 68 03 / (+221) 33 821 49 66 ; sources officielles : téléphone +221 33 889 23 60, fax +221 33 821 49 66",
+      "adresse": "3-5, 2º Etage, Avenue Carde, Dakar-Plateau, Dakar - Sénégal (BP 4146)",
+      "ville": "Dakar",
+      "site_web": "https://www.icex.es/es/quienes-somos/donde-estamos/red-exterior-de-comercio/SN/contacto/nuestras-oficinas/dakar",
+      "site_source": "recherche web",
+      "specialite": "Bureau économique et commercial de l'ambassade d'Espagne (Oficina Económica y Comercial) : appui à l'internationalisation des entreprises espagnoles et à l'attraction d'investissements, compétent pour le Sénégal, la Gambie, le Cap-Vert, la Guinée-Bissau, la Mauritanie et le Mali ; service du réseau extérieur de l'ICEX",
+      "fiche_url": "https://www.goafricaonline.com/sn/384991-bureau-economique-et-commercial-de-l-ambassade-d-espagne-au-senegal-dakar-senegal",
+      "preuve_url": "https://www.exteriores.gob.es/Embajadas/dakar/es/Embajada/Paginas/Contacto.aspx",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/384991-bureau-economique-et-commercial-de-l-ambassade-d-espagne-au-senegal-dakar-senegal — aucun bouton « Site web », aucun email (862 vues)",
+        "R1/R2 : Oficina Económica y Comercial de España en Dakar ICEX contacto email — mène aux deux sources officielles ci-dessous ainsi qu'à la page LinkedIn du bureau",
+        "Page officielle de l'ambassade d'Espagne ouverte : https://www.exteriores.gob.es/Embajadas/dakar/es/Embajada/Paginas/Contacto.aspx — rubrique « Oficina Económica y Comercial / Bureau Economique et Commercial : 3-5, Avenue Carde, 2ème étage, BP 4146, Plateau, Dakar — Teléfono +221 33 889 23 60 — Fax +221 33 821 49 66 — Correo electrónico dakar@comercio.mineco.es — Consejero Económico y Comercial : Daniel Jacobo Orea ». Email relevé ici",
+        "Page officielle ICEX ouverte : https://icex.es/es/quienes-somos/donde-estamos/red-exterior-de-comercio/SN/contacto/nuestras-oficinas/dakar — confirme « Oficina Económica y Comercial de la Embajada de España en Dakar, Carde 3-5 Dakar B.P. 4146, +221 33 889 23 60, horaires lundi-vendredi 8h00-15h30, responsable Daniel Jacobo Orea » ; l'email n'y est pas affiché (formulaire de contact), seule l'adresse générale informacion@icex.es y figure et n'est pas reprise",
+        "Identité vérifiée : adresse (3-5 Avenue Carde, 2e étage, Plateau) et fax +221 33 821 49 66 identiques entre la fiche goafricaonline et les pages officielles"
+      ],
+      "statut": "a_verifier",
+      "note": "Email dakar@comercio.mineco.es lu sur la page « Direcciones y teléfonos » de l'ambassade d'Espagne au Sénégal ; identité établie par l'adresse Avenue Carde et le fax communs. Attention à la nature de la structure : ce n'est pas un bureau d'études privé mais un service diplomatique espagnol, mal classé par l'annuaire — sans intérêt direct pour une prospection de bureaux d'études sénégalais, à écarter de la cible commerciale. Le téléphone officiel (33 889 23 60) diffère des deux numéros de la fiche, dont l'un (33 821 49 66) est en réalité le fax."
     }
   ]
 }
