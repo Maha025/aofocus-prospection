@@ -494,6 +494,60 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email : la seule présence en ligne propre au cabinet est sa page Facebook (facebook.com/ballebounama), inaccessible sans compte — non franchie, donc comptée comme absente. Responsable identifiée par LinkedIn (Ndeye B. Ndiaye), page non ouverte. Ne pas confondre avec NB Consulting SARL (centre d'appels), BND Consulting (expertise comptable, autre fiche de ce lot) ni B&K Consulting. Utilisable : le mobile de la fiche."
+    },
+    {
+      "nom": "BND CONSULTING SARL",
+      "sigle": "BND",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 889 51 89 ; fax (+221) 33 821 60 20",
+      "adresse": "26 Rue Vincens x Escarfait, BP 50711, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Cabinet indépendant d'audit, de fiscalité et de conseil (créé en 2005, interventions au Sénégal et en Afrique de l'Ouest, d'après les annuaires professionnels)",
+      "fiche_url": "https://www.goafricaonline.com/sn/653813-bnd-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/653813-bnd-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — horaires renseignés, aucun bouton « Site web », aucun email (112 vues)",
+        "R1 : \"BND Consulting\" Sénégal expertise comptable audit Dakar — aucune page propre au cabinet ; les résultats sont d'autres cabinets dakarois (CECA, Moore, Proxima, Dynamiques, E2C, AD Conseils, KPMG) et l'ONECCA",
+        "R2 : \"BND Consulting\" Dakar \"Rue Vincens\" email contact — la fiche d'annuaire privatebanking.com (directory/africa-senegal-dakar/holdings/bnd-consulting) est la seule à le décrire (« fondé en 2005, cabinet d'audit, fiscalité et conseil indépendant au Sénégal et en Afrique de l'Ouest ») : ouverte, elle renvoie HTTP 410 Gone, plus aucun contenu. Les autres « BND Consulting » sont étrangers (bnd.consulting, bndconsulting.com.au, BND Consulting Group sur Clutch, page LinkedIn homonyme) et une adresse voisine de la rue Vincens (27 rue Vincens, 33 823 13 99, publiée sur Instagram) concerne une autre société",
+        "R3 : \"33 889 51 89\" OR \"33 821 60 20\" Dakar — aucune page ne rattache ces numéros au cabinet (le premier est cité ailleurs pour un laboratoire d'analyses de Dakar, ce qui ne correspond pas : piste écartée)",
+        "R4 : \"BND CONSULTING\" Sénégal ONECCA cabinet membre — le cabinet n'apparaît pas dans les résultats sur l'annuaire de l'Ordre national des experts comptables ; l'annuaire public de l'ONECCA a été interrogé directement (5 pages de trouver-une-societe-d-expertise-comptable-au-senegal) mais le site renvoie 404 sur ces adresses, vérification impossible",
+        "Adresses probables testées : bnd.sn, bndconsulting.sn, bnd-consulting.sn, bndconsulting-sn.com, bnd-sn.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site accessible. La seule fiche qui décrivait le cabinet (privatebanking.com) a été retirée (410 Gone). Plusieurs homonymes étrangers portent ce nom (Australie, États-Unis, bnd.consulting) : aucune de leurs coordonnées n'est reprise. Ne pas confondre non plus avec BN CONSULTING (autre fiche de ce lot). Utilisables : un fixe, un fax et l'adresse du Plateau."
+    },
+    {
+      "nom": "BUREAU D'APPUI A L'ENTREPRENEURIAT EN AFRIQUE",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 278 19 12",
+      "adresse": "Boulevard du canal IV, BP 75000 Dakar, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants ; appui à l'entrepreneuriat d'après sa raison sociale (aucune activité détaillée sur la fiche)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592670-appui-entrepreneuriat-en-afrique-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592670-appui-entrepreneuriat-en-afrique-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun email, aucune activité détaillée (82 vues ; goafricaonline signale ne pas avoir son email)",
+        "R1 : \"BUREAU D'APPUI A L'ENTREPRENEURIAT EN AFRIQUE\" Sénégal — aucune page sur cette structure ; les résultats portent sur des programmes et institutions d'appui à l'entrepreneuriat (MEET Africa, LAB'ECD, DER/FJ, ADEPME, APIX, FAISE, Fondation Espace Afrique), sans lien établi",
+        "R2 : \"appui à l'entrepreneuriat en Afrique\" Dakar \"Boulevard du canal\" email contact bureau — aucune adresse rattachable ; les structures trouvées sont d'autres organismes dakarois (CTIC Dakar contact@cticdakar.com, Réseau Entreprendre Dakar dakar@reseau-entreprendre.org) — adresses non reprises, entités distinctes",
+        "R3 : \"77 278 19 12\" OR \"772781912\" — aucune page ne cite ce numéro",
+        "R4 : \"Bureau d'Appui à l'Entrepreneuriat\" Dakar Sénégal société conseil — le nom ne renvoie qu'au « Bureau d'appui à la Création d'Entreprise » (BCE) de l'APIX, guichet public sans rapport avec cette société privée, et à d'autres cabinets (CAPER SAS, Elite Capital)",
+        "Adresses probables testées : baea.sn, baea-afrique.com, bureauappuientrepreneuriat.com, baea.africa — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site : structure sans présence en ligne hors goafricaonline, qui indique lui-même ne pas disposer de son email. Ne pas confondre avec le Bureau d'appui à la Création d'Entreprise (BCE) de l'APIX, service public homonyme. Utilisables : le mobile et l'adresse de la fiche."
     }
   ]
 }
