@@ -116,6 +116,60 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email et aucun site. Le bureau ne figure pas dans la partie exploitable de la liste officielle des bureaux agréés pour les études d'impact (Direction de l'environnement, juillet 2022) : l'extraction du texte de ce PDF étant partielle, cette absence n'est pas une preuve définitive et la liste reste une piste à reprendre pour trouver son email. Cette même liste publie en revanche les emails de nombreux bureaux d'études sénégalais agréés : source utile pour les prochains passages. Utilisables : le mobile et l'adresse de la fiche."
+    },
+    {
+      "nom": "BUREAU D'ETUDES DEV.DOC",
+      "sigle": "DEV.DOC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 142 49 00",
+      "adresse": "73-74 Sicap Zac Mbao, BP 14462, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants (aucune activité détaillée sur la fiche)",
+      "fiche_url": "https://www.goafricaonline.com/sn/480077-bureau-etudes-dev-doc-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480077-bureau-etudes-dev-doc-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun email, aucune activité détaillée (141 vues)",
+        "R1 : \"DEV.DOC\" OR \"DEV DOC\" bureau d'études Sénégal Dakar — aucune page sur ce bureau ; uniquement des pages générales sur les bureaux d'études sénégalais (E.TE.C.S., TEG, Groupe CDE, lespagesjaunesafrique)",
+        "R2 : \"Dev Doc\" Dakar \"Zac Mbao\" bureau études email contact — aucune adresse rattachable ; les résultats concernent d'autres structures de la ZAC Mbao (Groupe ISC-IMTC-SP contact@groupeisc-imtc-sp.com, poste de santé, coopérative de santé) — adresses non reprises",
+        "R3 : \"77 142 49 00\" OR \"771424900\" — aucune page ne cite ce numéro",
+        "R4 : \"BUREAU D'ETUDES DEV.DOC\" seul — aucune occurrence : le moteur ne renvoie que des pages génériques sur la notion de bureau d'études et des cabinets français (ATE dev, Iram Développement)",
+        "Adresses probables testées : devdoc.sn, dev-doc.sn, devdoc-sn.com, devdocsenegal.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site : bureau sans présence en ligne hors goafricaonline. La chaîne « dev.doc » ressemblant à un nom de fichier, les recherches sont très bruitées ; les quatre requêtes ont néanmoins été menées avec les variantes utiles. Utilisables : le mobile et l'adresse de la fiche."
+    },
+    {
+      "nom": "BUREAU D'ETUDES SAIDOU DIALLO",
+      "sigle": "BESD",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Saidou Diallo, propriétaire et directeur général (d'après son profil LinkedIn, non ouvert)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 860 86 59",
+      "adresse": "62, Mamelles Aviation, BP 6244, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureau d'études bâtiment, éclairage et énergies renouvelables (énergie solaire), d'après la fiche SenPages ; travaux publics et études de construction",
+      "fiche_url": "https://www.goafricaonline.com/sn/592477-saidou-diallo-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592477-saidou-diallo-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun email, aucune activité détaillée (72 vues)",
+        "R1 : \"BUREAU D'ETUDES SAIDOU DIALLO\" Sénégal — deux fiches d'annuaire propres au bureau : Business-Senegal.com (profilent/_16021, plateforme accessible seulement après connexion, non franchie) et SenPages ; le reste concerne des homonymes (professeur à l'UCAD, actuaire chez PwC)",
+        "R2 : \"Saidou Diallo\" bureau études Dakar \"Mamelles Aviation\" email contact — ouvert https://www.senpages.com/entreprise/bureau-detude-saidou-diallo/ : « Bureau d'étude Saidou Diallo, 62 Mamelles Aviation, Dakar, +221 33 860 86 59, activités bâtiment, éclairage, énergie et énergie solaire renouvelable » — mêmes adresse et téléphone que la fiche goafricaonline, mais ni site ni email affichés",
+        "R3 : \"33 860 86 59\" OR \"338608659\" Dakar — aucune autre page ne cite ce numéro",
+        "R4 : \"besd\" Saidou Diallo Sénégal bureau études éclairage énergie solaire — confirme le sigle BESD et le rôle de Saidou Diallo (propriétaire, DG) via son profil LinkedIn (non ouvert, LinkedIn exigeant une connexion) ; aucune page ne publie d'email",
+        "Adresses probables testées : besd.sn, besd-sn.com, besaidoudiallo.com, bureaudetudessaidoudiallo.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site. Identité et coordonnées confirmées par une deuxième source (SenPages : même adresse, même fixe). Activité utile à noter pour la prospection : bâtiment, éclairage public et énergie solaire, donc marchés publics d'électrification. La fiche Business-Senegal du bureau est derrière une page de connexion, non franchie : piste restante pour un email. Utilisables : le fixe et l'adresse."
     }
   ]
 }
