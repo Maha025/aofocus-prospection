@@ -60,6 +60,62 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email et aucun site. Piège d'homonymie écarté : le sigle BEAD et le domaine bead.sn appartiennent au Bureau d'Études d'Architecture et de Décoration (rue Joseph Gomis, contact@bead.sn), cabinet d'architecture sans lien avec ce bureau de la Cité Damel — ni son site ni ses adresses ne sont attribués ici. Utilisables : le fixe et l'adresse de la fiche."
+    },
+    {
+      "nom": "BUREAU D'ETUDES D'ARCHITECTURE ET DE DECORATION",
+      "sigle": "BEAD",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@bead.sn",
+        "bead@orange.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 849 19 20 ; sur son site : (+221) 71 019 12 12",
+      "adresse": "Immeuble ABIENA, 111, Rue Joseph Gomis ex Bayeux, BP 2789, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://bead.sn",
+      "site_source": "adresse probable vérifiée",
+      "specialite": "Cabinet d'architecture, d'études techniques et de décoration : maîtrise d'œuvre et suivi de chantier, construction, rénovation, décoration intérieure (44 ans d'activité revendiqués ; chantiers cités : siège annexe SONATEL à Diamniadio)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592482-architecture-decoration-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://bead.sn/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592482-architecture-decoration-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun email (63 vues)",
+        "Adresse probable testée et vérifiée : bead.sn (également joignable par bead-sn.com) répond et sert « BEAD - Bureau d'Études d'Architecture et de Décoration », cabinet d'architecture de Dakar",
+        "Page contact du site ouverte : https://bead.sn/contact/ — « 111, Rue Joseph Gomis Dakar, SÉNÉGAL, 3e étage de l'immeuble ABIENA — +221 33 849 19 20 — +221 71 019 12 12 — contact@bead.sn » et, dans le bloc Adresse du bas de page, « Email bead@orange.sn ». Les deux adresses sont relevées ici",
+        "Identité vérifiée : nom développé, immeuble ABIENA, 111 rue Joseph Gomis et fixe 33 849 19 20 identiques entre la fiche goafricaonline et le site — même société",
+        "R1 (menée lors du traitement de la fiche 654033, de sigle voisin) : le site bead.sn appartient bien à ce cabinet d'architecture et non au « Bureau d'étude et d'appui au développement » de la Cité Damel, dont l'adresse et le téléphone diffèrent"
+      ],
+      "statut": "a_verifier",
+      "note": "Deux adresses lues sur le site officiel, trouvé en testant les adresses probables (la fiche goafrica n'indique aucun site) : contact@bead.sn, donnée en en-tête de la page Contact, et bead@orange.sn dans son bloc Adresse. Identité établie par le nom, l'immeuble et le fixe communs. Cabinet ancien et actif sur de gros chantiers (siège annexe SONATEL à Diamniadio) : bonne cible pour les marchés de maîtrise d'œuvre. Ne pas confondre avec le Bureau d'étude et d'appui au développement (fiche 654033), de sigle voisin."
+    },
+    {
+      "nom": "BUREAU D'ETUDES DE CONSEIL EN ENVIRONNEMENT ET SECURITE",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 436 57 48",
+      "adresse": "Cité Mame Rane, Villa bis, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Étude, conseil et formation en environnement et sécurité",
+      "fiche_url": "https://www.goafricaonline.com/sn/654035-environnement-securite-bureaux-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/654035-environnement-securite-bureaux-conseils-consultants-dakar-senegal — activité indiquée (« Etude, conseil, formation »), horaires renseignés, aucun bouton « Site web », aucun email (102 vues)",
+        "R1 : \"BUREAU D'ETUDES DE CONSEIL EN ENVIRONNEMENT ET SECURITE\" Sénégal — aucune page sur ce bureau ; les résultats sont d'autres bureaux d'études environnementales sénégalais (SENTECH, TERRA Consulting, Synergie Environnement, TROPIS, Sylvatrop, BEIEC, EGS) et la page des bureaux agréés de la Direction de l'environnement",
+        "R2 : bureau études conseil environnement sécurité Dakar \"Cité Mame Rane\" email contact — aucune adresse rattachable ; la seule société identifiée dans cette cité est Satracons (Lot n° 08, Cité Mame Rane, satracons2008@gmail.com, 33 865 01 86) — société distincte, adresse non reprise",
+        "R3 : \"77 436 57 48\" OR \"774365748\" — aucune page ne cite ce numéro",
+        "R4 : \"conseil en environnement et sécurité\" Sénégal bureau études agréé Dakar société — ne renvoie que les bureaux agréés déjà cités ; vérification poussée sur la source officielle : page « Bureaux d'études et consultants agréés » de la Direction de l'environnement (denv.gouv.sn) ouverte, puis liste officielle des bureaux et personnes agréés de juillet 2022 téléchargée (PDF) et son texte extrait — ni ce nom, ni ce numéro, ni « Cité Mame Rane » n'y apparaissent dans la partie exploitable de l'extraction, donc aucun email officiel repris",
+        "Adresses probables testées : beces.sn, bces.sn, bce-securite.sn, envirosecurite.sn — ne résolvent pas ; becens.com répond mais appartient à un fournisseur d'abrasifs étranger, sans lien"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site. Le bureau ne figure pas dans la partie exploitable de la liste officielle des bureaux agréés pour les études d'impact (Direction de l'environnement, juillet 2022) : l'extraction du texte de ce PDF étant partielle, cette absence n'est pas une preuve définitive et la liste reste une piste à reprendre pour trouver son email. Cette même liste publie en revanche les emails de nombreux bureaux d'études sénégalais agréés : source utile pour les prochains passages. Utilisables : le mobile et l'adresse de la fiche."
     }
   ]
 }
