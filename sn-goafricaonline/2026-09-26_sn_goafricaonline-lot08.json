@@ -225,6 +225,34 @@
       ],
       "statut": "a_verifier",
       "note": "Email dakar@comercio.mineco.es lu sur la page « Direcciones y teléfonos » de l'ambassade d'Espagne au Sénégal ; identité établie par l'adresse Avenue Carde et le fax communs. Attention à la nature de la structure : ce n'est pas un bureau d'études privé mais un service diplomatique espagnol, mal classé par l'annuaire — sans intérêt direct pour une prospection de bureaux d'études sénégalais, à écarter de la cible commerciale. Le téléphone officiel (33 889 23 60) diffère des deux numéros de la fiche, dont l'un (33 821 49 66) est en réalité le fax."
+    },
+    {
+      "nom": "BUREAU GAUDILLAT SA",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@bureaugaudillat.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 79 52 ; fax (+221) 33 864 79 53 ; sur son site : (+221) 77 433 62 70",
+      "adresse": "Sicap Baobabs N 516, BP 858, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "http://www.bureaugaudillat.com",
+      "site_source": "recherche web",
+      "specialite": "Bureau d'études techniques de structures et ingénierie du bâtiment (créé en 1965) : études techniques, maîtrise d'ouvrage déléguée et assistance à maîtrise d'ouvrage, conseils ; constructions industrielles et commerciales, scolaires et universitaires, hôtelières et immeubles, gouvernementales et bancaires, ouvrages d'art, équipements sportifs et culturels ; également contrôle technique",
+      "fiche_url": "https://www.goafricaonline.com/sn/592476-bureau-gaudilla-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.bureaugaudillat.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592476-bureau-gaudilla-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun email (122 vues ; la fiche porte le nom « BUREAU GAUDILLAT SA » alors que son adresse web est orthographiée « gaudilla »)",
+        "R1 : \"Bureau Gaudillat\" Sénégal Dakar — confirme l'identité et l'ancienneté (bureau créé en 1965, ingénierie du bâtiment, travaux publics, 516 Sicap Baobabs / allées Seydou Nourou Tall, 11-50 salariés) et révèle le domaine bureaugaudillat.com ; fiches d'annuaires : pagesjaunesdusenegal (fiche.php?k=1267), snyello, piaafrica (contrôle technique), annuaire-senegal (deux fiches), ZoomInfo",
+        "R2 : \"Gaudillat\" Dakar \"Sicap Baobabs\" bureau études email contact — la fiche annuaire-senegal confirme « 516 Sicap Baobabs, Dakar, tél 338647952, fax 338647953 » (identiques à la fiche goafricaonline) ; les agrégateurs (ZoomInfo) citent des adresses nominatives masquées du domaine bureaugaudillat.com, non reprises",
+        "Site du bureau ouvert : http://www.bureaugaudillat.com/ (la page /contact.html redirige vers l'accueil) — bandeau « Bureau Gaudillat — info@bureaugaudillat.com — (+221) 33 864 79 52 | (+221) 77 433 62 70 — 516 Sicap Baobabs, Dakar Sénégal ». Email relevé ici ; adresse et fixe identiques à la fiche, identité établie",
+        "Adresse probable inutile à tester : le domaine du bureau, bureaugaudillat.com, a été trouvé et vérifié"
+      ],
+      "statut": "a_verifier",
+      "note": "Email info@bureaugaudillat.com lu sur le site officiel, trouvé par recherche web (la fiche goafrica n'indique aucun site) ; identité établie par l'adresse 516 Sicap Baobabs et le fixe 33 864 79 52 communs. Bureau d'études de structures ancien (1965) travaillant notamment sur des constructions gouvernementales, scolaires et universitaires : très bonne cible pour la veille d'appels d'offres. Un mobile supplémentaire figure sur le site (77 433 62 70). Les agrégateurs de contacts publient des adresses nominatives du même domaine, volontairement masquées : non reprises."
     }
   ]
 }
