@@ -289,6 +289,226 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun email enregistré, faute d'avoir pu le lire sur une page. Le portail microfinance.sn publie une adresse pour ce consultant — les résumés du moteur de recherche la citent comme « ba.momar@yahoo.fr », à côté des deux numéros qui correspondent exactement à la fiche goafrica, ce qui rend l'identification certaine — mais la page est inaccessible (certificat TLS expiré) et aucune copie archivée n'est atteignable depuis cette session. À relever dès que le site sera à nouveau joignable. Consultant individuel plutôt que bureau d'études structuré, spécialisé microfinance (audit, plans d'affaires, études de faisabilité, évaluation d'impact) : cible pertinente pour les avis d'appels d'offres du secteur financier décentralisé. Contact : 76 468 29 94 ou 77 447 83 41."
+  },
+  {
+   "nom": "CABINET BERGER (BUREAU D'ETUDES DE REVISION DE GESTION D'ENTREPRISE ET DE REPRESENTATION)",
+   "sigle": "BERGER",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Pape Boucar Diouf, directeur général (d'après la fiche nexpages)",
+   "emails": [
+    "dathekane1@gmail.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 821 23 86",
+   "adresse": "34 Rue Saint Michel, Dakar - Sénégal (34, Rue St Michel x Sandiniéry, Dakar-Plateau, BP 1640 Dakar RP, d'après nexpages)",
+   "ville": "Dakar (Plateau)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Bureau d'études de révision de gestion d'entreprise et de représentation : audit, révision et conseil en gestion (référencé dans la rubrique « Audit » de l'annuaire du Sénégal)",
+   "fiche_url": "https://www.goafricaonline.com/sn/592488-cabinet-berger-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.nexpages.com/phonebook/berger-senegal-4915",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592488-cabinet-berger-bureaux-etudes-conseils-consultants-dakar-senegal — nom complet « CABINET BERGER (BUREAU D'ETUDES DE REVISION DE GESTION D'ENTREPRISE ET DE REPRESENTATION) », adresse 34 Rue Saint Michel, un téléphone, aucun bouton « Site web », aucun email",
+    "R1 : \"Cabinet Berger\" Sénégal Dakar révision gestion entreprise représentation — fait ressortir la fiche nexpages du cabinet et son référencement dans la rubrique Audit de l'annuaire du Sénégal",
+    "R2 : \"Cabinet Berger\" Dakar email contact \"Saint Michel\" — aucun résultat propre au cabinet (les réponses portent sur le Complexe Saint-Michel/UCAO et la rue Saint-Michel) : écartés",
+    "R3 : \"33 821 23 86\" OR \"+221338212386\" — aucun résultat direct, mais ce numéro figure tel quel sur la fiche nexpages ouverte ci-dessous",
+    "R4 : \"BUREAU D'ETUDES DE REVISION DE GESTION D'ENTREPRISE ET DE REPRESENTATION\" — fait ressortir https://www.annuaire-senegal.com/audit/berger-bureau-d-etudes-de-revision-de-gestion-d-entreprise-et-de-repre-s157899.html, ouverte : adresse « 34 Rue St Michel Dakar-plateau », téléphone 338212312, aucun email. Les autres résultats sont des cabinets français homonymes (Contrôle Révision Etudes de Gestion à Paris, Centre de Révision d'Études et de Gestion à Clermont-Ferrand), écartés",
+    "Fiche nexpages ouverte : https://www.nexpages.com/phonebook/berger-senegal-4915 — « BERGER, bureau d'étude gestion, Dakar » : téléphone +221 338 21 23 86 (identique à la fiche goafrica), adresse 34, Rue St Michel x Sandiniéry, BP 1640 Dakar / RP (identique à la fiche), DG M. Pape Boucar DIOUF, email dathekane1@gmail.com. Identité confirmée par le téléphone et l'adresse",
+    "Adresses probables : aucune testée — le cabinet ne déclare aucun site et le nom « Berger » est trop commun pour qu'un domaine plausible soit vérifiable sans risque de confusion ; un email a de toute façon été trouvé"
+   ],
+   "statut": "a_verifier",
+   "note": "Email dathekane1@gmail.com lu sur la fiche nexpages du cabinet, dont le téléphone et l'adresse postale (BP 1640, 34 rue St Michel x Sandiniéry) correspondent exactement à la fiche goafricaonline : identification sûre. À noter : cette adresse gmail ne reprend pas le nom du cabinet ni celui du DG indiqué sur la même page (Pape Boucar Diouf) — c'est probablement l'adresse personnelle d'un collaborateur, à vérifier au premier contact. L'annuaire-senegal donne un numéro légèrement différent (338212312 contre 338212386) : vraisemblablement une coquille de cet annuaire, le numéro de la fiche goafrica et de nexpages étant concordant. Cabinet d'audit et de révision de gestion : cible pertinente pour les marchés d'audit."
+  },
+  {
+   "nom": "CABINET CARREE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@ccarree.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 827 79 63 / (+221) 77 627 93 72",
+   "adresse": "VDN, Lot 67, Bande Verte Échangeur, Immeuble Bilguiss, 4ème étage, Dakar - 11500 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://ccarree.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Conseil en stratégie et en développement : accompagnement des PME, formalisation du secteur informel par des solutions technologiques ; business plans, études de marché, audit, gestion de projets, transformation digitale et conseil stratégique. Se présente comme couvrant 10 pays (UEMOA, CEMAC, diaspora), plus de 70 missions livrées en 6 ans",
+   "fiche_url": "https://www.goafricaonline.com/sn/598224-cabinet-carree-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://ccarree.com/contact/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/598224-cabinet-carree-bureaux-etudes-conseils-consultants-dakar-senegal — nom, adresse VDN Lot 67 Bande Verte Échangeur Immeuble Bilguiss 4e étage (11500), deux téléphones, description du cabinet, bouton « Site web » vers https://ccarree.com/, aucun email",
+    "Site ouvert : https://ccarree.com/ (accueil), https://ccarree.com/contact/ et https://ccarree.com/a-propos/ — email contact@ccarree.com publié en lien mailto sur les trois pages, ainsi que dans le pied de page. Identité confirmée : le mobile (+221) 77 627 93 72 et l'adresse (VDN, Lot 67, Immeuble Bilguiss, 4e étage, Dakar 11500) sont identiques à ceux de la fiche. La page /mentions-legales/ n'existe pas (404)",
+    "Recherches R1 à R4 non nécessaires : l'email a été trouvé sur le site du bureau lui-même (étape 3 applicable uniquement à défaut)"
+   ],
+   "statut": "a_verifier",
+   "note": "Email générique contact@ccarree.com lu dans le pied de page et la page contact du site du cabinet, déclaré sur sa fiche. Le site affiche un fixe différent de celui de la fiche ((+221) 33 825 08 47 contre 33 827 79 63) : le numéro du site est probablement le plus à jour. Cabinet de conseil en stratégie actif et bien outillé (business plans, études de marché, transformation digitale), présenté comme intervenant dans dix pays : bonne cible de prospection."
+  },
+  {
+   "nom": "CABINET CD VISIONS",
+   "sigle": "CD VISIONS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 834 63 17 (service commercial) / (+221) 77 643 09 29 (standard) / (+221) 70 651 31 94",
+   "adresse": "Km 18, route de Rufisque, avenue Mame Diarra, Fass Mbao, Dakar - Sénégal",
+   "ville": "Dakar (Fass Mbao)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Consultance, formation conseil, appui à la création d'entreprise, élaboration de projets de développement, gestion fiscale, stratégie financière, cartographie et études statistiques",
+   "fiche_url": "https://www.goafricaonline.com/sn/574670-cabinet-cd-visions-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/574670-cabinet-cd-visions-bureaux-etudes-conseils-consultants-dakar-senegal — nom, adresse Km 18 route de Rufisque avenue Mame Diarra Fass Mbao, trois téléphones, description détaillée des domaines d'intervention, aucun bouton « Site web », aucun email",
+    "R1 : \"CD Visions\" Sénégal Dakar cabinet consultance formation Fass Mbao — seul le référencement du cabinet dans l'annuaire goafricaonline ressort (adresse et téléphone identiques) ; aucune autre page, aucun email",
+    "R2 : \"Cabinet CD Visions\" Dakar email contact — aucun résultat concernant ce cabinet. La liste des cabinets d'expertise comptable d'emploidakar.com a été ouverte et relue : le cabinet n'y figure pas. Les homonymes (Cabinet Visions Inc. à San Jose, Vision Cabinet, Cabinet Vision de Hexagon) sont écartés",
+    "R3 : \"33 834 63 17\" OR \"77 643 09 29\" OR \"70 651 31 94\" — aucun résultat rattachant ces numéros au cabinet",
+    "R4 : \"CABINET CD VISIONS\" — aucun résultat sénégalais : uniquement le logiciel Cabinet Vision (Hexagon) et des fabricants de meubles américains, tous écartés",
+    "Adresses probables testées : cdvisions.sn, cabinetcdvisions.com et cd-visions.com (aucune résolution DNS) ; cdvisions.com répond mais ne sert qu'une page vide de 114 octets, sans titre, sans texte ni email : rien ne la rattache au cabinet, elle n'est donc pas retenue"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. Le cabinet n'a aucune présence web propre : sa fiche goafricaonline est la seule source, et le domaine cdvisions.com, bien qu'actif, ne sert qu'une page vide sans lien établi avec lui. Trois numéros pour le joindre (fixe commercial 33 834 63 17, standard 77 643 09 29, et 70 651 31 94). Profil intéressant malgré tout : la fiche détaille des prestations proches des marchés d'études publics (élaboration de projets de développement, cartographie, études statistiques)."
+  },
+  {
+   "nom": "CABINET CEDDU",
+   "sigle": "CEDDU",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@cabinetceddu.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 820 05 94 / (+221) 77 329 11 45",
+   "adresse": "Villa N° 115, Cité Diamalaye 1, BP 24031 Ouakam, Dakar - Sénégal",
+   "ville": "Dakar (Ouakam)",
+   "site_web": "http://cabinetceddu.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Études et conseil en agriculture, élevage, environnement, gestion des ressources naturelles, informatique, socio-économie et formation : audit environnemental de projets, économie des ressources naturelles, étude sur la gestion durable des sols, pédologie, élaboration de répertoires d'entreprises, pilotage d'enquêtes et de recensements, économie agricole et sécurité alimentaire (conception et suivi-évaluation)",
+   "fiche_url": "https://www.goafricaonline.com/sn/592559-cabinet-ceddu-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "http://cabinetceddu.com",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592559-cabinet-ceddu-bureaux-etudes-conseils-consultants-dakar-senegal — nom, adresse Villa n° 115 Cité Diamalaye 1 BP 24031 Ouakam, deux téléphones, bouton « Site web » vers http://cabinetceddu.com, aucun email",
+    "Site ouvert : http://cabinetceddu.com (et https://cabinetceddu.com, même contenu) — email contact@cabinetceddu.com publié dans l'en-tête et le pied de page (« Écrivez-nous »). Identité confirmée : l'adresse (Villa N° 115 Cité Diamalaye 1, BP 24031 Ouakam) et les deux téléphones (+221 33 820 05 94, +221 77 329 11 45) sont identiques à ceux de la fiche. Les chemins /contact et /contact.html renvoient 404, la page d'accueil portant déjà l'adresse email",
+    "Recherches R1 à R4 non nécessaires : l'email a été trouvé sur le site du bureau lui-même (étape 3 applicable uniquement à défaut)"
+   ],
+   "statut": "a_verifier",
+   "note": "Email générique contact@cabinetceddu.com lu sur la page d'accueil du site du cabinet, déclaré sur sa fiche ; adresse et deux téléphones identiques : identification certaine. Très bonne cible pour AOFocus : bureau d'études thématique (environnement, agriculture, élevage, ressources naturelles, statistiques) dont les prestations affichées correspondent directement aux marchés publics d'études — audit environnemental de projets, gestion durable des sols, pédologie, enquêtes et recensements, sécurité alimentaire, suivi-évaluation."
+  },
+  {
+   "nom": "CABINET CONSEIL EDUCATIF",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 281 99 32",
+   "adresse": "Dakar - Sénégal (aucune rue indiquée sur la fiche)",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Bureaux d'études - Conseils - Consultants (seule activité déclarée sur la fiche) ; le nom évoque le conseil en éducation ou l'orientation scolaire",
+   "fiche_url": "https://www.goafricaonline.com/sn/481351-cabinet-conseil-educatif-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/481351-cabinet-conseil-educatif-bureaux-etudes-conseils-consultants-dakar-senegal — nom, ville Dakar seule (pas de rue), un téléphone, aucun bouton « Site web », aucun email",
+    "R1 : \"Cabinet Conseil Educatif\" Sénégal Dakar — aucun résultat concernant ce cabinet ; les réponses portent sur d'autres cabinets dakarois (Cabinet PROFIL, Eco Afrique, Tiidde Consulting, Cabinet Conseil Académique, Huduma Cabinet Conseil), tous distincts",
+    "R2 : \"Conseil Educatif\" Dakar email contact cabinet orientation scolaire Sénégal — aucun résultat concernant ce cabinet. Les structures d'orientation trouvées sont d'autres organismes : COE Sénégal (comite.orientation.educative@gmail.com), Cabinet d'Orientation Scolaire COS, CNOSP, Sen Orientation — aucun ne correspond au nom ni au téléphone de la fiche, leurs adresses ne sont donc pas reprises",
+    "R3 : \"77 281 99 32\" OR \"+221772819932\" — aucun résultat rattachant ce numéro au cabinet",
+    "R4 : \"CABINET CONSEIL EDUCATIF\" — aucun résultat sénégalais : uniquement des cabinets français de soutien scolaire et de conseil en éducation (Cabinet Education Conseil, Education & Territoires, CCES, AS Consulting Education), tous écartés",
+    "Adresses probables testées (aucune résolution DNS) : cabinetconseileducatif.com, cabinetconseileducatif.sn, conseileducatif.sn, conseil-educatif.com"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email et aucune trace web du cabinet hors de l'annuaire. Fiche très pauvre : ni rue, ni site, ni description, un seul mobile (77 281 99 32) comme moyen de contact. Attention à l'homonymie : plusieurs structures d'orientation scolaire dakaroises portent des noms voisins (COE Sénégal, Cabinet d'Orientation Scolaire COS) sans être ce cabinet ; aucune de leurs coordonnées ne lui a été attribuée. Activité réelle à confirmer par un appel."
+  },
+  {
+   "nom": "CABINET CONSEIL EN GESTION",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 717 39 37",
+   "adresse": "Dakar - Sénégal (aucune rue indiquée sur la fiche)",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Accompagnement des entreprises, entrepreneurs, associations et porteurs de projets dans la structuration, la gestion, la professionnalisation et le développement de leurs activités",
+   "fiche_url": "https://www.goafricaonline.com/sn/1366874-cabinet-conseil-gestion-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1366874-cabinet-conseil-gestion-bureaux-etudes-conseils-consultants-dakar-senegal — nom, ville Dakar seule (pas de rue), un téléphone, description de l'activité, aucun bouton « Site web », aucun email",
+    "R1 : \"Cabinet Conseil en Gestion\" Sénégal Dakar accompagner entreprises porteurs de projets — aucun résultat propre à ce cabinet ; les réponses listent d'autres cabinets dakarois (DPM Consulting, Cabinet Carrée, CECA, Tiidde Consulting, SEAL Gestion & Associés, Elite Capital, Arix International), tous distincts",
+    "R2 : \"Cabinet Conseil en Gestion\" Dakar email contact Sénégal structuration professionnalisation — aucun résultat propre à ce cabinet. Les adresses trouvées appartiennent à d'autres sociétés (contact@ccarree.com, contact@sedarbusinessgroup.com…) et ne sont pas reprises. Un « Conseil En Gestion Etudes De Projet » (VDN Sacré Coeur 3, tél. 338218604) apparaît dans l'annuaire du Sénégal, mais ni son nom exact ni son téléphone ne correspondent : écarté",
+    "R3 : \"77 717 39 37\" OR \"+221777173937\" — aucun résultat rattachant ce numéro au cabinet",
+    "R4 : \"CABINET CONSEIL EN GESTION\" Sénégal — aucun résultat propre : uniquement des listes de cabinets de conseil sénégalais et des cabinets nommément différents (TedMaster, MGP Afrique, CECA…), tous écartés",
+    "Adresses probables testées (aucune résolution DNS) : cabinetconseilengestion.com, cabinetconseilengestion.sn, ccg.sn"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. Fiche récente (identifiant 1366874, le plus élevé rencontré jusqu'ici) mais minimale : ni rue, ni site, un seul mobile (77 717 39 37). Le nom est entièrement générique, ce qui rend toute recherche web vaine : une dizaine de cabinets dakarois s'intitulent « cabinet conseil en gestion » sans être celui-ci, et aucune de leurs coordonnées n'a été reprise. Seule la description de la fiche caractérise l'activité (structuration et professionnalisation d'entreprises, d'associations et de porteurs de projets)."
+  },
+  {
+   "nom": "CABINET D'ETUDE EN INGENIERIE DE DEVELOPPEMENT",
+   "sigle": "CEID",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 552 18 11",
+   "adresse": "Université Cheikh Anta Diop de Dakar, Dakar - Sénégal",
+   "ville": "Dakar (UCAD)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Bureaux d'études - Conseils - Consultants (seule activité déclarée sur la fiche) ; le nom annonce de l'ingénierie de développement",
+   "fiche_url": "https://www.goafricaonline.com/sn/592631-ceid-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592631-ceid-bureaux-etudes-conseils-consultants-dakar-senegal — nom, sigle CEID, adresse « Université Cheikh Anta Diop de Dakar », un téléphone, aucun bouton « Site web », aucun email",
+    "R1 : \"Cabinet d'Etude en Ingénierie de Développement\" CEID Sénégal Dakar — aucune page propre au cabinet hormis son référencement goafricaonline ; les autres résultats sont d'autres bureaux d'études sénégalais (A.I.D.F., Sahel Ingénierie, TEG Études, Optima Ingénierie), écartés",
+    "R2 : \"CEID\" Dakar UCAD email contact cabinet ingénierie développement Sénégal — attention, le sigle CEID désigne aussi la Conférence économique internationale de Dakar organisée à l'UCAD (site ceid2023.ucad.sn, adresse info-ceid@ucad.edu.sn) : organisme totalement distinct, son adresse n'est pas reprise. Aucun email pour le cabinet",
+    "R3 : \"77 552 18 11\" OR \"+221775521811\" — aucun résultat rattachant ce numéro au cabinet",
+    "R4 : \"CABINET D'ETUDE EN INGENIERIE DE DEVELOPPEMENT\" — aucun résultat sénégalais : uniquement des bureaux d'études et fédérations professionnelles français, tous écartés",
+    "Adresses probables testées (aucune résolution DNS) : ceid.sn, ceid-senegal.com, cabinetceid.com, cabinetceid.sn"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. Cabinet domicilié à l'Université Cheikh Anta Diop (probablement une structure portée par des universitaires), sans site ni aucune trace web propre : un seul mobile pour le joindre (77 552 18 11). Piège d'homonymie signalé : le sigle CEID est aussi celui de la Conférence économique internationale de Dakar, tenue à l'UCAD, dont l'adresse info-ceid@ucad.edu.sn n'a évidemment pas été retenue."
+  },
+  {
+   "nom": "CABINET D'EXPERTISE AUTO INDUSTRIE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Ismaïla Dieye, expert, président de la section automobile de l'Ordre national des experts du Sénégal",
+   "emails": [
+    "ismaela.dieye@gmail.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 821 30 32 ; fax (+221) 33 821 30 32 ; mobiles 76 690 57 60 / 77 460 87 08 (tableau de l'ONES)",
+   "adresse": "15 Rue Robert (Rue Robert Brun), BP 21356 Dakar RC, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Expertise automobile et industrielle (cabinet d'expert inscrit à la section automobile de l'Ordre national des experts du Sénégal, dont son responsable préside la section)",
+   "fiche_url": "https://www.goafricaonline.com/sn/480085-cabinet-expertise-auto-industrie-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.experts-ones.com/wp-content/uploads/2024/05/TABLEAU-ONES-Experts-du-Senegal-2023.pdf",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480085-cabinet-expertise-auto-industrie-bureaux-etudes-conseils-consultants-dakar-senegal — nom, adresse 15 Rue Robert BP 21356, téléphone et fax identiques (33 821 30 32), aucun bouton « Site web », aucun email",
+    "R1 : \"Cabinet d'Expertise Auto Industrie\" Sénégal Dakar — aucune page propre au cabinet ; les résultats portent sur d'autres acteurs dakarois de l'expertise automobile (S.E.C.I., Expert Auto, Dakar Auto Service), écartés",
+    "R2 : \"Ismaïla Dieye\" OR \"Ismaela Dieye\" expert automobile Dakar \"Rue Robert Brun\" contact — confirme l'identité : https://www.experts-ones.com/section-automobile-president-ismaila-dieye/ (Ismaïla Dieye préside la section automobile de l'ONES) et https://www.senpages.com/entreprise/ismaila-dieye/, ouverte : « expert à Dakar et inscrit au tableau de l'Ordre National des Experts du Sénégal section automobile », adresse 15, Rue Robert BRUN, Dakar, téléphone +221338213032 — identique à celui de la fiche goafrica ; aucun email sur cette page",
+    "R3 : \"33 821 30 32\" OR \"+221338213032\" Dakar expertise — renvoie précisément aux deux tableaux officiels de l'Ordre national des experts du Sénégal, où ce numéro est associé à l'adresse 15 rue Robert Brun",
+    "R4 : \"CABINET D'EXPERTISE AUTO INDUSTRIE\" — aucun résultat sénégalais : uniquement des cabinets d'expertise automobile français (Stelliant, FFEA, ExpertAutomobile), écartés",
+    "Tableaux de l'Ordre national des experts du Sénégal téléchargés et leur texte extrait : édition 2020/2021 (https://www.fiddex-sda.com/wp-content/uploads/2021/12/TABLEAU_ONES_Experts-du-Senegal.pdf) et édition 2023 (https://www.experts-ones.com/wp-content/uploads/2024/05/TABLEAU-ONES-Experts-du-Senegal-2023.pdf). Les deux portent la même ligne, à la section automobile : « 15, Rue Robert BRUN – B.P. : 21.356 Dakar RC – Tél. 33.821.30.32 – Cell. 76.690.57.60 / 77.460.87.08 - Email : ismaela.dieye@gmail.com », rattachée à Ismaïla DIEYE. Adresse postale, boîte postale et téléphone concordent exactement avec la fiche goafricaonline",
+    "Adresses probables : aucune testée, un email ayant été trouvé ; le cabinet ne déclare aucun site et aucune recherche n'en a révélé"
+   ],
+   "statut": "a_verifier",
+   "note": "Email ismaela.dieye@gmail.com lu dans le tableau officiel de l'Ordre national des experts du Sénégal (éditions 2020/2021 et 2023, texte identique dans les deux) : c'est l'adresse d'Ismaïla Dieye, expert automobile, à qui la fiche correspond sans ambiguïté — même rue (15 rue Robert Brun), même boîte postale (21356 Dakar RC) et même téléphone (33 821 30 32), triple correspondance également confirmée par sa fiche SenPages. Il préside la section automobile de l'Ordre. Adresse personnelle et non générique : à utiliser en s'adressant nommément à lui. Profil d'expertise automobile et industrielle, plus éloigné du cœur de cible d'AOFocus, mais concerné par les marchés d'expertise et d'évaluation de parcs de véhicules et d'équipements."
   }
  ]
 }
