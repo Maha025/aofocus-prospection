@@ -385,6 +385,60 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email et aucun site. La fiche ne donne aucune rue ; les moteurs mentionnent une « Avenue Bourguiba » sans page consultable pour l'étayer, donc non retenue. Activité pourtant proche de la cible AOFocus (business plans, plans stratégiques, plans locaux de développement, formation en gestion de projet) : à joindre par téléphone. Utilisable : le mobile standard."
+    },
+    {
+      "nom": "BIOS CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 864 79 95 ; fax (+221) 33 864 79 96",
+      "adresse": "Avenue Bourguiba, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants (aucune activité détaillée sur la fiche)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592616-bios-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592616-bios-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — horaires renseignés, aucun bouton « Site web », aucun email, aucune activité détaillée (91 vues)",
+        "R1 : \"BIOS CONSULTING\" Sénégal Dakar — aucune page sur ce cabinet ; les résultats sont d'autres sociétés dakaroises au nom voisin et d'activité différente (Bioscope SARL, sécurité sanitaire des aliments ; Biosene SARL, agroalimentaire et cosmétique ; Biotech Services Sénégal) — aucune coordonnée reprise",
+        "R2 : \"Bios Consulting\" Dakar \"Avenue Bourguiba\" email contact — aucune adresse rattachable ; les homonymes trouvés sont étrangers (Bios Consulting, 71 rue Saint-Honoré à Paris, fiches ZoomInfo/Lusha/Crunchbase ; BiosCorp ; Bios Engineering Consulting en RDC, biosdrc.com) et la seule entité de l'avenue Bourguiba identifiée est l'Université Dakar Bourguiba (info@udb-sn.com), sans lien",
+        "R3 : \"33 864 79 95\" OR \"33 864 79 96\" Dakar — aucune page ne cite ces numéros",
+        "R4 : \"BIOS CONSULTING\" Sénégal annuaire (senpages, nexpages, piaafrica) — le cabinet n'est présent dans aucun de ces annuaires sénégalais",
+        "Adresses probables testées : biosconsulting.sn, bios-consulting.sn, biosconsulting-sn.com — ne résolvent pas ; biosconsulting.com répond mais est un domaine mis en vente (HugeDomains), sans contenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email et aucun site. Nombreux homonymes à ne pas confondre : Bios Consulting (Paris), Bios Engineering Consulting (RDC), Bioscope et Biosene à Dakar (activités différentes) — aucune de leurs adresses n'est reprise. Utilisables : un fixe, un fax et l'avenue Bourguiba."
+    },
+    {
+      "nom": "BIOSCOPE",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Babacar Samb, expert en qualité sanitaire des aliments (cité par son profil LinkedIn comme rattaché au Cabinet Bioscope SARL)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 820 40 38",
+      "adresse": "Ouest Foire, en face de la pharmacie Sanitaire, BP 8305 Dakar Yoff, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Expertise des systèmes de sécurité sanitaire : cabinet d'expertise, de conseil et de formation en sécurité sanitaire des aliments (systèmes qualité, HACCP, normes ISO), analyse de situation et planification stratégique",
+      "fiche_url": "https://www.goafricaonline.com/sn/479966-bioscope-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/479966-bioscope-bureaux-etudes-conseils-consultants-dakar-senegal — activité indiquée, horaires renseignés, aucun bouton « Site web », aucun email (228 vues)",
+        "R1 : \"Bioscope\" Sénégal sécurité sanitaire aliments Dakar — confirme l'existence et l'activité du cabinet (cité dans les travaux sur la Stratégie nationale de sécurité sanitaire des aliments, dirigé par Babacar Samb) mais aucune page ne publie ses coordonnées",
+        "R2 : \"Bioscope\" Dakar Ouest Foire email contact SARL — ouvert https://www.piaafrica.com/fr/senegal/bureaux-detudes-conseils-consultants/28925-bioscope : « BIOSCOPE, Cité Harrisson N°7 Ouest Foire Yoff, BP 8305 Dakar Yoff, (+221) 33 820 40 38, site bioscope-sn.com » — même BP et même fixe que la fiche, aucun email affiché. Page Facebook officielle (facebook.com/bioscopesn) ouverte : Facebook n'affiche que son écran de connexion, aucune coordonnée lisible ; protection non contournée",
+        "R3 : \"33 820 40 38\" OR \"338204038\" Dakar Bioscope — seules pages citant ce numéro : la fiche piaafrica ci-dessus et les pages Facebook non consultables",
+        "R4 : \"Bioscope\" \"Babacar Samb\" Sénégal cabinet expertise — le profil LinkedIn du responsable (linkedin.com/in/babacar-samb-77488893) confirme « Cabinet Bioscope SARL Dakar-Sénégal » et affiche dans son intitulé le mobile +221 77 569 50 06 ; LinkedIn exigeant une connexion, la page n'a pas été ouverte et aucun email n'y est de toute façon annoncé",
+        "Adresses probables testées : bioscope-sn.com (site annoncé par piaafrica), bioscope.sn, www.bioscope-sn.com/contact — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : le site bioscope-sn.com annoncé par l'annuaire piaafrica ne résout plus, la page Facebook du cabinet n'est visible qu'après connexion (non franchie). Cabinet bien réel et actif dans les politiques publiques de sécurité sanitaire des aliments (travaux liés à la Stratégie nationale, groupe technique du STDF) : bonne cible. Un mobile supplémentaire, +221 77 569 50 06, apparaît dans l'intitulé du profil LinkedIn de son responsable Babacar Samb : non repris dans les téléphones faute de page ouvrable, mais utile à vérifier. Ne pas confondre avec BIOS CONSULTING (autre fiche de ce lot), Biosene ou Biotech Services. Utilisables : le fixe et l'adresse."
     }
   ]
 }
