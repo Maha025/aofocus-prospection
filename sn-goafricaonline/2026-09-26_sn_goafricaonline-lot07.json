@@ -140,6 +140,88 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email et aucun site : bureau sans présence en ligne hors goafricaonline, qui indique lui-même ne pas disposer de son email. Utilisables : un fixe, un mobile et l'adresse de la fiche."
+    },
+    {
+      "nom": "BET PLUS (BUREAU D'ETUDES TECHNIQUES)",
+      "sigle": "BET PLUS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "betplus@betplus-sn.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 85 25 / (+221) 33 820 10 38 ; fax (+221) 33 820 39 65 ; sur son site : (+221) 78 595 60 60 (aussi WhatsApp) et (+221) 33 869 98 50",
+      "adresse": "Ouest Foire, Cité Air Afrique Lotissement n° 10, BP 8197, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://betplus-sn.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études techniques pluridisciplinaire (SAS) : géomatique (cartographie et SIG, topographie et levés, télédétection et imagerie satellite/drone, géodésie), géotechnique (études de sol, fondations et soutènement, géotechnique routière et ferroviaire, stabilité des pentes), électricité (réseaux BT/MT/HT, conception électrique, optimisation énergétique, smart building), eau (réseaux d'eau potable, assainissement, traitement des eaux, hydraulique agricole et irrigation, GIRE), urbanisme et aménagement du territoire",
+      "fiche_url": "https://www.goafricaonline.com/sn/480010-bet-plus-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://betplus-sn.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480010-bet-plus-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers www.betplus-sn.com, aucun email sur la fiche (674 vues)",
+        "Site du bureau ouvert : https://betplus-sn.com/ (accueil) — en-tête « Adresse Ouest Foire Lot 10 Dakar — Email betplus@betplus-sn.com — Contact + WhatsApp: +221 78 595 60 60 / +221 33 869 98 50 »",
+        "Page contact ouverte : https://betplus-sn.com/contact/ — « Notre Adresse : Ouest foire lot 10 en face lotissement CDE ; Demandes générales Tel: +221 78 595 60 60 & Email: betplus@betplus-sn.com ; Lundi-Vendredi 08:00-17:00 ». Email relevé ici",
+        "Pied de page du site (informations légales) lu : « Dénomination : Bureau d'Études Techniques Plus (BET Plus S.A.S) — Adresse : Ouest Foire, Cité Air Afrique, Lot N° 10, BP 8117 Dakar Yoff — (221) 33 820 10 38 — (221) 33 869 98 50 — betplus@betplus-sn.com — RC SN DKR 2008 M 1881 » : le fixe 33 820 10 38 et l'adresse sont identiques à la fiche goafricaonline, identité établie",
+        "Pages internes du site parcourues pour d'autres adresses (domaines d'expertise, à propos, références) : aucune autre adresse email publiée que betplus@betplus-sn.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Email betplus@betplus-sn.com lu sur la page contact et dans le pied de page du site officiel (lien de la fiche goafrica) ; identité confirmée par le fixe 33 820 10 38 et l'adresse Ouest Foire / Cité Air Afrique lot 10, communs à la fiche et au site. Divergence mineure de boîte postale : BP 8197 (fiche) contre BP 8117 (site). Bureau technique très bien identifié : cible de premier plan pour la veille d'appels d'offres (géotechnique, topographie, eau, électricité). Deux autres fiches de l'annuaire portent un nom voisin (BET PLUS id 592502 et BETPLUS id 653919), à traiter séparément."
+    },
+    {
+      "nom": "BET PLUS SA - BUREAU D'ETUDES TECHNIQUES PLUS",
+      "sigle": "BET PLUS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "betplus@betplus-sn.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 85 25 / (+221) 33 820 10 38 / (+221) 33 820 39 65 ; sur son site : (+221) 78 595 60 60 (aussi WhatsApp) et (+221) 33 869 98 50",
+      "adresse": "Ouest Foire Cité Air Afrique Lot 10 en face lotissement CDE, 8117 Dakar Yoff, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://betplus-sn.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études techniques pluridisciplinaire (SAS) : géomatique, géotechnique, électricité, eau et assainissement, urbanisme et aménagement du territoire",
+      "fiche_url": "https://www.goafricaonline.com/sn/592502-bet-plus-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://betplus-sn.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592502-bet-plus-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers www.betplus-sn.com, aucun email sur la fiche (102 vues). Mêmes trois numéros, même site et même adresse (au détail près) que la fiche 480010 : doublon de l'annuaire pour la même société",
+        "Site du bureau ouvert : https://betplus-sn.com/ et https://betplus-sn.com/contact/ — email betplus@betplus-sn.com, « Ouest foire lot 10 en face lotissement CDE », +221 78 595 60 60, +221 33 869 98 50 ; pied de page : « Bureau d'Études Techniques Plus (BET Plus S.A.S), Ouest Foire, Cité Air Afrique, Lot N° 10, BP 8117 Dakar Yoff, (221) 33 820 10 38, RC SN DKR 2008 M 1881 ». Adresse et téléphone identiques à la fiche : identité établie",
+        "Aucune autre adresse email publiée sur le site (accueil, contact, pages des domaines d'expertise, références)"
+      ],
+      "statut": "a_verifier",
+      "note": "Doublon de la fiche goafricaonline 480010 (BET PLUS — BUREAU D'ETUDES TECHNIQUES) : même société, même site, mêmes numéros ; cette fiche-ci porte la raison sociale complète (« BET PLUS SA ») alors que le site indique une SAS. Email confirmé sur le site officiel. Les deux fiches sont conservées telles quelles."
+    },
+    {
+      "nom": "BETEG GROUPE (BUREAU D'ETUDES TECHNIQUES ET GENERALES)",
+      "sigle": "BETEG",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 865 26 36 / (+221) 33 824 66 39",
+      "adresse": "HLM NImzatt - n° 2805, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Ingénierie civile et services de construction ; figure sur la liste des bureaux d'études agréés pour les études d'impact sur l'environnement (conception, réalisation, exploitation et réhabilitation d'ouvrages et d'infrastructures)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592494-beteg-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592494-beteg-bureaux-etudes-conseils-consultants-dakar-senegal — activité détaillée par le bureau, horaires renseignés, aucun bouton « Site web », aucun email (153 vues)",
+        "Seconde fiche goafricaonline du même bureau ouverte (rubrique Génie civil) : https://www.goafricaonline.com/sn/455838-beteg-groupe-bureau-d-etudes-techniques-et-generales-dakar-senegal — mêmes adresse et numéros, 843 vues, aucun email ni site",
+        "R1 : \"BETEG\" \"bureau d'études techniques et générales\" Sénégal — fiches annuaires : Business-Senegal.com/Dobiza (profilent/_10160 et _16576, plateforme accessible seulement après connexion, non franchie), SenPages, goafricaonline. Les moteurs attribuent au bureau un site www.beteg.com",
+        "R2 : BETEG Dakar email contact ingénierie civile agréé études impact environnement — aucune adresse lisible ; snyello.com/company/19524/Beteg_Groupe_Sn (le domaine snyello.com ne résout plus). Ouvert https://www.senpages.com/entreprise/bureau-detudes-techniques-et-generales/ : « Bureau d'études Techniques et Générales, HLM NImzatt n° 2805, Dakar, +221 33 865 26 36, secteur Immobilier-Construction, génie civil » — ni site ni email",
+        "R3 : \"33 865 26 36\" OR \"33 824 66 39\" Dakar — aucune page ne cite ces numéros. Vérifié aussi dans l'« Annuaire de l'industrie / Répertoire des entreprises » du Sénégal (obsindustrie.sn, PDF téléchargé et texte extrait) : ni BETEG ni ces numéros n'y figurent",
+        "R4 : \"BETEG GROUPE\" Sénégal — aucune page propre au bureau hors les fiches annuaires déjà citées",
+        "Adresses probables testées : beteg.com (site annoncé par les moteurs), beteg.sn, beteg-sn.com, betegroupe.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : le site www.beteg.com que les moteurs attribuent au bureau ne résout plus, et les deux fiches annuaires détaillées (Business-Senegal / Dobiza) sont derrière une page de connexion, non franchie. Bureau intéressant malgré tout : agréé pour les études d'impact environnemental, donc candidat aux marchés publics. Deux fiches goafricaonline le décrivent (592494 en « Bureaux d'études » et 455838 en « Génie civil ») ; seule celle de notre rubrique est déposée ici. Utilisables : deux fixes et l'adresse."
     }
   ]
 }
