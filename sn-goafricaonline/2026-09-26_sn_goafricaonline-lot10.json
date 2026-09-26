@@ -1,0 +1,146 @@
+{
+ "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+ "_extrait_le": "2026-09-26",
+ "_agent": "routine prospection goafrica SN",
+ "_pays": "SN",
+ "_pages": "p=6",
+ "_methode": "Parcours de la page p=6 de l'annuaire. Pour chaque bureau : fiche goafricaonline, puis son site s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et enfin des adresses probables en .sn et .com. Aucun email deviné : seulement des adresses lues sur une page citée dans preuve_url.",
+ "bureaux": [
+  {
+   "nom": "CABINET DIALPROX",
+   "sigle": "DIALPROX",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 091 96 61 ; fax (+221) 33 848 23 06",
+   "adresse": "44, Hann Maristes, Dakar - Sénégal",
+   "ville": "Dakar (Hann Maristes)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Bureaux d'études - Conseils - Consultants (seule activité déclarée sur la fiche)",
+   "fiche_url": "https://www.goafricaonline.com/sn/480080-cabinet-dialprox-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480080-cabinet-dialprox-dakar-senegal — nom, adresse 44 Hann Maristes, un mobile et un fax, aucun bouton « Site web », aucun email",
+    "R1 : \"Dialprox\" Sénégal Dakar cabinet Hann Maristes — aucun résultat concernant ce cabinet ; les réponses portent sur le quartier de Hann Maristes et ses établissements (Clinique Les Maristes, Cours Sainte-Marie de Hann, agence SGBS), sans rapport",
+    "R2 : \"Dialprox\" Dakar email contact — aucun résultat concernant ce cabinet (les réponses proposent des sociétés au nom voisin de « Dakar » et des vendeurs de fichiers d'adresses, écartés)",
+    "R3 : \"77 091 96 61\" OR \"33 848 23 06\" OR \"+221338482306\" — aucun résultat rattachant ces numéros au cabinet",
+    "R4 : \"CABINET DIALPROX\" — aucun résultat : uniquement des produits et logiciels de menuiserie nommés « Cabinet Pro », tous écartés",
+    "Adresses probables testées (aucune résolution DNS) : dialprox.sn, dialprox.com, cabinetdialprox.com"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. Le nom « Dialprox » est pourtant distinctif, ce qui rend le résultat net : le cabinet n'a aucune existence web hors de l'annuaire goafricaonline — aucun site, aucune fiche d'annuaire secondaire, aucune mention. Contact : mobile 77 091 96 61 (le 33 848 23 06 est donné comme fax). Activité non précisée par la fiche."
+  },
+  {
+   "nom": "CABINET DIOP CHEIKH AHMADOU",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Cheikh Ahmadou Diop, consultant (certifié MicroSave, environ 15 ans d'expérience)",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 545 72 04",
+   "adresse": "Dakar - Sénégal (aucune rue indiquée sur la fiche)",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Conseil en microfinance : consultant expert référencé au portail de la microfinance au Sénégal, certifié MicroSave, une quinzaine d'années d'expérience",
+   "fiche_url": "https://www.goafricaonline.com/sn/611914-cabinet-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/611914-cabinet-bureaux-etudes-conseils-consultants-dakar-senegal — nom, ville Dakar seule (pas de rue), un téléphone, aucun bouton « Site web », aucun email",
+    "R1 : \"Cabinet Diop Cheikh Ahmadou\" Sénégal Dakar — aucun résultat propre au cabinet ; uniquement des profils de personnes homonymes (le nom Cheikh Ahmadou Bamba Diop est très répandu), tous écartés",
+    "R2 : \"Cheikh Ahmadou Diop\" cabinet Dakar email contact consultant Sénégal — fait ressortir sa fiche consultant sur le portail de la microfinance sénégalais (http://www.microfinance.sn/consultant/diop-cheikh-ahmadou/), qui donne le téléphone (+221) 77 545 72 04 — identique à celui de la fiche goafrica — son profil (consultant expert en microfinance, certifié MicroSave, 15 ans d'expérience) et une adresse email (voir note)",
+    "R3 : \"77 545 72 04\" OR \"+221775457204\" — aucun autre résultat que la fiche microfinance.sn ci-dessus",
+    "R4 : \"CABINET DIOP CHEIKH AHMADOU\" — aucun résultat propre : uniquement des profils LinkedIn et un profil FIDE d'homonymes, tous écartés",
+    "Page microfinance.sn tentée en HTTPS et en HTTP, avec et sans le préfixe www, et avec le faisceau de certificats de la session : le serveur www.microfinance.sn présente un certificat TLS expiré (alerte TLS « certificate expired » après l'établissement du tunnel), la connexion échoue donc. Aucun contournement effectué, aucune vérification désactivée. Pas de copie archivée accessible : web.archive.org est bloqué par la politique de sortie réseau de cette session",
+    "Adresses probables testées (aucune résolution DNS) : cabinetdiop.sn, cyabadiop.com"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email enregistré, faute d'avoir pu le lire sur une page. Le portail microfinance.sn publie une adresse pour ce consultant — les résumés du moteur de recherche la citent comme « cyabadiop@yahoo.fr », à côté du téléphone 77 545 72 04 qui correspond exactement à la fiche goafrica, ce qui rend l'identification certaine — mais la page reste inaccessible (certificat TLS expiré du site). Troisième cas identique dans ce passage, avec AG Consulting Services et Cabinet Ba Momar : microfinance.sn est une mine d'adresses de consultants sénégalais et mériterait d'être relu dès que son certificat sera renouvelé. Consultant individuel spécialisé microfinance. Contact : 77 545 72 04."
+  },
+  {
+   "nom": "CABINET DPM CONSULTING",
+   "sigle": "DPM CONSULTING",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "dpmconsulting@outlook.fr"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 222 76 13",
+   "adresse": "Cité Keur Gorgui - Mermoz Sacré-Coeur, Dakar - Sénégal (le site précise : Dakar, Sacré Cœur 3, Cité Keur Gorgui 131-132, Pyrotechnie)",
+   "ville": "Dakar (Sacré-Coeur 3 / Keur Gorgui)",
+   "site_web": "https://dpmconsulting8.wixsite.com/info",
+   "site_source": "fiche goafrica",
+   "specialite": "Accompagnement dans la gestion d'activité : organisation, stratégie, comptabilité, formation, management, conseil et études",
+   "fiche_url": "https://www.goafricaonline.com/sn/592560-cabinet-dpm-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://dpmconsulting8.wixsite.com/info",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592560-cabinet-dpm-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — nom, sigle DPM CONSULTING, adresse Cité Keur Gorgui - Mermoz Sacré-Coeur, téléphone 77 222 76 13 (affiché deux fois), description de l'activité, bouton « Site web » vers https://dpmconsulting8.wixsite.com/info, aucun email",
+    "Site ouvert : https://dpmconsulting8.wixsite.com/info — email publié en clair sur la page d'accueil (« E-mail : dpmconsulting@outlook.fr »). Identité confirmée : le site est intitulé « Cabinet conseil | DPM Consulting | Dakar » et donne l'adresse « Dakar, Sacré cœur 3 Cité Keur Gorgui 131-132 Pyrotechnie », cohérente avec celle de la fiche. Les chemins /contact et /a-propos renvoient 404, le site tenant sur une seule page",
+    "Recherches R1 à R4 non nécessaires : l'email a été trouvé sur le site du bureau lui-même (étape 3 applicable uniquement à défaut)"
+   ],
+   "statut": "a_verifier",
+   "note": "Email dpmconsulting@outlook.fr lu sur la page d'accueil du site déclaré par le cabinet sur sa fiche, dont l'adresse concorde (Sacré Cœur 3 / Cité Keur Gorgui). Le site est une page unique hébergée sur un sous-domaine Wix gratuit, signe d'une petite structure. Prestations larges (organisation, stratégie, comptabilité, formation, management, conseil, études) : à qualifier, mais l'adresse générique facilite la prise de contact."
+  },
+  {
+   "nom": "CABINET EDE",
+   "sigle": "EDE (Environnement - Déchets - Eau)",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 820 87 06 ; fax (+221) 33 820 87 06 (la fiche) / 33 820 04 77 (annuaires)",
+   "adresse": "Route Aéroport, face hangar des pèlerins, Lot 2 Yoff, BP 5941, Dakar - Sénégal (siège actuel indiqué par les annuaires : Almadies Sunugal, Ngor NG 28, BP 5941, Dakar)",
+   "ville": "Dakar (Yoff / Ngor-Almadies)",
+   "site_web": "https://www.cabinetede.com",
+   "site_source": "recherche web",
+   "specialite": "Cabinet d'ingénieurs conseils panafricain créé en 2001, spécialisé environnement, déchets et eau : conception et mise en œuvre de stratégies et de solutions techniques alignées sur les Objectifs de développement durable, infrastructures d'eau et d'assainissement, accompagnement technique, social, socio-économique, environnemental et juridique. Plus de 300 projets dans une vingtaine de pays, filiales au Burkina Faso, au Niger et en Côte d'Ivoire",
+   "fiche_url": "https://www.goafricaonline.com/sn/592510-cabinet-ede-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592510-cabinet-ede-bureaux-etudes-conseils-consultants-dakar-senegal — nom, sigle EDE, adresse Route Aéroport face hangar des pèlerins Lot 2 Yoff BP 5941, téléphone et fax 33 820 87 06, aucun bouton « Site web », aucun email",
+    "R1 : \"Cabinet EDE\" Sénégal Dakar Yoff route aéroport bureau d'études — aucun résultat utile (le moteur dérive vers l'aéroport de Yoff)",
+    "R2 : \"Cabinet EDE\" Dakar email contact Sénégal — identifie le bureau : il s'agit de Cabinet EDE International, dont le téléphone +221 33 820 87 06 et la boîte postale BP 5941 sont identiques à ceux de la fiche. Site www.cabinetede.com, pages LinkedIn, Instagram, Devex et pS-Eau repérées ; aucune adresse email générique publiée",
+    "R3 : \"33 820 87 06\" OR \"+221338208706\" — aucun résultat rattachant ce numéro à une page publiant un email",
+    "R4 : \"CABINET EDE\" Sénégal — confirme l'identité et l'activité (cabinet d'ingénieurs conseils EDE — Environnement, Déchets, Eau, créé en 2001, panafricain, filiales au Burkina Faso, au Niger et en Côte d'Ivoire)",
+    "Site ouvert page par page : https://www.cabinetede.com/ (accueil), /index.php/en/contact-us, /index.php/fr/contactez-nous, /index.php/en/who-are-we, /index.php/en/apply-us et /index.php/en/call-candidates — aucune adresse email n'y est publiée : le contact passe uniquement par un formulaire protégé par captcha. Le pied de page ne donne que le téléphone +221 33 820 87 06 (identique à la fiche, identité confirmée), les horaires et l'adresse à Ngor. Aucune adresse masquée ni encodée n'a été détectée sur ces pages",
+    "Recherche complémentaire : \"recrutement@cabinetede.com\" et \"cabinetede.com\" appel à candidatures — cette adresse de recrutement est citée par les résumés des moteurs de recherche mais n'apparaît sur aucune page ouvrable (elle figure vraisemblablement dans des offres d'emploi publiées sur LinkedIn, non consultables sans compte) : elle n'est donc pas enregistrée",
+    "Adresses probables : inutile de tester, le domaine du cabinet (cabinetede.com) a été trouvé par la recherche et vérifié"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email enregistré : le site du cabinet ne publie que des formulaires protégés par captcha, et l'adresse de recrutement citée par les moteurs (recrutement@cabinetede.com) n'a pu être lue sur aucune page accessible — à confirmer avant usage, et de toute façon peu adaptée à une prospection commerciale. Identification en revanche certaine : même téléphone et même boîte postale que la fiche. C'est l'une des meilleures cibles rencontrées dans ce passage : bureau d'ingénieurs conseils panafindien spécialisé eau, assainissement, déchets et environnement, créé en 2001, plus de 300 projets dans une vingtaine de pays, avec filiales au Burkina Faso, au Niger et en Côte d'Ivoire — exactement le profil des attributaires de marchés publics d'études. À contacter par téléphone (33 820 87 06) ou via son formulaire. Note : la fiche goafrica donne une ancienne adresse (Route de l'Aéroport, Lot 2 Yoff) alors que le cabinet est aujourd'hui aux Almadies (Ngor NG 28) ; la boîte postale BP 5941 est inchangée."
+  },
+  {
+   "nom": "CABINET EES (CABINET ENGINEERING & ENVIRONMENT SERVICES)",
+   "sigle": "EES",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "awa.ndiaye@cabinet-ees.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 832 88 70",
+   "adresse": "VDN, Cité CPI lot 57, Immeuble Seck 3e étage, en face de la Banque islamique, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://www.cabinet-ees.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Cabinet créé en 2006 pour accompagner les entreprises dans la mise en œuvre et le suivi de leurs projets et programmes : environnement, hygiène et sécurité ; diagnostic des émissions et immissions ; génie et conseil ; formation et assistance à l'organisation",
+   "fiche_url": "https://www.goafricaonline.com/sn/592605-cabinet-ees-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "http://www.cabinet-ees.com/contact",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592605-cabinet-ees-bureaux-etudes-conseils-consultants-dakar-senegal — nom complet « CABINET EES (CABINET ENGINEERING & ENVIRONMENT SERVICES) », sigle EES, adresse VDN cité CPI lot 57 Immeuble Seck 3e étage en face de la Banque islamique, un téléphone, bouton « Site web » vers http://www.cabinet-ees.com, aucun email",
+    "Site ouvert : http://www.cabinet-ees.com (accueil, également accessible en HTTPS) et sa page contact http://www.cabinet-ees.com/contact — email awa.ndiaye@cabinet-ees.com publié sur la page contact et dans le pied de page de toutes les pages, à côté du téléphone +221 33 832 88 70 et de l'adresse « VDN cité CPI lot 57, Immeuble Seck 3e étage en face de la Banque islamique » : téléphone et adresse identiques à la fiche, identité confirmée. C'est la seule adresse email publiée sur le site (pas d'adresse générique de type contact@)",
+    "Recherches R1 à R4 non nécessaires : l'email a été trouvé sur le site du bureau lui-même (étape 3 applicable uniquement à défaut)"
+   ],
+   "statut": "a_verifier",
+   "note": "Email awa.ndiaye@cabinet-ees.com lu sur la page contact et dans le pied de page du site du cabinet, déclaré sur sa fiche ; adresse et téléphone identiques : identification certaine. Adresse nominative et non générique (c'est la seule que le cabinet publie) : s'adresser nommément à cette personne. Bonne cible : bureau d'études créé en 2006, spécialisé environnement, hygiène et sécurité, diagnostic des émissions, génie et conseil, formation — profil courant des attributaires de marchés d'études d'impact environnemental."
+  }
+ ]
+}
