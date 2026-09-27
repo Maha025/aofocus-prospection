@@ -140,6 +140,120 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email trouvé : le site déclaré sur la fiche ne résout plus. Le cabinet « Dare Africa Consulting » retrouvé dans les résultats est basé en Guinée et ne mentionne ni Dakar ni la Cité Kalia : lien avec cette fiche non établi, aucune coordonnée reprise."
+    },
+    {
+      "nom": "DARISS CONSULTING",
+      "sigle": "DARISS CONSULTING SAS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Papa Yankhoba Ndiaye (directeur)",
+      "emails": [
+        "info@darissconsulting.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 842 57 35 / (+221) 70 402 12 81 / (+221) 77 700 37 37",
+      "adresse": "3 Rue Béranger Féraud",
+      "ville": "Dakar",
+      "site_web": "https://www.darissconsulting.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Intégrateur de solutions numériques et connectées : conseil, plateformes IA, IoT, cloud souverain, streaming (marques Jokko Pro Africa, Djikka Market, SEN-EVENTS)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592690-dariss-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.darissconsulting.com",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers http://www.darissconsulting.com, pages Facebook (DarissConsulting) et LinkedIn (dariss-consulting-officiel)",
+        "Site officiel ouvert : « DARISS CONSULTING SAS », basée à Dakar depuis 2009, directeur Papa Yankhoba Ndiaye ; email info@darissconsulting.com ; tél. +221 33 842 57 35 et +221 77 700 37 37 (tous deux sur la fiche) ; adresse Mermoz VDN, Immeuble Zanardo, Dakar",
+        "Adresse probable testée : darissconsulting.sn (ne résout pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : deux des trois téléphones de la fiche figurent sur le site. L'adresse diffère (3 Rue Béranger Féraud sur la fiche, Mermoz VDN Immeuble Zanardo sur le site) : déménagement probable, les deux sont conservées ici."
+    },
+    {
+      "nom": "DATABASE ANALYSIS",
+      "sigle": "DBA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "M. MBODJI (directeur général)",
+      "emails": [
+        "institutdba@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 878 37 54 / (+221) 77 413 66 59",
+      "adresse": "Rue 3 bis Point E",
+      "ville": "Dakar",
+      "site_web": "http://cabinetdba.sitego.fr",
+      "site_source": "recherche web",
+      "specialite": "Sondages et études de marché, quantitatives et qualitatives (équipe d'ingénieurs statisticiens, enquêteurs et superviseurs)",
+      "fiche_url": "https://www.goafricaonline.com/sn/385876-database-analysis-dakar-senegal",
+      "preuve_url": "http://cabinetdba.sitego.fr/contact.html",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1 : \"DATABASE ANALYSIS\" Sénégal Dakar Point E bureau d'études — aucun résultat direct (E.TE.C.S. et autres bureaux du Point E)",
+        "R2 : \"DATABASE ANALYSIS\" Dakar email contact Hamo Golf Nord société — fiche piaafrica.com de DATABASE ANALYSIS (même mobile 77 413 66 59), qui indique le site www.cabinetdba.sitego.fr",
+        "Page piaafrica ouverte (https://www.piaafrica.com/en/senegal/location-de-vehicules/42136-database-analysis/) : « DATABASE ANALYSIS », Hamo 3 S 33 Golf Nord 2 Dakar, tél. (+221) 77 413 66 59, aucun email",
+        "R3 : \"77 413 66 59\" puis \"+221 77 413 66 59\" et \"33 878 37 54\" — aucun résultat nominatif supplémentaire",
+        "Site cabinetdba.sitego.fr ouvert : « Database Analysis (DBA) est un cabinet à Dakar… spécialisée dans les sondages et étude de marchés » ; page contact (http://cabinetdba.sitego.fr/contact.html) : « Mr MBODJI, DIRECTEUR GENERAL, Hamo3 S 33 GOLF NORD 2 DAKAR, Tel : (221) 77 413 66 59, Email : institutdba@gmail.com »",
+        "Adresses probables testées : databaseanalysis.sn (ne résout pas) ; databaseanalysis.com répond mais n'est qu'un domaine en vente, sans contenu d'entreprise"
+      ],
+      "statut": "a_verifier",
+      "note": "Site trouvé par recherche web et retenu : le mobile de la fiche (77 413 66 59) est celui affiché sur la page contact du site. Cette fiche, la fiche 385877 (même mobile, adresse Hamo 3 Golf Nord 2) et la fiche 385879 « DBA » désignent la même structure : trois fiches pour un seul cabinet, à dédoublonner avant prospection."
+    },
+    {
+      "nom": "DATABASE ANALYSIS",
+      "sigle": "DBA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "M. MBODJI (directeur général)",
+      "emails": [
+        "institutdba@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 22 02 / (+221) 77 413 66 59",
+      "adresse": "Hamo 3 S 33 Golf Nord 2",
+      "ville": "Dakar",
+      "site_web": "http://cabinetdba.sitego.fr",
+      "site_source": "recherche web",
+      "specialite": "Sondages et études de marché, quantitatives et qualitatives (équipe d'ingénieurs statisticiens, enquêteurs et superviseurs)",
+      "fiche_url": "https://www.goafricaonline.com/sn/385877-database-analysis-dakar-senegal",
+      "preuve_url": "http://cabinetdba.sitego.fr/contact.html",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite ; même mobile que la fiche 385876 (77 413 66 59) mais fixe et adresse différents",
+        "R1 : \"DATABASE ANALYSIS\" Sénégal Dakar bureau d'études — aucun résultat direct",
+        "R2 : \"DATABASE ANALYSIS\" Dakar email contact Hamo Golf Nord société — fiche piaafrica.com donnant exactement cette adresse (Hamo 3 S 33 Golf Nord 2) et ce mobile, ainsi que le site www.cabinetdba.sitego.fr",
+        "R3 : \"77 413 66 59\" puis \"+221 77 413 66 59\" et \"33 864 22 02\" — aucun résultat nominatif supplémentaire",
+        "Site cabinetdba.sitego.fr ouvert : page contact (http://cabinetdba.sitego.fr/contact.html) — « Mr MBODJI, DIRECTEUR GENERAL, Hamo3 S 33 GOLF NORD 2 DAKAR, Tel : (221) 77 413 66 59, Email : institutdba@gmail.com », soit exactement l'adresse et le mobile de cette fiche",
+        "Adresses probables testées : databaseanalysis.sn (ne résout pas), databaseanalysis.com (domaine en vente, sans contenu)"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée de la manière la plus forte des trois fiches : l'adresse du siège et le mobile affichés sur le site sont identiques à ceux de cette fiche. Doublon avec les fiches 385876 (DATABASE ANALYSIS, Point E) et 385879 (DBA, Cité Aliou Sow) : un seul cabinet, à dédoublonner."
+    },
+    {
+      "nom": "DBA",
+      "sigle": "DBA (Database Analysis)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "M. MBODJI (directeur général)",
+      "emails": [
+        "institutdba@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 500 34 14",
+      "adresse": "Cité Aliou Sow 38, Golf Camberene",
+      "ville": "Dakar",
+      "site_web": "http://cabinetdba.sitego.fr",
+      "site_source": "recherche web",
+      "specialite": "Sondages et études de marché, quantitatives et qualitatives",
+      "fiche_url": "https://www.goafricaonline.com/sn/385879-dba-dakar-senegal",
+      "preuve_url": "http://cabinetdba.sitego.fr/contact.html",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1 : \"DBA\" Sénégal Dakar Cité Aliou Sow Golf Cambérène bureau d'études conseils — aucun résultat sur ce bureau (informations sur le quartier Golf Sud / Cité Aliou Sow)",
+        "R2 : \"DBA\" Dakar Sénégal email contact bureau études conseils consultants annuaire — résultats sans rapport (programmes doctoraux DBA de Supdeco et du Business Science Institute, Digital Academy Solutions, IBS Dakar) ; une fiche pagesjaunesdusenegal.com au nom « DBA » a été essayée (fiche.php?k=19492) : HTTP 404",
+        "R3 : \"77 500 34 14\" puis \"+221 77 500 34 14\" — aucun résultat nominatif",
+        "Site cabinetdba.sitego.fr ouvert (trouvé via la fiche piaafrica de DATABASE ANALYSIS) : « Database Analysis (DBA) est un cabinet à Dakar… sondages et étude de marchés » ; page contact : Mr MBODJI, Hamo3 S 33 Golf Nord 2 Dakar, tél. (221) 77 413 66 59, email institutdba@gmail.com",
+        "Adresses probables testées : dba.sn, dba-senegal.com (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Le sigle DBA est celui que le cabinet Database Analysis utilise lui-même sur son site (« Database Analysis (DBA) »), et les deux sont à Dakar : le site et l'email lui sont donc rattachés. Réserve à signaler : ni le téléphone (77 500 34 14) ni l'adresse (Cité Aliou Sow, Golf Cambérène) de cette fiche n'apparaissent sur le site, qui donne le 77 413 66 59 à Hamo 3 Golf Nord 2 — quartiers voisins. Troisième fiche du même cabinet avec 385876 et 385877, à dédoublonner."
     }
   ]
 }
