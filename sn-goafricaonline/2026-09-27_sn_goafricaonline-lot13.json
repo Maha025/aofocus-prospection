@@ -280,6 +280,142 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email retenu : l'adresse cogep@orange.sn apparaît dans des extraits de moteur de recherche, mais aucune page consultable ne l'affiche (site cogep.sn hors service, developmentaid en 403, b2bsenegal hors service), donc elle n'est pas reprise. Même cabinet que la fiche 385684 « CONSEIL EN GESTION ETUDES DE PROJET » (même immeuble, même fax)."
+    },
+    {
+      "nom": "COGESCOM SARL",
+      "sigle": "COGESCOM",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 823 59 90 / (+221) 77 619 78 43",
+      "adresse": "1007 Central park, BP 6710",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseils en gestion",
+      "fiche_url": "https://www.goafricaonline.com/sn/655249-cogescom-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"COGESCOM\" Sénégal conseils en gestion — aucun résultat sur ce bureau (cogescom.ca au Québec, cogesco.fr en France, CGA-Sénégal)",
+        "R2 : COGESCOM Dakar email contact Central Park — aucun résultat sur ce bureau (le centre commercial Central Park de Dakar uniquement)",
+        "R3 : \"33 823 59 90\" puis \"+221 33 823 59 90\" et \"77 619 78 43\" — aucun résultat nominatif",
+        "R4 : \"COGESCOM SARL\" — uniquement AB Cogescom SARL à Aix-en-Provence (France), homonyme sans rapport",
+        "Adresses probables testées : cogescom.sn, cogescom.com (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Homonymes au Québec et en France ; aucune de leurs coordonnées n'est reprise."
+    },
+    {
+      "nom": "COGESTO CONSULTING",
+      "sigle": "COGESTO",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "infos@cogestoconsulting.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 769 69 12 / (+221) 33 868 43 11",
+      "adresse": "Fenêtre Mermoz - Mermoz Sacre-coeur, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://www.cogestoconsulting.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil, finance et management de la performance ; bureaux au Sénégal, au Maroc et au Canada",
+      "fiche_url": "https://www.goafricaonline.com/sn/480525-cogesto-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.cogestoconsulting.com/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers http://www.cogestoconsulting.com, horaires 08h00-17h00 du lundi au vendredi",
+        "Site officiel ouvert (accueil et pied de page) : infos@cogestoconsulting.com, tél. +221 33 868 43 11 (même que la fiche), Immeuble Saliou Ndione 2ème étage, Fenêtre Mermoz, Route de la Corniche Ouest, Dakar",
+        "Page contact ouverte (http://www.cogestoconsulting.com/contact) : même adresse infos@cogestoconsulting.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site officiel ; téléphone et quartier identiques à la fiche."
+    },
+    {
+      "nom": "COM-COM INC",
+      "sigle": "Com'Com Inc.",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@comcom-inc.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 824 43 64 (secrétariat de direction) / (+221) 78 605 99 26 (service commercial)",
+      "adresse": "25 GY - 11 bis SIPRES 2",
+      "ville": "Dakar",
+      "site_web": "https://comcom-inc.sn",
+      "site_source": "recherche web",
+      "specialite": "Expertise comptable et fiscale, conseil en performance, formation et accompagnement d'entreprise, externalisation",
+      "fiche_url": "https://www.goafricaonline.com/sn/501754-com-inc-expertise-comptable-dakar-senegal",
+      "preuve_url": "https://comcom-inc.sn/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web » ; liens vers une page Facebook et une page LinkedIn de l'entreprise",
+        "R1 : \"COM-COM INC\" expertise comptable Sénégal — découverte du site comcom-inc.sn (« COMCOM INC – Formation & Accompagnement d'Entreprise »)",
+        "R2 : \"COM-COM INC\" Dakar email contact comptabilité SIPRES — pas d'email dans les résultats, mais confirmation des deux téléphones de la fiche",
+        "R3 : \"33 824 43 64\" puis \"+221 33 824 43 64\" et \"78 605 99 26\" — aucun résultat nominatif supplémentaire",
+        "Site comcom-inc.sn ouvert : accueil (aucun email direct), page contact (https://comcom-inc.sn/contact) : contact@comcom-inc.sn, tél. +221 78 605 99 26, « 11 bis SIPRES 2 — Dakar — Sénégal », page mentions légales (nom légal Com'Com Inc., société de droit sénégalais, aucun email de contact)"
+      ],
+      "statut": "a_verifier",
+      "note": "Site trouvé par recherche web et retenu : même nom, même téléphone (+221 78 605 99 26) et même adresse (11 bis SIPRES 2) que la fiche. Ne pas confondre avec comcom.fr (cabinet français homonyme)."
+    },
+    {
+      "nom": "COMPAGNIE D'EQUIPEMENT DE SERVICE ET DE PRODUCTION (CESP)",
+      "sigle": "CESP",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 822 00 26 / Fax : (+221) 33 842 75 32",
+      "adresse": "20, Avenue Cheikh Ahmadou Bamba, BP 35651",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480021-compagnie-d-equipement-de-service-et-de-production-cesp-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1 : \"COMPAGNIE D'EQUIPEMENT DE SERVICE ET DE PRODUCTION\" Sénégal — aucun résultat sur ce bureau (CCIS, COSEDI, Centrale Equipements Travaux et Services)",
+        "R2 : CESP Dakar email contact Avenue Cheikh Ahmadou Bamba équipement service production — aucun résultat sur ce bureau (CESAG, Centre de Suivi Écologique)",
+        "R3 : \"33 822 00 26\" puis \"+221 33 822 00 26\" — aucun résultat nominatif",
+        "R4 : \"COMPAGNIE D'EQUIPEMENT DE SERVICE ET DE PRODUCTION (CESP)\" — un seul résultat nominatif, un arrêt de la Cour suprême du Sénégal du 06/03/2014 (juricaf.org/arret/SENEGAL-COURSUPREME-20140306-33), sans coordonnées",
+        "Adresses probables testées : cesp.sn, cesp-senegal.com, cesp.com.sn (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Le seul document public nominatif est un arrêt de la Cour suprême du Sénégal de mars 2014 : d'après le résumé, CESP SARL y a été condamnée pour blanchiment, exclue des marchés publics cinq ans et sa fermeture définitive ordonnée. À vérifier avant toute prospection : la société pourrait ne plus être en activité."
+    },
+    {
+      "nom": "CONFLUENCE CONSEILS",
+      "sigle": "Confluence",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "infos@confluence-conseils.com",
+        "recrutement@confluence-conseils.com",
+        "c.f@confluence-conseils.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 05 03 / (+221) 77 637 06 42",
+      "adresse": "Mermoz-VDN, Immeuble Zanardo 2ème étage",
+      "ville": "Dakar",
+      "site_web": "https://www.confluence-conseils.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet de conseil (groupe Confluence)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592669-confluence-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://confluence-conseils.com/contacts/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers http://www.confluence-conseils.com/",
+        "Site officiel ouvert (accueil et pied de page) : infos@confluence-conseils.com, tél. (+221) 33 864 05 03 (même que la fiche), Mermoz VDN Immeuble Zanardo lot 7677 3ème étage droite, Dakar",
+        "Page contacts ouverte (https://confluence-conseils.com/contacts/) : infos@confluence-conseils.com, recrutement@confluence-conseils.com, c.f@confluence-conseils.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Trois adresses lues sur la page contacts ; la générique infos@ est placée en premier."
     }
   ]
 }
