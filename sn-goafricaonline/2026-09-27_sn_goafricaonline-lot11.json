@@ -495,6 +495,95 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun email. Le cabinet est en réalité installé à Kaolack — l'adresse de la fiche (Ndorong, centre-ville Léona Kaolack) et l'indicatif 33 941 le confirment — alors que goafricaonline l'affiche sous Dakar : c'est une erreur de l'annuaire, et le champ ville a été corrigé en le signalant. Aucune trace du cabinet ailleurs sur le web : ni site, ni annuaire, ni réseau social, et il n'est pas inscrit aux tableaux de l'ONES. Le sigle CEDEN est par ailleurs occupé par un cabinet d'études français sans rapport. Contact : 33 941 40 83 ou 77 566 58 32."
+  },
+  {
+   "nom": "CEFAS",
+   "sigle": "CEFAS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "cefassenegal@gmail.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 868 57 27 ; (+221) 78 525 59 75 sur la fiche ; le site affiche le +221 77 996 08 08, le 77 919 49 49 et le 77 077 57 57",
+   "adresse": "Cité Keur Damel, en face de Yeungoulen (avant le rond-point 26 des Parcelles Assainies), Dakar - Sénégal",
+   "ville": "Dakar (Cité Keur Damel, Parcelles Assainies)",
+   "site_web": "https://cefas-senegal.com",
+   "site_source": "recherche web",
+   "specialite": "Centre de Formation Africain du Sénégal : établissement privé d'enseignement professionnel, technique et supérieur (BT/BTS, licences, bachelors, masters, co-diplomation internationale) organisé en trois départements — Santé, Technique (génie civil, génie électrique, électrotechnique, informatique industrielle) et Management/Gestion (RH, comptabilité, marketing digital, transport-logistique, commerce international)",
+   "fiche_url": "https://www.goafricaonline.com/sn/592692-cefas-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://cefas-senegal.com/contact",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592692-cefas-bureaux-etudes-conseils-consultants-dakar-senegal — nom « CEFAS », adresse « Cité Keur Damel en face yeugouléne », Dakar, deux mobiles, aucun bouton « Site web », aucune description d'activités, aucun email",
+    "R1 : \"CEFAS\" Sénégal Dakar \"Keur Damel\" cabinet — identification immédiate : CEFAS est le « Centre de Formation Africain du Sénégal », établissement privé installé Cité Keur Damel à Dakar, avec son propre site cefas-senegal.com et des fiches sur les annuaires d'établissements (Le Grand Frère, Edukiya, SenCampus, Senformation). Un PDF du site donne même « NOTRE ADRESSE Sénégal, Dakar, Cité Keur Damel... », identique à l'adresse de la fiche",
+    "R2 : \"CEFAS\" Dakar Sénégal email contact formation études — mêmes pages, dont la page contact du site",
+    "Site ouvert (https://cefas-senegal.com/contact) : la page contact affiche l'adresse « Cité Keur Damel En face Yeungoulen Dakar, Sénégal » — exactement celle de la fiche goafricaonline —, l'adresse email cefassenegal@gmail.com, les téléphones +221 77 996 08 08, 77 919 49 49 et 77 077 57 57, et les horaires (lun-ven 8h-18h, samedi 8h-13h). L'identité est confirmée par la concordance de l'adresse. (À noter : l'accès direct en ligne de commande à cefas-senegal.com a d'abord échoué, la connexion étant coupée par la passerelle ; la page a été lue par l'outil de récupération de page.)",
+    "Recherches R3 et R4 non nécessaires : un email a été lu sur le site de l'établissement, dont l'identité est établie par l'adresse"
+   ],
+   "statut": "a_verifier",
+   "note": "Email lu sur la page contact du site de l'établissement : cefassenegal@gmail.com. Identité certaine grâce à l'adresse, très caractéristique et identique sur la fiche et sur le site (Cité Keur Damel, en face de Yeungoulen). Les deux mobiles de la fiche (77 868 57 27 et 78 525 59 75) ne figurent plus sur le site, qui en publie trois autres : les deux jeux sont conservés. Il s'agit d'un établissement de formation (fondé en 2016, reconnu par l'État du Sénégal) plutôt que d'un bureau d'études : le classement en « Bureaux d'études - Conseils - Consultants » vient de l'annuaire."
+  },
+  {
+   "nom": "CEIC",
+   "sigle": "CEIC (Cabinet d'Expertise Conseil d'Ingénierie et de Contrôle)",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "resif2@yahoo.fr"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 825 02 08 ; (+221) 33 825 02 12 (fax d'après l'ONES) ; (+221) 77 267 82 82",
+   "adresse": "Immeuble Real Immo, Appt. 104, Sodida Bourguiba, BP 18427 (Pikine), Dakar - Sénégal",
+   "ville": "Dakar (Sodida, avenue Bourguiba)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Conseil en sûreté (fiche goafricaonline) ; prévention et maîtrise des risques — sécurité incendie et explosion, sûreté et malveillance, cybersécurité, atteintes à l'environnement, risques professionnels (description SenPages)",
+   "fiche_url": "https://www.goafricaonline.com/sn/592586-ceic-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.experts-ones.com/wp-content/uploads/2024/05/TABLEAU-ONES-Experts-du-Senegal-2023.pdf",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592586-ceic-bureaux-etudes-conseils-consultants-dakar-senegal — nom « CEIC », adresse Imm. real immo Appt. 104 Sodida Bourguiba BP 18427 Dakar, deux fixes et un mobile, activité « Conseil en sûreté », et un bouton « Site web » pointant vers une page du groupe français CNPP (www.cnpp.com/Groupe/Implantations-et-reseau/CEIC-Senegal) ; aucun email",
+    "Lien « Site web » de la fiche ouvert (https://www.cnpp.com/Groupe/Implantations-et-reseau/CEIC-Senegal) : la page existe toujours mais s'intitule désormais « Présence de CNPP en France et dans le monde » et ne mentionne plus CEIC Sénégal — elle ne parle que des effectifs français, des partenaires européens et d'une filiale CNPP Afrique au Maroc. Aucun email, aucune coordonnée sénégalaise : la page ne sert plus de site au bureau et n'est pas retenue comme tel",
+    "R1 : \"CEIC\" Sénégal conseil sûreté CNPP Dakar — deux fiches SenPages du cabinet (https://www.senpages.com/entreprise/ceic-senegal/ et https://www.senpages.com/entreprise/cabinet-dexpertise-conseil-dingenierie-et-de-controle-ceic/) ; le reste des résultats concerne d'autres organisations dakaroises (CIES, CNP, CECA), écartées",
+    "Fiche SenPages ouverte (https://www.senpages.com/entreprise/cabinet-dexpertise-conseil-dingenierie-et-de-controle-ceic/) : « Cabinet d'Expertise Conseil d'Ingénierie et de Contrôle - CEIC », « Immeuble REAL IMMO - Appart 104, Sodida Bourguiba, Dakar », téléphone +221 33 825 02 08, activité « Acteur international de référence en prévention et maîtrise des risques dans les domaines de la sécurité incendie & explosion, sûreté & malveillance, cybersécurité, atteintes à l'environnement, risques professionnels » — mêmes coordonnées que la fiche, aucun email publié",
+    "R2 : \"CEIC\" Dakar email contact Sodida Bourguiba sûreté sécurité — aucune adresse email sur les annuaires (SenPages, Yelu) ; en revanche les tableaux d'experts de l'ONES ressortent comme piste",
+    "R3 : \"33 825 02 08\" OR \"77 267 82 82\" Sénégal — les deux numéros ne ressortent que dans les tableaux d'experts de l'ONES (éditions 2020/2021 et 2023), rattachés à l'adresse « Immeuble Real Immo Appt 104 SODIDA, B.P.: 18.427 Pikine Dakar »",
+    "Tableaux ONES dépouillés (https://www.experts-ones.com/wp-content/uploads/2024/05/TABLEAU-ONES-Experts-du-Senegal-2023.pdf et https://www.fiddex-sda.com/wp-content/uploads/2021/12/TABLEAU_ONES_Experts-du-Senegal.pdf) : les deux publient, à l'identique, « Immeuble Real Immo Appart. 104 Sodida - B.P.: 18.427 Pikine Dakar - Tél. 33.825.02.08 - Fax 33.825.02.12 Cell. 77.267.82.82 - Email: resif2@yahoo.fr ». Les trois numéros de la fiche goafricaonline y figurent tous les trois, dont le second fixe qui s'avère être le fax : l'identité est certaine et l'email est lu tel quel",
+    "R4 non nécessaire : l'email a été lu sur une source officielle dont l'adresse et les trois téléphones recoupent exactement ceux de la fiche"
+   ],
+   "statut": "a_verifier",
+   "note": "Email lu dans les tableaux officiels des experts de l'ONES (éditions 2020/2021 et 2023, identiques) : resif2@yahoo.fr. Le rattachement est certain, la ligne ONES reprenant l'adresse (Immeuble Real Immo, appt 104, Sodida, BP 18.427) et les trois numéros de la fiche goafricaonline — le deuxième « fixe » de la fiche (33 825 02 12) étant en réalité le fax. L'adresse est une adresse personnelle en yahoo.fr, pas une adresse au nom du cabinet : c'est néanmoins celle que l'ONES publie pour cette structure. Le lien « Site web » de la fiche renvoyait à une page du groupe français CNPP consacrée à CEIC Sénégal ; cette page existe toujours mais ne mentionne plus le bureau sénégalais, il n'y a donc plus de site propre à retenir."
+  },
+  {
+   "nom": "CEIN'ELEC",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 411 60 20 ; (+221) 70 935 02 16",
+   "adresse": "Dakar - Sénégal (aucune adresse précise sur la fiche ; un annuaire mentionne « Lot 2 Mermoz Pyrotechnique »)",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Services et maintenance informatiques, formation, bureau d'études et de recherche (secteurs déclarés sur Business-Senegal)",
+   "fiche_url": "https://www.goafricaonline.com/sn/385306-cein-elec-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/385306-cein-elec-dakar-senegal — nom « CEIN'ELEC », aucune adresse précise (seulement « Dakar »), deux mobiles, aucun bouton « Site web », aucune description d'activités, aucun email",
+    "R1 : \"CEIN'ELEC\" Sénégal — l'entreprise est référencée sur plusieurs annuaires : Business-Senegal (fiche 10500, versions française et anglaise), Dobiza, annuaire-senegal.com, piaafrica et une fiche Pages Jaunes du Sénégal ; tous donnent le site www.ceinelec.sitew.com",
+    "R2 : \"CEIN ELEC\" Dakar email contact électricité — aucune adresse email ; les résultats portent surtout sur des acteurs de l'électricité sans rapport (SENELEC, Schneider Electric Sénégal, Groupe SEEE, SENERGIE), écartés. Un annuaire situe le bureau « Lot 2 Mermoz Pyrotechnique » à Dakar",
+    "Profil Business-Senegal ouvert (http://business-senegal.com/fre/Entreprises/profilent/_10500) : « CEIN'ELEC », adresse « Dakar ville, Sénégal », secteurs « Informatiques - Services, Maintenance », « Formation » et « Bureaux Etudes et Recherche », « Tel.: (221) 774116020 / 709350216 » — exactement les deux numéros de la fiche, ce qui confirme l'identité — et site « http://www.ceinelec.sitew.com/#Accueil.A » ; aucune adresse email",
+    "Fiche annuaire-senegal ouverte (https://www.annuaire-senegal.com/informatique/informatique-nouvelles-technologies/cein-elec-s154416.html) : « Cein'elec à Dakar, numéro de téléphone 774116020, 709350216, adresse: Dakar », site www.ceinelec.sitew.com — aucune adresse email",
+    "Site annoncé testé : www.ceinelec.sitew.com, ceinelec.sitew.com et www.ceinelec.sitew.fr répondent tous 404 (le site gratuit hébergé chez Sitew a été supprimé) et la version HTTPS présente un certificat qui ne correspond pas au nom d'hôte ; aucun email n'a pu y être lu. La fiche Pages Jaunes du Sénégal correspondante (fiche k=14939) répond également 404, et la fiche piaafrica n'a pas pu être chargée (connexion coupée)",
+    "R3 : \"77 411 60 20\" OR \"70 935 02 16\" Sénégal — aucun résultat rattachant ces numéros à une page publiant un email ; seules des pages sur la numérotation sénégalaise remontent",
+    "R4 : \"CEIN'ELEC\" seul — mêmes annuaires que ci-dessus, aucune autre page ; aucun homonyme gênant",
+    "Adresses probables testées : ceinelec.sn, ceinelec.com et cein-elec.com ne sont pas joignables (aucune résolution) ; aucun site n'est retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. L'entreprise est bien identifiée par ses deux mobiles, repris à l'identique par Business-Senegal et annuaire-senegal.com, mais son site (un site gratuit hébergé chez Sitew, www.ceinelec.sitew.com) a été supprimé et répond 404 : aucune des sources restantes ne publie d'adresse email. Malgré son nom, c'est une société d'informatique — services et maintenance, formation, études et recherche — et non un électricien. Contact : 77 411 60 20 ou 70 935 02 16."
   }
  ]
 }
