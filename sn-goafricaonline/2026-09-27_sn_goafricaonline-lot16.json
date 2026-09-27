@@ -135,6 +135,113 @@
       ],
       "statut": "a_verifier",
       "note": "Email lu sur la page contact du site officiel ; l'adresse du site et des annuaires est identique à celle de la fiche. Activité de logistique plutôt que de conseil : classée ici sous « autre », comme le veut le format, mais son intérêt pour la prospection AOFocus est à valider."
+    },
+    {
+      "nom": "DOLPH STATS CONSULTING",
+      "sigle": "DSC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@dolph-stats.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 850 08 43",
+      "adresse": "Cité CPI N24 BIS, Rue du, Rte du Front de Terre",
+      "ville": "Dakar",
+      "site_web": "http://www.dolph-stats.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil et expertise en ingénierie et science des données : études de marché et enquêtes d'opinion quantitatives et qualitatives",
+      "fiche_url": "https://www.goafricaonline.com/sn/592595-dolph-stats-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.dolph-stats.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers http://www.dolph-stats.com/, comptes Twitter (DolphStats), Facebook (dolph.stats) et Instagram (dolphstatsconsulting)",
+        "Site officiel ouvert : « Dolph-Stats Consulting (DSC) », société de conseil et d'expertise en ingénierie et science des données ; email info@dolph-stats.com ; tél. +221 77 850 08 43 (même que la fiche)",
+        "Adresse probable testée : dolphstats.sn (ne résout pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée par le téléphone, identique à celui de la fiche. Le site ne publie pas d'adresse postale ; celle de la fiche (Cité CPI N24 bis, route du Front de Terre) est conservée."
+    },
+    {
+      "nom": "DPM CONSULTING SARL",
+      "sigle": "DPM",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@dpm-sn.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 822 32 29",
+      "adresse": "11000 DAKAR - Mermoz Sacre-coeur",
+      "ville": "Dakar",
+      "site_web": "https://dpm-sn.com",
+      "site_source": "recherche web",
+      "specialite": "Cabinet d'accompagnement et de conseil, formation, diagnostic et stratégie d'entreprise ; audit et conseil en sûreté et sécurité, formation en sûreté portuaire et aéroportuaire, code ISPS, SST et sécurité incendie (agréé ANAM, ministère de l'Intérieur, MFPT)",
+      "fiche_url": "https://www.goafricaonline.com/sn/782897-dpm-consulting-sarl",
+      "preuve_url": "https://dpm-sn.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1/R2 : \"DPM CONSULTING\" Sénégal Dakar email contact cabinet conseil — site dpm-sn.com, fiche senpages « DPM Consulting SARL », page Facebook (dpmconsulting), site wixsite dpmconsulting8, page LinkedIn DPM CONSULTING SENEGAL",
+        "Fiche senpages ouverte (https://www.senpages.com/entreprise/dpm-consulting-sarl/) : « DPM Consulting SARL », Sacré Cœur 3 Cité Keur Gorgui 131-132 Pyrotechnie, Dakar, tél. +221 78 302 06 53, description « cabinet d'accompagnement et de conseil, de formation, de diagnostic et stratégie d'entreprise », aucun email",
+        "Site dpm-sn.com ouvert : « DPM Consulting », email contact@dpm-sn.com, tél. +221 71 047 52 52, adresse Sacré-Cœur — Cité Keur Gorgui, Dakar ; même description d'activité que la fiche senpages",
+        "R3 : \"33 822 32 29\" puis \"+221 33 822 32 29\" avec le nom — aucun résultat nominatif (uniquement des DPM Consulting américains et sud-africains)"
+      ],
+      "statut": "a_verifier",
+      "note": "Site et email retenus sur la correspondance du nom, du quartier (Sacré-Cœur, que la fiche écrit « Mermoz Sacre-coeur ») et d'une description d'activité mot pour mot identique entre dpm-sn.com et la fiche senpages de DPM Consulting SARL. Réserve : trois numéros différents circulent pour ce cabinet — 33 822 32 29 (fiche goafrica), 78 302 06 53 (senpages) et 71 047 52 52 (site) ; une autre adresse (Résidence Mariama BA, Bd de la Gueule Tapée) apparaît aussi dans les extraits de recherche."
+    },
+    {
+      "nom": "DYNAMIC CONSEILS",
+      "sigle": "DYNAMIC' Conseils (Dynamic Groupe)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@dynamic-conseils.com",
+        "amratou@dynamic-conseils.com",
+        "celestine@dynamic-conseils.com",
+        "aissata@dynamic-conseils.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 827 11 27 (standard) / (+221) 76 488 40 87 (Whatsapp)",
+      "adresse": "Cité CPI, VDN, Immeuble 37, 4ème étage",
+      "ville": "Dakar",
+      "site_web": "https://conseils.dynamicgroupe.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet créé en 2004 : conseil en management et conduite du changement, formation et renforcement de capacités, coaching, team building, bilan de compétences, RH et externalisation de la paie, recrutement et insertion professionnelle",
+      "fiche_url": "https://www.goafricaonline.com/sn/622685-dynamic-conseils-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://conseils.dynamicgroupe.com",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers https://conseils.dynamicgroupe.com, comptes Facebook, Instagram, Twitter, LinkedIn et YouTube ; la présentation rédigée par le cabinet donne elle-même trois adresses email (amratou@, celestine@ et aissata@dynamic-conseils.com)",
+        "Site officiel ouvert : « Dynamic'conseils (Dynamic Groupe) », cabinet de conseil en ressources humaines ; email contact@dynamic-conseils.com ; tél. +221 33 827 11 27 (même que la fiche) ; adresse 4ème étage, Villa 37, Cité CPI, VDN 04, Dakar (même que la fiche)"
+      ],
+      "statut": "a_verifier",
+      "note": "Quatre adresses, toutes lues sur une page : la générique contact@dynamic-conseils.com sur le site officiel (preuve_url), et les trois nominatives (amratou@, celestine@, aissata@) dans la présentation du cabinet sur sa fiche goafricaonline. Identité confirmée par le téléphone et l'adresse."
+    },
+    {
+      "nom": "Dakar Society",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 104 64 50",
+      "adresse": "500 Rue Baffa Sene - Medina",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782855-dakar-society",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1/R2/R3 : \"Dakar Society\" Sénégal Medina Baffa Sene email contact avec le numéro \"77 104 64 50\" — aucun résultat sur cette société (Dak Médina, Sen Habitat Dakar et autres entreprises du quartier ; le numéro n'apparaît nulle part)",
+        "R4 : \"Dakar Society\" — uniquement des organisations de la société civile et des travaux universitaires (Open Society Initiative for West Africa, Forum international de Dakar sur la paix et la sécurité, Croix-Rouge sénégalaise)",
+        "Adresses probables testées : dakarsociety.sn, dakarsociety.com (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Fiche récente (16 vues) sans activité déclarée ; le nom, très générique en anglais, ne donne aucune prise aux recherches."
     }
   ]
 }
