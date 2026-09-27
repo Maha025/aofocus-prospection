@@ -438,6 +438,63 @@
    ],
    "statut": "a_verifier",
    "note": "Deux emails lus dans les tableaux officiels des experts de l'ONES (éditions 2020/2021 et 2023, identiques sur ce point) : l'adresse générique du cabinet, cecogex@orange.sn, puis celle de son fondateur, goryndiaye1@hotmail.fr. Le rattachement est certain, la ligne ONES reprenant à l'identique l'adresse, le téléphone, le mobile et le fax de la fiche goafricaonline. Le cabinet n'a pas de site web ; c'est un cabinet d'expertises maritimes, commerciales et bancaires fondé en 1994 par Maître Gory N'Diaye, expert assermenté. À noter : le tableau ONES 2023 recense un autre expert à la même adresse (44 Avenue Faidherbe, BP 10.113 Dakar Liberté, cell. 77.542.38.39, aichanagueye@yahoo.fr) — cette adresse email est celle d'une autre personne et n'a pas été retenue ici."
+  },
+  {
+   "nom": "CEDEM DAKAR",
+   "sigle": "CEDEM",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 832 79 97",
+   "adresse": "Môle 4, Port Autonome de Dakar, Dakar-Plateau, Dakar - Sénégal",
+   "ville": "Dakar (Plateau, Port Autonome)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Transit, dédouanement et logistique : commissionnaire en transport / transitaire au Sénégal et en Afrique de l'Ouest, avec plus de 4 000 m² d'entreposage dans le port de Dakar (activité décrite par son site, aujourd'hui injoignable)",
+   "fiche_url": "https://www.goafricaonline.com/sn/782877-cedem-dakar",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782877-cedem-dakar — nom « CEDEM DAKAR », adresse Môle 4 Port Autonome Dakar - Dakar-Plateau, un fixe, horaires (ouvre à 08:00), aucun bouton « Site web », aucune description d'activités, aucun email",
+    "R1 : \"CEDEM\" Dakar Sénégal Môle 4 Port Autonome — la société est identifiée comme transitaire : son site cedemtransport.com décrit plus de 4 000 m² de stockage dans le port de Dakar et la présente parmi les principaux commissionnaires de transport du Sénégal et d'Afrique de l'Ouest ; le reste des résultats porte sur le Port autonome de Dakar lui-même et sur la modernisation du Môle 4",
+    "R2 : \"CEDEM\" Dakar email contact port — aucune adresse email du bureau ; les résultats donnent l'adresse de la page contact de cedemtransport.com, deux autres fiches goafricaonline de la société (« CEDEM DAKAR - Logistique », fiche 652840, et « CEDEM SA - Transports logistiques », fiche 458607) et, à écarter, un homonyme étranger (cedem.me) ainsi que le contact du Port autonome (port.dedakar@portdakar.sn) et des agrégateurs qui reconstituent des adresses (ContactOut, RocketReach)",
+    "Site cedemtransport.com : injoignable depuis cet environnement — le nom d'hôte ne se résout pas, ni en www ni sans www (échec DNS confirmé par résolution directe et par la passerelle réseau), pour l'accueil comme pour /en/contact/ et /en/stockage/. Le domaine semble avoir cessé d'être servi depuis l'indexation des moteurs : aucun email n'a pu y être lu",
+    "R3 : \"33 832 79 97\" OR \"+221 33 832 79 97\" — aucun résultat rattachant ce numéro à une page publiant un email ; seules des pages de numérotation remontent",
+    "R4 : \"CEDEM DAKAR\" transitaire Sénégal contact — mêmes pages : accueil et contact de cedemtransport.com (injoignables), annuaires de transitaires sénégalais, et les fiches goafricaonline de la société",
+    "Fiche goafricaonline « CEDEM SA - Transports logistiques » ouverte (https://www.goafricaonline.com/sn/458607-cedem-transports-logistiques-dakar-senegal) : même groupe mais autre implantation, « Rue Marchant x rue du bond, Immeuble Ndindy », téléphone (+221) 33 849 07 66 — aucun site, aucun email",
+    "Adresses probables testées : cedem.sn, cedemsa.com, cedem-transport.com et cedemdakar.com ne sont pas joignables (aucune résolution) ; aucun site n'est retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. La société est bien identifiée — CEDEM, transitaire et logisticien installé au Môle 4 du Port autonome de Dakar, référencé trois fois sur goafricaonline (cette fiche « Bureaux d'études », la fiche 652840 en « Logistique » et la fiche 458607 « CEDEM SA - Transports logistiques », rue Marchant, au 33 849 07 66) — mais son site, cedemtransport.com, ne répond plus du tout : son nom de domaine ne se résout plus, alors que les moteurs en gardent encore les pages en cache. Aucun email n'a donc pu être lu, et rien n'a été reconstitué. Il s'agit d'un transitaire plus que d'un bureau d'études : le classement en « Bureaux d'études - Conseils - Consultants » vient de l'annuaire. Contact : 33 832 79 97."
+  },
+  {
+   "nom": "CEDEN (CABINET CONSEILS ETUDES ET DEVELOPPEMENT D'ENTREPRISES)",
+   "sigle": "CEDEN",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 941 40 83 (fax identique) ; (+221) 77 566 58 32",
+   "adresse": "Ndorong, Villa n° 3705 bis / P1, Centre ville Léona Kaolack, BP 2057",
+   "ville": "Kaolack (la fiche indique « Dakar - Sénégal », mais l'adresse et l'indicatif 33 941 situent le cabinet à Kaolack)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480047-ceden-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480047-ceden-bureaux-etudes-conseils-consultants-dakar-senegal — nom « CEDEN (CABINET CONSEILS ETUDES ET DEVELOPPEMENT D'ENTREPRISES) », adresse « Ndorong, Villa n° 3705 bis / P1, Centre ville Leona kaolack, BP 2057 » bien que la ville affichée soit Dakar, un fixe, un mobile et un fax identique au fixe, aucun bouton « Site web », aucune description d'activités, aucun email",
+    "R1 : \"CEDEN\" Sénégal \"Conseils Etudes et Développement d'Entreprises\" Kaolack — aucune page du cabinet ; ne remontent que des institutions et programmes de Kaolack (chambre de commerce et son programme Passerelle PME, ARD de Kaolack, ACEP, CDES), tous écartés",
+    "R2 : \"CEDEN\" Kaolack OR Dakar email contact cabinet conseils études — aucune adresse email ; seuls des annuaires généralistes de cabinets de conseil dakarois remontent, sans entrée pour CEDEN",
+    "R3 : \"33 941 40 83\" OR \"77 566 58 32\" Sénégal — aucun résultat rattachant ces numéros à une page. À noter, un numéro voisin (33 941 41 13) est celui de l'agence de Kaolack de SanlamAllianz : cela confirme que l'indicatif 33 941 est bien celui de Kaolack, et non de Dakar",
+    "R4 : \"CEDEN\" \"Cabinet Conseils Etudes et Developpement d'Entreprises\" — aucun résultat sénégalais : le sigle renvoie à un cabinet français homonyme, CEDEN « Cabinet d'Études sur les Déchets et l'Énergie » (SAS créée en 2006 à Bois-Guillaume, déchets et énergies renouvelables), présent sur pappers.fr, CIBE, ATEE et FranceEnvironnement, ainsi qu'au CDÉNÉ canadien — tous distincts de ce cabinet",
+    "Recherche complémentaire dans les tableaux d'experts de l'ONES déjà téléchargés (éditions 2020/2021 et 2023) : ni « CEDEN », ni le 33 941 40 83, ni le 77 566 58 32 n'y figurent",
+    "Adresses probables testées : ceden.sn, ceden-senegal.com et cedensenegal.com ne sont pas joignables (aucune résolution) ; ceden.com redirige vers une place de marché de noms de domaine (domains.atom.com, page « Ceden.com » protégée par Cloudflare, non franchie) — aucun site n'est retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. Le cabinet est en réalité installé à Kaolack — l'adresse de la fiche (Ndorong, centre-ville Léona Kaolack) et l'indicatif 33 941 le confirment — alors que goafricaonline l'affiche sous Dakar : c'est une erreur de l'annuaire, et le champ ville a été corrigé en le signalant. Aucune trace du cabinet ailleurs sur le web : ni site, ni annuaire, ni réseau social, et il n'est pas inscrit aux tableaux de l'ONES. Le sigle CEDEN est par ailleurs occupé par un cabinet d'études français sans rapport. Contact : 33 941 40 83 ou 77 566 58 32."
   }
  ]
 }
