@@ -290,6 +290,90 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun email. Sigle opaque (CCDD n'est développé nulle part sur la fiche) et bureau introuvable ailleurs sur le web : ni site, ni annuaire, ni page de réseau social. Les tableaux d'experts de l'ONES, seule piste sérieuse, ont été dépouillés en entier sans le trouver. Contact : 77 717 76 23, adresse 13 rue 14 Liberté 6 Extension."
+  },
+  {
+   "nom": "CCE (CONCEPTION CONSULTANCE EXPERTISE)",
+   "sigle": "CCE",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Yarame Bergane (fondateur, d'après la page « A propos » du site)",
+   "emails": [
+    "contact@cceafrica.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 825 30 43 (fax identique) sur la fiche ; le site affiche aujourd'hui le (+221) 33 870 41 41",
+   "adresse": "Sacré Coeur 2, BP 8650, Dakar - Sénégal (le site indique aujourd'hui Villa N°1135, Cité Holding Baobab, BP 5939, Dakar)",
+   "ville": "Dakar (Sacré-Cœur 2 sur la fiche ; Cité Holding Baobab sur le site)",
+   "site_web": "http://cceafrica.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Entreprise d'ingénierie, d'études et de réalisation, experte en électromécanique : conception, consultance et expertise (dont climatisation et sécurité incendie ; référence citée : l'université Amadou Mahtar Mbow de Diamniadio)",
+   "fiche_url": "https://www.goafricaonline.com/sn/480013-cce-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "http://cceafrica.com/contact",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480013-cce-bureaux-etudes-conseils-consultants-dakar-senegal — nom « CCE (CONCEPTION CONSULTANCE EXPERTISE) », adresse Sacré Coeur 2 BP 8650 Dakar, un fixe et un fax identiques (33 825 30 43), un bouton « Site web » vers cceafrica.com ; aucun email sur la fiche",
+    "Site de la fiche ouvert (http://cceafrica.com/ et sa page contact http://cceafrica.com/contact) : l'en-tête et le pied de page de tout le site affichent l'adresse contact@cceafrica.com, avec le téléphone (+221) 33 870 41 41, les horaires lundi-vendredi 8h-18h et l'adresse « Villa N°1135, Cité Holding Baobab, 5939 - Dakar, Sénégal ». La page « A propos » confirme l'identité : « CCE, “Conception Consultance Expertise” est une entreprise d'ingénierie, d'études et de réalisation fondée par Monsieur Yarame Bergane », entreprise experte de l'électromécanique",
+    "Recherches R1 à R4 non nécessaires : un email a été lu directement sur le site déclaré par le bureau sur sa fiche"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site du bureau lui-même : contact@cceafrica.com, lu sur l'en-tête et le pied de page du site, notamment sur la page contact. Le bureau a visiblement déménagé et changé de ligne depuis son référencement sur goafricaonline : la fiche donne Sacré-Cœur 2, BP 8650 et le 33 825 30 43, alors que le site affiche Villa N°1135 Cité Holding Baobab, BP 5939 et le 33 870 41 41 — les deux jeux de coordonnées sont conservés. Attention, la page contact du site contient aussi un bloc de démonstration resté en place depuis le modèle graphique (« HEADQUARTERS 14 Tottenham Road, London » et info@thememove.com, l'adresse de l'éditeur du thème) : ce n'est pas une coordonnée du bureau et elle n'a pas été retenue."
+  },
+  {
+   "nom": "CCI AFRIQUE",
+   "sigle": "CCI",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 825 51 26",
+   "adresse": "Cité Keur Gorgui, Dakar - Sénégal",
+   "ville": "Dakar (Cité Keur Gorgui)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/782860-cci-afrique",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782860-cci-afrique — nom « CCI AFRIQUE », adresse Cité Keur Gorgui Dakar, un fixe, horaires (ouvre à 09:00), aucun bouton « Site web », aucune description d'activités, aucun email",
+    "Seconde fiche du même bureau repérée dans la même page d'annuaire : https://www.goafricaonline.com/sn/782908-cci-afrique (même téléphone, même « Cité Keur Gorgui », mais localisée à Bassoul/Tambacounda) — doublon manifeste, traité séparément ci-dessous",
+    "R1 : \"CCI Afrique\" Sénégal Dakar Keur Gorgui conseil — deux annuaires reprennent exactement les coordonnées de la fiche (https://sn.africabz.com/dakar/cci-afrique-316937 et https://www.africabizinfo.com/SN/cci-afrique-33-825-51-26) ; d'autres cabinets dakarois remontent (Concis Consulting « CCI », AN Legal Services), écartés",
+    "R2 : \"CCI Afrique\" Dakar email contact cabinet — aucune adresse email pour ce bureau ; les résultats portent surtout sur la Chambre de commerce, d'industrie et d'agriculture de Dakar (CCIAD, cciad.sn), une institution publique distincte, écartée",
+    "R3 : \"33 825 51 26\" Sénégal — le numéro ne ressort que sur l'annuaire africabizinfo, qui le rattache bien à « Cci Afrique », Cité Keur Gorgui, Dakar, secteur « corporate management », horaires lundi-vendredi 9h-17h — cela confirme les coordonnées de la fiche mais n'ajoute aucun email",
+    "R4 : \"CCI AFRIQUE\" — aucune page de ce bureau : le sigle renvoie aux chambres de commerce françaises et à leurs clubs Afrique, à un « Cabinet CCI Afrique » installé à Abidjan (page Facebook, Côte d'Ivoire, écarté) et à la « CCI Afrique, Russie & Eurasie » (cciare.com), inaugurée à Dakar en juillet 2024 ; la page d'inauguration de cette dernière a été ouverte et ne mentionne ni la Cité Keur Gorgui ni le téléphone de la fiche, et ne publie aucun email : aucun rapprochement n'a été retenu",
+    "Les deux fiches d'annuaire trouvées en R1 et R3 n'ont pas pu être lues : sn.africabz.com et africabizinfo.com répondent tous deux 403 Forbidden ; rien n'a été contourné",
+    "Adresses probables testées : cciafrique.com et cciafrique.sn n'existent pas (nom d'hôte non résolu) ; cci-afrique.com ne renvoie qu'une redirection vers une page de parking (« defaultsite », 229 octets) et son HTTPS échoue — aucun site n'est retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. Bureau référencé deux fois sur goafricaonline (fiches 782860 et 782908, même téléphone) et repris par deux annuaires agrégateurs qui recopient les mêmes coordonnées sans email et refusent la consultation (403). Le sigle « CCI » est très ambigu : à ne pas confondre avec la Chambre de commerce, d'industrie et d'agriculture de Dakar (CCIAD), avec le « Cabinet CCI Afrique » d'Abidjan, ni avec la « CCI Afrique, Russie & Eurasie ». Un avis repris par un annuaire décrit une activité de pré-inscription et d'inscription pour des études à l'étranger, ce qui n'est pas confirmé par une source du bureau lui-même : non retenu dans specialite. Contact : 33 825 51 26."
+  },
+  {
+   "nom": "CCI AFRIQUE",
+   "sigle": "CCI",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 825 51 26",
+   "adresse": "Cité Keur Gorgui, Tambacounda, Bassoul - Sénégal (localisation incohérente : « Cité Keur Gorgui » est un quartier de Dakar)",
+   "ville": "Bassoul / Tambacounda selon la fiche, en réalité Dakar (Cité Keur Gorgui)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/782908-cci-afrique",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782908-cci-afrique — nom « CCI AFRIQUE », adresse « Cité Keur Gorgui », mais ville renseignée « Tambacounda » et localité « Bassoul », un fixe identique à l'autre fiche (33 825 51 26), aucun bouton « Site web », aucune description d'activités, aucun email",
+    "Doublon de la fiche https://www.goafricaonline.com/sn/782860-cci-afrique (même nom, même adresse de quartier, même téléphone) : la recherche complète a été menée une fois pour les deux et elle est détaillée sur l'autre entrée",
+    "R1 : \"CCI Afrique\" Sénégal Dakar Keur Gorgui conseil — fiches africabz.com et africabizinfo.com aux mêmes coordonnées, aucune mention de Bassoul ni de Tambacounda",
+    "R2 : \"CCI Afrique\" Dakar email contact cabinet — aucune adresse email ; résultats sur la CCIAD, écartés",
+    "R3 : \"33 825 51 26\" Sénégal — le numéro est rattaché par africabizinfo à « Cci Afrique », Cité Keur Gorgui, Dakar, et non à Bassoul ni Tambacounda",
+    "R4 : \"CCI AFRIQUE\" — chambres de commerce françaises, Cabinet CCI Afrique d'Abidjan, CCI Afrique Russie & Eurasie (page d'inauguration ouverte, sans lien avec cette fiche) ; aucune page du bureau",
+    "Fiches africabz.com et africabizinfo.com inaccessibles (403 Forbidden), aucun contournement",
+    "Adresses probables testées : cciafrique.com, cciafrique.sn (inexistants) et cci-afrique.com (redirection vers une page de parking)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. Doublon de la fiche 782860 : même nom, même téléphone et même adresse de quartier, mais cette fiche-ci place le bureau à Bassoul, dans la région de Tambacounda, alors que la Cité Keur Gorgui est un quartier de Dakar et que les annuaires tiers le situent bien à Dakar — la localisation de cette fiche est donc erronée. Les deux entrées sont conservées telles que l'annuaire les publie, mais il ne s'agit très probablement que d'un seul bureau, à Dakar. Contact : 33 825 51 26."
   }
  ]
 }
