@@ -242,6 +242,111 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email trouvé. Fiche récente (16 vues) sans activité déclarée ; le nom, très générique en anglais, ne donne aucune prise aux recherches."
+    },
+    {
+      "nom": "Diceberg Consulting",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 122 99 59",
+      "adresse": "Route des Almadies Zone 12 SIA Building 1er etage - Ngor, 24539",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Accompagnement des entreprises dans la transformation de leurs activités pour les aligner sur les leviers de performance",
+      "fiche_url": "https://www.goafricaonline.com/sn/782864-diceberg-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1/R2 : \"Diceberg Consulting\" Sénégal Dakar Almadies email contact — fiche senpages du cabinet, aucun email",
+        "Fiche senpages ouverte (https://www.senpages.com/entreprise/diceberg-consulting/) : mêmes nom, adresse (Route des Almadies Zone 12 SIA Building 1er étage) et téléphone (+221 77 122 99 59) que la fiche goafrica, aucun site, aucun email",
+        "R3 : \"77 122 99 59\" puis \"+221 77 122 99 59\" — aucun résultat nominatif",
+        "R4 : \"Diceberg Consulting\" (dans la requête R1) — seules les deux fiches d'annuaire existent",
+        "Adresses probables testées : diceberg.sn, dicebergconsulting.com (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Identité confirmée par senpages (adresse et téléphone identiques). Même immeuble (SIA Building, Almadies Zone 12) que le bureau de Dakar de Constelor Investment Holding traité dans le lot 13 : il s'agit d'un centre d'affaires."
+    },
+    {
+      "nom": "Digital Factory",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "infos@digitalfactory.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 800 38 14",
+      "adresse": "Pikine icotaf 5754, 16000",
+      "ville": "Dakar",
+      "site_web": "https://www.digitalfactory.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Solutions numériques sur mesure : e-santé, cloud, affichage dynamique, développement web et applicatif, marketing digital, énergie solaire",
+      "fiche_url": "https://www.goafricaonline.com/sn/782856-digital-factory",
+      "preuve_url": "https://www.digitalfactory.sn",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers https://www.digitalfactory.sn, comptes Facebook, Instagram et Twitter (digitalfactorysn)",
+        "Site officiel ouvert : « Digital Factory », solutions numériques sur mesure ; email infos@digitalfactory.sn ; tél. +221 33 871 29 40, +221 77 158 83 83 et +221 77 800 38 14 (ce dernier identique à la fiche)"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : le mobile de la fiche figure parmi les trois numéros du site. Le site ne publie pas d'adresse postale ; celle de la fiche (Pikine Icotaf) est conservée. Deux numéros supplémentaires relevés sur le site : 33 871 29 40 et 77 158 83 83."
+    },
+    {
+      "nom": "Dioufalaye Consulting",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 322 86 59",
+      "adresse": "Keur Massar Citè Sotrac villa 353, 17000",
+      "ville": "Keur Massar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782935-dioufalaye-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1/R2 : \"Dioufalaye Consulting\" / \"Diouf Alaye\" Keur Massar Sénégal email contact — aucun résultat sur ce cabinet (personnalités et profils homonymes)",
+        "R3 : \"77 322 86 59\" (avec \"77 122 99 59\") puis \"+221 77 322 86 59\" — aucun résultat nominatif",
+        "R4 : \"Dioufalaye Consulting\" — aucun résultat (BA Diougal Consulting, Ndiaye Consulting et autres cabinets sans rapport)",
+        "Adresses probables testées : dioufalaye.sn (ne résout pas) ; dioufalayeconsulting.com répond mais n'affiche qu'une page Squarespace « En construction », sans nom d'entreprise, ni coordonnées, ni mention du Sénégal"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Le domaine dioufalayeconsulting.com correspond au nom mais son contenu ne confirme aucune identité (page en construction) : il n'est donc pas retenu comme site du cabinet. À revérifier lors d'un prochain passage, le site pouvant être mis en ligne."
+    },
+    {
+      "nom": "EARTH SYSTEMS SENEGAL",
+      "sigle": "Earth Systems",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "enviro@earthsystemsglobal.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 868 30 23 / Fax : (+221) 33 820 43 51",
+      "adresse": "Route de l'Aéroport, Face Station Shell Ngor-Almadies, Lot N°02",
+      "ville": "Dakar",
+      "site_web": "https://www.earthsystemsglobal.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil en environnement et ingénierie durable : géochimie environnementale et qualité de l'eau, conception et ingénierie, restauration des sols et biochar, écologie et biodiversité, solutions climatiques",
+      "fiche_url": "https://www.goafricaonline.com/sn/592579-earth-systems-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.earthsystemsglobal.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers http://earthsystemsafrica.com, aucune activité décrite",
+        "Site déclaré ouvert : earthsystemsafrica.com redirige (301) vers earthsystems.com.au, qui redirige à son tour vers https://www.earthsystemsglobal.com/",
+        "Site earthsystemsglobal.com ouvert : « Earth Systems Global », conseil environnemental, ingénierie et solutions climatiques ; email de contact enviro@earthsystemsglobal.com ; aucune coordonnée par pays, aucune adresse ni téléphone pour un bureau de Dakar",
+        "Adresse probable testée : earthsystems.sn (ne résout pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "L'email retenu est l'adresse générale du groupe Earth Systems, lue sur son site, et non celle du bureau sénégalais : le site ne détaille aucune implantation par pays et ne mentionne pas Dakar. Le lien avec cette fiche repose sur le domaine earthsystemsafrica.com que le bureau a lui-même déclaré sur goafricaonline. Pour joindre l'entité sénégalaise, le téléphone de la fiche (+221 33 868 30 23) reste le contact direct."
     }
   ]
 }
