@@ -459,6 +459,86 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email trouvé. Quatre homonymes européens écartés ; aucune de leurs coordonnées n'est reprise."
+    },
+    {
+      "nom": "DG CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 867 61 28 / (+221) 33 867 67 28",
+      "adresse": "LIBÉRÉ 6 EXTENSION VDN CITE CPI LOT 11",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592632-dg-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1/R2 : \"DG CONSULTING\" Sénégal Dakar Liberté 6 VDN email contact — le seul résultat nominatif est la fiche goafricaonline elle-même ; aucun email",
+        "R3 : \"33 867 61 28\" puis \"+221 33 867 61 28\" et \"33 867 67 28\" — aucun résultat nominatif",
+        "R4 : \"DG CONSULTING\" Sénégal — une page Facebook « D.G. Consulting » à Dakar, présentée comme spécialisée dans la digitalisation des entreprises et l'édition de logiciels (activité différente, aucun élément de coordonnées commun) ; le reste est étranger (dg-c.fr, DG Consultants, DG & S Consultants à Singapour)",
+        "Adresses probables testées : dgconsulting.sn, dg-consulting.sn (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Le « D.G. Consulting » de Dakar visible sur Facebook fait de la digitalisation et de l'édition de logiciels, sans téléphone ni adresse communs avec cette fiche : rapprochement non établi, aucune coordonnée reprise."
+    },
+    {
+      "nom": "DIAL CONSULTING",
+      "sigle": "DIAL",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 820 97 94",
+      "adresse": "Voie de degagement N - Yoff",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureau d'études techniques spécialisé dans les lots techniques du bâtiment et de l'industrie",
+      "fiche_url": "https://www.goafricaonline.com/sn/592577-dial-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web » ; horaires 8h-17h45 du lundi au jeudi, 8h-13h le vendredi",
+        "R1/R2 : \"DIAL CONSULTING\" Sénégal Dakar Yoff email contact — page Facebook du cabinet, fiche au-senegal.com ; les extraits de recherche citent un email contact@dialconsulting.sn, le site dialconsulting.sn, le tél. +221 33 820 97 94 (identique à la fiche) et l'adresse Sipres 4 TF7300 Yoff route de l'Aéroport Léopold Sédar Senghor",
+        "Page au-senegal.com ouverte (https://www.au-senegal.com/dial-consulting,6301.html?lang=fr) : nom, adresse (Sipres 4 TF7300 Yoff, route de l'Aéroport) et description « bureau d'études techniques spécialisé en lots techniques du bâtiment et de l'industrie », mais ni téléphone ni email affichés (seulement un formulaire)",
+        "Site dialconsulting.sn essayé trois fois : https://dialconsulting.sn et https://dialconsulting.sn/contact ne répondent pas, http://www.dialconsulting.sn renvoie HTTP 404 — aucune page lisible",
+        "R3 : \"33 820 97 94\" puis \"+221 33 820 97 94\" — aucun résultat nominatif supplémentaire"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu : l'adresse contact@dialconsulting.sn apparaît dans les extraits de moteur de recherche mais le site dialconsulting.sn est hors service, donc aucune page consultable ne l'affiche. Piste forte à revérifier lors d'un prochain passage (le téléphone des extraits est bien celui de la fiche). L'adresse précise du bureau est « Sipres 4 TF7300 Yoff, route de l'Aéroport Léopold Sédar Senghor »."
+    },
+    {
+      "nom": "DIC (DEVELOPPEMENT INNOVATION CONSULTING)",
+      "sigle": "DIC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "diconsultingsenegal@yahoo.fr"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 854 47 19 / (+221) 77 804 01 03 / (+221) 76 281 86 82",
+      "adresse": "Keur Massar, Parcelles Assainies unité 2 villa n°270",
+      "ville": "Dakar",
+      "site_web": "https://dic-senegal.sitew.org/",
+      "site_source": "recherche web",
+      "specialite": "Cabinet pluridisciplinaire de développement durable : ingénieurs, consultants et experts intervenant sur les défis socio-économiques africains",
+      "fiche_url": "https://www.goafricaonline.com/sn/480073-developpement-innovation-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://dic-senegal.sitew.org/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1/R2 : \"DEVELOPPEMENT INNOVATION CONSULTING\" / \"DIC\" Sénégal Keur Massar email contact — découverte du site dic-senegal.sitew.org et d'un flyer PDF « DIC-SENEGAL »",
+        "Site dic-senegal.sitew.org ouvert : « Développement Innovation Consulting (DIC) », cabinet pluridisciplinaire de développement durable ; email diconsultingsenegal@yahoo.fr ; tél. +221 76 150 10 31 (appel et WhatsApp) ; adresse Cité Keur Gorgui, Résidence Alima, R88",
+        "R3 : \"33 854 47 19\" puis \"+221 33 854 47 19\" et \"77 804 01 03\" — aucun résultat nominatif",
+        "Adresse probable testée : dicsenegal.com (ne résout pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "Site et email retenus sur la seule correspondance du nom complet, distinctif, et de la ville (Dakar) : ni le téléphone (76 150 10 31 sur le site) ni l'adresse (Cité Keur Gorgui contre Keur Massar sur la fiche) ne coïncident, ce qui peut indiquer un déménagement ou des coordonnées plus récentes. Une seconde série de coordonnées circule dans les résultats de recherche (contact.dicsenegal@gmail.com, Boulevard Djily Mbaye Dakar Plateau) mais n'a pas été lue sur une page et n'est donc pas reprise."
     }
   ]
 }
