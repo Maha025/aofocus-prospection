@@ -1,0 +1,145 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN&p=9",
+  "_extrait_le": "2026-09-27",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=9",
+  "_methode": "Fiches goafricaonline lues une à une (1 requête à la fois, ≥3 s d'intervalle) ; pour chaque bureau, site officiel s'il est indiqué, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email, R3 téléphone, R4 nom entre guillemets) et test des adresses de domaine probables en .sn et .com ; emails uniquement lus sur une page, jamais reconstitués.",
+  "bureaux": [
+    {
+      "nom": "DA CONSULTING AFRICA",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Mohamed Amine DAIF (consultant)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 166 73 03",
+      "adresse": "PARCELLES ASSAINIES, 11000",
+      "ville": "Dakar",
+      "site_web": "https://daconsulting-africa.pro/",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil en stratégie et business development, optimisation des coûts, marketing et fidélisation, mobilité durable ; coaching emploi, formation et accompagnement à l'entrepreneuriat",
+      "fiche_url": "https://www.goafricaonline.com/sn/1198378-da-consulting-africa-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers https://daconsulting-africa.pro/ et lien LinkedIn de Mohamed Amine Daif ; longue description des prestations",
+        "Site déclaré essayé : le domaine daconsulting-africa.pro ne résout pas (aucun email lisible)",
+        "R1 : \"DA CONSULTING AFRICA\" Sénégal Dakar Mohamed Amine Daif — profil LinkedIn du fondateur (département de Keur Massar, région de Dakar), qui affiche le même téléphone +221 78 166 73 03 que la fiche, sans email",
+        "R2 : \"DA Consulting Africa\" Dakar email contact daconsulting-africa — aucun email trouvé",
+        "R3 : \"78 166 73 03\" puis \"+221 78 166 73 03\" — aucun résultat nominatif",
+        "R4 : \"DA CONSULTING AFRICA\" — profil LinkedIn du fondateur et homonymes étrangers (D A Consulting Group au Cap, DA Consulting à Riyad et à Paris)",
+        "Adresse probable testée : daconsultingafrica.com (ne résout pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé : le site déclaré sur la fiche (daconsulting-africa.pro) ne résout plus. Identité du dirigeant confirmée par le téléphone repris sur son profil LinkedIn."
+    },
+    {
+      "nom": "DAKAR CONSULTING PARTNERS",
+      "sigle": "DCP",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 570 20 54",
+      "adresse": "Sacré Coeur 2 en face de BEM",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil, formation et certification en juridique et fiscal, ressources humaines, assistance comptable et marchés publics",
+      "fiche_url": "https://www.goafricaonline.com/sn/592540-consulting-partners-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web » ; liens WhatsApp, Facebook (dcpartner18) et Instagram (dc_partners) de l'entreprise",
+        "R1 : \"DAKAR CONSULTING PARTNERS\" Sénégal — page Facebook du cabinet : conseil, formation et certification (juridique et fiscal, RH, assistance comptable, marchés publics), Sacré Cœur 2 en face de BEM, tél. +221 77 570 20 54 (même que la fiche) et +221 33 832 92 74",
+        "R2 : \"Dakar Consulting Partners\" email contact Sacré Coeur BEM — aucun email affiché",
+        "R3 : \"77 570 20 54\" puis \"+221 77 570 20 54\" — aucun résultat nominatif",
+        "R4 : \"DAKAR CONSULTING PARTNERS\" — page Facebook du cabinet, homonymes sans rapport (partenaires des JOJ Dakar 2026, Dakar Advisory Consultants aux États-Unis)",
+        "Adresses probables testées : dakarconsultingpartners.com, dcpartners.sn (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Le cabinet ne communique que par Facebook, Instagram et WhatsApp. Un fixe supplémentaire apparaît sur sa page Facebook : +221 33 832 92 74."
+    },
+    {
+      "nom": "DALBERG GLOBAL DEVELOPMENT ADVISORS",
+      "sigle": "Dalberg",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "communications@dalberg.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 869 64 54",
+      "adresse": "Immeuble Le Thiargane 8eme Etage, Mermoz Place OMVS Lotissement Ecole Police",
+      "ville": "Dakar",
+      "site_web": "https://www.dalberg.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet international de conseil en stratégie dédié au développement (bureau de Dakar pour l'Afrique de l'Ouest francophone)",
+      "fiche_url": "https://www.goafricaonline.com/sn/385858-dalberg-global-development-advisors-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.dalberg.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers http://www.dalberg.com",
+        "Site officiel ouvert, page contact (https://www.dalberg.com/contact/) : adresse email générale communications@dalberg.com ; la page ne détaille pas les coordonnées du bureau de Dakar (carte « Our Global Footprint » seulement) et renvoie vers une section « Français (Afrique de l'Ouest) »",
+        "Page des implantations essayée (https://www.dalberg.com/who-we-are/our-locations/) : HTTP 404"
+      ],
+      "statut": "a_verifier",
+      "note": "Seule adresse lue sur le site : communications@dalberg.com, adresse générale du groupe et non du bureau de Dakar. Aucune adresse propre au bureau sénégalais n'est publiée ; le téléphone de la fiche (+221 33 869 64 54) reste le contact direct le plus précis."
+    },
+    {
+      "nom": "DAR AL HANDASAH",
+      "sigle": "Dar",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "dakar@dar.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 889 90 91 / Fax : (+221) 33 821 99 00",
+      "adresse": "Centre Commercial La Rotonde, Rue St. Michel (ex. Rue Dr. THEZE), 6ème Etage, Appartement B, Angle Rue Amadou Assane Ndoye, BP 50732",
+      "ville": "Dakar",
+      "site_web": "https://www.dar.com",
+      "site_source": "recherche web",
+      "specialite": "Groupe international d'ingénierie et de conseil (études, conception et supervision de projets d'infrastructures)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592549-dar-al-handasah-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.dar.com/contact/region/africa",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1/R2 : recherches sur le nom et sur Dakar — renvoient vers le site du groupe, dar.com, et sa page de contacts pour l'Afrique",
+        "Page dar.com ouverte (https://www.dar.com/contact/region/africa) : bureau de Dakar — « Centre Commercial La Rotonde, 6ème Etage, Appartement B, Rue St. Michel (ex. Rue Dr. THEZE) Angle Rue Amadou Assane NDOYE, B.P.: 50732 Dakar, Sénégal », tél. +221 33 889 9091, fax +221 33 821 9900, email dakar@dar.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée sans ambiguïté : l'adresse, le téléphone et le fax publiés par le groupe pour son bureau de Dakar sont identiques à ceux de la fiche. L'email dakar@dar.com est l'adresse dédiée au bureau sénégalais, lue sur la page de contacts du groupe."
+    },
+    {
+      "nom": "DARE AFRICA RESOURCES",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 835 39 56",
+      "adresse": "Lot 3, Bâtiment 1, Étage 1 Cité Kalia Zac",
+      "ville": "Dakar",
+      "site_web": "http://www.dareafricaconsulting.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592644-dare-africa-resources-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers http://www.dareafricaconsulting.com/, aucune activité décrite",
+        "Site déclaré essayé : ni www.dareafricaconsulting.com ni dareafricaconsulting.com ne résolvent (aucun email lisible)",
+        "R1 : \"DARE AFRICA RESOURCES\" Sénégal — aucun résultat sur ce bureau (documents généraux sur les ressources naturelles du Sénégal)",
+        "R2 : \"Dare Africa\" Dakar email contact Cité Kalia Zac consulting — aucun résultat sur ce bureau ; la Cité Kalia est un programme immobilier du promoteur KALIA (info@kalia.sn), sans rapport",
+        "R3 : \"77 835 39 56\" puis \"+221 77 835 39 56\" — aucun résultat nominatif",
+        "R4 : \"DARE AFRICA RESOURCES\" / \"dareafricaconsulting\" — les pages archivées de Dare Africa Consulting, cabinet basé en Guinée (partenaires fondateurs Mohamed Lamine Fofana et Ismael Diakite), et d'autres « DARE » sans rapport (dare.africa, DARE World)",
+        "Adresses probables testées : dareafrica.sn, dareafricaresources.com (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé : le site déclaré sur la fiche ne résout plus. Le cabinet « Dare Africa Consulting » retrouvé dans les résultats est basé en Guinée et ne mentionne ni Dakar ni la Cité Kalia : lien avec cette fiche non établi, aucune coordonnée reprise."
+    }
+  ]
+}
