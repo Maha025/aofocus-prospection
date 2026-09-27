@@ -3,7 +3,7 @@
   "_extrait_le": "2026-09-27",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "p=8",
+  "_pages": "p=8 à p=9",
   "_methode": "Fiches goafricaonline lues une à une (1 requête à la fois, ≥3 s d'intervalle) ; pour chaque bureau, site officiel s'il est indiqué, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email, R3 téléphone, R4 nom entre guillemets) et test des adresses de domaine probables en .sn et .com ; emails uniquement lus sur une page, jamais reconstitués.",
   "bureaux": [
     {
@@ -527,6 +527,33 @@
       ],
       "statut": "a_verifier",
       "note": "Site retenu : même nom (Constelor Investment Holding/Holdings) et bureau à Dakar confirmé sur la page contact. L'adresse du site (Les Almadies, BP 24539) diffère de celle de la fiche (14 Rue Béranger Ferraud) : déménagement probable, les deux sont conservées ici. Aucun téléphone sur le site."
+    },
+    {
+      "nom": "CONSULT PLUS",
+      "sigle": "Consult Plus Suarl",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "consultplus@consult-plus.info"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 835 44 44",
+      "adresse": "Villa 326, Cité du Golf de Cambérène",
+      "ville": "Dakar",
+      "site_web": "http://www.consult-plus.info",
+      "site_source": "fiche goafrica",
+      "specialite": "Études d'ingénierie, assistance technique, suivi et contrôle de travaux d'infrastructures (routes, digues, canaux), audits techniques et financiers, études de faisabilité",
+      "fiche_url": "https://www.goafricaonline.com/sn/592667-consult-plus-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.consult-plus.info/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers http://www.consult-plus.info et une page Facebook (consultplussenegal)",
+        "Site officiel ouvert : accueil et page contact (http://www.consult-plus.info/contact/) — email affiché en clair sous la forme « consultplus[@]consult-plus.info », tél. +221 33 835 44 44 (même que la fiche), Villa 326 de la Cité du Golf de Cambérène à Dakar (même que la fiche), horaires lundi-vendredi 8h30-18h00",
+        "R1 : \"CONSULT PLUS\" Sénégal bureau d'études Cité du Golf Cambérène — LinkedIn Consult Plus Suarl, fiche senpages, site officiel : SARL au capital de 10 000 000 F CFA",
+        "R2 : \"Consult Plus\" Dakar email contact consult-plus.info — confirme la même adresse email et le même téléphone"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site officiel, où il est écrit « consultplus[@]consult-plus.info » (convention anti-spam en texte clair, aucune protection contournée) ; il est repris ici avec l'arobase. Téléphone et adresse identiques à la fiche."
     }
   ]
 }
