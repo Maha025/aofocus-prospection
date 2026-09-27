@@ -416,6 +416,117 @@
       ],
       "statut": "a_verifier",
       "note": "Trois adresses lues sur la page contacts ; la générique infos@ est placée en premier."
+    },
+    {
+      "nom": "CONSEIL EN GESTION ETUDES DE PROJET",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 821 86 04 / Fax : (+221) 33 821 86 04",
+      "adresse": "Vdn Sacre Coeur 3 Immeuble Seynabou",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/385684-conseil-en-gestion-etudes-de-projet-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1 : \"CONSEIL EN GESTION ETUDES DE PROJET\" Sénégal — fiche annuaire-senegal.com et fiche senpages du cabinet COGEP (même immeuble Seynabou, Sacré Cœur 3)",
+        "Page annuaire-senegal ouverte (https://www.annuaire-senegal.com/conseil/cabinet/cabinet-de-conseils/conseil-en-gestion-etudes-de-projet-s158424.html) : mêmes nom, adresse Vdn Sacré Cœur 3 Immeuble Seynabou, tél. et fax 338218604, aucun email",
+        "R2 : \"Conseil en Gestion Etudes de Projet\" Dakar email contact Immeuble Seynabou — aucun email lisible sur une page",
+        "R3 : \"33 821 86 04\" puis \"+221 33 821 86 04\" — aucun résultat nominatif",
+        "R4 : \"CONSEIL EN GESTION ETUDES DE PROJET\" — résultats génériques sur le métier de conseil en gestion de projet, plus la fiche annuaire-senegal ci-dessus",
+        "Adresse probable testée : cogep.sn (ne résout pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Très probablement la même structure que la fiche 479964 « COGEP (CONSEIL EN GESTION ETUDES ET PROJET) » : même immeuble Seynabou à Sacré Cœur 3 et le numéro de cette fiche (33 821 86 04) est le fax de COGEP. Doublon probable de l'annuaire, à dédoublonner avant prospection."
+    },
+    {
+      "nom": "CONSEILS EN GESTION DE RISQUES (CGR CONSULTANTS)",
+      "sigle": "CGR CONSULTANTS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 820 67 77",
+      "adresse": "Yoff Trundoup Riya Dakar Yoff, BP 8958",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil en management et études de marché",
+      "fiche_url": "https://www.goafricaonline.com/sn/479970-conseils-en-gestion-de-risques-cgr-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1 : \"CONSEILS EN GESTION DE RISQUES\" \"CGR CONSULTANTS\" Sénégal — fiche yelu.sn du bureau ; les autres résultats concernent CGR Consulting (Côte d'Ivoire) et CGR Conseils en Gestion de Risques (Lyon, France)",
+        "Page yelu.sn ouverte (https://www.yelu.sn/company/16456/Conseils_En_Gestion_Des_Risques_cgr_Consultants) : « Yoff Toundoup Riya Yoff BP 8958, Dakar », tél. 33 820 67 77 (mêmes que la fiche), activité conseil en management et études de marché, aucun email, aucun site",
+        "R2 : CGR Consultants Dakar Yoff email contact gestion de risques — aucun email pour ce bureau ; contact@cgr-consulting.com appartient à CGR Consulting en Côte d'Ivoire (+225), non retenu",
+        "R3 : \"33 820 67 77\" puis \"+221 33 820 67 77\" — aucun résultat nominatif",
+        "R4 : \"CONSEILS EN GESTION DE RISQUES (CGR CONSULTANTS)\" — société homonyme de Lyon (SAS, courtage d'assurances) et fiche yelu.sn de Dakar",
+        "Adresses probables testées : cgrconsultants.sn, cgrconsultants.com (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Deux homonymes écartés : CGR Consulting en Côte d'Ivoire (cgr-consulting.com) et CONSEILS EN GESTION DE RISQUES (CGR) à Lyon ; leurs coordonnées ne sont pas reprises. Adresse et téléphone confirmés par la fiche yelu.sn."
+    },
+    {
+      "nom": "CONSEILS FUDICIAIRES FERRIE",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 820 51 10 / Fax : (+221) 33 820 83 46",
+      "adresse": "Zone 5, parcelle 7, les almadies, BP 24157",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Audit et conseil",
+      "fiche_url": "https://www.goafricaonline.com/sn/547338-coneils-fudiciaires-ferrie-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1 : \"CONSEILS FUDICIAIRES FERRIE\" / \"Conseils Fiduciaires Ferrié\" Sénégal — fiche senpages du bureau ; les autres résultats concernent Fiducia (fiduciasn.com), cabinet distinct",
+        "Page senpages ouverte (https://www.senpages.com/entreprise/conseils-fudiciaires-ferrie/) : « Zone 5 Parcelle 7 Les Almadies, Dakar », tél. +221 33 820 51 10 (même que la fiche), activité audit et conseil, aucun email, aucun site",
+        "R2 : Ferrié conseils fiduciaires Dakar Almadies email contact expertise comptable — aucun email pour ce bureau (Fiducia, NKAC Audit, AD Conseils, KPMG)",
+        "R3 : \"33 820 51 10\" puis \"+221 33 820 51 10\" — aucun résultat nominatif",
+        "R4 : \"CONSEILS FUDICIAIRES FERRIE\" — fiche senpages seule ; le reste est sans rapport (FERRIER Conseils & Patrimoine à Biarritz, articles sur les FERR)",
+        "Adresses probables testées : ferrie.sn, conseilsferrie.sn, conseilsferrie.com, ferrie-conseils.com (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Le nom est orthographié « FUDICIAIRES » sur la fiche (pour « fiduciaires ») ; les deux orthographes ont été cherchées. Adresse et téléphone confirmés par senpages."
+    },
+    {
+      "nom": "CONSTELOR INVESTMENT HOLDING",
+      "sigle": "Constelor",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@constelorholdings.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 822 56 84",
+      "adresse": "14 Rue Beranger Ferraud",
+      "ville": "Dakar",
+      "site_web": "https://constelorholdings.com",
+      "site_source": "adresse probable vérifiée",
+      "specialite": "Identification et développement d'opportunités d'investissement en Afrique, avec une spécialisation dans l'énergie et l'électricité, et du conseil multisectoriel",
+      "fiche_url": "https://www.goafricaonline.com/sn/655306-constelor-investment-holding-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://constelorholdings.com/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "Adresses probables testées : constelor.sn (ne résout pas), constelor.com (répond et redirige vers https://constelorholdings.com/)",
+        "Site constelorholdings.com ouvert (accueil) : « Constelor Investment Holdings », société fondée en 2006, opportunités d'investissement en Afrique, énergie et conseil commercial",
+        "Page contact ouverte (https://constelorholdings.com/contact) : email info@constelorholdings.com et trois implantations — Accra (Ghana), Dakar (Sénégal : Les Almadies Business Centre, 1st Floor SIA Building, Zone 12, Rte de Ngor, BP 24539) et Kigali (Rwanda)"
+      ],
+      "statut": "a_verifier",
+      "note": "Site retenu : même nom (Constelor Investment Holding/Holdings) et bureau à Dakar confirmé sur la page contact. L'adresse du site (Les Almadies, BP 24539) diffère de celle de la fiche (14 Rue Béranger Ferraud) : déménagement probable, les deux sont conservées ici. Aucun téléphone sur le site."
     }
   ]
 }
