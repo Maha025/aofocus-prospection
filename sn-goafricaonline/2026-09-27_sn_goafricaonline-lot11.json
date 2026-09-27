@@ -374,6 +374,70 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun email. Doublon de la fiche 782860 : même nom, même téléphone et même adresse de quartier, mais cette fiche-ci place le bureau à Bassoul, dans la région de Tambacounda, alors que la Cité Keur Gorgui est un quartier de Dakar et que les annuaires tiers le situent bien à Dakar — la localisation de cette fiche est donc erronée. Les deux entrées sont conservées telles que l'annuaire les publie, mais il ne s'agit très probablement que d'un seul bureau, à Dakar. Contact : 33 825 51 26."
+  },
+  {
+   "nom": "CEAPI (CONCEPTION ELECTRIQUE & AUTOMATISATION DE PROCEDES INDUSTRIELS)",
+   "sigle": "CEAPI",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@ce-api.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 78 170 47 83 (fax identique) ; les annuaires donnent aussi le (+221) 33 834 51 92, le 77 817 55 81 et le +221 78 147 21 21",
+   "adresse": "311, Rst Thiaroye Azur, Dakar - Sénégal (LinkedIn et piaafrica indiquent Parcelles Assainies unité 2, n° 02-148, Dakar)",
+   "ville": "Dakar (Thiaroye Azur ; Parcelles Assainies selon LinkedIn)",
+   "site_web": "http://www.ce-api.com (le même site est servi à l'adresse https://ndiankou1.wixsite.com/ceapi)",
+   "site_source": "fiche goafrica",
+   "specialite": "Conception d'installations électriques et automatisation industrielle : études techniques de projets industriels, conception et fabrication d'armoires électriques et de TGBT, programmation d'automates et d'IHM, supervision de chantiers, installation, mise en service et maintenance d'équipements industriels, économies d'énergie, irrigation, et une activité bâtiment (plans archi et béton armé, clôtures, étanchéité, électricité)",
+   "fiche_url": "https://www.goafricaonline.com/sn/592546-ceapi-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://ndiankou1.wixsite.com/ceapi",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592546-ceapi-bureaux-etudes-conseils-consultants-dakar-senegal — nom complet, adresse 311 Rst Thiaroye Azur Dakar, un mobile et un fax identiques (78 170 47 83), un bouton « Site web » vers www.ce-api.com, et deux liens de réseaux (facebook.com/ceapi, linkedin.com/company/ceapi) ; aucun email sur la fiche",
+    "Site de la fiche (www.ce-api.com) : injoignable depuis cet environnement — le nom d'hôte ne se résout pas, ni en www ni sans www (échec DNS confirmé par getent et par une résolution directe en Python), et l'outil de récupération de page renvoie la même erreur",
+    "R1 : \"CEAPI\" Sénégal \"Conception Electrique\" automatisation procédés industriels — entreprise bien identifiée : pages LinkedIn (sn.linkedin.com/company/ceapi) et Facebook, profil Business-Senegal, fiche piaafrica, fiche du Bureau d'appui à la création d'entreprise (creationdentreprise.sn, injoignable : échec de connexion), et une seconde fiche goafricaonline de la même société classée en « Matériels et équipements industriels » (414460)",
+    "Profil Business-Senegal ouvert (https://business-senegal.com/eng/Entreprises/profilent/_15336) : « CEAPI Services », Dakar, Sénégal, domaines « Electrical and electronic components / Electronic equipment / Security equipment », téléphones (221) 338345192 et 778175581, site http://www.ce-api.com — aucune adresse email",
+    "Fiche piaafrica ouverte (https://www.piaafrica.com/fr/senegal/genie-electrique-electriciens/30095-ceapi-conception-electrique-automatisation-de-procedes-industriels) : adresse « Parcelles Assainies U: 02-148, Dakar - Sénégal », téléphone (+221) 33 834 51 92, site www.ce-api.com, champ « email : » laissé vide — aucune adresse email",
+    "R2 : \"CEAPI\" contact email Dakar Sénégal ce-api — un extrait de moteur annonçait une adresse contact@ce-api.com, qu'il a fallu vérifier sur une page plutôt que la recopier",
+    "R3 : \"33 834 51 92\" OR \"77 817 55 81\" OR \"78 170 47 83\" Sénégal — aucun résultat rattachant ces numéros à une page publiant un email ; seules des pages de numérotation remontent",
+    "R4 : recherche sur le nom complet et le sigle — mêmes pages que ci-dessus ; à écarter, une fiche RocketReach qui ne fait que reconstituer des adresses",
+    "Page LinkedIn ouverte (https://sn.linkedin.com/company/ceapi) : « La CEAPI intervient principalement dans la conception d'installations électriques et l'automatisation industrielle. Nous faisons aussi l'installation, la mise en service et la maintenance d'équipements industriels. », Parcelles Assainies unité 2, Dakar, 2-10 salariés ; aucun email, mais elle déclare un second site : ndiankou1.wixsite.com/ceapi",
+    "Ce site ouvert (https://ndiankou1.wixsite.com/ceapi) : c'est bien le site de la société (même titre de page que www.ce-api.com, « Conception électrique et automatisme industriel | Senegal | CEAPI »), hébergé chez Wix. Il affiche en en-tête « Une expertise locale à votre service — contact@ce-api.com — Contactez-nous: 78 170 47 83 », et l'adresse est reprise six fois dans la page en lien mailto:contact@ce-api.com. Le téléphone affiché est exactement celui de la fiche goafricaonline : l'identité est donc confirmée",
+    "Adresses probables : inutile d'en tester, le domaine du bureau était déjà donné par la fiche"
+   ],
+   "statut": "a_verifier",
+   "note": "Email lu sur le site de la société : contact@ce-api.com, affiché en en-tête et en lien mailto sur https://ndiankou1.wixsite.com/ceapi — le même site que www.ce-api.com, dont le domaine ne se résout plus depuis cet environnement mais que la version Wix continue de servir. Identité certaine : le site affiche le même téléphone que la fiche (78 170 47 83). Les annuaires donnent d'autres lignes (33 834 51 92, 77 817 55 81, 78 147 21 21) et une autre adresse (Parcelles Assainies unité 2, n° 02-148) que le 311 Rst Thiaroye Azur de la fiche : toutes ont été conservées. Société également référencée sur goafricaonline sous « Matériels et équipements industriels » (fiche 414460)."
+  },
+  {
+   "nom": "CECOGEX",
+   "sigle": "CECOGEX",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Maître Gory N'Diaye (fondateur en 1994, expert assermenté auprès des tribunaux)",
+   "emails": [
+    "cecogex@orange.sn",
+    "goryndiaye1@hotmail.fr"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 822 87 34 ; (+221) 77 638 41 45 ; fax (+221) 33 823 97 05 (le tableau ONES ajoute le 76 638 41 45)",
+   "adresse": "44, Avenue Faidherbe, BP 10113 Liberté, Dakar - Sénégal (4ème étage)",
+   "ville": "Dakar (Plateau, avenue Faidherbe)",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Cabinet d'expertises maritimes, commerciales et bancaires : études, expertises et audits techniques ; études, audits et conseils à caractère commercial ; expertise, assistance, suivi et conseils bancaires",
+   "fiche_url": "https://www.goafricaonline.com/sn/479999-cecogex-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.experts-ones.com/wp-content/uploads/2024/05/TABLEAU-ONES-Experts-du-Senegal-2023.pdf",
+   "recherches": [
+    "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/479999-cecogex-bureaux-etudes-conseils-consultants-dakar-senegal — nom « CECOGEX », adresse 44 Avenue Faidherbe BP 10113 Liberté Dakar, un fixe, un mobile et un fax (33 823 97 05), aucun bouton « Site web », aucune description d'activités, aucun email",
+    "R1 : \"CECOGEX\" Sénégal — page Facebook du cabinet, profils LinkedIn de deux de ses agents, fiches d'annuaires (snyello, yelu, SenPages), un reportage editoweb et, surtout, les tableaux d'experts de l'Ordre national des experts du Sénégal (ONES)",
+    "R2 : \"CECOGEX\" Dakar email contact Faidherbe — mêmes résultats, avec les tableaux ONES 2020/2021, 2022 et 2023 et l'annuaire « Expertise maritime à Dakar » d'annuaire-senegal.com",
+    "Tableaux ONES dépouillés (https://www.experts-ones.com/wp-content/uploads/2024/05/TABLEAU-ONES-Experts-du-Senegal-2023.pdf et https://www.fiddex-sda.com/wp-content/uploads/2021/12/TABLEAU_ONES_Experts-du-Senegal.pdf) : les deux documents publient, à l'identique, la ligne « 44, Av. Faidherbe - B.P.: 10113 Dakar Liberté - Tél. 33.822.87.34 - Cell. 77.638.41.45/76.638.41.45 Fax 33.823.97.05 - Email: cecogex@orange.sn / goryndiaye1@hotmail.fr ». Adresse, téléphone, mobile et fax correspondent exactement à la fiche goafricaonline : l'identité est certaine et les deux emails sont lus tels quels",
+    "Reportage editoweb ouvert (https://www.editoweb.eu/reportages/CECOGEX-SARL-expertises-maritimes-Dakar-Senegal_a286.html) : « CECOGEX SARL », « Cabinet d'Expertises Maritimes, commerciales et bancaires », 44 Avenue Faidherbe 4ème étage à Dakar, tél. (221) 33 822 87 34, fax (221) 33 823 97 05, fondé en 1994 par « Maitre Gory N'Diaye, Expert assermenté auprès des tribunaux » — mêmes coordonnées que la fiche, aucun email sur cette page",
+    "Recherches R3 et R4 non nécessaires : les emails ont été lus sur une source publique vérifiée (tableaux officiels de l'ONES) dont les coordonnées recoupent exactement celles de la fiche"
+   ],
+   "statut": "a_verifier",
+   "note": "Deux emails lus dans les tableaux officiels des experts de l'ONES (éditions 2020/2021 et 2023, identiques sur ce point) : l'adresse générique du cabinet, cecogex@orange.sn, puis celle de son fondateur, goryndiaye1@hotmail.fr. Le rattachement est certain, la ligne ONES reprenant à l'identique l'adresse, le téléphone, le mobile et le fax de la fiche goafricaonline. Le cabinet n'a pas de site web ; c'est un cabinet d'expertises maritimes, commerciales et bancaires fondé en 1994 par Maître Gory N'Diaye, expert assermenté. À noter : le tableau ONES 2023 recense un autre expert à la même adresse (44 Avenue Faidherbe, BP 10.113 Dakar Liberté, cell. 77.542.38.39, aichanagueye@yahoo.fr) — cette adresse email est celle d'une autre personne et n'a pas été retenue ici."
   }
  ]
 }
