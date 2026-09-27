@@ -1,0 +1,140 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN&p=10",
+  "_extrait_le": "2026-09-27",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=10",
+  "_methode": "Fiches goafricaonline lues une à une (1 requête à la fois, ≥3 s d'intervalle) ; pour chaque bureau, site officiel s'il est indiqué, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email, R3 téléphone, R4 nom entre guillemets) et test des adresses de domaine probables en .sn et .com ; emails uniquement lus sur une page, jamais reconstitués.",
+  "bureaux": [
+    {
+      "nom": "DID SENEGAL",
+      "sigle": "DID (Développement international Desjardins)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 824 04 20 / Fax : (+221) 33 824 04 21",
+      "adresse": "3082, Immeuble Ecobank, Avenue Bourguiba",
+      "ville": "Dakar",
+      "site_web": "https://www.desjardins.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Développement international et microfinance (bureau régional Afrique de l'Ouest et centrale de Développement international Desjardins)",
+      "fiche_url": "https://www.goafricaonline.com/sn/611906-did-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers https://www.desjardins.com/ et comptes sociaux du Mouvement Desjardins (Twitter, Facebook, Instagram, LinkedIn, YouTube)",
+        "R1/R2 : \"DID SENEGAL\" Développement international Desjardins Dakar email contact — fiches Devex, DevelopmentAid, MICDP et page Desjardins « Découvrez notre équipe en Afrique de l'Ouest et du Centre » : bureau régional ouvert à Dakar en 2004, siège à Lévis (Québec) ; aucun email propre au bureau de Dakar",
+        "Fiche yelu.sn ouverte (https://www.yelu.sn/company/20126/Developpement_International_Desjardins/) : « Sicap Amitié I, Dakar », tél. 33 869 16 82 — adresse et téléphone différents de la fiche goafrica (ancienne implantation probable), aucun email",
+        "Site desjardins.com : portail du Mouvement Desjardins, aucune adresse email de contact propre à DID ou à son bureau de Dakar"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu : le site déclaré est le portail du groupe Desjardins, qui ne publie pas d'adresse email pour DID ni pour son bureau de Dakar. Structure canadienne (ONG de microfinance) plutôt que bureau d'études sénégalais : à traiter à part dans la prospection. Deux adresses circulent : Immeuble Ecobank avenue Bourguiba (fiche) et Sicap Amitié I (yelu)."
+    },
+    {
+      "nom": "DIOUF ENGINEERING AND CONSULTING SERVICES (DECS)",
+      "sigle": "DECS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 90 45",
+      "adresse": "HLM Las Palmas n° 464 Guédiawaye",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480030-diouf-engineering-and-consulting-services-decs-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1/R2 : \"DIOUF ENGINEERING AND CONSULTING SERVICES\" / \"DECS\" Sénégal Guédiawaye email — aucun résultat sur ce bureau (profils LinkedIn de personnes nommées Diouf, AFRY Sénégal)",
+        "R3 : \"33 827 90 45\" (avec \"77 733 45 99\") puis \"+221 33 827 90 45\" — aucun résultat nominatif",
+        "R4 : \"DIOUF ENGINEERING AND CONSULTING SERVICES (DECS)\" — uniquement des homonymes étrangers portant le sigle DECS (Inde, Liban, États-Unis, Dubaï) et Diouf Al Sharq en Arabie saoudite",
+        "Adresse probable testée : decs.sn (ne résout pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Le sigle DECS est très répandu à l'étranger ; aucun de ces homonymes n'est rattaché à ce bureau."
+    },
+    {
+      "nom": "DIRA PARTNERS",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "",
+      "adresse": "80 résidences Hacienda",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil en développement et financement de projets entrepreneuriaux en Afrique (bureaux à Dakar et à Paris)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592662-dira-partners-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun téléphone, aucun bouton « Site web », aucune activité décrite",
+        "R1/R2 : \"DIRA PARTNERS\" Sénégal Dakar résidences Hacienda email contact — comptes X (@DiraPartners) et Instagram (@dirapartners) localisés à Dakar, fiche RocketReach : cabinet de conseil en développement et financement de projets entrepreneuriaux en Afrique, bureaux à Paris et à Dakar, site dirapartners.com ; aucun email",
+        "R3 : aucun téléphone sur la fiche",
+        "Site dirapartners.com essayé trois fois (https://dirapartners.com, https://www.dirapartners.com) : HTTP 503 puis aucune réponse — aucune page lisible",
+        "Adresse probable testée : dirapartners.sn (ne résout pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé : le site dirapartners.com était injoignable pendant ce passage (503, puis absence de réponse). À reprendre lors d'un prochain passage. La fiche ne donne aucun téléphone, seuls les comptes X et Instagram du cabinet sont actifs."
+    },
+    {
+      "nom": "DMG (DIAMINA MANAGEMENT GROUP)",
+      "sigle": "DMG",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 733 45 99",
+      "adresse": "Yoff Apecsy III villa 77E",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/533383-dmg-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1/R2 : \"DIAMINA MANAGEMENT GROUP\" / \"DMG\" Sénégal Yoff Apecsy email contact — aucun résultat sur ce bureau (association APECSY de Yoff, Dima Groupe, DMC Senegal)",
+        "R3 : \"77 733 45 99\" puis \"+221 77 733 45 99\" — aucun résultat nominatif",
+        "R4 : \"DMG (DIAMINA MANAGEMENT GROUP)\" / \"Diamina Management\" — uniquement des sociétés américaines portant le sigle DMG (Daniel Management Group, Divisions Maintenance Group, etc.)",
+        "Adresses probables testées : diamina.sn, dmg-senegal.com (aucune ne résout)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Aucune trace en ligne de ce cabinet en dehors de sa fiche goafricaonline ; nombreux homonymes américains, tous écartés."
+    },
+    {
+      "nom": "DOGON LOGISTICS",
+      "sigle": "DOGON",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@dogon-log.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 76 317 08 08",
+      "adresse": "X Autoroute, Résidence Mamadou Dioum, 5, Rue Felix Eboué, Av. Malick Sy - Dakar-Plateau",
+      "ville": "Dakar",
+      "site_web": "https://dogon-log.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Transport, déménagement, import-export et logistique (société créée en 2018)",
+      "fiche_url": "https://www.goafricaonline.com/sn/782878-dogon-logistics",
+      "preuve_url": "https://dogon-log.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers https://dogon-log.com, horaires 8h-16h30 du lundi au jeudi et 8h-17h le vendredi",
+        "Site officiel ouvert : accueil (« DOGON Logistics », transport, déménagement, import-export et logistique, créée en 2018) puis page contact (https://dogon-log.com/contact/) : email contact@dogon-log.com ; la page about ne donne aucun email supplémentaire",
+        "R1/R2 : \"DOGON LOGISTICS\" Sénégal Dakar email contact — fiches ZoomInfo, senpages, courierslist, comptes Facebook et LinkedIn confirmant l'adresse 5 rue Félix Eboué, avenue Malick Sy x Autoroute, Dakar (identique à la fiche)",
+        "R3 : \"76 317 08 08\" puis \"+221 76 317 08 08\" — aucun résultat nominatif"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site officiel ; l'adresse du site et des annuaires est identique à celle de la fiche. Activité de logistique plutôt que de conseil : classée ici sous « autre », comme le veut le format, mais son intérêt pour la prospection AOFocus est à valider."
+    }
+  ]
+}
