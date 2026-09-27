@@ -140,6 +140,146 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email trouvé ; identité confirmée par le téléphone repris dans un annuaire immobilier. Attention, le sigle CMS est très répandu."
+    },
+    {
+      "nom": "CO-WORKING AFRICA-OUTSOURCING",
+      "sigle": "Africa Outsourcing",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "partenaire@africa-outsourcing.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 56 66 / (+221) 77 687 73 24",
+      "adresse": "75 C, Cité Keur Gorgui, BP 23119",
+      "ville": "Dakar",
+      "site_web": "https://www.africa-outsourcing.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Accompagnement à l'international d'opérateurs souhaitant se développer en Afrique ; espace de coworking et incubateur",
+      "fiche_url": "https://www.goafricaonline.com/sn/480573-co-working-africa-outsourcing-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.africa-outsourcing.com",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers http://www.africa-outsourcing.com, plus une page Facebook et une page LinkedIn de l'entreprise",
+        "Site officiel ouvert (accueil et pied de page) : email partenaire@africa-outsourcing.com, tél. +221 77 639 01 58, adresse Rond-point Cité Keur Gorgui, Immeuble Atlantis 6ème étage, BP 23119, Dakar",
+        "Page contact ouverte (https://www.africa-outsourcing.com/contact-demande-de-bureau) : formulaire seul, aucune adresse email supplémentaire"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur l'accueil du site officiel. Le site indique un téléphone supplémentaire (+221 77 639 01 58) absent de la fiche."
+    },
+    {
+      "nom": "COACH ALLIANCE TRAINING",
+      "sigle": "Coachalliance",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@coachalliancesn.com",
+        "coachalliance@coachalliancesn.com",
+        "coachalliance@coachalliancetraining.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 651 73 59 / (+221) 77 764 86 86 (Whatsapp) / (+221) 78 592 41 41",
+      "adresse": "Résidence Hujurat étage 4, Mermoz Comico, BP 1123 Ponty",
+      "ville": "Dakar",
+      "site_web": "https://coachalliancesn.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet de conseil stratégique : formation, coaching individuel et d'équipe, teambuilding, digitalisation, intelligence artificielle, sécurité informatique, conseil événementiel",
+      "fiche_url": "https://www.goafricaonline.com/sn/1192873-coach-alliance-training-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://coachalliancesn.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers https://coachalliancesn.com, pages LinkedIn et Facebook ; la présentation rédigée par le bureau donne elle-même l'adresse info@coachalliancesn.com",
+        "Site officiel ouvert (accueil) : coachalliance@coachalliancesn.com, tél. +221 33 867 95 55 et +221 78 592 41 41, Mermoz Pyrotechnie – Résidence Hujurat, Dakar",
+        "Page contact ouverte (https://coachalliancesn.com/contact/) : coachalliance@coachalliancesn.com et coachalliance@coachalliancetraining.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Trois adresses, toutes lues sur une page : info@coachalliancesn.com sur la fiche goafricaonline (présentation du bureau), les deux autres sur https://coachalliancesn.com/contact/ (preuve_url). Le site donne un fixe (+221 33 867 95 55) absent de la fiche."
+    },
+    {
+      "nom": "COGED",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 56 29",
+      "adresse": "",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/655243-coged-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucune adresse, aucun bouton « Site web », aucune activité décrite",
+        "R1 : \"COGED\" bureau d'études conseils Sénégal Dakar — aucun résultat sur ce bureau (E.TE.C.S., annuaires généraux)",
+        "R2 : COGED Dakar email contact société — aucun résultat sur ce bureau (Cogedis en France, Cogelec Energy à la Médina, coged.com hors Sénégal)",
+        "R3 : \"33 827 56 29\" puis \"+221 33 827 56 29\" — aucun résultat nominatif",
+        "R4 : \"COGED\" Sénégal — aucun résultat sur ce bureau (COGES, CONGAD, CONGECA)",
+        "Adresses probables testées : coged.sn, coged-senegal.sn (aucune ne résout) ; coged.com existe mais n'est pas sénégalais et n'a pas été retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. La fiche ne donne qu'un téléphone, sans adresse ni activité ; sigle très court, peu discriminant."
+    },
+    {
+      "nom": "COGEMAPP",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 867 33 96",
+      "adresse": "Scat Urbam Immeuble 12 A 3e Etage, BP 7505 Liberté",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/385561-cogemapp-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucune activité décrite",
+        "R1 : \"COGEMAPP\" Sénégal — une fiche d'annuaire (annuaire-senegal.com, gestion de projets à Dakar) reprenant le même téléphone 338673396 et la même adresse Scat Urbam Immeuble 12 A, sans email",
+        "R2 : COGEMAPP Dakar email contact Scat Urbam — aucun email pour COGEMAPP ; seulement une société « cogemap » (cogemap.com), autre nom et autre téléphone (33 867 95 53)",
+        "R3 : \"33 867 33 96\" puis \"+221 33 867 33 96\" — aucun résultat nominatif",
+        "R4 : \"COGEMAPP\" — aucun résultat sur ce bureau (COGEMAP Compagnie Générale de Maintenance Portuaire, Cogemap Tunisie, COGEM Pays-Bas)",
+        "Adresse probable cogemap.com essayée : le domaine ne résout plus (impossible de vérifier l'identité) ; cogemapp.sn et cogemapp.com ne résolvent pas"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Un email contact@cogemap.com circule dans les résultats de recherche pour une société « cogemap » du même quartier, mais le nom (un P) et le téléphone diffèrent et le domaine ne répond plus : identité non confirmée, donc ni site ni email attribués."
+    },
+    {
+      "nom": "COGEP (CONSEIL EN GESTION ETUDES ET PROJET)",
+      "sigle": "COGEP",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 22 84 / (+221) 77 827 22 84 / (+221) 77 637 07 60 / Fax : (+221) 33 821 86 04",
+      "adresse": "Sacré Coeur 3 Immeuble Seynabou Appart. D, BP 16087 Medina",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil en gestion, études et projets ; SARL créée en 1996, experts internationaux et consultants associés (développement économique, santé, social)",
+      "fiche_url": "https://www.goafricaonline.com/sn/479964-cogep-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"COGEP\" \"CONSEIL EN GESTION ETUDES ET PROJET\" Sénégal — fiches senpages, annuaire-senegal, developmentaid et b2bsenegal ; un site cogep.sn est cité",
+        "Page senpages ouverte (https://www.senpages.com/entreprise/conseil-en-gestion-etudes-et-projets-cogep/) : nom complet « Conseil en Gestion, Etudes et Projets - COGEP », Immeuble Seynabou lot 4 et 6 Sacré Cœur 3, tél. +221 33 827 22 84 (même que la fiche), aucun email affiché",
+        "Site cogep.sn essayé (http://www.cogep.sn/menu.php?page=prform) : le domaine ne résout plus",
+        "Page developmentaid essayée (organisation 84706) : HTTP 403, non consultable",
+        "Page b2bsenegal essayée (profil _11047) : le domaine ne résout plus",
+        "R2 : COGEP Dakar email contact Sacré Coeur 3 conseil gestion études projet — aucun email lisible sur une page",
+        "R3 : \"33 827 22 84\" puis \"+221 33 827 22 84\" et \"77 637 07 60\" — aucun résultat nominatif",
+        "R4 : \"COGEP\" \"CONSEIL EN GESTION ETUDES ET PROJET\" — mêmes fiches d'annuaire, aucun email",
+        "Recherche complémentaire \"cogep@orange.sn\" : aucune page reprenant cette adresse",
+        "Adresse probable testée : cogep.sn (ne résout pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu : l'adresse cogep@orange.sn apparaît dans des extraits de moteur de recherche, mais aucune page consultable ne l'affiche (site cogep.sn hors service, developmentaid en 403, b2bsenegal hors service), donc elle n'est pas reprise. Même cabinet que la fiche 385684 « CONSEIL EN GESTION ETUDES DE PROJET » (même immeuble, même fax)."
     }
   ]
 }
