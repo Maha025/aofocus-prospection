@@ -89,6 +89,35 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun site ni email trouvé après recherche complète. La fiche ne décrit pas les activités au-delà de la catégorie de l'annuaire."
+    },
+    {
+      "nom": "ERM FRANCE SAS",
+      "sigle": "ERM",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 696 11 81",
+      "adresse": "12, boulevard Djily Mbaye, Dakar - Sénégal (également indiqué : 26-28 Rue Félix Faure, Dakar)",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Inspection, vérification, test et certification ; figure sur la liste des bureaux d'études agréés pour les études d'impact environnemental",
+      "fiche_url": "https://www.goafricaonline.com/sn/592478-erm-france-sas-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"ERM France\" Sénégal Dakar bureau agréé études impact environnemental — ERM cité comme co-auteur d'EIES au Sénégal (rapport EIES Route des Pêches, Sogea-Satom/ERM et Liner) ; un autre numéro dakarois, +221 77 555 28 45, apparaît dans un extrait d'index",
+        "Page ouverte : https://www.denv.gouv.sn/bureaux-detudes-et-consultants-agrees/ — page de la DEEC sans liste nominative exploitable, seul email : contact@denv.gouv.sn (ministère, non retenu)",
+        "R2 : \"ERM\" Dakar Sénégal bureau \"Djily Mbaye\" OR \"Félix Faure\" contact email environnement — aucun email rattaché à ERM",
+        "R3 : \"77 696 11 81\" — aucun résultat rattachant le numéro (recherche combinée avec R4)",
+        "R4 : \"ERM FRANCE SAS\" Sénégal — fiche SenPages, fiches françaises pappers.fr et societe.com (siège 40 avenue des Terroirs de France, 75012 Paris), page erm.com/about/locations/france/",
+        "Page ouverte : https://www.senpages.com/entreprise/erm-france-sas/ — adresse et tél +221776961181 confirmés, aucun email affiché",
+        "Adresses probables : erm.com (site du groupe ERM) — https://www.erm.com/locations/africa/senegal/, /contact-us/ et /locations/ renvoient tous HTTP 403, contenu non lisible"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Le site du groupe ERM (erm.com) est très probablement celui de cette entité, mais toutes ses pages renvoient 403 depuis cet environnement : faute d'avoir pu lire une page confirmant le bureau de Dakar, le site n'est pas attribué. Un second numéro dakarois (+221 77 555 28 45) apparaît dans un extrait d'index sans page lisible : non retenu."
     }
   ]
 }
