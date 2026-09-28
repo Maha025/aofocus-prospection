@@ -62,6 +62,33 @@
       ],
       "statut": "a_verifier",
       "note": "Le site indiqué par la fiche (www.epsygroup.com) ne résout plus : aucun email lisible, site_web laissé vide. Les autres EPSY trouvés (Malaisie, USA, France, santé numérique) sont des homonymes, écartés."
+    },
+    {
+      "nom": "EQUIPE RESEARCH SARL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 43 42 — (+221) 33 827 56 00",
+      "adresse": "58 Rue Docteur Theze, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants",
+      "fiche_url": "https://www.goafricaonline.com/sn/386322-equipe-research-sarl-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"Equipe Research\" Sénégal Dakar études de marché — aucun résultat sur ce bureau ; autres cabinets d'études dakarois (AfrikSurvey, PeopleDataSense, Cabinet Carrée) sans rapport",
+        "R2 : \"Equipe Research\" Dakar \"Docteur Theze\" OR contact email — aucun email ; seuls des cabinets médicaux de la rue Dr Thèze",
+        "R3 : \"33 827 43 42\" OR \"33 827 56 00\" Dakar — numéros présents dans des annuaires dakarois mais rattachés à aucune entreprise identifiable, rien sur ce bureau",
+        "R4 : \"EQUIPE RESEARCH SARL\" — aucun résultat ; uniquement des pages sur les équipes de recherche universitaires françaises et la forme juridique SARL",
+        "Adresses probables testées, toutes inexistantes : equiperesearch.sn, equiperesearch.com, equipe-research.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun site ni email trouvé après recherche complète. La fiche ne décrit pas les activités au-delà de la catégorie de l'annuaire."
     }
   ]
 }
