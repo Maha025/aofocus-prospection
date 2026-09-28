@@ -1,0 +1,151 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-09-28",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=10",
+  "_methode": "Fiche goafricaonline (nom, adresse, téléphones, activités, bouton Site web), puis site du bureau si connu, puis recherches web R1 à R4 et adresses probables ; emails uniquement lus sur une page citée en preuve_url.",
+  "bureaux": [
+    {
+      "nom": "ECI (ELITO CONSULTING INVESTMENT)",
+      "sigle": "ECI",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 390 51 24",
+      "adresse": "7 Rue Mohamed 5 Ponty, Dakar, Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants",
+      "fiche_url": "https://www.goafricaonline.com/sn/524291-eci-bureaux-etudes-conseils-consltants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"ELITO CONSULTING INVESTMENT\" Sénégal — aucun résultat concernant le bureau (annuaires généralistes de consulting, sociétés homonymes)",
+        "R2 : ECI Elito Consulting Investment Dakar email contact — aucun résultat concernant le bureau (ECI américains : eci.com, eciusa.com)",
+        "R3 : \"77 390 51 24\" OR \"+221 77 390 51 24\" Dakar — aucun résultat rattachant ce numéro au bureau",
+        "R4 : \"ECI (ELITO CONSULTING INVESTMENT)\" — aucun résultat (autres ECI : Eze Castle Integration, ECI Partners, ECI Group)",
+        "Adresses probables testées : elito.sn, elitoconsulting.com, elitoconsulting.sn, eci.sn (domaines inexistants) ; elito.com (injoignable, aucune confirmation d'identité)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun site ni email trouvé après recherche complète. eci.com, eciusa.com et ECI Partners sont des homonymes étrangers, écartés."
+    },
+    {
+      "nom": "ECO AFRIQUE",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "ecoafrique@eco-afrique.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 889 02 00",
+      "adresse": "3e Et 4e Etage Avenue Hassan 2, BP 1029, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://eco-afrique.com/",
+      "site_source": "recherche web",
+      "specialite": "Cabinet de conseil en ressources humaines : conseil et stratégie RH, recrutement (créé en 1993)",
+      "fiche_url": "https://www.goafricaonline.com/sn/479957-eco-afrique-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://eco-afrique.com/cabinetrh-expert-rh-dakar/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"ECO AFRIQUE\" Sénégal bureau d'études — résultats hors sujet (TEG, ETECS, annuaires de bureaux d'études)",
+        "R2 : \"Eco Afrique\" Dakar contact email Avenue Hassan II — trouve eco-afrique.com, senpages.com, yelu.sn, showroomafrica.com",
+        "R3 : \"33 889 02 00\" (338890200) — numéro confirmé sur eco-afrique.com, identique à la fiche",
+        "R4 : \"ECO AFRIQUE\" — mêmes résultats que R1/R2",
+        "Page ouverte : https://eco-afrique.com/cabinetrh-expert-rh-dakar/ — email en clair ecoafrique@eco-afrique.com, adresse « 2, Avenue Hassan II (ex Albert Sarraut) BP 1029 Dakar », tél 338890200"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée par trois recoupements avec la fiche : Avenue Hassan II, BP 1029 et le téléphone 33 889 02 00."
+    },
+    {
+      "nom": "ECODEV Senegal",
+      "sigle": "ECODEV",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contacts@ecodev-senegal.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 272 13 24",
+      "adresse": "Diamniadio Sud Extension, Lot N° 1062, Dakar, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.ecodev-senegal.com/",
+      "site_source": "recherche web",
+      "specialite": "Cabinet conseil en économie et développement durable : aménagement du territoire, SIG et cartographie, agroforesterie, management organisationnel, gestion de projet, suivi-évaluation, formation",
+      "fiche_url": "https://www.goafricaonline.com/sn/782906-ecodev-senegal",
+      "preuve_url": "https://www.ecodev-senegal.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"ECODEV\" Sénégal Diamniadio — page Facebook facebook.com/ecodevconsulting (Conseil en Economie et Développement Durable) et profil LinkedIn ECODEV Sénégal",
+        "R2 : \"Ecodev\" Dakar Sénégal email contact consulting développement durable — aucun email ; ecodev.dev est une société burkinabè d'hébergement web, écartée",
+        "R3 : \"77 272 13 24\" OR \"+221 77 272 13 24\" — aucun résultat rattachant le numéro",
+        "R4 : \"ECODEV Senegal\" — trouve www.ecodev-senegal.com",
+        "Page ouverte : https://www.facebook.com/ecodevconsulting/ — écran de connexion, aucune coordonnée lisible",
+        "Page ouverte : https://www.ecodev-senegal.com/ — email en clair contacts@ecodev-senegal.com, tél +221 77 272 13 24, adresse « Villa N° 300, Cité SIPRESS, Rufisque, Dakar »",
+        "Pages testées en 404 : www.ecodev-senegal.com/contact et /localisation"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée par le téléphone identique à la fiche (+221 77 272 13 24). Le site indique une autre adresse que la fiche : Villa N° 300, Cité SIPRESS, Rufisque. Le programme radio « ECODEV » de Pr Abdoulaye Cissé et ECODEV INTERNATIONAL (Burkina Faso) sont des homonymes sans rapport."
+    },
+    {
+      "nom": "ECOVA CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 860 20 87 — Fax (+221) 33 860 26 11",
+      "adresse": "VDN Mermoz Lot n°13 Cité des Administrateurs Civils, BP 25638, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants",
+      "fiche_url": "https://www.goafricaonline.com/sn/479990-ecova-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"ECOVA CONSULTING\" Sénégal — seule la fiche goafricaonline ; autres résultats = ECOVA Mali, Ecova/ENGIE Insight (USA), naturaecova.com",
+        "R2 : Ecova Consulting Dakar email contact bureau études — aucun email ; seuls des agrégateurs (leadiq, zoominfo, adapt.io, rocketreach) et ecova.co (USA)",
+        "R3 : \"33 860 20 87\" OR \"338602087\" Dakar — aucun résultat rattachant le numéro au bureau",
+        "R4 : \"ECOVA CONSULTING\" — uniquement Ecova Inc. Ltd / ENGIE Insight (ex-Ecos Consulting, Spokane, USA), sans rapport",
+        "Adresses probables testées, toutes inexistantes : ecova.sn, ecovaconsulting.com, ecovaconsulting.sn, ecova-consulting.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun site ni email trouvé après recherche complète. Ecova Inc. / ENGIE Insight (USA) et ECOVA Mali sont des homonymes sans rapport, écartés."
+    },
+    {
+      "nom": "ECRAN ECOSTAT",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 867 00 24",
+      "adresse": "34, Liberté 6 Extension X VDN, BP 16369, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants",
+      "fiche_url": "https://www.goafricaonline.com/sn/479971-ecran-ecostat-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"ECRAN ECOSTAT\" Sénégal — résultats hors sujet (vente d'écrans d'ordinateur au Sénégal, Ecostat app)",
+        "R2 : \"Ecostat\" Dakar bureau d'études contact email Liberté 6 — aucun résultat concernant ce bureau ; autres cabinets de Liberté 6 (AZ Consulting, SIAT, ECOSYSTEME) sans rapport",
+        "R3 : \"33 867 00 24\" OR \"338670024\" — aucun résultat rattachant le numéro",
+        "R4 : \"ECRAN ECOSTAT\" — uniquement des homonymes étrangers (EcoStat Inc., GDR EcoStat France, EcoStat Consulting LLC, robinetterie Hansgrohe Ecostat)",
+        "Adresses probables testées, toutes inexistantes : ecran-ecostat.com, ecranecostat.com, ecranecostat.sn, ecostat.sn, ecran.sn"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun site ni email trouvé après recherche complète. Tous les « Ecostat » trouvés sont des homonymes étrangers, écartés."
+    }
+  ]
+}
