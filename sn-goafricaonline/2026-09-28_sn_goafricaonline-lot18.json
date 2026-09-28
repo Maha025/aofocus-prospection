@@ -118,6 +118,33 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email trouvé. Le site du groupe ERM (erm.com) est très probablement celui de cette entité, mais toutes ses pages renvoient 403 depuis cet environnement : faute d'avoir pu lire une page confirmant le bureau de Dakar, le site n'est pas attribué. Un second numéro dakarois (+221 77 555 28 45) apparaît dans un extrait d'index sans page lisible : non retenu."
+    },
+    {
+      "nom": "ERS (ETUDE REALISATION SENEGAL)",
+      "sigle": "ERS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 842 89 60 — Fax (+221) 33 842 89 61",
+      "adresse": "21, Rue Mouhamed 5, BP 2456, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants",
+      "fiche_url": "https://www.goafricaonline.com/sn/480051-ers-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"ETUDE REALISATION SENEGAL\" ERS Dakar — aucun résultat sur ce bureau ; sociétés proches mais distinctes : ERT (Etude et Réalisation Technique, ert.sn), SEREX ENERGIE, E.TE.C.S.",
+        "R2 : \"ERS\" Dakar \"Rue Mouhamed 5\" OR \"BP 2456\" email contact — aucun résultat correspondant",
+        "R3 : \"33 842 89 60\" OR \"33 842 89 61\" Dakar — aucun résultat rattachant ces numéros",
+        "R4 : \"ERS (ETUDE REALISATION SENEGAL)\" — homonymes et sigles voisins : ERCE (Etude Realisation Controle Expertise), ERT, Energy Resources Senegal (solaire, centrale de Niakhar), TER Service",
+        "Adresses probables testées, toutes inexistantes : ers.sn, ers-senegal.com, etuderealisationsenegal.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun site ni email trouvé après recherche complète. ERCE, ERT et Energy Resources Senegal portent des sigles voisins mais sont d'autres sociétés, écartées."
     }
   ]
 }
