@@ -146,6 +146,146 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun site ni email trouvé après recherche complète. Tous les « Ecostat » trouvés sont des homonymes étrangers, écartés."
+    },
+    {
+      "nom": "EDM CONSULTANCE",
+      "sigle": "EDM",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 868 35 96 — (+221) 77 642 87 50",
+      "adresse": "Sodida Lot N° 16, BP 26 227, Dakar, Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Gestion, comptabilité",
+      "fiche_url": "https://www.goafricaonline.com/sn/655881-edm-consultance-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"EDM CONSULTANCE\" Sénégal — aucun résultat concernant le bureau (EDM Mali = énergie, autres cabinets sénégalais sans rapport)",
+        "R2 : \"EDM Consultance\" Dakar Sodida contact email gestion comptabilité — aucun résultat concernant le bureau",
+        "R3 : \"33 868 35 96\" OR \"77 642 87 50\" Dakar — aucun résultat rattachant ces numéros",
+        "R4 : \"EDM CONSULTANCE\" — uniquement des homonymes américains (EDM Consulting LLC, EDM Consulting Group Philadelphie, EDM International, EDM Consultants Inc)",
+        "Adresses probables testées, inexistantes : edmconsultance.com, edmconsultance.sn, edm-consultance.com",
+        "Adresse probable testée : https://edm.sn/ — page presque vide, titre « EDM - SARL », aucune coordonnée, aucun élément confirmant l'identité : non retenue"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. edm.sn existe mais sa page n'affiche que « EDM - SARL », sans nom complet, téléphone ni adresse : l'identité n'est pas confirmée, le site n'est donc pas attribué."
+    },
+    {
+      "nom": "EES SARL (ENGINEERING & ENVIRONNEMENT SERVICE)",
+      "sigle": "EES",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "awa.ndiaye@cabinet-ees.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 867 24 20",
+      "adresse": "Liberté 6 Extension 5, BP 29477, Dakar, Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.cabinet-ees.com/",
+      "site_source": "recherche web",
+      "specialite": "Cabinet créé en 2006, agréé MEDD : évaluations environnementales et sociales, études de projet, audits réglementaires HSE, métrologie industrielle, audits énergétiques, génie et conseil, formation",
+      "fiche_url": "https://www.goafricaonline.com/sn/592575-ees-gardiennage-securite-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.cabinet-ees.com/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"ENGINEERING & ENVIRONNEMENT SERVICE\" EES Sénégal — trouve cabinet-ees.com, LinkedIn sn.linkedin.com/company/engineering-environment-services-ees, Facebook ees.dakar et EngineeringEnvironmentServices, SenPages, africabizinfo",
+        "Page ouverte : https://www.cabinet-ees.com/ — email en clair awa.ndiaye@cabinet-ees.com",
+        "Page ouverte : https://www.cabinet-ees.com/contact — email awa.ndiaye@cabinet-ees.com, adresse « VDN cité CPI lot 57, Immeuble Seck 3e étage, en face de la Banque islamique », tél +221 33 832 88 70, mention « Le Cabinet ENGINEERING & ENVIRONMENT SERVICES (EES) a été créé en 2006 »"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée par le nom complet et le sigle EES, même ville (Dakar). Le site indique une adresse et un téléphone différents de la fiche (VDN cité CPI lot 57 / +221 33 832 88 70, également repris par SenPages et africabizinfo) : la fiche goafricaonline semble conserver l'ancienne adresse Liberté 6 Extension 5 et l'ancien numéro. Seule adresse publiée sur le site : awa.ndiaye@cabinet-ees.com (nominative, aucune adresse générique affichée)."
+    },
+    {
+      "nom": "EFFICIENCE CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 647 79 34",
+      "adresse": "Cité Soprim, Villa N°97/A, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Comptabilité, juridique et conseil ; d'après sa page Facebook/LinkedIn : conseil en ressources humaines et marketing stratégique, coaching professionnel",
+      "fiche_url": "https://www.goafricaonline.com/sn/386206-efficience-consulting-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"EFFICIENCE CONSULTING\" Sénégal — trouve la page Facebook facebook.com/EtudeConseil (Efficience Consulting, Dakar) et un profil LinkedIn ; pratik-ci.com est un annuaire ivoirien",
+        "R2 : \"Efficience Consulting\" Dakar email contact Cité Soprim — aucun email ; rocketreach ne propose qu'un format d'adresse deviné (non retenu)",
+        "R3 : \"77 647 79 34\" OR \"+221 77 647 79 34\" — aucun résultat rattachant le numéro",
+        "R4 : \"EFFICIENCE CONSULTING\" — homonymes étrangers : EFFICIENCE CONSULTING LTD (Royaume-Uni), Efficience (Floride, USA)",
+        "Page ouverte : https://www.facebook.com/EtudeConseil/ — mur de connexion, aucune coordonnée lisible",
+        "Adresses probables testées, inexistantes : efficienceconsulting.sn, efficience-consulting.sn, efficience.sn",
+        "Adresse probable testée : efficienceconsulting.com — site de Jesse Laving / Efficience Marketing, identité non confirmée, non retenue",
+        "Adresse probable testée : efficience-consulting.com — cabinet de coaching et bilans de compétences à Paris, identité non confirmée, non retenue"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Les deux domaines proches (efficienceconsulting.com, efficience-consulting.com) appartiennent à des structures étrangères sans lien confirmé avec le bureau de Dakar : ni site ni email attribué. rocketreach ne publie qu'un format d'adresse reconstitué, écarté."
+    },
+    {
+      "nom": "EL HADJ ABDOULAYE DIACK",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 832 00 24 — (+221) 77 512 82 63",
+      "adresse": "155, Cité ISRA Bel-Air, BP: 21300, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants",
+      "fiche_url": "https://www.goafricaonline.com/sn/592621-hadj-abdoulaye-diack-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"EL HADJ ABDOULAYE DIACK\" Sénégal bureau d'études — un profil LinkedIn « Elhadj A. DIACK - AAFEX » (ingénieur agro-économiste, Sénégal, CESAG), sans coordonnées ni lien avec l'adresse de la fiche",
+        "R2 : \"Abdoulaye Diack\" Dakar Cité ISRA Bel-Air consultant email contact — aucun résultat correspondant (homonymes : technicien SORAM, Habisofa Group, Google AI Accra)",
+        "R3 : \"33 832 00 24\" OR \"77 512 82 63\" Sénégal — aucun résultat rattachant ces numéros",
+        "R4 : \"EL HADJ ABDOULAYE DIACK\" — homonymes (athlètes, Action Contre la Faim) ; aucun bureau d'études",
+        "Adresses probables testées, toutes inexistantes : abdoulayediack.com, abdoulayediack.sn, ehadiack.com, diack-consulting.sn"
+      ],
+      "statut": "a_verifier",
+      "note": "Consultant référencé sous un nom de personne, sans sigle ni site. Aucun email trouvé. Le profil LinkedIn « Elhadj A. DIACK » (ingénieur agro-économiste au Sénégal) pourrait être la même personne mais rien ne le confirme (ni téléphone ni adresse) : non retenu."
+    },
+    {
+      "nom": "ELITE CAPITAL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@elitecapital.pro",
+        "contact.ci@elitecapital.pro"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 78 178 64 22",
+      "adresse": "Liberté 6 extension, Immeuble les Dunes, Bâtiment N°2, Appartement 202, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "http://www.elitecapital.pro",
+      "site_source": "recherche web",
+      "specialite": "Conseil en stratégie et développement : consulting, coaching, entrepreneuriat et formation ; financement, recouvrement de créances et incubation d'entreprises africaines",
+      "fiche_url": "https://www.goafricaonline.com/sn/1201319-elite-capital-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.elitecapital.pro",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », mais deux liens sortants relevés dans le code de la fiche — https://www.facebook.com/ELITECAPITAL2019 et https://sn.linkedin.com/company/elite-capital-l-officiel",
+        "Page ouverte : https://sn.linkedin.com/company/elite-capital-l-officiel — emails contact@elitecapital.pro et contact.ci@elitecapital.pro, site http://www.elitecapital.pro, adresse « 13125 Grand yoff, Immeuble COBRA 2ème étage, Dakar », tél +225 07 68 212 568 / +225 07 48 947 707, WhatsApp 77 428 36 67, antenne à Abidjan (Cocody, Riviera Faya)",
+        "Page ouverte : http://www.elitecapital.pro — email en clair contact@elitecapital.pro, tél +221 33 827 11 37 et +221 77 428 36 67, adresse « Cité CPI Comico, Route secondaire VDN, Dakar – Sénégal »",
+        "https://www.elitecapital.pro/ et /contact en HTTPS renvoient 403 ; la version http:// est accessible"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée par le lien LinkedIn figurant sur la fiche goafricaonline elle-même, qui renvoie au site elitecapital.pro. Les trois sources donnent trois adresses dakaroises différentes (fiche : Liberté 6 extension ; LinkedIn : Grand Yoff, Immeuble COBRA ; site : Cité CPI Comico, VDN) et des téléphones différents du numéro de la fiche. contact.ci@elitecapital.pro correspond à l'antenne ivoirienne."
     }
   ]
 }
