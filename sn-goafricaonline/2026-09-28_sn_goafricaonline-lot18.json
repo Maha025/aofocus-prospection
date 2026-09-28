@@ -1,0 +1,39 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-09-28",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=11",
+  "_methode": "Fiche goafricaonline (nom, adresse, téléphones, activités, bouton Site web), puis site du bureau si connu, puis recherches web R1 à R4 et adresses probables ; emails uniquement lus sur une page citée en preuve_url.",
+  "bureaux": [
+    {
+      "nom": "EPI (ETUDE PLACEMENT & INVESTISSEMENT)",
+      "sigle": "EPI",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 869 19 20",
+      "adresse": "Rue des Ecrivains X Bd du SUD Point E, BP 14485, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureaux d'études - Conseils - Consultants",
+      "fiche_url": "https://www.goafricaonline.com/sn/479973-etude-placement-investissement-epi-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web »",
+        "R1 : \"ETUDE PLACEMENT\" \"INVESTISSEMENT\" EPI Sénégal Dakar Point E — une fiche d'annuaire live-senegal (hébergée sur amazonaws) reprenant la même adresse et le même BP 14485",
+        "Page ouverte : http://live-senegal.s3-website-us-east-1.amazonaws.com/4/700_etude_placemaent_amp_investissement_epi.html — HTTP 503, contenu non lisible",
+        "Page ouverte : https://offshore-developpement.com/prestataires/epi-dakar — « EPI Dakar », société créée en 2021 dans l'informatique, les centres d'appels et le BPO : autre entreprise, écartée",
+        "R2 : \"Etude Placement\" Investissement Dakar email contact \"14485\" — confirme l'adresse et le BP mais aucun email",
+        "R3 : \"33 869 19 20\" OR \"338691920\" — aucun résultat rattachant le numéro (résultats sur des pneumatiques)",
+        "R4 : \"EPI (ETUDE PLACEMENT & INVESTISSEMENT)\" — uniquement des homonymes français (Euro Patrimoine Investissement, Épargne Placement Investissement, EPI Finances Investissements, EPI Études et Projets Industriels)",
+        "Adresses probables testées, toutes inexistantes : epi.sn, epi-senegal.com, epi-dakar.com, etudeplacementinvestissement.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun site ni email trouvé après recherche complète. « EPI Dakar » (informatique/BPO, créé en 2021) et les EPI français sont des entités distinctes, écartées."
+    }
+  ]
+}
