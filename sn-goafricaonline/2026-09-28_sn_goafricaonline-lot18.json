@@ -34,6 +34,34 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun site ni email trouvé après recherche complète. « EPI Dakar » (informatique/BPO, créé en 2021) et les EPI français sont des entités distinctes, écartées."
+    },
+    {
+      "nom": "EPSY GROUP CONSULTING",
+      "sigle": "EPSY GROUP",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 637 05 81 — (+221) 77 637 68 13",
+      "adresse": "21, Rue de Kaolack, Point E, Dakar, Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Prestations intellectuelles : régulation, analyse juridique et audits, notamment dans les télécommunications, la poste et les radiocommunications (d'après les extraits d'index de son site)",
+      "fiche_url": "https://www.goafricaonline.com/sn/478404-epsy-group-consulting-bureux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » vers www.epsygroup.com",
+        "Tentatives d'ouverture de https://www.epsygroup.com/, http://www.epsygroup.com/, https://epsygroup.com/ et https://epsygroup.sn/ — le domaine ne résout plus (DNS introuvable) : aucune page lisible",
+        "R1 : \"EPSY GROUP CONSULTING\" Sénégal — le site epsygroup.com apparaît encore dans l'index (extraits sur la régulation, l'analyse juridique et les audits en télécoms) mais la page n'est plus accessible",
+        "R2 : \"Epsy Group\" Dakar \"Point E\" email contact consulting — aucun email ; homonymes : EPS Group (USA), ePsy Consultancy, Société EPSY Consulting (France)",
+        "R3 : \"77 637 05 81\" OR \"77 637 68 13\" — aucun résultat rattachant ces numéros",
+        "R4 : \"EPSY GROUP\" — homonymes : EPSYS Systems Group (Malaisie), Epsy Health (santé numérique), ePsy Consultancy, cours EPSY de l'université de l'Illinois",
+        "Adresses probables testées, toutes inexistantes : epsy.sn, epsygroupconsulting.com, epsy-group.com"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site indiqué par la fiche (www.epsygroup.com) ne résout plus : aucun email lisible, site_web laissé vide. Les autres EPSY trouvés (Malaisie, USA, France, santé numérique) sont des homonymes, écartés."
     }
   ]
 }
