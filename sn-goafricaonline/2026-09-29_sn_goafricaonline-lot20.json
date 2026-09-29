@@ -1,0 +1,123 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-09-29",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=11",
+  "_methode": "Fiche goafricaonline (nom, adresse, téléphones, activités, bouton Site web), puis site du bureau s'il est connu, puis recherches web R1 à R4 et adresses probables ; emails uniquement lus sur une page citée en preuve_url.",
+  "bureaux": [
+    {
+      "nom": "I&C SN (INTERMEDIATION AND CONSULTING)",
+      "sigle": "I&C SN",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@intermediationconsulting.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 78 605 36 36",
+      "adresse": "APT 111, espace mamelles",
+      "ville": "Dakar",
+      "site_web": "https://sites.google.com/view/intermediationconsulting/",
+      "site_source": "recherche web",
+      "specialite": "Cabinet de conseils (consultants indépendants) accompagnant startups, PME et PMI : gestion financière, fiscalité, logistique, management culturel et management sportif",
+      "fiche_url": "https://www.goafricaonline.com/sn/592685-ic-sn-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://sites.google.com/view/intermediationconsulting/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom I&C SN (INTERMEDIATION AND CONSULTING), adresse APT 111 espace mamelles, Dakar, tél (+221) 78 605 36 36, bouton Site web -> iandcsn.business.site/",
+        "Site déclaré sur la fiche ouvert : https://iandcsn.business.site/ — erreur 404, la page Google Business n'existe plus : aucun email",
+        "R1 : \"Intermediation and Consulting\" Sénégal \"I&C\" — résultat pertinent : le site https://sites.google.com/view/intermediationconsulting/ du cabinet I&C",
+        "R2 : \"I&C SN\" Dakar mamelles email contact — reprise de la fiche goafricaonline (adresse et téléphone), aucun email",
+        "R3 : \"78 605 36 36\" OR \"+221 78 605 36 36\" — aucun résultat citant ce numéro",
+        "R4 : \"INTERMEDIATION AND CONSULTING\" — résultats génériques sur l'intermédiation, plus la page du cabinet",
+        "Site trouvé par recherche web et ouvert : https://sites.google.com/view/intermediationconsulting/ (accueil) — présentation du cabinet, pas d'email sur l'accueil",
+        "Page contact ouverte : https://sites.google.com/view/intermediationconsulting/contact — email info@intermediationconsulting.com lu sur la page ; raison sociale « Intermediation and Consulting SARL » et adresse « Appt 111, Cité El Hadj Omar - Mamelles Aviation » correspondant à l'APT 111 espace Mamelles de la fiche : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Le lien « Site web » de la fiche (iandcsn.business.site) est mort ; le site actuel est un Google Sites. Le site publie d'autres numéros (+221 33 825 57 82 bureau, +221 78 120 68 17) que celui de la fiche."
+    },
+    {
+      "nom": "IMB LABO BTP",
+      "sigle": "IMB LABO BTP GEOTECHNIQUE",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 865 08 23 — (+221) 77 249 21 34",
+      "adresse": "Cité Avion, Villa N°235, Ouakam",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureau d'études bâtiments et travaux publics : études géotechniques pour le bâtiment, génie civil (sondages, prélèvements, pose de piézomètres)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592613-imb-labo-btp-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom IMB LABO BTP, adresse Cité Avion Villa N°235 Ouakam, Dakar, tél (+221) 33 865 08 23 et (+221) 77 249 21 34, activités « bureaux d'études bâtiments et travaux publics, études géotechniques pour le bâtiment, génie civil », aucun bouton Site web",
+        "R1 : \"IMB LABO BTP\" Sénégal — profils LinkedIn « IMB LABO BTP GEOTECHNIQUE » et de salariés, annonce Expat-Dakar, Europages, fiches RocketReach ; aucun email du bureau",
+        "R2 : \"IMB Labo\" Dakar Ouakam email contact géotechnique — fiche annuaire-senegal.com ouverte : https://www.annuaire-senegal.com/securite/securite-incendie/imblabo-btp-geotechnique-s157201.html — même adresse (Cité Avion Villa 235, Ouakam) et même téléphone (772492134) que la fiche, mais aucun email publié",
+        "R3 : \"33 865 08 23\" OR \"+221 33 865 08 23\" — aucun résultat citant ce numéro",
+        "R4 : \"IMB LABO\" — aucun résultat sénégalais (homonymes européens : IMB Industrielle Messtechnik, IMB Lab de l'université de Ljubljana)",
+        "Adresses probables testées : imblabo.sn, imblabo.com, imblabobtp.com, imb-labo.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Présence en ligne limitée à des profils LinkedIn et à des annuaires sans email. Recherche complète (R1 à R4 + adresses probables) sans email ni site."
+    },
+    {
+      "nom": "INNOV' STUCTURES",
+      "sigle": "INNOV' STRUCTURES",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "e-contact@innov-structures.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 860 94 41",
+      "adresse": "Sacré Cœur 3 Extension – Villa N°133 1er étage",
+      "ville": "Dakar",
+      "site_web": "https://innov-structures.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Société d'ingénierie spécialisée dans l'étude de structures (béton armé, charpente métallique, charpente bois) et les missions d'ingénierie AMO, MOD, MOE, OPC",
+      "fiche_url": "https://www.goafricaonline.com/sn/592541-innov-stuctures-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://innov-structures.com",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom INNOV' STUCTURES (orthographe de la fiche), adresse Sacré Cœur 3 Extension Villa N°133 1er étage, Dakar, tél (+221) 33 860 94 41, bouton Site web -> innov-structures.com",
+        "Site du bureau ouvert : https://innov-structures.com (accueil, en-tête et pied de page) — email e-contact@innov-structures.com lu sur la page ; même bureau d'études structures à Dakar : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site donne une autre adresse (17, Cité Asecna, Ouest Foire – VDN) et un autre téléphone (+221 33 868 57 24) que la fiche, sans doute plus récents. Le nom est orthographié « INNOV' STUCTURES » sur la fiche et « INNOV' STRUCTURES » sur le site."
+    },
+    {
+      "nom": "INTERNATIONAL BUSINESS CONSULTING",
+      "sigle": "IBC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "ibcgroupsn@ibcgroup-sn.com",
+        "ibcgroupdkr@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 867 05 95 — Fax : (+221) 33 867 05 95",
+      "adresse": "Route De L'aeroport, BP 29216 CP 14524 Yoff",
+      "ville": "Dakar",
+      "site_web": "https://ibcgroup-sn.com",
+      "site_source": "recherche web",
+      "specialite": "Appui à la création d'entreprise, conseil, audit, sourcing, ingénierie de formation, business plan, assistance comptable et fiscale, recherche de financement (PME)",
+      "fiche_url": "https://www.goafricaonline.com/sn/387152-international-business-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.ibcgroup-sn.com/index.php/fr/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom INTERNATIONAL BUSINESS CONSULTING, adresse Route de l'Aéroport, BP 29216 CP 14524 Yoff, Dakar, tél et fax (+221) 33 867 05 95, aucun bouton Site web",
+        "R1 : \"International Business Consulting\" Sénégal Dakar Yoff — résultat pertinent : le site du bureau, http://www.ibcgroup-sn.com/index.php/fr/contact (26 cité Alia Diène Ouest-Foire, Dakar Yoff, +221 33 867 05 95 / 77 903 95 37)",
+        "R2 : \"International Business Consulting\" Dakar email contact IBC — confirme IBC - International Business Consulting SARL à Dakar et l'email ibcgroupsn@ibcgroup-sn.com ; homonymes au Maroc, au Portugal, aux Émirats",
+        "R3 : \"33 867 05 95\" OR \"+221 33 867 05 95\" — aucun résultat citant directement ce numéro",
+        "R4 : \"INTERNATIONAL BUSINESS CONSULTING\" BP 29216 — aucun résultat sur le bureau (homonymes américains et européens)",
+        "Site trouvé par recherche web et ouvert : http://www.ibcgroup-sn.com/index.php/fr/contact — emails ibcgroupsn@ibcgroup-sn.com et ibcgroupdkr@gmail.com lus sur la page ; téléphone +221 33 867 05 95 identique à celui de la fiche : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site indique une adresse plus précise (26 cité Alia Diène, Ouest-Foire, Dakar Yoff) et des numéros supplémentaires (+221 77 903 95 37, +221 70 602 03 03). Adresse au nom de domaine du bureau placée avant l'adresse Gmail."
+    }
+  ]
+}
