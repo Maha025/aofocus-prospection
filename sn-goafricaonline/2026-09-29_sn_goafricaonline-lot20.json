@@ -386,6 +386,85 @@
       ],
       "statut": "a_verifier",
       "note": "Adresses génériques d'abord (contact@msasenegal.com, msadakar@orange.sn), puis les adresses nominatives et celles des antennes régionales, toutes lues sur la page « Réseau MSA ». Deux adresses Gmail présentes sur cette page (daf.soges@gmail.com, vanmodem05@gmail.com) semblent appartenir à des structures partenaires et n'ont pas été retenues. Le siège indiqué par le site (VDN Lot n°58) diffère de l'adresse de la fiche."
+    },
+    {
+      "nom": "MSC (MICROSAVE CONSULTING)",
+      "sigle": "MSC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@microsave.net",
+        "edwin.mensah@microsave.net"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 67 65",
+      "adresse": "12, Av Birago Diop Point E, Imm. Serigne Bassirou Mbacke",
+      "ville": "Dakar",
+      "site_web": "https://www.microsave.net/fr",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet de conseil en inclusion financière, économique et sociale : banque et assurance, gouvernements et régulateurs, WASH, transferts sociaux, MPME, agriculture, digital et FinTech, genre et inclusion, climat, santé et nutrition",
+      "fiche_url": "https://www.goafricaonline.com/sn/592571-msc-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.microsave.net/fr/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom MSC (MICROSAVE CONSULTING), adresse 12 Av Birago Diop Point E Imm. Serigne Bassirou Mbacke, Dakar, tél (+221) 33 864 67 65, bouton Site web -> www.microsave.net/fr",
+        "Site du bureau ouvert : https://www.microsave.net/fr (accueil) — aucun email sur l'accueil, lien vers la page contact",
+        "Page contact ouverte : https://www.microsave.net/fr/contact/ — email générique info@microsave.net et, dans la section « Sénégal », l'adresse « 12, Avenue Birago, Diop Point E Immeuble Serigne Bassirou Mbacke Dakar » identique à la fiche, avec le contact edwin.mensah@microsave.net : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Cabinet international (bureaux en Inde, Indonésie, Singapour, Philippines, Kenya, etc.) ; la fiche correspond au bureau de Dakar, dont le contact publié est edwin.mensah@microsave.net. Adresse générique info@ placée en premier."
+    },
+    {
+      "nom": "OASIS FINANCIAL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 869 94 95",
+      "adresse": "Sacré Coeur",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Accompagnement des PME et des particuliers",
+      "fiche_url": "https://www.goafricaonline.com/sn/651070-oasis-financial-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom OASIS FINANCIAL, adresse Sacré Coeur, Dakar, tél (+221) 33 869 94 95, activité « accompagnement PME & particulier », aucun bouton Site web (la fiche invite le propriétaire à communiquer son e-mail)",
+        "R1 : \"Oasis Financial\" Sénégal Dakar — aucun résultat sur le bureau ; autres entreprises « Oasis » de Dakar sans rapport (Oasis Travel, Oasis Media Group)",
+        "R2 : \"Oasis Financial\" Dakar email contact PME — aucun résultat sur le bureau ; Oasis Financial LLC aux États-Unis, Oasis Financial Services en Inde",
+        "R3 : \"33 869 94 95\" OR \"+221 33 869 94 95\" — aucun résultat citant ce numéro",
+        "R4 : \"OASIS FINANCIAL\" sénégalaise — homonymes uniquement (États-Unis, Afrique du Sud, Singapour, Oasis Africa SME Fund pour le Ghana et la Côte d'Ivoire)",
+        "Adresses probables testées : oasisfinancial.sn, oasis-financial.sn, oasisfinancialsn.com — aucune ne résout ; oasisfinancial.com appartient à la société américaine homonyme : non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Nombreux homonymes « Oasis Financial » à l'étranger : aucun site ni email ne leur a été attribué faute de correspondance d'identité. Recherche complète (R1 à R4 + adresses probables) sans email."
+    },
+    {
+      "nom": "OPTIMA INGENIERIE",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "optima@optimaingenierie.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 42 19 — (+221) 76 224 08 04",
+      "adresse": "Nord Foire Azur, villa n°14",
+      "ville": "Dakar",
+      "site_web": "http://www.optimaingenierie.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études techniques et maîtrise d'œuvre : EPC (engineering, procurement & construction), construction neuve et réhabilitation, infrastructures, énergie, data center, VRD, lots techniques",
+      "fiche_url": "https://www.goafricaonline.com/sn/592681-optima-ingenierie-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.optimaingenierie.com",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom OPTIMA INGENIERIE, adresse Nord Foire Azur villa n14, Dakar, tél (+221) 33 820 42 19 et (+221) 76 224 08 04, bouton Site web -> www.optimaingenierie.com, lien Facebook du bureau",
+        "Site du bureau ouvert : http://www.optimaingenierie.com (accueil) — email optima@optimaingenierie.com lu sur la page, avec la même adresse (Nord Foire Azur, villa N. 14 Dakar) et le même téléphone (+221 33 820 42 19) que la fiche : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": ""
     }
   ]
 }
