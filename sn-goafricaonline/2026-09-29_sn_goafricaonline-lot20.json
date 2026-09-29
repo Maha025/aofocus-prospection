@@ -118,6 +118,92 @@
       ],
       "statut": "a_verifier",
       "note": "Le site indique une adresse plus précise (26 cité Alia Diène, Ouest-Foire, Dakar Yoff) et des numéros supplémentaires (+221 77 903 95 37, +221 70 602 03 03). Adresse au nom de domaine du bureau placée avant l'adresse Gmail."
+    },
+    {
+      "nom": "KABI CONSULTING COMPTABILITE",
+      "sigle": "KABI Consulting",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 640 01 28",
+      "adresse": "",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Consultance, tenue de comptabilité, formation aux logiciels comptables et installation de logiciels",
+      "fiche_url": "https://www.goafricaonline.com/sn/808979-kabi-consulting-comptabilite-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom KABI CONSULTING COMPTABILITE, adresse non renseignée (« - »), Dakar, tél (+221) 77 640 01 28, activités « consultance, tenue de comptabilité, formation des logiciels comptables, installation logiciel », aucun bouton Site web",
+        "R1 : \"KABI Consulting\" Sénégal comptabilité — aucun résultat sur ce bureau ; résultats sur d'autres cabinets comptables sénégalais (CECA, E2C, AD Conseils) et sur des KABI Consulting étrangers",
+        "R2 : \"KABI Consulting\" Dakar email contact — aucun résultat sur le bureau de Dakar ; homonymes (KABI Consulting RDC +243, KABI International, kabi.ai)",
+        "R3 : \"77 640 01 28\" OR \"+221 77 640 01 28\" — aucun résultat citant ce numéro",
+        "R4 : \"KABI CONSULTING\" — homonymes uniquement (kabiconsulting.net en TIC, kabiconsulting.info en RDC, KABI International, KABI Agricultural Consulting)",
+        "Adresses probables testées : kabiconsulting.sn (ne résout pas), kabiconsulting.com (HTTP 404), kabi-consulting.com (ouvert : page STRATO « Domain reserved », aucun contenu) ; kabiconsulting.net et kabiconsulting.info appartiennent à des KABI Consulting d'un autre pays et d'une autre activité (TIC, RDC) : non retenus"
+      ],
+      "statut": "a_verifier",
+      "note": "Fiche très récente et peu renseignée (25 vues, pas d'adresse). Plusieurs homonymes « KABI Consulting » existent à l'étranger (RDC, TIC) : aucun site ni email ne leur a été attribué faute de correspondance d'identité. Recherche complète (R1 à R4 + adresses probables) sans email."
+    },
+    {
+      "nom": "KEURVISION",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 850 23 02 — (+221) 77 171 16 88 — Fax : (+221) 33 825 25 00",
+      "adresse": "Sacré Coeur 3 Villa n°8785",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/387303-keurvision-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom KEURVISION, adresse Sacré Coeur 3 Villa n°8785, Dakar, tél (+221) 33 850 23 02 et (+221) 77 171 16 88, fax (+221) 33 825 25 00, bouton Site web -> www.keurvision.net",
+        "Site déclaré sur la fiche ouvert : http://www.keurvision.net — le domaine ne répond plus (HTTP 000) : aucun email",
+        "R1 : \"Keurvision\" Sénégal — aucun résultat sur le bureau (lieux et entreprises en « Keur » sans rapport)",
+        "R2 : \"Keurvision\" Dakar email contact — un annuaire reprend Keurvision (Rue A x Rue 4, Point E, Dakar, tél 338502302 et 771711688, mêmes numéros que la fiche) mais sans email",
+        "R3 : \"33 850 23 02\" OR \"+221 33 850 23 02\" — aucun résultat citant ce numéro",
+        "R4 : \"KEURVISION\" — aucun résultat sur le bureau (kaurvision.com, K-Vision, etc.)",
+        "Adresses probables testées : keurvision.net, keurvision.com, keurvision.sn — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site déclaré (keurvision.net) n'existe plus. Un annuaire donne une adresse différente (Rue A x Rue 4, Point E) avec les mêmes téléphones. Recherche complète (R1 à R4 + adresses probables) sans email."
+    },
+    {
+      "nom": "LA CONCIERGERIE DAKAR",
+      "sigle": "LACODA (ex Domilicia)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "domilicia@lacoda.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 889 72 72 — (+221) 78 166 32 38 — Fax : (+221) 33 842 89 88",
+      "adresse": "29, Avenue Pasteur, BP 6531 Dakar - CP 11524 Dakar Etoile",
+      "ville": "Dakar",
+      "site_web": "https://lacoda.sn",
+      "site_source": "recherche web",
+      "specialite": "Services aux entreprises : domiciliation commerciale et fiscale, assistance administrative et logistique à l'implantation et à la gestion",
+      "fiche_url": "https://www.goafricaonline.com/sn/389085-conciergerie-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://lacoda.sn/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom LA CONCIERGERIE DAKAR, adresse 29 Avenue Pasteur, BP 6531 Dakar - CP 11524 Dakar Etoile, tél (+221) 33 889 72 72 et (+221) 78 166 32 38, fax (+221) 33 842 89 88, bouton Site web -> www.domilicia.com",
+        "Site déclaré sur la fiche ouvert : http://www.domilicia.com et http://domilicia.com/contact-page/ — le domaine ne répond plus (HTTP 000) : aucun email",
+        "R1 : \"La Conciergerie\" Dakar Avenue Pasteur Sénégal — résultats : Eurocham Sénégal, annuaire-senegal (« La Conciergerie ex Domilicia »), SENEGEL, et le site actuel https://www.lacoda.sn ; gérante citée : Sylvie Mendy Michaux",
+        "R2 : \"La Conciergerie Dakar\" email contact Domilicia — mêmes sources, plus les pages de lacoda.sn",
+        "R3 : \"33 889 72 72\" OR \"+221 33 889 72 72\" — aucun résultat citant directement ce numéro",
+        "R4 : \"Domilicia\" — l'ancien site domilicia.com (hors service) et des homonymes de réseaux sociaux",
+        "Site actuel trouvé par recherche web et ouvert : https://lacoda.sn/a-propos/ — email domilicia@lacoda.sn lu sur la page, avec le téléphone + 221 33 889 72 72 identique à la fiche : identité confirmée",
+        "Page contact ouverte : https://lacoda.sn/contact/ — email domilicia@lacoda.sn confirmé"
+      ],
+      "statut": "a_verifier",
+      "note": "Le bureau a changé de site (domilicia.com hors service, remplacé par lacoda.sn) et le site donne une adresse plus récente : 45 Bd. de la République, Immeuble Sorano, Dakar. Le téléphone concorde avec la fiche."
     }
   ]
 }
