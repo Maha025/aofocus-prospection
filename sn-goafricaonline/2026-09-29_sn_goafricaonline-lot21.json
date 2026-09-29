@@ -1,0 +1,42 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-09-29",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=11",
+  "_methode": "Fiche goafricaonline (nom, adresse, téléphones, activités, bouton Site web), puis site du bureau s'il est connu, puis recherches web R1 à R4 et adresses probables ; emails uniquement lus sur une page citée en preuve_url.",
+  "bureaux": [
+    {
+      "nom": "PROFIL",
+      "sigle": "Cabinet PROFIL",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "profil@profil.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 54 00 — Fax : (+221) 33 824 00 63",
+      "adresse": "9, Avenue Bourguiba X VDN, BP 45561",
+      "ville": "Dakar",
+      "site_web": "https://www.profil-sn.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet de stratégie, ressources humaines et organisation (depuis 1996) : conseil RH, audit et conseil en organisation, formation, recrutement et bilans de compétences",
+      "fiche_url": "https://www.goafricaonline.com/sn/479960-profil-dakar-senegal",
+      "preuve_url": "https://www.senpages.com/entreprise/cabinet-profil-et-valoris/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom PROFIL, adresse 9 Avenue Bourguiba X VDN, BP 45561, Dakar, tél (+221) 33 864 54 00, fax (+221) 33 824 00 63, bouton Site web -> www.profil.sn",
+        "Site du bureau ouvert : http://www.profil.sn — redirige vers https://www.profil-sn.com/, une application JavaScript dont la page HTML ne contient que le titre « Cabinet PROFIL — Conseil RH, Formation & Recrutement | Dakar, Sénégal » : aucun email dans la page servie",
+        "Page contact du site ouverte : https://profil-sn.com/contact/ — renvoie la même page applicative sans contenu lisible ; le fichier de script du site est refusé (HTTP 403) : aucun email lisible sur le site",
+        "R1 : \"Cabinet PROFIL\" Sénégal ressources humaines Dakar 1996 — LinkedIn Cabinet PROFIL Sénégal, emploisenegal, emploi.ci, emploiguinee, site profil-sn.com ; premier cabinet RH du Sénégal depuis 1996",
+        "R2 : \"Cabinet Profil\" Dakar email contact recrutement profil.sn — l'email profil@profil.sn est cité, avec BP 45 561 Dakar-Fann (même boîte postale que la fiche) et les téléphones +221 33 864 26 06 / 77 258 35 04",
+        "R3 : \"33 864 54 00\" OR \"+221 33 864 54 00\" — aucun résultat citant ce numéro",
+        "R4 : \"profil.sn\" OR \"profil-sn.com\" cabinet — pages du site (services, références, métiers, contact), toutes servies par l'application JavaScript",
+        "Page ouverte : https://www.annuaire-senegal.com/recrutement/recrutement-interim-consulting/cabinet-profil-s157939.html — aucun email",
+        "Page ouverte : https://www.senpages.com/entreprise/cabinet-profil-et-valoris/ — email profil@profil.sn lu sur la page (champ contact de l'annuaire), au nom de domaine profil.sn déclaré comme site par la fiche goafricaonline"
+      ],
+      "statut": "a_verifier",
+      "note": "L'email est au nom de domaine (profil.sn) que la fiche goafricaonline déclare comme site du bureau, et la boîte postale citée par les résultats (BP 45 561) est celle de la fiche : identité retenue. Le site actuel est une application JavaScript dont le contenu n'est pas servi en HTML, et son script est refusé (403), d'où la lecture de l'email sur l'annuaire SenPages, où la fiche est intitulée « Cabinet Profil Et Valoris » et donne un autre téléphone (+221 33 864 26 06)."
+    }
+  ]
+}
