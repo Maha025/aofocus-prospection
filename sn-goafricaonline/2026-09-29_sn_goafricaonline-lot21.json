@@ -66,6 +66,34 @@
       ],
       "statut": "a_verifier",
       "note": "Le site déclaré existe encore mais ses pages ont été supprimées (404) et la page d'accueil est vide : aucun email lisible. Les homonymes européens « quinTsens » n'ont aucun lien avec le bureau. Recherche complète (R1 à R4 + adresses probables) sans email."
+    },
+    {
+      "nom": "RAYMOND VIRMAUD",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 957 73 38",
+      "adresse": "Safari Village, PANO 6, BP 425",
+      "ville": "Saly",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/472047-raymond-virmaud-bureaux-etudes-conseils-consultants-saly-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom RAYMOND VIRMAUD, adresse Safari Village PANO 6, BP 425, Saly, tél (+221) 33 957 73 38, aucun bouton Site web ; seul lien externe : un profil LinkedIn personnel (https://www.linkedin.com/in/raymond-virmaud-51288037)",
+        "Profil LinkedIn non ouvert : LinkedIn exige une connexion, et la consigne interdit les pages de connexion",
+        "R1 : \"Raymond Virmaud\" Sénégal — décrets français (Légifrance, admi.net) citant Raymond Christian Virmaud, conseiller du commerce extérieur de la France au Sénégal et ancien PDG d'une société au Sénégal ; aucun email",
+        "R2 : \"Raymond Virmaud\" Saly email contact consultant — aucun résultat sur l'intéressé (homonymes Raymond James, Raymond Consultants, etc.)",
+        "R3 : \"33 957 73 38\" OR \"+221 33 957 73 38\" — aucun résultat citant ce numéro",
+        "R4 : \"Virmaud\" — homonymes français uniquement (profils LinkedIn, X, YouTube sans lien avec le Sénégal)",
+        "Adresses probables testées : virmaud.com, virmaud.sn, rvconsulting.sn — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Consultant individuel installé à Saly ; aucune présence web propre en dehors d'un profil LinkedIn personnel inaccessible sans connexion. Recherche complète (R1 à R4 + adresses probables) sans email ni site."
     }
   ]
 }
