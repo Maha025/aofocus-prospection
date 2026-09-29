@@ -388,6 +388,116 @@
       ],
       "statut": "a_verifier",
       "note": "Le site ne publie pas de numéro de téléphone (champ « +221 XX XXX XX XX ») : l'identité est établie par le nom, la ville, l'activité et par les résultats de recherche qui associent groupetrust.com à l'adresse Sicap Dieuppeul 3 et au numéro de la fiche. Adresse générique contact@ en premier."
+    },
+    {
+      "nom": "GROUPE WILLIER",
+      "sigle": "WILLIER Ingénierie",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@willieringenierie.sn",
+        "contact@willieringenierie.fr"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 27 83",
+      "adresse": "39 cité Biagui route de l'aéroport",
+      "ville": "Dakar",
+      "site_web": "https://willieringenierie.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études en ingénierie du bâtiment et génie civil : études de structures béton armé et charpentes, économie de la construction, suivi de travaux, diagnostic de l'existant, AMO, MOEX, OPC",
+      "fiche_url": "https://www.goafricaonline.com/sn/592686-groupe-willier-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://willieringenierie.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom GROUPE WILLIER, adresse 39 cité Biagui route de l'aéroport, Dakar, tél (+221) 33 820 27 83, bouton Site web -> willieringenierie.com/",
+        "Site du bureau ouvert : https://willieringenierie.com/ (accueil) — emails contact@willieringenierie.sn et contact@willieringenierie.fr lus sur la page ; même téléphone que la fiche (+221 33 820 27 83) : identité confirmée (bureau d'études basé à Rouen et à Dakar)"
+      ],
+      "statut": "a_verifier",
+      "note": "Groupe franco-sénégalais (Rouen et Dakar) : l'adresse .sn correspond à l'entité sénégalaise, elle est placée en premier."
+    },
+    {
+      "nom": "GS1 SENEGAL",
+      "sigle": "GS1",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "gs1sn@gs1senegal.org",
+        "support-it@gs1senegal.org"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 99 82 — Fax : (+221) 33 820 04 17",
+      "adresse": "Ouest Foire, route de l'aéroport, cité Bourgi n°1, BP 29871",
+      "ville": "Dakar",
+      "site_web": "http://www.gs1senegal.org",
+      "site_source": "fiche goafrica",
+      "specialite": "Organisation de standards GS1 : codes-barres, traçabilité, identification des produits, adhésion, formations et services aux entreprises",
+      "fiche_url": "https://www.goafricaonline.com/sn/480061-gs1-senegal-bureaux-etudes-conseils-consultants-dakar",
+      "preuve_url": "http://www.gs1senegal.org",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom GS1 SENEGAL, adresse Ouest Foire route de l'aéroport cité Bourgi n°1 BP 29871, Dakar, tél (+221) 33 820 99 82, fax (+221) 33 820 04 17, bouton Site web -> www.gs1senegal.org",
+        "Site du bureau ouvert : http://www.gs1senegal.org (accueil) — emails gs1sn@gs1senegal.org et support-it@gs1senegal.org lus sur la page ; même téléphone que la fiche ((+221) 33 820 99 82) : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site donne une adresse plus récente (Villa 397 cité Baye Niass Grand Mbao, Dakar) différente de celle de la fiche ; le téléphone concorde."
+    },
+    {
+      "nom": "Groupement IDEVic/SAFEC, Patte d'Oies Builders DAKAR SENEGAL",
+      "sigle": "iDEV-IC (groupe iDEV)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Mamadou Daffé, administrateur général du groupe iDEV",
+      "emails": [
+        "idev-ic@idev-ic.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 855 95 90",
+      "adresse": "Patte d'Oie, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://idev-ic.sn",
+      "site_source": "recherche web",
+      "specialite": "Groupe d'ingénierie et de conseil (iDEV-IC, iDEV-TECH, iDEV-PME) actif depuis 1986 dans le développement technique et économique en Afrique",
+      "fiche_url": "https://www.goafricaonline.com/sn/782889-groupement-idevic-safec-patte-d-oies-builders-dakar-senegal",
+      "preuve_url": "https://idev-ic.sn/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom Groupement IDEVic/SAFEC, Patte d'Oies Builders DAKAR SENEGAL, adresse Patte d'Oie, Dakar, tél (+221) 33 855 95 90, horaires publiés, aucun bouton Site web (la fiche invite le propriétaire à communiquer son e-mail)",
+        "R1 : \"Groupement IDEVic\" SAFEC \"Patte d'Oies Builders\" Sénégal — résultat pertinent : page contact du GROUPE IDEV (https://idev-ic.sn/contact), iDEV-IC situé à Patte d'Oie Builders villas B11 & D11, Dakar, tél +221 33 855.95.90/91/93",
+        "R2 : IDEVIC SAFEC Dakar email contact bureau d'études — aucun résultat supplémentaire sur le groupement",
+        "R3 : \"33 855 95 90\" OR \"+221 33 855 95 90\" — aucun résultat citant directement ce numéro",
+        "R4 : \"Patte d'Oies Builders\" — résultats sur le quartier de Patte d'Oie Builders à Dakar, pas sur le bureau",
+        "Page ouverte : https://idev-ic.sn/contact — email idev-ic@idev-ic.sn lu sur la page ; adresse « Patte d'Oie Builders villa n° B11 & D11 jumelées, Dakar » et téléphone +221 33 855.95.90 identiques à ceux de la fiche : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Le nom de la fiche désigne le groupement iDEVic/SAFEC installé à Patte d'Oie Builders ; le numéro de la fiche (+221 33 855 95 90) est celui du groupe iDEV / iDEV-IC, dont le site donne l'email. Le rôle exact de SAFEC dans le groupement n'est documenté par aucune source trouvée."
+    },
+    {
+      "nom": "HEA SAHEL",
+      "sigle": "HEA (Household Economy Analysis / Analyse de l'économie des ménages)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 865 44 00 — Fax : (+221) 33 867 88 22",
+      "adresse": "Route de Ngor",
+      "ville": "Dakar",
+      "site_web": "http://hea-sahel.org",
+      "site_source": "fiche goafrica",
+      "specialite": "Projet régional d'analyse de l'économie des ménages (HEA) au Sahel : évaluation de la sécurité alimentaire, profils de moyens d'existence, alerte précoce, renforcement de capacités",
+      "fiche_url": "https://www.goafricaonline.com/sn/481441-hea-sahel-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom HEA SAHEL, adresse Route de Ngor, Dakar, tél (+221) 33 865 44 00, fax (+221) 33 867 88 22, bouton Site web -> hea-sahel.org",
+        "Site du bureau ouvert : http://hea-sahel.org — page « HEA Sahel is under construction / nous travaillons actuellement sur le site » : aucun contenu, aucun email",
+        "Pages contact du site essayées : https://hea-sahel.org/en/contact/ et https://hea-sahel.org/contact/ — mêmes pages « under construction », aucun email lisible",
+        "R1 : \"HEA Sahel\" Sénégal bureau d'études — résultats sur le projet régional HEA (Save the Children, Action contre la Faim, Oxfam, ECHO, PAM Sénégal), sans email",
+        "R2 : \"HEA Sahel\" Dakar email contact — adresse et téléphones du projet confirmés (Route de Ngor, Dakar, (+221) 33 865 44 00, fax (+221) 33 867 88 22) ; un point focal HEA au SECNSA est cité par les résultats mais la page correspondante (hea-sahel.org/en/contact/) est hors service, donc aucun email n'a pu être lu",
+        "R3 : \"33 865 44 00\" OR \"+221 33 865 44 00\" — aucun résultat citant directement ce numéro",
+        "R4 : \"HEA SAHEL\" — documents du projet (atlas HEA Sahel 2018 sur heacod.org, FEG, Key Aid Consulting), aucun email du bureau",
+        "Adresses probables testées : heasahel.org, hea-sahel.sn, heasahel.sn — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Il s'agit d'un projet régional plutôt que d'un bureau d'études privé. Le site déclaré est en construction. Les résultats de recherche citent l'email d'un point focal HEA rattaché au SECNSA (organisme public), mais cette adresse n'a pu être lue sur aucune page accessible et n'est pas celle du bureau : non retenue. Recherche complète (R1 à R4 + adresses probables) sans email."
     }
   ]
 }
