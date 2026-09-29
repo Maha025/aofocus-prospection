@@ -3,7 +3,7 @@
   "_extrait_le": "2026-09-29",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "p=11",
+  "_pages": "p=12",
   "_methode": "Fiche goafricaonline (nom, adresse, téléphones, activités, bouton Site web), puis site du bureau s'il est connu, puis recherches web R1 à R4 et adresses probables ; emails uniquement lus sur une page citée en preuve_url.",
   "bureaux": [
     {
@@ -37,6 +37,35 @@
       ],
       "statut": "a_verifier",
       "note": "L'email est au nom de domaine (profil.sn) que la fiche goafricaonline déclare comme site du bureau, et la boîte postale citée par les résultats (BP 45 561) est celle de la fiche : identité retenue. Le site actuel est une application JavaScript dont le contenu n'est pas servi en HTML, et son script est refusé (403), d'où la lecture de l'email sur l'annuaire SenPages, où la fiche est intitulée « Cabinet Profil Et Valoris » et donne un autre téléphone (+221 33 864 26 06)."
+    },
+    {
+      "nom": "QUINTSENS",
+      "sigle": "QuinTsens",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 869 10 57",
+      "adresse": "Fann Mermoz Rue SN 11, BP 42445 Fann",
+      "ville": "Dakar",
+      "site_web": "http://www.quin-t-sens.com",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/479959-quintsens-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom QUINTSENS, adresse Fann Mermoz Rue SN 11, BP 42445 Fann, Dakar, tél (+221) 33 869 10 57, bouton Site web -> www.quin-t-sens.com",
+        "Site du bureau ouvert : http://www.quin-t-sens.com — page pratiquement vide (336 octets, aucun texte, aucun email)",
+        "R1 : \"QUINTSENS\" Sénégal Dakar — seule source pertinente : la fiche goafricaonline elle-même (reprise de l'adresse 165 Fann Mermoz Rue SN 11, BP 42445 et du téléphone)",
+        "R2 : \"Quintsens\" OR \"Quin-T-Sens\" Dakar email contact — aucun email pour le bureau de Dakar ; les pages indexées du site (pages_1_1.html, pages_1_5.html, pages_5_2.html) et l'homonyme suisse quintsens.com (coaching, Anne-Sophie Milani)",
+        "R3 : \"33 869 10 57\" OR \"+221 33 869 10 57\" — aucun résultat citant ce numéro",
+        "R4 : \"QUINTSENS\" — homonymes français et suisses uniquement (Quint'Sens Nature, quinTsens coaching, QuintSens Management, photographe quintsens.fr)",
+        "Pages du site ouvertes : http://www.quin-t-sens.com/pages_1_1.html?m=1&s=1 et http://www.quin-t-sens.com/pages_5_2.html — erreur 404 « Le fichier requis n'a pas été trouvé » : contenu supprimé",
+        "Adresses probables testées : quintsens.sn, quintsens.net — ne résolvent pas ; quintsens.com et quintsens.fr appartiennent à des homonymes européens (coaching, photographie) : non retenus"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site déclaré existe encore mais ses pages ont été supprimées (404) et la page d'accueil est vide : aucun email lisible. Les homonymes européens « quinTsens » n'ont aucun lien avec le bureau. Recherche complète (R1 à R4 + adresses probables) sans email."
     }
   ]
 }
