@@ -123,6 +123,35 @@
       ],
       "statut": "a_verifier",
       "note": "Présence en ligne à l'abandon : le blog eklablog du bureau n'a pas été mis à jour depuis 2011 et le site rcgsenegal.com qu'il annonce ne répond plus. Recherche complète (R1 à R4 + adresses probables) sans email."
+    },
+    {
+      "nom": "RECTA CONSEILS & SERVICES",
+      "sigle": "RECTA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 876 11 94",
+      "adresse": "Villa N° 4439 Sicap Amitié 3, En face VDN à côté Restaurant L'Endroit",
+      "ville": "Dakar",
+      "site_web": "https://rectaconseils.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Mise à disposition d'expertise sur les fonctions transversales de l'entreprise : consultants à temps plein ou partiel pour les fonctions support",
+      "fiche_url": "https://www.goafricaonline.com/sn/592508-recta-services-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom RECTA CONSEILS & SERVICES, adresse Villa N° 4439 Sicap Amitié 3 en face VDN à côté Restaurant L'Endroit, Dakar, tél (+221) 33 876 11 94, bouton Site web -> rectaconseils.com/",
+        "Site du bureau : https://rectaconseils.com/, http://rectaconseils.com/ et https://www.rectaconseils.com/ essayés plusieurs fois — aucune réponse (HTTP 000) : aucun email lisible",
+        "R1 : \"Recta Conseils\" Sénégal Dakar — fiche goafricaonline, SenPages, Zaubee, ccarree.com ; adresse et téléphone confirmés",
+        "R2 : \"Recta Conseils\" OR \"Recta Services\" Dakar email contact — profil LinkedIn d'un collaborateur (Chimére Ndiaye), annuaires, page Facebook du bureau ; aucun email lisible dans les résultats",
+        "R3 : \"33 876 11 94\" OR \"+221 33 876 11 94\" — aucun résultat citant directement ce numéro",
+        "R4 : \"rectaconseils.com\" — le site du bureau (hors service), sa page Facebook et la fiche Zaubee ; une adresse rectaconseils@gmail.com est citée par les moteurs à partir de la fiche Zaubee",
+        "Page ouverte : https://zaubee.com/biz/recta-conseils-services-dnmaoltb — HTTP 403, blocage Cloudflare (« Sorry, you have been blocked ») : page non consultée, aucune protection contournée",
+        "Page ouverte : https://www.senpages.com/entreprise/recta-conseils-services/ — aucun email publié (autre téléphone : +221 77 296 47 61)"
+      ],
+      "statut": "a_verifier",
+      "note": "L'adresse rectaconseils@gmail.com est citée par les moteurs de recherche d'après la fiche Zaubee, mais cette page est protégée par Cloudflare et n'a pas été consultée ; le site du bureau ne répond pas. Conformément à la règle, aucune adresse non lue sur une page accessible n'est retenue : email compté comme absent."
     }
   ]
 }
