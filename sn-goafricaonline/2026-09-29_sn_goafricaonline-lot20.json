@@ -465,6 +465,38 @@
       ],
       "statut": "a_verifier",
       "note": ""
+    },
+    {
+      "nom": "PCCI SENEGAL (PREMIER CENTRE DE CONTACT INTERNATIONAL)",
+      "sigle": "PCCI (aujourd'hui Premium Contact Center International)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 869 71 12 — Fax : (+221) 33 869 71 50",
+      "adresse": "Stell Mermoz, Route de Ouakam, BP 1956",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Centre de contact et externalisation de processus métiers (BPO) : relation client entrante et sortante, télémarketing, support technique ; groupe créé en 2002 à Dakar, présent dans plusieurs pays africains",
+      "fiche_url": "https://www.goafricaonline.com/sn/479958-pcci-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom PCCI SENEGAL (PREMIER CENTRE DE CONTACT INTERNATIONAL), adresse Stell Mermoz Route de Ouakam, BP 1956, Dakar, tél (+221) 33 869 71 12, fax (+221) 33 869 71 50, bouton Site web -> www.pcci-group.com",
+        "Site déclaré sur la fiche ouvert : http://www.pcci-group.com — le serveur renvoie une erreur PHP fatale (fichier WordPress manquant) : aucun contenu, aucun email",
+        "R1 : \"PCCI\" \"Premier Centre de Contact International\" Sénégal — OSIRIS, senlocal, yelu, snyello, Wikipédia (PCCI Group), Facebook ; groupe créé en 2002, site de Dakar à l'Immeuble Jean Lefèvre, Point E, tél +221 33 869 71 00",
+        "R2 : PCCI Sénégal Dakar email contact centre d'appels — en-contact, senlocal, annuaire-senegal, africabz ; aucun email publié",
+        "R3 : \"33 869 71 12\" OR \"+221 33 869 71 12\" — aucun résultat citant ce numéro précis",
+        "R4 : \"PCCI Group\" Sénégal site officiel — LinkedIn, business-senegal, au-senegal, dobiza ; le domaine pcci-group.com est signalé comme détourné (page de jeux en ligne « Anadoluslot ») dans les résultats",
+        "Page ouverte : https://pcci-group.com/en/contact/ — même erreur PHP fatale, aucun email",
+        "Page ouverte : http://pcci.fr/ — renvoie la même erreur que pcci-group.com (même hébergement)",
+        "Page ouverte : https://senlocal.com/entreprises/pcci-premium-contact-center-international — aucun email du bureau (seul contact@senlocal.com, l'annuaire lui-même)",
+        "Page ouverte : https://www.annuaire-senegal.com/divers/outsourcing/pcci-s160045.html — aucun email",
+        "Adresses probables testées : pcci.sn (ouvert : même erreur PHP que pcci-group.com), pccigroup.com (HTTP 202, corps vide)"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site du groupe (pcci-group.com, ainsi que pcci.fr et pcci.sn, hébergés au même endroit) est hors service : erreur PHP fatale, aucune page lisible. Aucun email n'a pu être lu sur une page ; aucune adresse n'a été reconstituée."
     }
   ]
 }
