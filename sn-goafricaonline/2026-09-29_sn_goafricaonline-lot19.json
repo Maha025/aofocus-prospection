@@ -498,6 +498,63 @@
       ],
       "statut": "a_verifier",
       "note": "Il s'agit d'un projet régional plutôt que d'un bureau d'études privé. Le site déclaré est en construction. Les résultats de recherche citent l'email d'un point focal HEA rattaché au SECNSA (organisme public), mais cette adresse n'a pu être lue sur aucune page accessible et n'est pas celle du bureau : non retenue. Recherche complète (R1 à R4 + adresses probables) sans email."
+    },
+    {
+      "nom": "HODAR CONSEIL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "infohc@hodarconseil.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 72 42",
+      "adresse": "Sicap Liberté 6 extension villa n°8674, BP 21196",
+      "ville": "Dakar",
+      "site_web": "https://hodarconseil.com",
+      "site_source": "recherche web",
+      "specialite": "Audit, conseil en management, services spécifiques aux entreprises, suivi-évaluation, assistance technique, diagnostic et plan stratégique, financement basé sur les résultats, renforcement de capacités",
+      "fiche_url": "https://www.goafricaonline.com/sn/386897-hodar-conseil-dakar-senegal",
+      "preuve_url": "https://hodarconseil.com/en/contact-us/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom HODAR CONSEIL, adresse Sicap Liberté 6 extension villa n°8674, BP 21196, Dakar, tél (+221) 33 825 72 42, aucun bouton Site web",
+        "R1 : \"HODAR CONSEIL\" Sénégal — résultats : business-senegal.com (audit, conseil en management, suivi et appui aux organisations professionnelles ; BP 21196 comme la fiche), annuaire-senegal.com, SenPages, africabizinfo, et le site hodarconseil.com",
+        "R2 : \"Hodar Conseil\" Dakar email contact — mêmes annuaires ; aucun email dans les résultats eux-mêmes",
+        "R3 : \"33 825 72 42\" OR \"+221 33 825 72 42\" — aucun résultat citant directement ce numéro",
+        "R4 : \"HODAR\" — homonymes (patronyme, département de Malem-Hodar) ; rien de plus sur le bureau",
+        "Site trouvé par recherche web et ouvert : https://hodarconseil.com/en/ (accueil) — email infohc@hodarconseil.com lu sur la page",
+        "Page contact ouverte : https://hodarconseil.com/en/contact-us/ — email infohc@hodarconseil.com confirmé ; activités (audit, conseil en management, suivi) identiques à celles décrites pour HODAR CONSEIL sur business-senegal.com, qui donne la même boîte postale (BP 21196) que la fiche : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site affiche un autre numéro (+221 33 825 10 45), également attribué à Hodar-Conseil par l'annuaire africabizinfo ; l'identité est confirmée par le nom, l'activité et la boîte postale BP 21196 commune à la fiche et à business-senegal.com."
+    },
+    {
+      "nom": "HPR ANKH CONSULTANTS",
+      "sigle": "HPR ANKH",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@hpr-ankh.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 71 38 — Fax : (+221) 33 820 50 55",
+      "adresse": "23, Cité Résidences Télécom, Ouest-foire, BP 29983",
+      "ville": "Dakar",
+      "site_web": "http://www.hpr-ankh.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études spécialisé en environnement : études d'impact environnemental et social, cadre légal et réglementaire environnemental",
+      "fiche_url": "https://www.goafricaonline.com/sn/592535-hpr-ankh-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.hpr-ankh.com/contact.php",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom HPR ANKH CONSULTANTS, adresse 23 Cité Résidences Télécom Ouest-foire, BP 29983, Dakar, tél (+221) 33 820 71 38, fax (+221) 33 820 50 55, bouton Site web -> www.hpr-ankh.com",
+        "Site du bureau ouvert : http://www.hpr-ankh.com (accueil) — aucun email sur l'accueil, liens vers contact.php et cadre_legal.php",
+        "Page contact ouverte : http://www.hpr-ankh.com/contact.php — email info@hpr-ankh.com lu sur la page, avec la même adresse (23 Cité Résidences Télécom, Ouest-Foire, BP 29 983 Dakar-Yoff) et les mêmes téléphone et fax que la fiche : identité confirmée",
+        "Page ouverte : http://www.hpr-ankh.com/cadre_legal.php — documents sur le cadre légal des études d'impact environnemental et social (précise la spécialité du bureau)"
+      ],
+      "statut": "a_verifier",
+      "note": ""
     }
   ]
 }
