@@ -497,6 +497,63 @@
       ],
       "statut": "a_verifier",
       "note": "Le site du groupe (pcci-group.com, ainsi que pcci.fr et pcci.sn, hébergés au même endroit) est hors service : erreur PHP fatale, aucune page lisible. Aucun email n'a pu être lu sur une page ; aucune adresse n'a été reconstituée."
+    },
+    {
+      "nom": "PEOPLE AND DATA",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@peopledatasense.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 867 50 50",
+      "adresse": "Sacré-Coeur 3, n°9985",
+      "ville": "Dakar",
+      "site_web": "http://www.peopledatasense.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Institut de sondages et d'études marketing : études de marché, enquêtes, visiteurs mystères, recrutement d'enquêteurs",
+      "fiche_url": "https://www.goafricaonline.com/sn/592597-people-data-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.peopledatasense.com",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom PEOPLE AND DATA, adresse Sacré-Coeur 3 n°9985, Dakar, tél (+221) 33 867 50 50, bouton Site web -> www.peopledatasense.com",
+        "Site du bureau ouvert : http://www.peopledatasense.com (accueil) — email contact@peopledatasense.com lu sur la page ; même téléphone que la fiche (+221 33 867 50 50) : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site affiche un numéro supplémentaire (+221 78 830 03 31)."
+    },
+    {
+      "nom": "PHILIPPE CORDIER",
+      "sigle": "CEEMO SAS (Cabinet d'Expertise en Management Opérationnel)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Philippe Cordier, président-fondateur de CEEMO SAS (cabinet créé en 2009)",
+      "emails": [
+        "contact@ceemo.net"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 834 43 53",
+      "adresse": "Cité Apecsy 3 N° E 96",
+      "ville": "Dakar",
+      "site_web": "https://www.ceemo.net",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet de conseil aux entreprises : appui et conseil en management opérationnel, développement commercial, aide à l'implantation à l'international en Afrique de l'Ouest",
+      "fiche_url": "https://www.goafricaonline.com/sn/540771-philippe-cordier-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.senpages.com/entreprise/ceemo-sas/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom PHILIPPE CORDIER, adresse Cité Apecsy 3 N° E 96, Dakar, tél (+221) 33 834 43 53, bouton Site web -> www.ceemo.net",
+        "Site déclaré sur la fiche ouvert : http://www.ceemo.net — HTTP 503 « This website is currently not published » : aucun contenu, aucun email",
+        "Page contact du site essayée : https://www.ceemo.net/en/informations/contacts — même réponse 503, aucun email lisible",
+        "R1 : \"Philippe Cordier\" CEEMO Sénégal bureau d'études — Philippe Cordier est président-fondateur de CEEMO SAS, société de droit sénégalais de conseil aux entreprises créée en 2009 (LinkedIn, My Job Glasses, Bretagne Commerce International, OSCI)",
+        "R2 : \"CEEMO\" Dakar email contact Apecsy — l'email contact@ceemo.net est cité, avec l'adresse E96 cité Apecsy 3, Yoff Extension, Dakar",
+        "R3 : \"33 834 43 53\" OR \"+221 33 834 43 53\" — aucun résultat citant ce numéro",
+        "R4 : \"ceemo.net\" — le site du cabinet (hors service) et des homonymes (Ceemo.ai, CEEMO Engineering BV)",
+        "Page ouverte : https://www.senpages.com/entreprise/ceemo-sas/ — email contact@ceemo.net lu sur la page, avec l'adresse « E96, cité Apecsy 3, Yoff Extension, Dakar » identique à celle de la fiche : identité confirmée",
+        "Page ouverte : https://osci.trade/annuaire/ceemo/ — page non trouvée (HTTP 404)"
+      ],
+      "statut": "a_verifier",
+      "note": "La fiche est au nom du dirigeant ; la société est CEEMO SAS. Son site ceemo.net est actuellement dépublié (503), l'email a donc été lu sur l'annuaire SenPages, qui reprend exactement l'adresse de la fiche. SenPages donne un autre téléphone (+221 77 626 13 15)."
     }
   ]
 }
