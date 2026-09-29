@@ -94,6 +94,35 @@
       ],
       "statut": "a_verifier",
       "note": "Consultant individuel installé à Saly ; aucune présence web propre en dehors d'un profil LinkedIn personnel inaccessible sans connexion. Recherche complète (R1 à R4 + adresses probables) sans email ni site."
+    },
+    {
+      "nom": "RCG (RAPHA CONSULTING GROUP SENEGAL CONSEILS)",
+      "sigle": "RCG",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 30 105 22 26 — (+221) 77 632 69 83 — (+221) 77 353 42 48",
+      "adresse": "Extension Liberté 4",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480063-rcg-bureaux-etudes-conseils-conultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom RCG (RAPHA CONSULTING GROUP SENEGAL CONSEILS), adresse Extension Liberté 4, Dakar, tél (+221) 30 105 22 26, (+221) 77 632 69 83, (+221) 77 353 42 48, bouton Site web -> www.rcg.eklablog.com",
+        "Site déclaré sur la fiche ouvert : http://www.rcg.eklablog.com — HTTP 503 ; puis http://rcg.eklablog.com/ servi normalement : blog du bureau, dernière publication en juin 2011 (forum du fret et de la logistique), aucun email, renvoie vers « notre site web : www.rcgsenegal.com »",
+        "Page ouverte : http://www.rcgsenegal.com — ne répond pas (HTTP 000) : site hors service, aucun email",
+        "R1 : \"Rapha Consulting Group\" Sénégal RCG — aucune source sénégalaise avec email ; un profil LinkedIn « Raphaël DA SILVA - RCG CONSEILS » (inaccessible sans connexion) et des homonymes étrangers (Rapha Consulting Group Ltd au Royaume-Uni, Rapha Counseling Group)",
+        "R2 : \"Rapha Consulting\" Dakar email contact Liberté 4 — aucun résultat sur le bureau (Rapha Cycling Club, Rapha Labs, quartier Liberté 4)",
+        "R3 : \"30 105 22 26\" OR \"+221 30 105 22 26\" — aucun résultat citant ce numéro",
+        "R4 : \"RAPHA CONSULTING GROUP\" — homonymes uniquement (Royaume-Uni, États-Unis)",
+        "Adresses probables testées : rcgconseils.sn, rcg.sn (ne résolvent pas), raphaconsultinggroup.com (HTTP 404), rcgsenegal.com (ne répond pas)"
+      ],
+      "statut": "a_verifier",
+      "note": "Présence en ligne à l'abandon : le blog eklablog du bureau n'a pas été mis à jour depuis 2011 et le site rcgsenegal.com qu'il annonce ne répond plus. Recherche complète (R1 à R4 + adresses probables) sans email."
     }
   ]
 }
