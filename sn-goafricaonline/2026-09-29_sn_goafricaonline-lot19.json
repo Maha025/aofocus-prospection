@@ -1,0 +1,115 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-09-29",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=11",
+  "_methode": "Fiche goafricaonline (nom, adresse, téléphones, activités, bouton Site web), puis site du bureau s'il est connu, puis recherches web R1 à R4 et adresses probables ; emails uniquement lus sur une page citée en preuve_url.",
+  "bureaux": [
+    {
+      "nom": "ETABLISSEMENTS MAME DIARRA",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 729 04 51",
+      "adresse": "Mboro 3 Darou Tass",
+      "ville": "Thiès",
+      "site_web": "http://www.aventure-solaire.de",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480068-etablissements-mame-diarra-bureaux-etudes-conseils-consultants-thies-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom, adresse Mboro 3 Darou Tass (Thiès), tél (+221) 77 729 04 51, bouton Site web -> www.aventure-solaire.de",
+        "Site du bureau ouvert : http://www.aventure-solaire.de — page STRATO « Domain reserved / Cette page web vient juste d'être activée, elle n'a aucun contenu » : aucune page contact, aucun email",
+        "R1 : \"ETABLISSEMENTS MAME DIARRA\" Sénégal — aucun résultat sur le bureau (uniquement des homonymes : personnes, IASS Mame Diarra Bousso, etc.)",
+        "R2 : \"Etablissements Mame Diarra\" Thiès email contact — aucun résultat sur le bureau (la fiche situe le bureau à Thiès, pas à Dakar ; homonymes : restaurant à Marseille, pharmacie de Thiès)",
+        "R3 : \"77 729 04 51\" OR \"+221 77 729 04 51\" — aucun résultat citant ce numéro",
+        "R4 : \"ETABLISSEMENTS MAME DIARRA\" — aucun résultat sénégalais ; sociétés homonymes en France (Marseille, Aubervilliers)",
+        "Adresses probables testées : mamediarra.sn (ne résout pas), mamediarra.com (page de vente HugeDomains), etsmamediarra.com (ne résout pas), emd.sn (page OVH « Site en construction », rien qui confirme l'identité)"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site déclaré sur la fiche (aventure-solaire.de) est un domaine STRATO réservé sans aucun contenu : aucun email n'y est publié et il ne confirme pas l'identité du bureau. Recherche complète (R1 à R4 + adresses probables) sans email."
+    },
+    {
+      "nom": "ETECS",
+      "sigle": "E.TE.C.S (Études Techniques Coordination Sénégal)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "bet.etecs@orange.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 869 81 81 — Fax : (+221) 33 825 16 30",
+      "adresse": "Avenue BIRAGO DIOP x Rue de Thiès - Point E, BP 2394",
+      "ville": "Dakar",
+      "site_web": "http://www.etecsafrique.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études techniques bâtiment et génie civil : programmation et exécution de constructions, études de prix, évaluation technique et diagnostic immobilier, ouvrages d'art, infrastructures",
+      "fiche_url": "https://www.goafricaonline.com/sn/592557-etecs-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.etecsafrique.com",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom ETECS, adresse Avenue Birago Diop x Rue de Thiès - Point E, BP 2394, Dakar, tél (+221) 33 869 81 81, fax (+221) 33 825 16 30, bouton Site web -> www.etecsafrique.com",
+        "Site du bureau ouvert : http://www.etecsafrique.com (accueil) — email bet.etecs@orange.sn lu sur la page d'accueil ; identité confirmée (Bureau d'Études Techniques Coordination Sénégal)"
+      ],
+      "statut": "a_verifier",
+      "note": ""
+    },
+    {
+      "nom": "EXCELL'HR",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "lysemilandou@excellhr.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 373 39 39",
+      "adresse": "Villa 280 Zone de capture",
+      "ville": "Dakar",
+      "site_web": "https://www.excellhr.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet ressources humaines, comptabilité et fiscalité : paie internalisée et externalisée, conseil RH, mise en place de SIRH, organisation comptable et fiscalité des entreprises",
+      "fiche_url": "https://www.goafricaonline.com/sn/592550-excell-hr-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.excellhr.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom EXCELL'HR, adresse Villa 280 Zone de capture, Dakar, tél (+221) 77 373 39 39, bouton Site web -> www.excellhr.com/",
+        "Site du bureau ouvert : https://www.excellhr.com/ (accueil, section Contact de la page unique) — email lysemilandou@excellhr.com lu sur la page ; identité confirmée (cabinet RH/comptabilité, Dakar)"
+      ],
+      "statut": "a_verifier",
+      "note": "Seule adresse publiée sur le site (adresse nominative, pas d'adresse générique)."
+    },
+    {
+      "nom": "Eol Challenges",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 344 86 24",
+      "adresse": "Sicap-Liberté, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782891-eol-challenges",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom Eol Challenges, adresse Sicap-Liberté, Dakar, tél (+221) 77 344 86 24, horaires publiés, aucun bouton « Site web » (la fiche invite au contraire le propriétaire à communiquer son e-mail)",
+        "R1 : \"Eol Challenges\" Sénégal — aucun résultat sur le bureau (résultats sur « Grand Challenges Sénégal » et sur les défis du Sénégal)",
+        "R2 : \"Eol Challenges\" Dakar contact email — aucun résultat sur le bureau (Dakar Challenge au Royaume-Uni, Allo Dakar)",
+        "R3 : \"77 344 86 24\" OR \"+221 77 344 86 24\" — aucun résultat citant ce numéro",
+        "R4 : \"Eol Challenges\" — aucun résultat sur le bureau (uniquement « end-of-life (EOL) challenges » en informatique et en santé)",
+        "Adresses probables testées : eolchallenges.com, eolchallenges.sn, eol-challenges.com, eol-challenges.sn — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Fiche récente et peu renseignée (12 vues, pas de site déclaré). Recherche complète (R1 à R4 + adresses probables) sans email ni site."
+    }
+  ]
+}
