@@ -554,6 +554,36 @@
       ],
       "statut": "a_verifier",
       "note": "La fiche est au nom du dirigeant ; la société est CEEMO SAS. Son site ceemo.net est actuellement dépublié (503), l'email a donc été lu sur l'annuaire SenPages, qui reprend exactement l'adresse de la fiche. SenPages donne un autre téléphone (+221 77 626 13 15)."
+    },
+    {
+      "nom": "PIPADHS",
+      "sigle": "PIPADHS (Projet Investir dans les Premières Années pour le Développement Humain au Sénégal)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 825 16 97",
+      "adresse": "Lot N° 10 Almadies zone 15, Route de l'aéroport LSS",
+      "ville": "Dakar",
+      "site_web": "https://www.pipadhs.sn/",
+      "site_source": "fiche goafrica",
+      "specialite": "Projet de l'État du Sénégal financé par la Banque mondiale, consacré à la petite enfance : nutrition et stimulation précoce (1 000 premiers jours), apprentissages préscolaires, protection de l'enfant, gestion de projet et assistance technique (régions de Matam, Kolda, Diourbel, Kaffrine, Tambacounda, Fatick, Kaolack)",
+      "fiche_url": "https://www.goafricaonline.com/sn/543905-pipadhs-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom PIPADHS, adresse Lot N° 10 Almadies zone 15 Route de l'aéroport LSS, Dakar, tél (+221) 33 825 16 97, bouton Site web -> www.pipadhs.sn/",
+        "Site du bureau ouvert : http://www.pipadhs.sn/ — HTTP 500, et https://www.pipadhs.sn/ sans réponse : site hors service, aucun email lisible",
+        "R1 : \"PIPADHS\" Sénégal — projet de l'État du Sénégal financé par la Banque mondiale (42 milliards F CFA) dans le sous-secteur de la petite enfance ; X, LinkedIn, Facebook, YouTube du projet, articles Dakaractu et Seneweb",
+        "R2 : \"PIPADHS\" Dakar email contact Almadies — l'adresse de la fiche est confirmée (Lot N°10 Almadies zone 15) et une adresse pipadhs@pipadhs.sn est citée par les résultats, mais elle n'a pu être lue sur aucune page accessible (le site du projet est hors service)",
+        "R3 : \"33 825 16 97\" OR \"+221 33 825 16 97\" — aucun résultat citant directement ce numéro",
+        "R4 : \"pipadhs.sn\" — le site du projet (hors service) et son rapport annuel 2020 hébergé sur ce même domaine (donc inaccessible)",
+        "Page ouverte : https://www.senpages.com/entreprise/pipadhs-projet-investir-dans-les-premieres-annees-pour-le-developpement-humain-au-senegal — même téléphone (+221 33 825 16 97) que la fiche, mais aucun email publié",
+        "Document public ouvert : rapport d'audit des états financiers 2023 du projet P161332 (documents1.worldbank.org) — aucune adresse email dans le document",
+        "Adresses probables testées : pipadhs.com, pipadhs.org — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Unité de gestion d'un projet public plutôt que bureau d'études privé. Le site pipadhs.sn est hors service (HTTP 500), ce qui empêche de lire l'adresse pipadhs@pipadhs.sn citée par les moteurs de recherche : conformément à la règle, aucune adresse non lue sur une page n'est retenue."
     }
   ]
 }
