@@ -275,6 +275,119 @@
       ],
       "statut": "a_verifier",
       "note": "Email personnel de la dirigeante (cedelb = Céline Desbos Le Berrigaud) publié comme contact du bureau sur l'annuaire SenPages ; aucune adresse générique trouvée. L'ancien site geolhyan.com ne répond plus."
+    },
+    {
+      "nom": "GISELE SABBAGH",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 842 37 76",
+      "adresse": "38, boulevard de la République, BP 2724 Dakar RP",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/472042-gisele-sabbagh-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom GISELE SABBAGH, adresse 38 boulevard de la République, BP 2724 Dakar RP, tél (+221) 33 842 37 76, aucun bouton Site web ; seul lien externe : un profil LinkedIn personnel (https://www.linkedin.com/in/gisele-sabbagh-4337b62a)",
+        "Profil LinkedIn non ouvert : LinkedIn exige une connexion, et la consigne interdit les pages de connexion",
+        "R1 : \"Gisèle Sabbagh\" Sénégal bureau d'études — aucun résultat sur le bureau (autres bureaux d'études sénégalais, homonymes)",
+        "R2 : \"Gisele Sabbagh\" Dakar email contact — aucun résultat sur le bureau (homonymes Sabbagh à l'étranger)",
+        "R3 : \"33 842 37 76\" OR \"+221 33 842 37 76\" — aucun résultat citant ce numéro",
+        "R4 : \"GISELE SABBAGH\" — aucun résultat sénégalais (homonymes)",
+        "Adresses probables testées : giselesabbagh.com, giselesabbagh.sn, sabbagh.sn, cabinet-sabbagh.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Recherche complète (R1 à R4 + adresses probables) sans email ni site. Le seul lien de la fiche est un profil LinkedIn personnel, inaccessible sans connexion."
+    },
+    {
+      "nom": "GOLOB ONE CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 611 24 28",
+      "adresse": "Saint-Louis, en face Première Porte UGB, côté SANAR Wolof",
+      "ville": "Saint-Louis",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil en études à l'étranger (d'après la page Facebook du bureau reprise par les résultats de recherche)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592561-golob-one-consulting-bureaux-etudes-conseil-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom GOLOB ONE CONSULTING, adresse Saint-Louis en face Première Porte UGB côté SANAR Wolof, tél (+221) 77 611 24 28, aucun bouton Site web ; seul lien externe : page Facebook https://fr-fr.facebook.com/goloboneconsulting/",
+        "Page Facebook ouverte : https://fr-fr.facebook.com/goloboneconsulting/ — Facebook renvoie une page de connexion (« Cette fonction est temporairement bloquée ») : contenu inaccessible sans compte, donc non consulté plus loin",
+        "R1 : \"Golob One Consulting\" Sénégal — page Facebook du bureau, profils LinkedIn golobone, Golob One Transport, mapcarta ; aucun email",
+        "R2 : \"Golob One Consulting\" Saint-Louis email contact — aucun email ; seul le téléphone +221 77 611 24 28 est repris",
+        "R3 : \"77 611 24 28\" OR \"+221 77 611 24 28\" — aucun résultat citant ce numéro",
+        "R4 : \"Golob One Consulting\" — page Facebook du bureau et homonymes américains (Golob Consulting, Golob Partners) ; aucun email",
+        "Adresses probables testées : golobone.com, golobone.sn, goloboneconsulting.com, golob-one.com — aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Bureau situé à Saint-Louis malgré l'URL de la fiche qui mentionne Dakar. Recherche complète (R1 à R4 + adresses probables) sans email : la seule présence en ligne est une page Facebook inaccessible sans connexion."
+    },
+    {
+      "nom": "GROUPE D'INGENIERIE ET DE CONSTRUCTION",
+      "sigle": "GIC SA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@gic.sn",
+        "gic@gic.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 865 12 45 — Fax : (+221) 33 865 12 44",
+      "adresse": "Avenue Cheikh Ahmadou Bamba, Parc Mazout, BP 10889",
+      "ville": "Dakar",
+      "site_web": "http://www.gic.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études (SA créée en 1990) : grandes infrastructures, bâtiments, aménagement urbain, eau potable et assainissement, management de projets, ressources en eau, agriculture et développement rural, environnement",
+      "fiche_url": "https://www.goafricaonline.com/sn/592514-groupe-ingenierie-construction-bureaux-etdues-consultants-dakar-senegal",
+      "preuve_url": "http://www.gic.sn",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom GROUPE D'INGENIERIE ET DE CONSTRUCTION, adresse Avenue Cheikh Ahmadou Bamba Parc Mazout BP 10889, Dakar, tél (+221) 33 865 12 45, fax (+221) 33 865 12 44, bouton Site web -> www.gic.sn",
+        "Site du bureau ouvert : http://www.gic.sn (accueil) — emails contact@gic.sn et gic@gic.sn lus sur la page ; même téléphone que la fiche (+221 33 865 12 45) : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": ""
+    },
+    {
+      "nom": "GROUPE TRUST",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Cheikh Moubarack Wade, fondateur",
+      "emails": [
+        "contact@groupetrust.com",
+        "admin@groupetrust.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 38 86",
+      "adresse": "En face Ecole Saldia, Sicap Dieuppeul 3",
+      "ville": "Dakar",
+      "site_web": "https://groupetrust.com/",
+      "site_source": "recherche web",
+      "specialite": "Formation professionnelle, coaching d'entreprise, team building et orientation scolaire (depuis 2012)",
+      "fiche_url": "https://www.goafricaonline.com/sn/481941-groupe-trust-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://groupetrust.com/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom GROUPE TRUST, adresse En face Ecole Saldia Sicap Dieuppeul 3, Dakar, tél (+221) 33 864 38 86, aucun bouton Site web ; liens externes vers Facebook, Twitter/X et LinkedIn du bureau",
+        "R1 : \"Groupe Trust\" SARL Sénégal cabinet — Groupe Trust SARL, Dakar, formation et coaching depuis 2012, fondateur Cheikh Moubarack Wade (ZoomInfo, LinkedIn, Facebook)",
+        "R2 : \"Groupe Trust\" Dakar Dieuppeul email contact — résultat pertinent : le site groupetrust.com, associé à l'adresse « En face Ecole Saldia, Sicap Dieuppeul 3 » et au téléphone (+221) 338 64 38 86",
+        "R3 : \"33 864 38 86\" OR \"+221 33 864 38 86\" — aucun résultat citant directement ce numéro",
+        "R4 : \"Groupe Trust\" Sénégal — mêmes sources, plus la fiche goafricaonline « GROUPE TRUST - Evénementiel » du même groupe",
+        "Site trouvé par recherche web et ouvert : https://groupetrust.com/ (accueil) — emails contact@groupetrust.com et admin@groupetrust.com lus sur la page",
+        "Page contact ouverte : https://groupetrust.com/contact — email contact@groupetrust.com confirmé (adresse « Dakar, Sénégal », activités formation/coaching depuis 2012 identiques)"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site ne publie pas de numéro de téléphone (champ « +221 XX XXX XX XX ») : l'identité est établie par le nom, la ville, l'activité et par les résultats de recherche qui associent groupetrust.com à l'adresse Sicap Dieuppeul 3 et au numéro de la fiche. Adresse générique contact@ en premier."
     }
   ]
 }
