@@ -204,6 +204,88 @@
       ],
       "statut": "a_verifier",
       "note": "Le bureau a changé de site (domilicia.com hors service, remplacé par lacoda.sn) et le site donne une adresse plus récente : 45 Bd. de la République, Immeuble Sorano, Dakar. Le téléphone concorde avec la fiche."
+    },
+    {
+      "nom": "MAISON DE LA CREATION D'ENTREPRISE",
+      "sigle": "MCE Sénégal",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@mcesenegal.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 676 62 56 — (+221) 78 535 23 98",
+      "adresse": "Liberté 6, extension",
+      "ville": "Dakar",
+      "site_web": "https://mcesenegal.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Accompagnement à la création d'entreprise : formation, mentorat, immatriculation et formalités, coworking, mise en réseau (centre agréé REPEA)",
+      "fiche_url": "https://www.goafricaonline.com/sn/646677-maison-creation-entreprise-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://mcesenegal.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom MAISON DE LA CREATION D'ENTREPRISE, adresse Liberté 6 extension, Dakar, tél (+221) 77 676 62 56 et (+221) 78 535 23 98, bouton Site web -> mcesenegal.com/",
+        "Site du bureau ouvert : https://mcesenegal.com/ (accueil) — email contact@mcesenegal.com lu sur la page ; téléphone +221 78 535 23 98 identique à l'un de ceux de la fiche : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": ""
+    },
+    {
+      "nom": "MAXIMERIT",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Joseph Preira, directeur général (d'après les annuaires)",
+      "emails": [
+        "contact@maximerit.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 10 44 — Fax : (+221) 33 820 10 64",
+      "adresse": "27, Cité Télécoms Ouest Foire, BP 64606",
+      "ville": "Dakar",
+      "site_web": "https://maximerit.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil, externalisation, recrutement et intérim : conseil RH, formation, audit organisationnel, gestion de la paie, QHSE, gestion et inventaire des immobilisations, recherche de financement",
+      "fiche_url": "https://www.goafricaonline.com/sn/480056-maximerit-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.nexpages.com/sn/maximerit-recrutement-interim-conseil-senegal-3478",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom MAXIMERIT, adresse 27 Cité Télécoms Ouest Foire, BP 64606, Dakar, tél (+221) 33 820 10 44, fax (+221) 33 820 10 64, bouton Site web -> www.maximerit.com",
+        "Site du bureau ouvert : http://www.maximerit.com puis https://maximerit.com/ et https://maximerit.com/interim/ — le serveur répond HTTP 202 avec un corps vide (aucun contenu servi à cet outil) : aucun email lisible sur le site",
+        "R1 : \"MAXIMERIT\" Sénégal — ZoomInfo, emploisenegal, annuaire-senegal, pagesjaunesdusenegal, nexpages ; activité confirmée (conseil, externalisation, recrutement, intérim), adresse VDN 27 Cité Télécom face CICES, tél 338201044",
+        "R2 : \"Maximerit\" Dakar email contact — l'email contact@maximerit.com est cité par les annuaires, avec BP 64606 Fann Dakar et le DG Joseph Preira",
+        "R3 : \"33 820 10 44\" OR \"+221 33 820 10 44\" — aucun résultat citant directement ce numéro",
+        "R4 : \"Maximerit\" — pages du site du bureau (services RH, intérim, formations, financement)",
+        "Page ouverte : https://www.nexpages.com/sn/maximerit-recrutement-interim-conseil-senegal-3478 — email contact@maximerit.com lu sur la page, avec la même adresse (27, Cité Télécom Ouest Foire), le même téléphone (+221 338 20 10 44) et le même fax (+221 338 20 10 64) que la fiche : identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site du bureau renvoie une réponse vide (HTTP 202) aux requêtes de cet outil ; aucune protection n'a été contournée. L'email a donc été lu sur l'annuaire Nexpages, qui reprend exactement l'adresse, le téléphone et le fax de la fiche."
+    },
+    {
+      "nom": "MFK-CONSULTING-GROUP",
+      "sigle": "MFK",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 800 93 22",
+      "adresse": "",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Cabinet apporteur d'affaires pour les banques ; accompagnement des jeunes entrepreneurs et porteurs de projets (formations, séminaires, forums)",
+      "fiche_url": "https://www.goafricaonline.com/sn/577584-mfk-consulting-group-bureaux-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom MFK-CONSULTING-GROUP, adresse non renseignée (« - »), Dakar, tél (+221) 77 800 93 22, activités « cabinet apporteur d'affaires pour les banques, accompagnement des jeunes entrepreneurs et porteurs de projets », aucun bouton Site web",
+        "R1 : \"MFK Consulting Group\" Sénégal — aucun résultat sénégalais ; homonymes (MFK Consulting Global, MFK Group, MFK Consultancy and Services)",
+        "R2 : \"MFK Consulting\" Dakar email contact — aucun résultat sur le bureau de Dakar ; homonymes au Pakistan, à Dubaï, aux États-Unis",
+        "R3 : \"77 800 93 22\" OR \"+221 77 800 93 22\" — aucun résultat citant ce numéro",
+        "R4 : \"MFK-CONSULTING-GROUP\" — homonymes uniquement (Toronto, Californie, Islamabad)",
+        "Adresses probables testées : mfkconsultinggroup.com, mfkconsulting.sn, mfk-consulting.sn, mfkgroup.sn — aucune ne résout ; mfkconsulting.org et mfkconsulting.com appartiennent à des cabinets homonymes étrangers : non retenus"
+      ],
+      "statut": "a_verifier",
+      "note": "Fiche sans adresse. Nombreux homonymes « MFK Consulting » à l'étranger : aucun site ni email ne leur a été attribué faute de correspondance d'identité. Recherche complète (R1 à R4 + adresses probables) sans email."
     }
   ]
 }
