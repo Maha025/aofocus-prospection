@@ -553,6 +553,46 @@
       ],
       "statut": "a_verifier",
       "note": "Identité confirmée : le téléphone 33 827 94 96 du site est exactement celui de la fiche, et l'adresse (Liberté VI Extension) concorde. Adresse générique placée en premier. La fiche indique BP 45, le site BP 47."
+    },
+    {
+      "nom": "MALICK SOW ET ASSOCIES (MSA)",
+      "sigle": "MSA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Malick Sow, directeur général",
+      "emails": [
+        "contact@msasenegal.com",
+        "msadakar@orange.sn",
+        "gamou.fall@msasenegal.com",
+        "abou.dia@msasenegal.com",
+        "khady.sambe@msasenegal.com",
+        "amadou.seck@msasenegal.com",
+        "msatamba@yahoo.fr",
+        "msapepamkolda@yahoo.fr"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33861180 ; Fax : (+221) 33 867 23 79",
+      "adresse": "Sacré Coeur 3 n° 33, BP 24186, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "http://www.msasenegal.com",
+      "site_source": "recherche web",
+      "specialite": "Cabinet de conseil en développement créé dans les années 1990 : développement rural, assainissement, agriculture, développement urbain, transports ; réseau de bureaux régionaux au Sénégal et à l'international (Niger, Côte d'Ivoire, Mali, Mauritanie)",
+      "fiche_url": "https://www.goafricaonline.com/sn/479965-malick-sow-et-associes-msa-dakar-senegal",
+      "preuve_url": "http://www.msasenegal.com/reseau-msa/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"MALICK SOW ET ASSOCIES\" MSA Dakar Sénégal — cabinet de conseil en développement, site msasenegal.com, 33 Sacré Coeur 3, BP 24186, tél 338651180",
+        "R2 : \"Malick Sow et Associés\" Dakar Sacré Coeur contact email — conduit au site msasenegal.com et à la fiche annuaire-senegal",
+        "R3 : \"33 867 23 79\" Dakar Sénégal — aucune page directe, mais ce numéro est confirmé comme le fax du cabinet sur son propre site (voir ci-dessous)",
+        "R4 : \"MALICK SOW ET ASSOCIES\" — confirme MS & Associés, fondé en 1995, siège VDN Lot 58 – BP 24186 Dakar, DG Malick Sow",
+        "Page ouverte : https://www.annuaire-senegal.com/conseil/consultance/ms-et-associes-malick-sow-et-associes-s156107.html — 33 Sacré Coeur 3, code postal 24186, tél 338651180, site www.msasenegal.com ; aucun email",
+        "Pages ouvertes sans succès : https://www.msasenegal.com/ (certificat SSL non valide pour ce domaine), http://www.msasenegal.com/contact/ et /ms-associes/ et /lequipe/ (404), https://www.devex.com/organizations/ms-associes-malick-sow-and-associates-msa-128542 (403)",
+        "Page ouverte : http://www.msasenegal.com/le-cabinet/ — présentation du cabinet, aucun email",
+        "Page ouverte : http://www.msasenegal.com/reseau-msa/ — bloc « NOS CONTACTS » : VDN Lot n°58 – BP 24186, derrière Exclusive, Dakar ; Bureau (221) 33 865 1180, Fax (221) 33 867 2379, E-mail contact@msasenegal.com ; puis les contacts des bureaux régionaux et internationaux, tous lus tels quels",
+        "Adresses probables : inutile, le site du cabinet a été trouvé par la recherche web"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : le fax de la fiche (33 867 23 79) et la BP 24186 correspondent exactement au siège affiché sur le site du cabinet. Le téléphone de la fiche (33861180) est une forme tronquée du 33 865 11 80 du site. Adresses génériques en premier ; les adresses nominatives et régionales lues sur la même page sont conservées. Deux autres adresses figurent sur cette page (daf.soges@gmail.com pour la filiale SOGES, vanmodem05@gmail.com pour MSA Mali Kayes) : non retenues car rattachées à une filiale et à un bureau étranger, non au bureau de Dakar. Le domaine en HTTPS présente un certificat non valide ; seul le HTTP est accessible."
     }
   ]
 }
