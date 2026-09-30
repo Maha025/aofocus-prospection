@@ -1,0 +1,67 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN&p=17",
+  "_extrait_le": "2026-09-30",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=17",
+  "_methode": "Fiche goafricaonline lue pour nom, adresse, téléphones, activités et lien « Site web » ; puis site du bureau si connu, sinon quatre recherches web (nom+Sénégal, nom+Dakar+email, téléphone, nom entre guillemets) et essai d'adresses probables en .sn et .com. Emails uniquement lus sur une page, avec l'URL de la page en preuve. Lot arrêté avant 20 bureaux par la limite de durée du passage.",
+  "bureaux": [
+    {
+      "nom": "FCL AFRIQUE",
+      "sigle": "FCL",
+      "categorie": "finance",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 860 43 28",
+      "adresse": "Immeuble Saliou Ndione, Fenêtre Mermoz x Corniche Ouest 009, 2ème étage, BP 24969, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://fcl.fr/",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil en finances et fiscalité locales auprès des collectivités territoriales (filiale africaine du cabinet français FCL – Gérer la Cité)",
+      "fiche_url": "https://www.goafricaonline.com/sn/645487-fcl-afrique-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/645487-fcl-afrique-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers https://fcl.fr/, aucune activité décrite, aucun email",
+        "Site ouvert : https://fcl.fr/ — « FCL – Gérer la Cité », cabinet de conseil en finances et fiscalité locales pour les collectivités territoriales ; aucun email, aucune mention d'une implantation africaine ou sénégalaise",
+        "Page contact ouverte : https://fcl.fr/contact/ — aucun email ; un seul numéro, 01 55 34 40 00, pour les bureaux de Paris, Rennes et Marseille, siège « 87 rue Saint-Lazare – 75009 Paris » ; aucun bureau au Sénégal, à Dakar ni en Afrique n'y est mentionné",
+        "R1 : « \"FCL AFRIQUE\" Sénégal Dakar finances locales » — aucune page de la filiale ; uniquement des documents généraux sur les finances locales sénégalaises (PEFA, PACASEN, AFD)",
+        "R2 : « \"FCL Afrique\" Dakar email contact \"33 860 43 28\" » — aucune page de la filiale, aucun email",
+        "R3 : recherche sur « 33 860 43 28 » (menée avec R2, format +221 inclus) — aucun résultat rattachant ce numéro à la filiale",
+        "R4 : « \"FCL AFRIQUE\" » (entre guillemets) — uniquement des homonymes sans rapport : un service de groupage maritime LCL-FCL Afrique (Promaritime), FCL Africa Ltd, grossiste pharmaceutique kényan, et un festival de cinéma français",
+        "Étape 4, adresses probables testées : fclafrique.sn, fcl-afrique.com, fclafrique.com — toutes en NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : le site indiqué par la fiche est celui de la maison mère française (fcl.fr), qui ne publie aucune adresse email, seulement un formulaire et un numéro parisien, et qui ne mentionne nulle part son antenne dakaroise. Les quatre recherches ne donnent aucune page propre à FCL Afrique, et les homonymes trouvés (groupage maritime, grossiste pharmaceutique kényan) sont sans rapport. Reste le fixe (+221) 33 860 43 28 et une adresse précise à la Fenêtre Mermoz, seul point d'entrée direct."
+    },
+    {
+      "nom": "GAMMA INGENIERIES",
+      "sigle": "",
+      "categorie": "btp",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 820 50 62",
+      "adresse": "19 route de l'aéroport L S Senghor, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Conseil et consultance en ingénierie",
+      "fiche_url": "https://www.goafricaonline.com/sn/652672-gamma-ingenieries-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/652672-gamma-ingenieries-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email ; le numéro 33 820 50 62 est répété dans le champ adresse de la fiche",
+        "R1 : « \"GAMMA INGENIERIES\" Sénégal Dakar route de l'aéroport » — sa fiche sur annuaire-senegal.com",
+        "R1 : page ouverte https://www.annuaire-senegal.com/conseil/consultance/gamma-ingenieries-s157339.html — Gamma Ingenieries, tél 338205056 et 338205062, « Square Cite Mame Alassane Laye Yoff Dakar », activité « Consultance » ; aucun email, aucun site",
+        "R2 : « \"GAMMA INGENIERIES\" Dakar email contact \"33 820 50 62\" OR \"33 820 50 56\" » — confirme les deux numéros sur annuaire-senegal.com et africabizinfo.com, aucun email",
+        "R3 : recherche sur les deux numéros tels qu'affichés puis au format +221 (menée avec R2) — aucun résultat au-delà de ces deux annuaires",
+        "R4 : « \"GAMMA INGENIERIES\" » (entre guillemets) — aucun résultat sénégalais ; homonymes en Guadeloupe (GAMMA INGENIERIE), en Colombie (Gamma Ingenieros) et au Royaume-Uni (Gamma Communications)",
+        "Étape 4, adresses probables testées : gammaingenieries.sn, gamma-ingenieries.com — NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : pas de site et aucune page publiant une adresse. Second numéro relevé sur les annuaires, absent de la fiche : (+221) 33 820 50 56. Les annuaires situent le bureau au Square Cité Mame Alassane Laye, à Yoff, quartier voisin de la route de l'aéroport indiquée par la fiche : c'est cohérent, la même structure. Ne pas confondre avec les homonymes guadeloupéen, colombien et britannique."
+    }
+  ]
+}
