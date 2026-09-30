@@ -466,6 +466,93 @@
       ],
       "statut": "a_verifier",
       "note": "Deuxième fiche du même cabinet (voir 387729) : même BP 15363, même dirigeant. Aucun email lisible sur une page ; mgpafr@orange.fr n'est cité que par un extrait de moteur dont la page source exige une connexion."
+    },
+    {
+      "nom": "PEDREIRA SERVICES",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 30 119 38 53 ; (+221) 77 733 89 24",
+      "adresse": "Hlm Grand Yoff N°249, BP 13630, Hlm Grand-yoff, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/388071-pedreira-services-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"PEDREIRA SERVICES\" Dakar Sénégal — aucun résultat concernant ce bureau",
+        "R2 : \"Pedreira Services\" Dakar Grand Yoff contact email — l'extrait de moteur reprend l'adresse et les deux téléphones de la fiche et mentionne un fragment « pedreiraserv » incomplet, sans adresse email complète ni page lisible",
+        "R3 : \"30 119 38 53\" OR \"77 733 89 24\" Sénégal — aucune page citant ces numéros",
+        "R4 : \"PEDREIRA SERVICES\" — uniquement des homonymes étrangers (Pedreira Janitorial Services, Maine ; Pedreira Group, République dominicaine ; sociétés brésiliennes)",
+        "Adresses probables testées : pedreiraservices.com, pedreiraservices.sn, pedreira-services.com, pedreiraserv.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après recherche complète. Un extrait de moteur laissait entrevoir un fragment « pedreiraserv » mais aucune adresse complète n'a pu être lue sur une page : rien n'a été reconstitué."
+    },
+    {
+      "nom": "OPENSYS (OPENSYS INTERNATIONAL)",
+      "sigle": "OPENSYS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 38 31",
+      "adresse": "65-66 Résidence Machala Nord Liberté VI, BP 22290 Ponty, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Bureau d'études spécialisé dans le conseil et la consultance ; études de marché",
+      "fiche_url": "https://www.goafricaonline.com/sn/479946-opensys-international-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"OPENSYS\" international Sénégal Dakar Liberté VI bureau études — fiches yelu.sn et senpages reprenant l'adresse et le téléphone de la fiche",
+        "R2 : \"Opensys\" Dakar contact email Sénégal — aucun email trouvé pour l'entité sénégalaise",
+        "R3 : \"33 827 38 31\" Dakar Sénégal — aucune page citant ce numéro (seuls des numéros voisins d'autres établissements de Liberté VI)",
+        "R4 : \"OPENSYS INTERNATIONAL\" — uniquement des homonymes étrangers (Open Systems International / Emerson, États-Unis ; OpenSys (M) Bhd, Malaisie ; Opensys™ Open System Technology International)",
+        "Page ouverte : https://www.senpages.com/entreprise/opensys-international/ — adresse 65-66 Résidence Machala Nord Liberté VI, description du bureau ; aucun email affiché",
+        "Adresses probables testées : opensys.sn, opensys-international.com, opensysinternational.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après recherche complète. Les sites Opensys trouvés (États-Unis, Malaisie, Inde) sont des homonymes sans lien avec Dakar : ni site ni email attribué."
+    },
+    {
+      "nom": "PRESTIGE CABINET CONSEIL",
+      "sigle": "PRESTIGE",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "prestige@orange.sn",
+        "dioufali@orange.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 827 94 96 ; Fax : (+221) 33 827 94 97",
+      "adresse": "Liberté 6 Extention n°8175, BP 45, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.prestige.sn",
+      "site_source": "recherche web",
+      "specialite": "Cabinet conseil, études et ingénierie depuis 2000 : environnement, études économiques, suivi-évaluation, urbanisme, décentralisation, contrôle de travaux, eau et assainissement, géomatique",
+      "fiche_url": "https://www.goafricaonline.com/sn/479962-prestige-cabinet-bureaux-etudes-conseil-consultants-dakar-senegal",
+      "preuve_url": "https://www.prestige.sn/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"PRESTIGE CABINET CONSEIL\" Dakar Sénégal Liberté 6 — site officiel prestige.sn, Lot 11 Liberté VI Extension, tél +221 33 827 94 96",
+        "R2 : \"Prestige Cabinet Conseil\" Dakar contact email — conduit au site prestige.sn",
+        "R3 : \"33 827 94 96\" Dakar Sénégal — aucune page directe, mais le numéro est affiché sur le site du cabinet (voir ci-dessous) et correspond exactement à celui de la fiche",
+        "R4 : \"PRESTIGE CABINET CONSEIL\" — confirme le cabinet sénégalais (PRESTIGE SAU, Dakar, depuis 2000) parmi des homonymes français",
+        "Page ouverte : https://www.prestige.sn/ — email prestige@orange.sn en pied de page",
+        "Page ouverte : https://www.prestige.sn/contact — emails prestige@orange.sn et dioufali@orange.sn lus tels quels, adresse Lot 11 Liberté VI Extension, BP 47 Dakar, tél +221 33 827 94 96 / 77 858 28 36 / 77 637 16 07",
+        "Page ouverte : https://www.prestige.sn/en — version anglaise, même email"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : le téléphone 33 827 94 96 du site est exactement celui de la fiche, et l'adresse (Liberté VI Extension) concorde. Adresse générique placée en premier. La fiche indique BP 45, le site BP 47."
     }
   ]
 }
