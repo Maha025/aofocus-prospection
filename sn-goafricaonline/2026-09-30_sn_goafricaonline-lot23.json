@@ -423,6 +423,148 @@
       ],
       "statut": "a_verifier",
       "note": "Email lu sur la page contact du site officiel du groupe. À savoir pour la prospection : idea@ideaconsult.com.tn est l'adresse du siège de Tunis, le site ne publiant aucune coordonnée pour son antenne dakaroise, dont le seul contact direct est le mobile (+221) 77 571 92 03. Le rattachement à IDEACONSULT International tient à deux recoupements : le sigle et l'adresse « S/C SACI » de la fiche, SACI étant le partenaire dakarois que le bureau cite lui-même pour ses missions au Sénégal (atelier à Dakar avec la CRSE et le MCA-Sénégal). Ne pas confondre avec « IDEA Consulting » (137B Liberté 6 extension, contact@idea-consulting.org), société distincte dont l'adresse n'a pas été retenue."
+    },
+    {
+      "nom": "GENIE CORP",
+      "sigle": "",
+      "categorie": "btp",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 638 96 46",
+      "adresse": "9898 Sacre Coeur 3, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Bureau d'étude et de contrôle multidisciplinaire : bâtiment et travaux publics, transport, eau et environnement, aménagement et urbanisme, énergie, électricité, télécommunications et informatique",
+      "fiche_url": "https://www.goafricaonline.com/sn/592564-genie-corp-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592564-genie-corp-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"GENIE CORP\" Sénégal Dakar Sacré Coeur 3 » — aucune page du bureau ; le nom du quartier ramène le club de football AS Dakar Sacré-Cœur",
+        "R2 : « \"GENIE CORP\" Dakar email contact \"77 638 96 46\" » — une page Facebook du bureau et sa fiche senpages ; aucun email ; les autres résultats sont des sociétés américaines (Genie Company, Genie Energy, Genie Lift)",
+        "R2 : page ouverte https://www.senpages.com/entreprise/genie-corp/ — Genie Corp, tél +221338672240, « Liberté 6 Extension Lot 30A, Dakar », activité « bureau d'étude et de contrôle multidisciplinaire » ; aucun email",
+        "R3 : recherche sur « 77 638 96 46 » (menée avec R2, format +221 inclus) — aucun résultat rattachant ce mobile au bureau",
+        "R4 : « \"GENIE CORP\" bureau ingénierie inspection Dakar » (nom entre guillemets) — la page Facebook et la fiche senpages déjà vues, sinon d'autres sociétés de génie civil sénégalaises distinctes",
+        "Étape 4, adresses probables testées : geniecorp.sn, genie-corp.sn — NXDOMAIN ; geniecorp.com résout mais vers une adresse d'hébergement de domaines parqués, sans contenu : non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : ni site, ni page publiant une adresse. La fiche senpages donne une autre adresse (Liberté 6 Extension Lot 30A) et un fixe (+221 33 867 22 40) que la fiche goafrica ne mentionne pas : probable déménagement, les deux jeux de coordonnées sont utiles pour la prospection, celui de la fiche étant conservé dans les champs. Une page Facebook existe mais n'a pas été ouverte (mur de connexion)."
+    },
+    {
+      "nom": "GRESTEC (GROUPE D'ETUDE SCIENTIFIQUES ET TECHNIQUES)",
+      "sigle": "GRESTEC",
+      "categorie": "btp",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "grestec@orange.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 859 04 60 ; (+221) 33 832 17 32 ; Fax : (+221) 33 832 29 92",
+      "adresse": "20 TP Som Hann, BP 21167 Dakar, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Bureau d'études créé en 1991 : eau, routes, aménagements, génie civil et environnement ; études, recherche et essais",
+      "fiche_url": "https://www.goafricaonline.com/sn/592600-grestec-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.nexpages.com/phonebook/grestec-senegal-4691",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592600-grestec-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « GRESTEC \"Groupe d'Etude Scientifiques et Techniques\" Sénégal Dakar » — plusieurs fiches du bureau : nexpages.com, business-senegal.com, senpages.com, yelu.sn, ainsi qu'une seconde fiche goafrica classée en génie civil",
+        "R1 : page ouverte https://www.nexpages.com/phonebook/grestec-senegal-4691 — « Groupe de Recherche et d'Etudes Scientifiques et Techniques », email grestec@orange.sn, tél +221 338 32 17 32, fax +221 338 32 29 92, « 20, Cité TP SOM, Dakar, BP 21167 », activité « Study, research and testing »",
+        "R1 : page ouverte http://business-senegal.com/eng/Entreprises/profilent/_16600 — même bureau, « 20, TP SOM Hann, BP : 21167 Dakar Ponty », tél (221) 338590460, fax (221) 338322992 ; aucun email sur cette page",
+        "Étape 4, adresses probables testées : grestec.sn — NXDOMAIN ; grestec.com résout mais vers une adresse d'hébergement de domaines parqués, sans contenu : non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la fiche nexpages. Identité confirmée sans réserve par trois recoupements avec la fiche goafrica : la boîte postale 21167, l'adresse 20 TP SOM Hann et le fax 33 832 29 92 ; les deux fixes de la fiche (33 859 04 60 et 33 832 17 32) se retrouvent chacun sur l'une des deux fiches d'annuaire. Le nom développé exact est « Groupe de Recherche et d'Études Scientifiques et Techniques », la fiche goafrica l'abrégeant en « Groupe d'Etude Scientifiques et Techniques » ; le nom de la fiche est conservé. Le bureau a aussi une seconde fiche goafrica classée en génie civil (sn/456026)."
+    },
+    {
+      "nom": "GROUPE FONDASOL",
+      "sigle": "FONDASOL",
+      "categorie": "btp",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "senegal@groupefondasol.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 02 64",
+      "adresse": "Villa n°28 - Lotissement cité Sonatel, Ouest Foire, Yoff, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.groupefondasol.com/fr/reseau/nos-implantations/fondasol-senegal",
+      "site_source": "fiche goafrica",
+      "specialite": "Ingénierie géotechnique : sondages et reconnaissance des sols, laboratoire géotechnique agréé par l'État, terrassement, topographie, missions géotechniques G1 à G5 (norme NF P 94-500), ingénierie et conseil pour la construction et les infrastructures",
+      "fiche_url": "https://www.goafricaonline.com/sn/592636-groupe-fondasol-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.opqibi.com/fiche/237/agence-dakar",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592636-groupe-fondasol-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers https://www.groupefondasol.com/fr/reseau/nos-implantations/fondasol-senegal, aucune activité décrite, aucun email",
+        "Site ouvert : https://www.groupefondasol.com/fr/reseau/nos-implantations/fondasol-senegal — Fondasol Sénégal, tél +221 338 640 264, adresse « Sacré-Cœur Pyrotechnie, Cité Satar, Lot AD 29 DAKAR », activités géotechniques décrites ; aucun email, seulement un formulaire",
+        "R2 : « Fondasol Sénégal Dakar email contact \"33 864 02 64\" géotechnique » — mène à la fiche de qualification OPQIBI de l'agence de Dakar, à senpages.com et à une plaquette PDF du groupe",
+        "R2 : page ouverte https://www.opqibi.com/fiche/237/agence-dakar — « FONDASOL - Agence du Senegal », email senegal@groupefondasol.com, adresse « Villa n°28 Lotissement cité Sonatel, DAKAR, SENEGAL », site www.fondasol.fr"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la fiche de qualification OPQIBI de l'agence sénégalaise. Identité confirmée sans réserve : l'adresse de cette fiche, « Villa n°28 Lotissement cité Sonatel », est mot pour mot celle de la fiche goafrica, et le téléphone du site du groupe (+221 338 640 264) est celui de la fiche. senegal@groupefondasol.com est l'adresse dédiée à l'agence du Sénégal, ce qui en fait un bon point d'entrée. Le site du groupe annonce par ailleurs une adresse plus récente (Sacré-Cœur Pyrotechnie, Cité Satar, Lot AD 29) : probable déménagement, l'adresse de la fiche étant conservée dans le champ."
+    },
+    {
+      "nom": "ICOMATEC",
+      "sigle": "ICOMATEC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Amadou Bamba DIOP (fondateur et directeur général)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 634 04 00",
+      "adresse": "58 RUE TOLBIAC X PAUL HOLLE, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://icomatec.com",
+      "site_source": "recherche web",
+      "specialite": "Conseil international en management et technologie : optimisation de la stratégie, transformation organisationnelle, excellence opérationnelle, ingénierie système et management de projets d'infrastructures critiques ; bureaux annoncés à Paris, New York et Shanghai",
+      "fiche_url": "https://www.goafricaonline.com/sn/592639-icomatec-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592639-icomatec-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"ICOMATEC\" Sénégal Dakar Tolbiac » — site du bureau identifié : icomatec.com ; confirme l'adresse 58 Rue Tolbiac x Paul Holle et le mobile +221 78 634 04 00, ainsi que le fondateur Amadou Bamba DIOP (depuis 2015)",
+        "Site testé : https://icomatec.com/ — le domaine résout mais ne sert qu'une page de maintenance avec un formulaire de connexion WordPress, aucune coordonnée ; les pages de contact indexées (https://icomatec.com/contact-us/ et https://icomatec.com/about-us/our-company/contact/) répondent 404",
+        "R2 : « \"ICOMATEC\" Dakar email contact \"78 634 04 00\" OR icomatec.com » — les extraits de moteur citent amadoubambadiop@gmail.com et une adresse plus récente, 12 bd El Hadji Djily Mbaye, à partir de la fiche zaubee.com",
+        "Tentative d'ouverture de https://zaubee.com/biz/icomatec-international-consulting-for-management-and-technology-b9cuk76i : réponse 403, page inaccessible",
+        "R3 : recherche sur « 78 634 04 00 » (menée avec R2, format +221 inclus) — confirme le rattachement du mobile à ICOMATEC, aucun email lisible",
+        "R4 : « \"ICOMATEC\" » (entre guillemets) — uniquement des pages de icomatec.com (site en maintenance), un profil LinkedIn non ouvert et la fiche ContactOut (base d'emails commerciale) ; aucune page publiant une adresse",
+        "Étape 4, adresses probables testées : icomatec.sn — NXDOMAIN ; icomatec.com est bien le site du bureau mais hors service"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu : le site du bureau est en maintenance et ses pages de contact indexées répondent 404, la fiche zaubee qui publie une adresse est bloquée (403), et ContactOut est une base commerciale, pas une page du bureau. L'adresse personnelle du dirigeant (amadoubambadiop@gmail.com), visible dans un extrait de moteur, n'est donc lisible sur aucune page accessible : signalée ici comme piste, non enregistrée. Autre coordonnée relevée, à confirmer : une adresse plus récente au 12 bd El Hadji Djily Mbaye. Reste le mobile (+221) 78 634 04 00."
+    },
+    {
+      "nom": "HYDRO CONCEPT",
+      "sigle": "HydroConcept",
+      "categorie": "environnement",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@hydroconcept.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 860 59 10 ; (+221) 78 639 38 12",
+      "adresse": "Sacré cœur pyrotechnie, Mermoz, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://hydroconcept.sn",
+      "site_source": "recherche web",
+      "specialite": "Ingénieurs-conseils : conception et supervision de projets neufs ou de réhabilitation en assainissement (eaux usées et pluviales), eau potable, voirie et réseaux divers (VRD) et contrôles qualité ; schémas directeurs, modélisation de réseaux, stations de traitement",
+      "fiche_url": "https://www.goafricaonline.com/sn/592673-hydro-concept-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://hydroconcept.sn/index.php/pages/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592673-hydro-concept-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"HYDRO CONCEPT\" Sénégal Dakar Mermoz pyrotechnie » — aucune page du bureau, uniquement d'autres entreprises du quartier",
+        "R2 : « \"HYDRO CONCEPT\" Dakar email contact \"33 860 59 10\" OR \"78 639 38 12\" » — sa fiche senpages ; attention, plusieurs sociétés étrangères homonymes (Hydro Concept SA en Suisse, Hydro Concept en Vendée)",
+        "R2 : page ouverte https://www.senpages.com/entreprise/hydroconcept/ — HydroConcept, tél +221338605910, « 32, Immeuble Sakina en face Collège Sacré Cœur, Dakar », activités d'ingénierie décrites ; aucun email",
+        "R2 : « \"HydroConcept\" OR \"HYDRO CONCEPT\" Sénégal bureau études assainissement eau potable » — site sénégalais du bureau trouvé : https://hydroconcept.sn/",
+        "Page contact ouverte : https://hydroconcept.sn/index.php/pages/contact/ — email contact@hydroconcept.sn, tél +221 33 860 59 10, adresse « 32, Immeuble Sakina en face Collège Sacré Cœur - Dakar Sénégal »",
+        "Étape 4 : hydroconcept.sn résout et est bien le site du bureau"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site sénégalais du bureau, trouvé par recherche web (la fiche goafrica n'indiquait aucun site). Identité confirmée : le +221 33 860 59 10 du site est exactement le fixe de la fiche. Le site et la fiche senpages donnent une adresse plus précise (32, Immeuble Sakina, en face du Collège Sacré-Cœur) que la fiche goafrica (« Sacré cœur pyrotechnie, Mermoz ») ; c'est le même secteur. Ne pas confondre avec les homonymes suisse (hydro-concept.ch) et français (hydroconcept.eu). Une fiche d'organisme pS-Eau existe aussi sous « HydroConcept Ingénieurs Conseils »."
     }
   ]
 }
