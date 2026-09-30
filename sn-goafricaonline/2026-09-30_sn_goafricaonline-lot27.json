@@ -1,0 +1,95 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-09-30",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "p=19",
+  "_methode": "Chaque fiche goafricaonline est ouverte pour relever nom, adresse, téléphones et site ; l'email est ensuite cherché sur le site du bureau puis par quatre recherches web (R1 à R4) et, à défaut, par test d'adresses probables.",
+  "bureaux": [
+    {
+      "nom": "MANDIMORY CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 632 71 17",
+      "adresse": "257, Ouagou Niayes 2, Dakar - Biscuiterie, Dakar - 11000 - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782869-mandimory-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"MANDIMORY CONSULTING\" Dakar Sénégal — aucun résultat pour ce cabinet",
+        "R2 : \"Mandimory\" Dakar contact email consulting — aucun résultat pour le cabinet ; seule une personne homonyme (Mandimory Cissé, président de conseil rural, email sur un domaine français), non retenue",
+        "R3 : \"77 632 71 17\" Sénégal — aucune page citant ce numéro",
+        "R4 : \"MANDIMORY\" — uniquement mandimory.com, boutique américaine de vêtements, sans rapport",
+        "Adresses probables testées : mandimoryconsulting.com et mandimory.sn — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après recherche complète."
+    },
+    {
+      "nom": "Oasys Groupe",
+      "sigle": "OASYS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "mail@oasysgroupe.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 57 19",
+      "adresse": "Est-Foire, Immeuble B – Bloc B22, derrière station TOUBA OIL, Dakar - Grand Yoff, Dakar - 14000 - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://oasysgroupe.com",
+      "site_source": "adresse probable vérifiée",
+      "specialite": "OASYS Financial & Management Services, créée en 2009 : conseil et assistance technique aux projets et programmes de développement économique et social",
+      "fiche_url": "https://www.goafricaonline.com/sn/782904-oasys-groupe",
+      "preuve_url": "https://oasysgroupe.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "Adresses probables testées : oasys.sn et oasysgroupe.sn (ne répondent pas) ; oasysgroupe.com répond",
+        "Page ouverte : https://oasysgroupe.com/ — « OASYS Financial & Management Services », Cité Horizon, Ouest Foire, Dakar, tél +221-33-801-90-85, email mail@oasysgroupe.com lu tel quel ; cabinet de conseil et d'assistance technique créé en 2009",
+        "Page ouverte : https://oasysgroupe.com/contact/ — 404"
+      ],
+      "statut": "a_verifier",
+      "note": "Rapprochement fondé sur le nom (Oasys Groupe / oasysgroupe.com) et la ville (Dakar). Le site indique Cité Horizon, Ouest Foire, et le téléphone 33 801 90 85, alors que la fiche donne Est-Foire / Grand Yoff et le 33 820 57 19 : probable changement d'adresse, correspondance à confirmer. Les recherches R1 à R4 n'étaient pas requises, l'email ayant été lu sur le site du bureau trouvé à l'étape des adresses probables."
+    },
+    {
+      "nom": "PERFORMANCE GROUP, Résidence Xeewel, 15, Boulevard Djily MBaye Dakar",
+      "sigle": "PERFORMANCES GROUP",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Victor Gorom Ndiaye, PDG",
+      "emails": [
+        "info@performancesgroup.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 849 90 90",
+      "adresse": "Boulevard Djily Mbaye - Dakar-Plateau, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://performancesgroup.com",
+      "site_source": "recherche web",
+      "specialite": "Leader du conseil en management en Afrique francophone, créé en 1995 (ex Performances Management Consulting) : stratégie, transformation, transformation numérique (ADNum), études de faisabilité, plans stratégiques",
+      "fiche_url": "https://www.goafricaonline.com/sn/782912-performance-group-residence-xeewel-15-boulevard-djily-mbaye-dakar",
+      "preuve_url": "https://performancesgroup.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"PERFORMANCE GROUP\" \"Résidence Xeewel\" Boulevard Djily Mbaye Dakar — confirme Performances Group à « Xeewel Residence, 15, Boulevard Djily Mbaye, Dakar », cabinet de conseil en développement depuis une vingtaine d'années",
+        "R2 : \"Performances Group\" Dakar contact email Sénégal cabinet — donne info@performancesgroup.com, tél +221 33 849 90 90, site performancesgroup.com, fondé en décembre 1995 par Victor Gorom Ndiaye",
+        "R3 : \"33 849 90 90\" Dakar Sénégal — une liste ARTP attribue ce numéro à « Performances », Résidence Xewel, 15 bd Mouhamed Tidiane Seck, Seydi Djamil-Fann, Dakar : confirmation croisée du numéro et de la résidence",
+        "R4 : non nécessaire, l'identité étant établie par le téléphone et l'adresse dès R1 à R3",
+        "Page ouverte : https://performancesgroup.com/ — email info@performancesgroup.com en pied de page",
+        "Page ouverte : https://performancesgroup.com/contact/ — email info@performancesgroup.com lu tel quel, avec tél +221 33 849 90 90 et adresse Immeuble A2 - 47 Route du King Fahd Palace, Almadies, Dakar",
+        "Page ouverte : https://performancesgroup.com/nous-contacter/ — 404"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée sans ambiguïté : le téléphone 33 849 90 90 de la fiche est celui de Performances Group, et la Résidence Xeewel / 15 Boulevard Djily Mbaye figure dans deux sources. Le site indique aujourd'hui une adresse aux Almadies (47 Route du King Fahd Palace) : le cabinet a déménagé, l'adresse de la fiche est l'ancienne."
+    }
+  ]
+}
