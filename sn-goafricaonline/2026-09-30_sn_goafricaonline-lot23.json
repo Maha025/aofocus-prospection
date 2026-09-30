@@ -286,6 +286,143 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email : pas de site sur la fiche et aucune page sénégalaise dans les quatre recherches. Le sigle GETRAS est monopolisé en ligne par un garage automobile allemand (GETRAS GmbH), dont ni le site getras.de ni aucune coordonnée ne doivent être attribués à ce bureau. En revanche la fiche est bien fournie en téléphones : deux fixes, deux mobiles et un fax, avenue Bourguiba — c'est le principal moyen d'entrer en contact."
+    },
+    {
+      "nom": "GIE MONDAC",
+      "sigle": "MONDAC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 824 01 20 ; (+221) 77 631 70 11 ; Fax : (+221) 33 824 01 20",
+      "adresse": "Derklé rue 03 X Q, BP 23249 PONTY, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480028-gie-mondac-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480028-gie-mondac-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"GIE MONDAC\" Sénégal Dakar Derklé » — une fiche d'annuaire confirmant l'adresse Derklé rue 03 X Q et les numéros 338240120 et 776317011, classée en génie civil ; aucun email ; le reste porte sur le quartier de Dieuppeul-Derklé",
+        "R2 : « \"MONDAC\" Dakar email contact \"33 824 01 20\" » — aucune page du GIE, aucun email ; résultats sans rapport (ambassades, Nations unies, Dakar Dem Dikk)",
+        "R3 : recherche sur « 33 824 01 20 » et « 77 631 70 11 » (menée avec R2, format +221 inclus) — aucun résultat hors de la fiche d'annuaire déjà vue",
+        "R4 : « \"GIE MONDAC\" OR \"MONDAC\" » (entre guillemets) — un profil LinkedIn « Moussa Ndiaye - GIE MONDAC », non ouvert (connexion requise) et sans localisation fiable ; sinon des homonymes sans rapport (dépôt logiciel GitHub, projet de santé publique américain, radiateurs de camions)",
+        "Étape 4, adresses probables testées : mondac.sn et giemondac.com — NXDOMAIN ; mondac.com résout mais vers la même adresse d'hébergement de domaines parqués que d'autres domaines vides testés ce soir, sans contenu : non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : pas de site et aucune page du GIE dans les quatre recherches. Un profil LinkedIn rattache un Moussa Ndiaye à GIE MONDAC mais n'a pas été ouvert (LinkedIn exige une connexion) et rien ne confirme qu'il s'agisse du dirigeant : non retenu comme responsable. Restent le fixe, le mobile et le fax, à Derklé."
+    },
+    {
+      "nom": "GNSS (GENERALE DE NEGOCE ET DE SERVICES DU SENEGAL)",
+      "sigle": "GNSS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 867 67 42 ; Fax : (+221) 33 867 67 43",
+      "adresse": "Foire de Dakar Bat. Technique n°2, Route de l'Aéroport, BP 7636, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Négoce et services",
+      "fiche_url": "https://www.goafricaonline.com/sn/480031-gnss-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480031-gnss-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « GNSS \"Generale de Negoce et de Services du Senegal\" Dakar » — aucune page de la société ; le sigle GNSS est accaparé par les systèmes de navigation par satellite (Global Navigation Satellite System)",
+        "R2 : « \"GNSS\" Sénégal Dakar email contact \"33 867 67 42\" Foire » — aucune page de la société, aucun email ; résultats sur d'autres structures aux sigles voisins (SEN GLOBAL NETWORK SERVICES / sgns-group.com, GNS Sénégal / gns-senegal.com), toutes différentes",
+        "R3 : recherche sur « 33 867 67 42 » et le fax 33 867 67 43 (menée avec R2, format +221 inclus) — aucun résultat rattachant ces numéros à la société",
+        "R4 : « \"GENERALE DE NEGOCE ET DE SERVICES DU SENEGAL\" » (entre guillemets) — aucun résultat pour ce nom exact ; seulement d'autres sociétés sénégalaises au nom voisin (Générale d'Entreprises, Général Services Sénégal)",
+        "Étape 4, adresses probables testées : gnss.sn, gnss-senegal.com — NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : pas de site et aucune page de la société dans les quatre recherches. Le sigle GNSS est inexploitable en recherche libre (systèmes de navigation par satellite) et plusieurs sociétés sénégalaises portent des sigles très proches (SGNS, GNS) sans lien avec celle-ci : aucun site ni email ne leur est emprunté. Restent le fixe (+221) 33 867 67 42 et le fax, à la Foire de Dakar."
+    },
+    {
+      "nom": "EVOE CONSULTING",
+      "sigle": "EVOE",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Christophe RAYNAL",
+      "emails": [
+        "evoe@orange.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 867 51 82 ; Fax : (+221) 33 867 51 81",
+      "adresse": "212 Espace résidence, Liberté 6, BP 16279, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Conseil aux entreprises",
+      "fiche_url": "https://www.goafricaonline.com/sn/480048-evoe-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.senegel.org/en/people-society/foreign-companies/orgdetails/629",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480048-evoe-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"EVOE CONSULTING\" Sénégal Dakar Liberté 6 » — deux fiches du cabinet : senegel.org et dobiza.com",
+        "R1 : page ouverte https://www.senegel.org/en/people-society/foreign-companies/orgdetails/629 — EVOE Consulting, email evoe@orange.sn, tél +221 33 867 51 82, adresse « 212, Espace Résidence, Liberté 6 », site www.evoe.ma, dirigeant Christophe RAYNAL",
+        "R1 : page ouverte https://www.dobiza.com/eng/Entreprises/profilent/_11066 — EVOE CONSULTING, « Sicap Liberté 6 apt 212 », tél (221) 338675181, fax (221) 338675182, site http://www.evoe.ma, activité conseil aux entreprises ; aucun email sur cette page",
+        "Étape 4 : le site annoncé www.evoe.ma ne résout pas (NXDOMAIN), le domaine marocain n'existe plus ; aucun site n'est donc retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la fiche du cabinet chez SENEGEL. Identité confirmée sans réserve : l'adresse « 212, Espace Résidence, Liberté 6 » et le téléphone +221 33 867 51 82 sont exactement ceux de la fiche goafrica. Les deux annuaires intervertissent le fixe et le fax (338675181 / 338675182) ; l'ordre de la fiche goafrica a été conservé. Le site annoncé (www.evoe.ma, domaine marocain) n'existe plus, d'où l'usage d'une adresse chez Orange. R2 à R4 non nécessaires : l'email a été trouvé dès la première recherche."
+    },
+    {
+      "nom": "IARC (INSTITUT AFRICAIN DE RENFORCEMENT DE CAPACITES)",
+      "sigle": "IARC",
+      "categorie": "formation",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 835 64 02 ; Fax : (+221) 33 823 23 13",
+      "adresse": "Rue 5 X B RDC Gauche Point E, BP 5729 Dakar, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Renforcement de capacités",
+      "fiche_url": "https://www.goafricaonline.com/sn/480050-iarc-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480050-iarc-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"IARC\" \"Institut Africain de Renforcement de Capacités\" Sénégal Dakar » — aucune page de l'institut ; d'autres structures dakaroises de renforcement de capacités (AR2C, CESARC, Institut Pasteur), toutes différentes",
+        "R2 : « \"IARC\" Dakar Point E email contact \"33 835 64 02\" renforcement capacités » — aucune page de l'institut, aucun email ; le sigle IARC renvoie au Centre international de recherche sur le cancer de l'OMS (iarc.who.int, Lyon)",
+        "R3 : « \"33 823 23 13\" Dakar » — aucun résultat rattachant ce numéro à l'institut ; le fixe 33 835 64 02 a été cherché avec R2",
+        "R4 : « \"INSTITUT AFRICAIN DE RENFORCEMENT DE CAPACITES\" » (entre guillemets) — aucun résultat pour ce nom exact ; uniquement l'Institut africain de développement de la BAD, l'IDEP des Nations unies et le Centre africain de renforcement des capacités de l'OIM",
+        "Étape 4, adresses probables testées : iarc.sn — NXDOMAIN ; iarc.who.int et iarc.fr appartiennent au centre de l'OMS sur le cancer et ne sont évidemment pas retenus"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : pas de site et aucune page de l'institut dans les quatre recherches. Le sigle IARC est entièrement monopolisé en ligne par le Centre international de recherche sur le cancer de l'OMS, ce qui rend la recherche libre inopérante, et le nom développé ne ramène que d'autres institutions panafricaines. Restent le fixe (+221) 33 835 64 02 et le fax, au Point E."
+    },
+    {
+      "nom": "IDEACONSULT",
+      "sigle": "IDEACONSULT International",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "idea@ideaconsult.com.tn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 571 92 03",
+      "adresse": "S/C SACI, Villa 40, Mermoz Pyrotechnique, BP 16420 Dakar-Fann, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.ideaconsult.com.tn",
+      "site_source": "recherche web",
+      "specialite": "Bureau d'études pluridisciplinaire, filiale du Groupe STUDI International : stratégie, développement économique, planification et infrastructures ; missions au Sénégal notamment avec la CRSE et le MCA-Sénégal",
+      "fiche_url": "https://www.goafricaonline.com/sn/592556-ideaconsult-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.ideaconsult.com.tn/en/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592556-ideaconsult-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"IDEACONSULT\" Sénégal Dakar Mermoz SACI » — identifie IDEACONSULT International, filiale du Groupe STUDI, site ideaconsult.com.tn ; un message du compte X du bureau évoque un atelier à Dakar en citant SACI, la CRSE et le MCA-Sénégal",
+        "R2 : « \"IDEACONSULT\" Dakar email contact \"77 571 92 03\" » — confirme le rattachement du mobile de la fiche à IDEACONSULT ; signale aussi une « IDEA Consulting » au 137B Liberté 6 extension (contact@idea-consulting.org, 33 867 87 12), qui est une autre société",
+        "Page ouverte : https://www.ideaconsult.com.tn/en/contact — email idea@ideaconsult.com.tn, tél +216 70 021 700, siège « Immeuble Equinoxe – Bloc B, Rue de la Bourse Lac 2, 1053, Tunis – Tunisie » ; aucun bureau sénégalais ni coordonnée dakaroise sur cette page",
+        "Étape 4, adresses probables testées : ideaconsult.sn — NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site officiel du groupe. À savoir pour la prospection : idea@ideaconsult.com.tn est l'adresse du siège de Tunis, le site ne publiant aucune coordonnée pour son antenne dakaroise, dont le seul contact direct est le mobile (+221) 77 571 92 03. Le rattachement à IDEACONSULT International tient à deux recoupements : le sigle et l'adresse « S/C SACI » de la fiche, SACI étant le partenaire dakarois que le bureau cite lui-même pour ses missions au Sénégal (atelier à Dakar avec la CRSE et le MCA-Sénégal). Ne pas confondre avec « IDEA Consulting » (137B Liberté 6 extension, contact@idea-consulting.org), société distincte dont l'adresse n'a pas été retenue."
     }
   ]
 }
