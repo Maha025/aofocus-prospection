@@ -3,7 +3,7 @@
   "_extrait_le": "2026-09-30",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "p=12",
+  "_pages": "p=12 à p=13",
   "_methode": "Fiche goafricaonline lue pour nom, adresse, téléphones, activités et lien « Site web » ; puis site du bureau si connu, sinon quatre recherches web (nom+Sénégal, nom+Dakar+email, téléphone, nom entre guillemets) et essai d'adresses probables en .sn et .com. Emails uniquement lus sur une page, avec l'URL de la page en preuve.",
   "bureaux": [
     {
@@ -421,6 +421,143 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email : ni site sur la fiche, ni page du bureau dans les quatre recherches. Le nom, très générique, ne ramène que des pages sur le secteur de l'ingénierie au Sénégal. Attention : la fiche est enregistrée sous l'URL « 640193-engineering… » alors que le nom affiché est « SENEGAL ENGINEERING ». Seul le mobile (+221) 77 337 08 42 est exploitable."
+    },
+    {
+      "nom": "SOCIETE DE COURTAGE ET DE CONSEIL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "",
+      "adresse": "Grand Yoff, Front de terre, Khar Yalla, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Courtage, conseil",
+      "fiche_url": "https://www.goafricaonline.com/sn/645707-societe-courtage-bureaux-etudes-conseils-consultants",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/645707-societe-courtage-bureaux-etudes-conseils-consultants — aucun bouton « Site web », aucun lien externe, aucun téléphone affiché, aucun email ; activité décrite « Courtage, conseil »",
+        "R1 : « \"SOCIETE DE COURTAGE ET DE CONSEIL\" Sénégal Dakar » — aucune page de ce bureau ; d'autres courtiers sénégalais aux noms voisins mais bien distincts : SCCA SA (Sacré Cœur VDN, 33 820 15 02), S2C Sénégalaise de Courtage et Conseil en Assurance (Sacré Cœur 3, 33 864 09 67), Tawfekh (HLM, 33 825 25 23), aucun à Grand Yoff / Khar Yalla",
+        "R2 : « \"Societe de courtage et de conseil\" Dakar Grand Yoff Khar Yalla email contact » — aucune page du bureau, aucun email ; résultats sur des annuaires et sur d'autres courtiers",
+        "R3 : aucun téléphone sur la fiche",
+        "R4 : « \"SOCIETE DE COURTAGE ET DE CONSEIL\" » (entre guillemets) — uniquement des sociétés françaises (societe.com, LegalVision, S2C Conseil-Courtage) et une société nigérienne, aucune page sénégalaise",
+        "Étape 4, adresses probables testées (résolution DNS) : courtage-conseil.sn — NXDOMAIN ; scc.sn résout mais appartient au « Cabinet SCC - Expert-Comptable Agréé ONECCA à Dakar », une autre structure : non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Fiche très pauvre : ni téléphone, ni site, ni email, seulement l'adresse Grand Yoff / Front de terre / Khar Yalla et l'activité « Courtage, conseil ». Les quatre recherches ne donnent aucune page du bureau. Plusieurs courtiers sénégalais portent des noms proches (SCCA, S2C, Tawfekh) mais tous à d'autres adresses et avec d'autres téléphones : aucun ne lui est attribué, pour éviter une confusion d'homonymes. Bureau non prospectable en l'état."
+    },
+    {
+      "nom": "SOENA",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 867 99 19 ; (+221) 77 638 89 97",
+      "adresse": "VDN Imm Ibrahima Toure 1ère Etage, BP 45909, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Encadrement & commercialisation",
+      "fiche_url": "https://www.goafricaonline.com/sn/651250-soena-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/651250-soena-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucun email ; activité décrite « Encadrement & Commercialisation »",
+        "R1 : « SOENA Sénégal Dakar VDN bureau études conseil » — aucune page de ce bureau ; autres bureaux d'études et cabinets de la VDN (Cabinet Carrée, Bureau d'Études Sénégalaise, BEAD)",
+        "R2 : « \"SOENA\" Dakar email contact \"33 867 99 19\" OR \"77 638 89 97\" » — aucune page du bureau, aucun email",
+        "R3 : « \"+221 33 867 99 19\" » — aucun résultat rattachant ce numéro au bureau ; R3 également menée sur les deux numéros tels qu'affichés avec R2",
+        "R4 : « \"SOENA\" Sénégal société » — aucun résultat ; le sigle ramène des sociétés nationales sénégalaises sans rapport (SONES, SONATEL, SENELEC)",
+        "Étape 4, adresses probables testées (résolution DNS) : soena.sn et soena-sn.com — NXDOMAIN ; soena.com résout mais redirige vers HugeDomains (nom de domaine en vente), donc aucun contenu du bureau : non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : pas de site sur la fiche et aucune page du bureau dans les quatre recherches. Le nom de quatre lettres, sans développement sur la fiche, rend les recherches peu discriminantes. soena.com est un domaine en vente, sans lien avec ce bureau. Restent le fixe (+221) 33 867 99 19 et le mobile (+221) 77 638 89 97, ainsi que l'adresse VDN Immeuble Ibrahima Touré."
+    },
+    {
+      "nom": "WISE LAB",
+      "sigle": "",
+      "categorie": "informatique",
+      "type_marches": "inconnu",
+      "responsable": "Didi DIOUF (Directeur Général)",
+      "emails": [
+        "info@wiselab.tech",
+        "info@wise-group.tech"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 22 01",
+      "adresse": "1, corniche des Mamelles, Ouakam, BP 10745, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.wiselab.tech",
+      "site_source": "fiche goafrica",
+      "specialite": "Société panafricaine de conseil et de technologie, membre du WISE GROUP ; technologies avancées dont les jumeaux numériques ; bureaux au Sénégal et en Côte d'Ivoire",
+      "fiche_url": "https://www.goafricaonline.com/sn/592658-wise-lab-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.wiselab.tech/contactus-wl2",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592658-wise-lab-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers https://wiselab.tech, aucune activité décrite, aucun email",
+        "Tentative d'ouverture de https://wiselab.tech : le domaine nu ne résout pas (NXDOMAIN) ; seul www.wiselab.tech résout (hébergé sur wise-group.odoo.com)",
+        "R1 : « \"WISE LAB\" Dakar Sénégal Ouakam corniche des Mamelles » — pages du bureau trouvées : wiselab.tech, wise-group.tech, et sa fiche à l'annuaire Eurocham Sénégal",
+        "Page ouverte : https://www.eurocham.sn/annuaire-des-membres/wise-lab/ — WISE LAB, « 1, corniche des Mamelles – Ouakam », tél +221 76 451 00 81, directeur général Didi DIOUF, sites energia.sn et wiselab.tech ; aucun email sur cette page",
+        "Page ouverte : https://www.wiselab.tech/contactus-wl2 — emails info@wiselab.tech et info@wise-group.tech, tél +221 33 825 22 01 et +225 07 58 854 963, adresses « 1 Corniche des Mamelles, BP 10745, Dakar, SENEGAL » et « Immeuble le 7, Rue du 7 décembre, Marcory Zone 4C, Abidjan, CÔTE D'IVOIRE »"
+      ],
+      "statut": "a_verifier",
+      "note": "Emails lus sur la page contact du site officiel. Identité confirmée sans réserve : adresse (1 corniche des Mamelles, BP 10745), téléphone (+221 33 825 22 01) et ville identiques à la fiche. info@wiselab.tech est l'adresse propre au bureau, info@wise-group.tech celle du groupe : les deux sont conservées, la plus spécifique en premier. L'annuaire Eurocham donne un mobile supplémentaire (+221 76 451 00 81) et le nom du directeur général."
+    },
+    {
+      "nom": "WEST INGENIERIE",
+      "sigle": "WEST Ingénierie",
+      "categorie": "btp",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@westingenieriegn.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 72 98 ; (+221) 77 743 96 91",
+      "adresse": "21, Mermoz Pyrotechnie, Cité des administrateurs civils, 2ème étage, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "http://westingenieriegn.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'ingénierie du développement d'infrastructures en Afrique subsaharienne : routes, urbanisme, hydraulique, électrification rurale et projets agricoles ; siège à Conakry, bureaux à Brazzaville et Dakar",
+      "fiche_url": "https://www.goafricaonline.com/sn/592663-west-ingenierie-bureaux-etudes-conseils-consultance-dakar-senegal",
+      "preuve_url": "https://westingenieriegn.com/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592663-west-ingenierie-bureaux-etudes-conseils-consultance-dakar-senegal — bouton « Site web » vers http://westingenieriegn.com, aucune activité décrite, aucun email",
+        "Site ouvert : http://westingenieriegn.com (accueil) — email contact@westingenieriegn.com, tél +224 621 00 87 66, siège « Kipé Demoudoula, Ratoma — Conakry, Guinée », activités décrites",
+        "Page contact ouverte : https://westingenieriegn.com/contact — email contact@westingenieriegn.com ; trois bureaux : Conakry (+224 621 00 87 66, +224 621 60 91 32), Brazzaville (+242 05 755 05 607) et Dakar, « 21 Mermoz Pyrotechnie, Cité des administrateurs civils, 2ᵉ étage, porte gauche, Dakar » avec le +221 77 710 03 56"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site officiel, celui-là même que la fiche indique. Identité confirmée sans réserve : la page contact du site donne pour son bureau de Dakar exactement l'adresse de la fiche (21 Mermoz Pyrotechnie, Cité des administrateurs civils, 2ème étage). À savoir pour la prospection : le groupe est guinéen (siège à Conakry) et contact@westingenieriegn.com est l'adresse du groupe, pas de l'antenne sénégalaise, qui n'a pas d'email propre publié ; le site donne un troisième numéro sénégalais, le +221 77 710 03 56."
+    },
+    {
+      "nom": "Sen Agro Business Consulting(SAB'CO)",
+      "sigle": "SAB'CO",
+      "categorie": "agriculture",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 490 34 65",
+      "adresse": "Grand Yoff, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782926-sen-agro-business-consulting-sab-co",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782926-sen-agro-business-consulting-sab-co — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email ; horaires d'ouverture renseignés (lundi 08h-18h à dimanche 09h-14h)",
+        "R1 : « \"Sen Agro Business Consulting\" SAB'CO Sénégal » — aucune page du bureau ; autres sociétés agro sénégalaises (Senagri-Expert, Sénégal Agri Solutions, Senegal Agrobusiness Trade) et SAB Business Consulting, intégrateur SAP France/Sénégal sans rapport",
+        "R2 : « \"Sen Agro Business Consulting\" Dakar email contact » — une page Facebook du bureau (facebook.com/p/Sen-Agro-Business-Consulting-100066389871381) et sa version mobile ; aucun email ailleurs",
+        "Tentative d'ouverture de https://m.facebook.com/100066389871381/about/ : mur de connexion Facebook, aucune coordonnée visible ; non contourné, conformément à la consigne",
+        "R3 : « \"78 490 34 65\" OR \"+221 78 490 34 65\" » — aucun résultat rattachant ce numéro au bureau",
+        "R4 : « \"SAB'CO\" OR \"SABCO\" agro business consulting Sénégal Grand Yoff » — aucune page du bureau ; SAPCO (Yoff) est une société différente, active dans l'événementiel",
+        "Étape 4, adresses probables testées (résolution DNS) : sabco.sn, sabco-senegal.com, senagrobusiness.com, senagrobusinessconsulting.com — toutes en NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : pas de site, et la seule présence en ligne propre au bureau est une page Facebook derrière un mur de connexion, que la consigne interdit de contourner. L'adresse email y est peut-être publiée : elle compte ici comme absente. Reste le mobile (+221) 78 490 34 65, avec des horaires d'ouverture larges, y compris le week-end."
     }
   ]
 }
