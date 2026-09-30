@@ -3,7 +3,7 @@
   "_extrait_le": "2026-09-30",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "p=19",
+  "_pages": "p=19 à p=20",
   "_methode": "Chaque fiche goafricaonline est ouverte pour relever nom, adresse, téléphones et site ; l'email est ensuite cherché sur le site du bureau puis par quatre recherches web (R1 à R4) et, à défaut, par test d'adresses probables.",
   "bureaux": [
     {
@@ -90,6 +90,62 @@
       ],
       "statut": "a_verifier",
       "note": "Identité confirmée sans ambiguïté : le téléphone 33 849 90 90 de la fiche est celui de Performances Group, et la Résidence Xeewel / 15 Boulevard Djily Mbaye figure dans deux sources. Le site indique aujourd'hui une adresse aux Almadies (47 Route du King Fahd Palace) : le cabinet a déménagé, l'adresse de la fiche est l'ancienne."
+    },
+    {
+      "nom": "Q-CONSULTING",
+      "sigle": "Q-CONSULTING",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Malick Kebe, responsable commercial",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 829 49 84",
+      "adresse": "Avenue Cheickh Anta Diop, Ouakam, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil en optimisation des achats, supply chain et performance globale (offre Q-Purch : rationalisation des processus d'achat, cartographie fournisseurs, digitalisation)",
+      "fiche_url": "https://www.goafricaonline.com/sn/1200356-q-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"Q-CONSULTING\" Dakar Ouakam Sénégal bureau études — site officiel annoncé q-consulting.sn, avenue Cheikh Anta Diop, Ouakam, code postal 12300, tél +221 33 829 4984 / 77 619 6919, email annoncé info@q-consulting.sn",
+        "R2 : \"Q-Consulting\" Dakar contact email Sénégal — même email annoncé (info@q-consulting.sn), même adresse et même téléphone que la fiche",
+        "R3 : \"33 829 49 84\" Dakar Sénégal — aucune page citant directement ce numéro hors du site du cabinet",
+        "R4 : \"Q-CONSULTING\" Sénégal — confirme le cabinet dakarois, son offre achats/supply chain et son responsable commercial Malick Kebe",
+        "Pages ouvertes sans succès : https://www.q-consulting.sn/, https://q-consulting.sn/, /contact/, /contact, /nous-contacter/ — le domaine ne répond pas depuis ce conteneur (503 via le service de récupération de pages, aucune réponse en accès direct)"
+      ],
+      "statut": "a_verifier",
+      "note": "Piste très solide mais non validée : le téléphone et l'adresse du site correspondent exactement à la fiche, et les extraits de moteur donnent info@q-consulting.sn. Le domaine q-consulting.sn n'a pas pu être chargé pendant ce passage, donc l'adresse n'a pas été lue sur une page et n'est pas retenue. À reprendre en priorité lors d'un prochain passage."
+    },
+    {
+      "nom": "QES CONSULTING INTERNATIONAL",
+      "sigle": "QES",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "q.e.s@orange.sn",
+        "ndawaziz@yahoo.fr"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 868 69 99 ; (+221) 77 450 03 60 ; Fax : (+221) 33 868 69 99",
+      "adresse": "Point E Cité BIAO Rue 2 Bis X F, BP 25066 Fann, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://qesconsultinginternational.com",
+      "site_source": "recherche web",
+      "specialite": "Qualité, environnement, santé-sécurité : certification ISO, études de projets, études environnementales, formations et renforcement de capacités, mise à niveau, management de projet, stratégie",
+      "fiche_url": "https://www.goafricaonline.com/sn/388220-qes-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://qesconsultinginternational.com/contactez-nous/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : recherche menée conjointement avec Q-CONSULTING (\"Q-Consulting\" Dakar contact email Sénégal) — fait apparaître le site officiel qesconsultinginternational.com et la fiche piaafrica « QES CONSULTING INTERNATIONAL - Audit - Conseil »",
+        "Page ouverte : https://qesconsultinginternational.com/ — emails q.e.s@orange.sn et ndawaziz@yahoo.fr",
+        "Page ouverte : https://qesconsultinginternational.com/contactez-nous/ — page contact officielle, téléphone 77 450 03 60 et les deux emails, lus tels quels",
+        "Les recherches R2 à R4 n'étaient pas requises : l'email a été lu sur le site du bureau, dont le téléphone 77 450 03 60 correspond exactement à celui de la fiche"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : le téléphone 77 450 03 60 affiché sur le site est exactement celui de la fiche. Adresse d'entreprise (q.e.s@orange.sn) placée avant l'adresse nominative (ndawaziz@yahoo.fr)."
     }
   ]
 }
