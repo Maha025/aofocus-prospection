@@ -507,6 +507,61 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email attribuable : le sigle MGK est porté par plusieurs cabinets étrangers (Kenya, Grèce, Jordanie, États-Unis, Dubaï), mais aucun ne correspond à l'adresse d'Ouakam ni au téléphone de la fiche."
+    },
+    {
+      "nom": "MACTAR SALL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 824 84 88 ; (+221) 77 553 45 49 ; (+221) 77 632 81 09",
+      "adresse": "Bloc 74 A Sonépi, BP 30140, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/654696-mactar-sall-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"MACTAR SALL\" Sonépi Dakar Sénégal bureau études — aucun résultat pour ce bureau ; d'autres bureaux d'études de la zone Sonépi apparaissent (Technosol Ingénierie), sans lien",
+        "R2 : \"Mactar Sall\" Dakar contact email cabinet — aucun email ; uniquement des profils LinkedIn de personnes homonymes (Carrefour, AccorHotels, en France)",
+        "R3 : \"33 824 84 88\" OR \"77 553 45 49\" Dakar — aucune page citant ces numéros",
+        "R4 : \"MACTAR SALL\" — homonymes personnels seulement, plus le questionnaire médical MACTAR sans rapport",
+        "Adresses probables testées : mactarsall.com et mactarsall.sn — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après recherche complète. Le nom est un patronyme courant au Sénégal, ce qui rend les recherches par nom peu discriminantes."
+    },
+    {
+      "nom": "Maître Mohamed FALL",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Maître Mohamed Mahmoune Fall, avocat à la Cour",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 821 41 07",
+      "adresse": "66 Av. Malick Sy - Dakar-Plateau, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Cabinet d'avocat (avocat à la Cour, inscrit au barreau de Dakar depuis 2009)",
+      "fiche_url": "https://www.goafricaonline.com/sn/782858-maitre-mohamed-fall",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"Maître Mohamed FALL\" avocat Dakar Avenue Malick Sy — plusieurs cabinets d'avocats de l'avenue Malick Sy ressortent, mais pas celui-ci sous ce nom exact",
+        "R2 : \"Mohamed Fall\" avocat Dakar contact email cabinet — le tableau des avocats du Sénégal 2020 cite Mohamed Mahmoune FALL, Fann-Hock rue 70 x 55 (en face de la clinique), tél 33 821 41 07 : même numéro que la fiche ; aucun email",
+        "R3 : \"33 821 41 07\" Dakar Sénégal — pas de page l'attribuant directement, mais le numéro est confirmé sur l'annuaire de l'Ordre des avocats (ci-dessous)",
+        "R4 : \"Mohamed Mahmoune FALL\" avocat Sénégal — confirme l'avocat à la Cour à Dakar, cabinet Rue 70 x 55, immeuble de la pharmacie, 1er étage, en face de la clinique ; plusieurs affaires devant la Cour suprême et le TGI de Dakar ; aucun email",
+        "Page ouverte : https://www.ordredesavocats.sn/annuaire_avocats — ligne « Mohamed Mahmoune FALL », tél 33 821 41 07, barreau de Dakar, inscrit en 2009 ; la colonne Email de sa ligne est vide",
+        "Adresse probable testée : cabinetmohamedfall.com — ne répond pas"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée par le téléphone : le 33 821 41 07 de la fiche est celui de Maître Mohamed Mahmoune Fall dans l'annuaire officiel de l'Ordre des avocats du Sénégal. Aucun email publié ni sur cet annuaire ni ailleurs. L'annuaire officiel et le tableau 2020 donnent une autre adresse de cabinet (rue 70 x 55, Fann-Hock) que la fiche (66 Av. Malick Sy)."
     }
   ]
 }
