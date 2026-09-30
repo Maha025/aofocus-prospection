@@ -62,6 +62,63 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email : pas de site et aucune page publiant une adresse. Second numéro relevé sur les annuaires, absent de la fiche : (+221) 33 820 50 56. Les annuaires situent le bureau au Square Cité Mame Alassane Laye, à Yoff, quartier voisin de la route de l'aéroport indiquée par la fiche : c'est cohérent, la même structure. Ne pas confondre avec les homonymes guadeloupéen, colombien et britannique."
+    },
+    {
+      "nom": "HECOM TECSULT INC",
+      "sigle": "HECOM",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 867 65 96 ; (+221) 77 616 51 23",
+      "adresse": "24 Nord liberté 6 Ext., Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/653589-hecom-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/653589-hecom-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"HECOM TECSULT\" Sénégal Dakar bureau études » — aucune page de ce bureau ; les résultats portent sur des écoles dakaroises aux sigles voisins (HECM, HEC Dakar) et sur E.TE.C.S, bureau d'études distinct",
+        "R2 : « \"HECOM\" Dakar email contact \"33 867 65 96\" Liberté 6 » — aucune page du bureau, aucun email ; uniquement d'autres entreprises du quartier de Liberté 6",
+        "R3 : « \"77 616 51 23\" OR \"+221 77 616 51 23\" » — aucun résultat rattachant ce mobile au bureau ; le fixe a été cherché avec R2",
+        "R4 : « \"HECOM TECSULT INC\" » (entre guillemets) — aucun résultat pour ce nom ; les deux composants renvoient à des sociétés étrangères distinctes, Tecsult Inc (ingénierie québécoise, rachetée par AECOM en 2008) et Hecom Beijing Technology (logiciel, Chine)",
+        "Étape 4, adresses probables testées : hecom.sn, hecom-tecsult.com, tecsult.sn — toutes en NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : pas de site et aucune page du bureau dans les quatre recherches. Le nom suggère un lien avec Tecsult Inc, bureau d'ingénierie québécois absorbé par AECOM en 2008 — peut-être une ancienne représentation locale — mais rien ne le confirme et aucune coordonnée d'AECOM ou de Tecsult ne lui est attribuée. Restent le fixe (+221) 33 867 65 96 et le mobile (+221) 77 616 51 23, à Liberté 6 Extension."
+    },
+    {
+      "nom": "GROUPE AFRIC ARCHITECTURE CONSEILS",
+      "sigle": "AFRIC ARCHITECTURE CONSEILS",
+      "categorie": "architecture",
+      "type_marches": "inconnu",
+      "responsable": "Wagui DIOP (architecte)",
+      "emails": [
+        "africarchiconseils@yahoo.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 842 03 78",
+      "adresse": "77 Bd DE GAULLE, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Architecture et conseils ; cabinet inscrit au tableau de l'Ordre des architectes du Sénégal (architecte DPLG)",
+      "fiche_url": "https://www.goafricaonline.com/sn/653479-group-afric-architecture-conseils-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.au-senegal.com/IMG/article_PDF/article_a243.pdf",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/653479-group-afric-architecture-conseils-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"GROUPE AFRIC ARCHITECTURE\" Sénégal Dakar De Gaulle » — mène aux annuaires des architectes du Sénégal (au-senegal.com et ordrearchitectes.sn)",
+        "R2 : « \"Afric Architecture\" Dakar email contact \"33 842 03 78\" » — mêmes annuaires d'architectes",
+        "R2 : PDF ouvert et lu : https://www.au-senegal.com/IMG/article_PDF/article_a243.pdf (annuaire des architectes du Sénégal) — entrée « 180-03 Wagui DIOP DPLG-F, BP 4558 DKR RP 77/C Bd Général De Gaulle, 33 842 03 78, africarchiconseils@yahoo.com »",
+        "R3 : PDF ouvert et lu : https://www.ordrearchitectes.sn/sites/default/files/pdf/TABLEAU%20ODAS%20ANNEE%202025%20BIS.pdf (tableau 2025 de l'Ordre) — entrée « 180 2003 Wagui DIOP A DPLG-S Cabinet Wagui Diop Architecture Conseils BP 4558 DKR RP 77/C15 Bd Gén. De Gaulle 33 842 03 78 / 77 644 41 00 » ; ce tableau ne publie pas d'email",
+        "R4 : recherche du nom entre guillemets menée avec R1 et R2 — aucune page propre au cabinet en dehors des annuaires de l'Ordre",
+        "Étape 4, adresses probables testées : africarchiconseils.sn, afric-architecture.sn — NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu dans l'annuaire des architectes du Sénégal. Identité confirmée par trois recoupements : le téléphone 33 842 03 78, l'adresse « RP 77/C Bd Général De Gaulle » qui correspond au « 77 Bd DE GAULLE » de la fiche, et l'intitulé même de l'adresse email (africarchiconseils) qui reprend le nom du cabinet. Le tableau 2025 de l'Ordre rattache ces mêmes coordonnées au « Cabinet Wagui Diop Architecture Conseils » : c'est la même structure, sous un nom d'exercice actualisé, et son mobile est le (+221) 77 644 41 00. Dans le PDF, l'email apparaît coupé par la mise en colonnes (« africarchiconseils @yahoo.com ») ; l'espace est un artefact d'extraction, l'adresse est enregistrée sans espace."
     }
   ]
 }
