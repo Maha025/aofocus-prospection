@@ -173,6 +173,90 @@
       ],
       "statut": "a_verifier",
       "note": "Identité confirmée sans ambiguïté : le site affiche exactement l'adresse de la fiche (Patte d'oie Builders G 24) et ses deux numéros (33 865 25 25 et 33 851 70 71, ce dernier donné comme fax sur la fiche). Les quatre recherches R1 à R4 n'ont pas été nécessaires : le site du bureau a été trouvé et vérifié dès l'étape des adresses probables, et l'email y est lu directement."
+    },
+    {
+      "nom": "PROCTER & GAMBLE SENEGAL",
+      "sigle": "P&G",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 889 22 81 ; Fax : (+221) 33 889 22 79",
+      "adresse": "Rue Colbert Pulmman Teranga, BP 3380, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Filiale sénégalaise du groupe Procter & Gamble (biens de grande consommation)",
+      "fiche_url": "https://www.goafricaonline.com/sn/480037-procter-gamble-bureaux-etudes-conseils-consultants--dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"Procter & Gamble\" Sénégal Dakar bureau contact — confirme l'existence de « Procter & Gamble Senegal S.a.r.l. » (liste des filiales déposée à la SEC) ; les opérations Sénégal sont pilotées depuis le hub de Nairobi",
+        "R2 : \"Procter Gamble Senegal\" Dakar contact email — un extrait de moteur donne une autre adresse dakaroise, Immeuble Jean Lefevre Rue B X 3, Point E, tél +221 33 869 71 00 ; aucun email dakarois, seuls les formulaires de contact mondiaux de pg.com",
+        "R3 : \"33 889 22 81\" Dakar Sénégal — aucune page citant ce numéro",
+        "R4 : \"PROCTER & GAMBLE SENEGAL\" — confirme la filiale sénégalaise et le partenariat UNESCO-P&G au Sénégal, sans coordonnées locales",
+        "Adresses probables : non testées, le groupe a un site connu (pg.com) mais il n'y figure aucune adresse email propre au bureau de Dakar, seulement des formulaires consommateurs mondiaux"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email dakarois trouvé : le groupe ne publie que des formulaires de contact mondiaux. Aucune adresse email générique du groupe n'a été retenue faute de rattachement au bureau de Dakar. L'adresse de la fiche (Rue Colbert, Pullman Teranga) est plus ancienne que celle citée par les moteurs (Immeuble Jean Lefevre, Point E) : à revérifier. Entreprise de grande consommation, classée ici parmi les bureaux d'études par l'annuaire goafricaonline."
+    },
+    {
+      "nom": "PROMO CONSULTING GROUP",
+      "sigle": "GROUPE PROMO CONSULTING",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Mbagnick Diop, président",
+      "emails": [
+        "groupromoconsulting@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 867 67 00 ; (+221) 33 825 02 46",
+      "adresse": "Av Cheikh Anta Diop, Imm Seydi Djamil, 1er étage, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Agence de communication : conseil en communication, marketing stratégique, événementiel, sponsoring, production, régie publicitaire ; créée en 2006",
+      "fiche_url": "https://www.goafricaonline.com/sn/480043-promo-consulting-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.senpages.com/entreprise/groupe-promo-consulting/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"PROMO CONSULTING GROUP\" Dakar Sénégal Seydi Djamil — confirme Groupe Promo Consulting, Av Cheikh Anta Diop, Imm Seydi Djamil, 1er étage, tél (+221) 33 825 02 46, président Mbagnick Diop ; site annoncé groupe-promoconsulting.com",
+        "R2 : \"Promo Consulting\" Dakar contact email Sénégal — conduit à la fiche senpages et au site groupe-promoconsulting.com",
+        "R3 : \"33 867 67 00\" OR \"33 825 02 46\" Dakar — aucune page citant directement ces numéros hors annuaires",
+        "R4 : \"PROMO CONSULTING GROUP\" — confirme l'agence sénégalaise (fondée en 2006) parmi des homonymes américains et allemands",
+        "Page ouverte : https://www.senpages.com/entreprise/groupe-promo-consulting/ — fiche « Groupe Promo Consulting », agence de communication de Dakar, email groupromoconsulting@gmail.com lu tel quel, adresse indiquée Zone Industrielle Sodida lot 56 Bis",
+        "Pages ouvertes sans succès : https://www.groupe-promoconsulting.com/ et /contact/ — domaine ne résolvant plus ; https://groupepromoconsulting.com/ — erreur critique WordPress ; https://www.africabizinfo.com/SN/promo-consulting_2R-33-825-02-46 — bloqué par Cloudflare (non contourné)"
+      ],
+      "statut": "a_verifier",
+      "note": "Rapprochement fondé sur le nom (PROMO CONSULTING GROUP / Groupe Promo Consulting) et la ville (Dakar) : la recherche R1 relie bien l'adresse et le téléphone de la fiche à ce groupe. La fiche senpages qui porte l'email indique toutefois une autre adresse (Zone Industrielle Sodida lot 56 Bis), probablement un déménagement : correspondance à confirmer. Le site groupe-promoconsulting.com est hors service, d'où site_web laissé vide."
+    },
+    {
+      "nom": "MORIBRA",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 218 49 77",
+      "adresse": "Hlm Paris n° 70 Guédiawaye, Dakar - Sénégal",
+      "ville": "Guédiawaye (Dakar)",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480045-moribra-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"MORIBRA\" Guédiawaye Dakar Sénégal — aucun résultat pour une structure de ce nom à Guédiawaye",
+        "R2 : \"Moribra\" Dakar contact email — trouve moribra.com, négoce de matières premières agricoles (bissap, baobab), à Tivaouane / Champ de courses Thiès, tél +221 77 634 76 25 et 76 325 68 79, email contact@moribra.com",
+        "R3 : \"77 218 49 77\" Sénégal — aucune page citant ce numéro",
+        "R4 : \"MORIBRA\" — mêmes résultats : uniquement l'entreprise agricole de Tivaouane",
+        "Page ouverte : https://www.moribra.com/ — négoce de produits agricoles, localisation Tivaouane / Thiès"
+      ],
+      "statut": "a_verifier",
+      "note": "Doute sur l'identité : la seule MORIBRA trouvée est un négociant de matières premières agricoles basé à Tivaouane (région de Thiès), avec des téléphones et une ville différents de la fiche (Hlm Paris n° 70, Guédiawaye, Dakar, 77 218 49 77) et une activité sans rapport avec un bureau d'études. Ni site ni email attribué. L'adresse contact@moribra.com existe mais appartient à cette autre entreprise : à revérifier s'il s'agit du même groupe."
     }
   ]
 }
