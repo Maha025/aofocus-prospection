@@ -367,6 +367,60 @@
       ],
       "statut": "a_verifier",
       "note": "Email lu sur la page « Senegal » du site officiel, atteinte depuis l'accueil puis confirmée par recherche web. Identité confirmée sans réserve : l'adresse de la page Sénégal est mot pour mot celle de la fiche (10627 Sacré Cœur 3 Pyrotechnie, BP 47229 Dakar-Liberté) et trois des quatre téléphones de la fiche y figurent. info-sen@sylversys.com est l'adresse dédiée au bureau sénégalais."
+    },
+    {
+      "nom": "SUD SERVICES CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 860 34 61 ; (+221) 77 638 70 16",
+      "adresse": "Cité El Hadji Malick Sy, BP 14 Dakar-Fann, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/638198-sud-services-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/638198-sud-services-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"SUD SERVICES CONSULTING\" Sénégal Dakar » — aucun résultat concernant ce bureau ; autres sociétés dakaroises (Nord Sud Technology Services, SCS Consulting, SAND Consulting, ARUO Services)",
+        "R2 : « \"Sud Services Consulting\" Dakar email contact \"33 860 34 61\" OR \"77 638 70 16\" » — aucune page du bureau, aucun email ; résultats sans rapport (ARTP, ambassades, aeroleads)",
+        "R3 : recherche sur « 33 860 34 61 » et « 77 638 70 16 » (format +221 inclus, menée avec R2) — aucun résultat rattachant ces numéros au bureau",
+        "R4 : « \"SUD SERVICES CONSULTING\" » (entre guillemets) — uniquement des homonymes étrangers : SUD Consulting LLC et SUD Consulting Services (États-Unis), Süd Consulting (Allemagne), Sud Consulting (Italie), cabinets américains spécialisés dans les addictions",
+        "Étape 4, adresses probables testées (résolution DNS) : sudservicesconsulting.com, sudservicesconsulting.sn, sudservices.sn — NXDOMAIN ; ssc.sn résout mais ne répond pas (503) et rien ne le rattache à ce bureau : non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : la fiche n'annonce aucun site et les quatre recherches ne donnent aucune page propre au bureau. Le nom attire surtout des homonymes américains, allemands et italiens, sans rapport. Restent le fixe (+221) 33 860 34 61 et le mobile (+221) 77 638 70 16, plus l'adresse Cité El Hadji Malick Sy."
+    },
+    {
+      "nom": "SENEGAL ENGINEERING",
+      "sigle": "",
+      "categorie": "btp",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 337 08 42",
+      "adresse": "Zone Ouest Foire, Route de l'aéroport, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/640193-engineering-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/640193-engineering-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « \"SENEGAL ENGINEERING\" Ouest Foire Dakar bureau études » — aucune page du bureau ; autres bureaux d'études sénégalais (TEG, E.TE.C.S, Sahel Ingénierie, SAS Ingénierie)",
+        "R2 : « \"Senegal Engineering\" Dakar email contact \"77 337 08 42\" » — aucune page du bureau ; résultats sur d'autres sociétés (SADE, AFRY, Egis, SEN-ENGINEERING INTERNATIONAL, EES)",
+        "R3 : recherche sur « 77 337 08 42 » (format +221 inclus, menée avec R2) — aucun résultat rattachant ce numéro au bureau",
+        "R4 : « \"SENEGAL ENGINEERING\" » (entre guillemets) — uniquement des pages génériques sur le secteur de l'ingénierie au Sénégal (coresignal, zoominfo, lusha, LinkedIn Jobs, écoles d'ingénieurs), aucune page de cette société",
+        "Étape 4, adresses probables testées (résolution DNS) : senegalengineering.com, senegalengineering.sn, senegal-engineering.com, senegal-engineering.sn — toutes en NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : ni site sur la fiche, ni page du bureau dans les quatre recherches. Le nom, très générique, ne ramène que des pages sur le secteur de l'ingénierie au Sénégal. Attention : la fiche est enregistrée sous l'URL « 640193-engineering… » alors que le nom affiché est « SENEGAL ENGINEERING ». Seul le mobile (+221) 77 337 08 42 est exploitable."
     }
   ]
 }
