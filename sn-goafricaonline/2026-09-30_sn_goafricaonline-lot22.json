@@ -149,6 +149,140 @@
       ],
       "statut": "a_verifier",
       "note": "Emails lus dans le tableau 2023 de l'Ordre national des Experts du Sénégal. Identité confirmée par trois recoupements avec la fiche : même boîte postale BP 8277, même numéro 33.820.26.75, et le domaine sceaexperts.com est exactement celui du bouton « Site web » de la fiche. Le site officiel est hors service (erreur Cloudflare 1001), aucun email n'a donc pu y être lu. Responsable Abdoulaye DIAW déduit des adresses adiaw@ et diawscea@ et de son inscription au tableau de l'ONES. L'adresse indiquée par l'ONES (Patte d'Oie Builders) diffère de celle de la fiche (13 Nord Foire) : même BP, probablement un second bureau ou un déménagement ; l'adresse de la fiche est conservée telle quelle. Aucune adresse générique (contact@, info@) publiée : adiaw@sceaexperts.com placée en premier car sur le domaine propre du bureau."
+    },
+    {
+      "nom": "SC (SENE CONSULTING)",
+      "sigle": "SC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 848 47 01",
+      "adresse": "Rue 176 HB, Hann Bel-Air, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480533-sc-sene-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480533-sc-sene-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers http://www.sene-consulting.com, aucune activité décrite, aucun email",
+        "Tentative d'ouverture de http://www.sene-consulting.com : échec, le domaine ne résout plus (NXDOMAIN)",
+        "R1 : « \"SENE CONSULTING\" Sénégal Hann Bel-Air Dakar » — aucun résultat concernant ce bureau ; uniquement des pages sur le quartier de Hann Bel-Air",
+        "R2 : « \"Sene Consulting\" Dakar email contact sene-consulting » — aucune page du bureau ; résultats sur des personnes nommées Sène (zoominfo, rocketreach) et sur SEN-ENGINEERING INTERNATIONAL, qui est une autre société",
+        "R3 : « \"77 848 47 01\" OR \"+221 77 848 47 01\" » — aucun résultat rattachant ce numéro au bureau",
+        "R4 : « \"SC (SENE CONSULTING)\" » (entre guillemets) — aucune page du bureau ; homonymes étrangers (SC Consulting Group, SC Consultants, SEN Consulting Vietnam)",
+        "Étape 4, adresses probables testées (résolution DNS) : sene-consulting.com, www.sene-consulting.com, sene-consulting.sn, seneconsulting.com, seneconsulting.sn — toutes en NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : le domaine annoncé sur la fiche ne résout plus et les quatre recherches ne donnent aucune page du bureau. Seul le mobile (+221) 77 848 47 01 est exploitable."
+    },
+    {
+      "nom": "SMCONSULTING",
+      "sigle": "SMConsulting",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Salim Camara",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 945 54 02 (service commercial) ; (+221) 77 166 73 77 (secrétariat de direction)",
+      "adresse": "B.P 32000, Saint-Louis - Sénégal",
+      "ville": "Saint-Louis",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Cabinet d'études et de conseils, centre de formation et de perfectionnement des leaders ; ingénierie du conseil et de la formation pour les entreprises, les collectivités territoriales et l'administration",
+      "fiche_url": "https://www.goafricaonline.com/sn/568324-smconsulting-bureaux-etudes-conseils-consultants-saint-louis-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/568324-smconsulting-bureaux-etudes-conseils-consultants-saint-louis-senegal — aucun bouton « Site web », aucun lien externe, aucun email ; activités décrites par le bureau",
+        "R1 : « SMConsulting cabinet Saint-Louis Sénégal conseil formation » — aucune page du bureau ; résultats sur d'autres cabinets (aninver, ccarree, nexpages, bmn.sn) et sur SM Consulting Tunisie (smconsulting.tn), qui est une autre société",
+        "R2 : « \"SMConsulting\" OR \"SM Consulting\" Saint-Louis Sénégal email contact » — uniquement des homonymes étrangers (Thaïlande smconsulting.co.th, États-Unis smconsulting.us, Royaume-Uni, Inde smconsulting.in) ; aucun email sénégalais",
+        "R3 : « \"77 945 54 02\" OR \"77 166 73 77\" » — aucun résultat rattachant ces numéros au bureau",
+        "R4 : « \"SMCONSULTING\" Sénégal » — un profil LinkedIn « Salim Camara - Fondateur & Président - SMConsulting » et la page des professionnels de goafricaonline ; LinkedIn non ouvert (page de connexion requise)",
+        "Étape 4, adresses probables testées (résolution DNS) : smconsulting.sn, smconsulting-sn.com — NXDOMAIN ; smconsulting.com résout mais ne répond pas (503) et rien ne le rattache au Sénégal : non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : le bureau n'a pas de site sur sa fiche et les quatre recherches ne donnent aucune page à lui. Responsable Salim Camara relevé dans le titre d'un profil LinkedIn le présentant comme fondateur et président de SMConsulting ; le profil lui-même n'a pas été ouvert (LinkedIn exige une connexion), à confirmer donc. Le domaine smconsulting.com existe mais rien ne l'associe à ce cabinet sénégalais : ni site ni email ne lui sont attribués. Restent deux mobiles, dont un dédié au service commercial."
+    },
+    {
+      "nom": "SAINT-LOUIS MANAGEMENT & CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "",
+      "adresse": "Saint-louis corniche, Saint-Louis - Sénégal",
+      "ville": "Saint-Louis",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Conseils et consultance",
+      "fiche_url": "https://www.goafricaonline.com/sn/580863-saint-louis-management-consulting-bureaux-etudes-conseils-consultants-saint-louis-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/580863-saint-louis-management-consulting-bureaux-etudes-conseils-consultants-saint-louis-senegal — aucun bouton « Site web », aucun lien externe, aucun téléphone affiché (la fiche indique seulement « +00221 »), aucun email ; activité décrite « Conseils et consultance »",
+        "R1 : « \"SAINT-LOUIS MANAGEMENT\" Consulting Sénégal » — aucune page du bureau ; résultats sur d'autres structures (dai.com, scl.sn, bmn.sn qui liste un « SAINT LOUIS AUDIT ET CONSEIL », société différente)",
+        "R2 : « \"Saint-Louis Management & Consulting\" email contact corniche Saint-Louis Sénégal » — aucune page du bureau ; résultats sur la Résidence La Corniche et des pages géographiques",
+        "R3 : aucun téléphone sur la fiche",
+        "R4 : « \"SAINT-LOUIS MANAGEMENT & CONSULTING\" » (entre guillemets) — uniquement des cabinets de Saint Louis dans le Missouri (États-Unis), aucun résultat sénégalais",
+        "Étape 4, adresses probables testées (résolution DNS) : saintlouismanagement.com, saint-louis-management.com, slmc.sn, slmanagement.sn — toutes en NXDOMAIN"
+      ],
+      "statut": "a_verifier",
+      "note": "Fiche très pauvre : ni téléphone, ni site, ni email. Les quatre recherches ne donnent aucune page propre au bureau, et le nom attire surtout des cabinets de Saint Louis (Missouri) aux États-Unis, qui n'ont aucun rapport. Seule l'adresse « Saint-Louis corniche » est exploitable ; ce bureau est peu prioritaire pour la prospection en l'état."
+    },
+    {
+      "nom": "SYNERGIE ENVIRONNEMENT",
+      "sigle": "",
+      "categorie": "environnement",
+      "type_marches": "inconnu",
+      "responsable": "Amath Dior MBAYE",
+      "emails": [
+        "synergie09@orange.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 867 28 25",
+      "adresse": "Liberté 6 Extension face SAMU municipal, 2ème étage, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://synergiesen.com",
+      "site_source": "recherche web",
+      "specialite": "Bureau d'études agréé pour les études d'impact sur l'environnement : évaluation environnementale et sociale, études préalables, audits de conformité et suivi environnemental des chantiers",
+      "fiche_url": "https://www.goafricaonline.com/sn/592485-synergie-environnement-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://synergiesen.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592485-synergie-environnement-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucun email ; la fiche précise que la société figure sur la liste des bureaux d'études agréés pour les études d'impact sur l'environnement",
+        "R1 : « SYNERGIE ENVIRONNEMENT Sénégal bureau études agréé impact environnemental » — site du bureau trouvé : https://synergiesen.com/ ; autres résultats : denv.gouv.sn (liste des bureaux d'études et consultants agréés), senpages.com, senegalservices.sn",
+        "Site ouvert : https://synergiesen.com/ — email synergie09@orange.sn, tél +221 33 867 28 25 et +221 77 633 00 75, siège CICES Foire Dakar, antenne à Kédougou, fondateur Amath Dior MBAYE, consultant agréé depuis 2003, cabinet actif depuis 2009"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page d'accueil du site du bureau, trouvé par recherche web (la fiche goafrica n'indiquait aucun site). Identité confirmée par le téléphone : le +221 33 867 28 25 du site est exactement celui de la fiche. Le site annonce un siège au CICES Foire alors que la fiche indique Liberté 6 Extension face SAMU municipal : l'adresse de la fiche est conservée telle qu'affichée, le bureau a probablement déménagé. Second numéro relevé sur le site : +221 77 633 00 75. R2 à R4 non nécessaires : l'email a été trouvé sur le site du bureau dès la première recherche."
+    },
+    {
+      "nom": "SOTERCO-SOCIETE D'EDUDES DE REALISATION ET D'INGENIERIE CONSEILS",
+      "sigle": "SOTERCO",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@groupesoterco.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 832 26 35 ; (+221) 77 519 39 07",
+      "adresse": "R31, Cité Immo 2000, Scat Urbam Hann Maristes 2, BP 27289, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "http://www.groupesoterco.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études en ingénierie conseil : études socio-économiques, aménagements hydro-agricoles, infrastructures d'eau et d'assainissement, développement de systèmes informatiques ; 17 ans d'expérience, interventions dans plus de 15 pays",
+      "fiche_url": "https://www.goafricaonline.com/sn/592558-soterco-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://groupesoterco.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592558-soterco-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers http://www.groupesoterco.com, aucun email sur la fiche",
+        "Site ouvert : http://www.groupesoterco.com (accueil) — email contact@groupesoterco.com, tél +221 33 832 26 35, adresse « R31, Cité Immo 2000, Scat Urbam Hann Maristes 2, Dakar – Sénégal », activités décrites",
+        "Page contact ouverte : https://groupesoterco.com/contact/ — « N'hésitez pas à nous écrire à : contact@groupesoterco.com »"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site officiel. Identité confirmée : même adresse (R31 Cité Immo 2000, Scat Urbam Hann Maristes 2) et même téléphone que la fiche. Le nom est repris tel qu'écrit sur la fiche, avec la coquille « EDUDES » pour « ETUDES ». R1 à R4 non nécessaires : l'email a été trouvé sur le site du bureau."
     }
   ]
 }
