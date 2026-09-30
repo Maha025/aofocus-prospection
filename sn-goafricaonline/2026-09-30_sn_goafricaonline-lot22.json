@@ -283,6 +283,90 @@
       ],
       "statut": "a_verifier",
       "note": "Email lu sur la page contact du site officiel. Identité confirmée : même adresse (R31 Cité Immo 2000, Scat Urbam Hann Maristes 2) et même téléphone que la fiche. Le nom est repris tel qu'écrit sur la fiche, avec la coquille « EDUDES » pour « ETUDES ». R1 à R4 non nécessaires : l'email a été trouvé sur le site du bureau."
+    },
+    {
+      "nom": "SENTECH (SERVICES ENVIRONNEMENT TECHNOLOGIES)",
+      "sigle": "SENTECH",
+      "categorie": "environnement",
+      "type_marches": "inconnu",
+      "responsable": "El Hadji Mamadou Sankharé (Directeur Général)",
+      "emails": [
+        "emasank@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 827 05 11 ; (+221) 76 538 57 65",
+      "adresse": "Nord Foire, BP 11500 Dakar, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.sentechsn.com",
+      "site_source": "recherche web",
+      "specialite": "Bureau d'ingénierie et de conseil en protection de l'environnement et gestion des risques (démarche HSE) ; équipements de laboratoire, sécurité incendie, nettoyage industriel ; certifié ISO 9001",
+      "fiche_url": "https://www.goafricaonline.com/sn/592603-sentech-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://bdd.pseau.org/outils/organismes/organisme_detail.php?org_organisme_id=35757&l=fr",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592603-sentech-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite, aucun email",
+        "R1 : « SENTECH \"Services Environnement Technologies\" Sénégal » — site du bureau trouvé : https://www.sentechsn.com/ ; autres résultats : developmentaid.org, pseau.org, senpages.com, piaafrica.com, preventica-africa.com",
+        "Site ouvert : https://www.sentechsn.com/ (accueil) — aucun email ; puis https://www.sentechsn.com/contact/ — formulaire de contact et widget WhatsApp uniquement, aucune adresse affichée ; puis https://www.sentechsn.com/sentech_propos_environnement_securite/ (à propos) — tél +221 33 827 05 11 et +221 77 271 00 00, adresse « Dakar SN, Dakar, Dakar 11500 », aucun email",
+        "R2 : « \"SENTECH\" Dakar \"33 827 05 11\" OR \"76 538 57 65\" email » — mène à pseau.org et annuaire-senegal.com",
+        "R2 : page ouverte https://bdd.pseau.org/outils/organismes/organisme_detail.php?org_organisme_id=35757&l=fr — fiche « Services Environnement Technologies (SENTECH) », Dakar, Sénégal : email emasank@gmail.com, tél 00221 77 562 89 65, directeur général El Hadji Mamadou Sankharé",
+        "R2 : pages ouvertes sans email — https://www.annuaire-senegal.com/nettoyage/nettoyage-industriel-et-professionnel/sentech-services-environnement-technologies-s159927.html (tél 338270511 / 765385765, Cité Keur Damel Dakar), https://www.piaafrica.com/fr/senegal/environnement/38395-sentech-services-environnement-technologies, https://www.senpages.com/entreprise/sentech-services-environnement-technologies/ (N°58 Nord Foire / Azur 1, Dakar)",
+        "R3 : recherche sur « 33 827 05 11 » et « 76 538 57 65 » (format +221 inclus) — confirme le rattachement à SENTECH sur annuaire-senegal.com et piaafrica.com, aucun email",
+        "R4 : « \"SENTECH (SERVICES ENVIRONNEMENT TECHNOLOGIES)\" » (entre guillemets) — developmentaid.org, zoominfo, odoo.com, LinkedIn (non ouvert, connexion requise), pseau.org ; confirme El Hadji Mamadou Sankharé comme directeur général et le site sentechsn.com",
+        "Étape 4, adresses probables testées : sentech.sn et www.sentech.sn résolvent mais la page ne renvoie que « No forwarding set for sentech.sn » (domaine parqué), donc l'adresse sentech@sentech.sn citée par un moteur n'est lisible sur aucune page ; sentechsn.com est bien le site du bureau"
+      ],
+      "statut": "a_verifier",
+      "note": "Site identifié avec certitude : le à-propos de sentechsn.com affiche le même téléphone (+221 33 827 05 11) et la même boîte postale (11500) que la fiche, mais ce site ne publie aucune adresse email, seulement un formulaire. Le seul email lu sur une page est emasank@gmail.com, sur la fiche d'organisme du pS-Eau. Réserve à signaler : ce répertoire donne pour SENTECH un mobile (77 562 89 65) qui ne figure pas sur la fiche goafrica ; le rattachement repose donc sur le nom exact « Services Environnement Technologies (SENTECH) », la ville (Dakar) et surtout le nom du directeur général, El Hadji Mamadou Sankharé, que developmentaid et zoominfo donnent aussi comme DG de ce SENTECH. Il s'agit d'une adresse personnelle du dirigeant, pas d'une adresse générique."
+    },
+    {
+      "nom": "SEMIS (SERVICES DE L'ENERGIE EN MILIEU SAHELIEN)",
+      "sigle": "SEMIS",
+      "categorie": "energie",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "dgsemis@semis.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 832 73 97 ; (+221) 33 832 61 89 ; Fax : (+221) 33 832 61 89",
+      "adresse": "Espace Résidence, Hann Mariste 1 421, BP 652, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.semis.sn/",
+      "site_source": "fiche goafrica",
+      "specialite": "Services de l'énergie en milieu sahélien : études et services dans le domaine de l'énergie",
+      "fiche_url": "https://www.goafricaonline.com/sn/592635-semis-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.semis.sn/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592635-semis-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers https://www.semis.sn/, aucune activité décrite, aucun email",
+        "Site ouvert : https://www.semis.sn/ — email dgsemis@semis.sn, tél (221) 33 832 73 97, fax (221) 33 832 61 89, adresse « Espace Résidence, Hann Mariste 1421 BP 652 Dakar RP »"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page d'accueil du site officiel. Identité confirmée : mêmes téléphone, fax et adresse (Espace Résidence Hann Mariste, BP 652) que la fiche. R1 à R4 non nécessaires : l'email a été trouvé sur le site du bureau."
+    },
+    {
+      "nom": "SYLVERSYS CONSULTING SENEGAL",
+      "sigle": "SYLVERSYS",
+      "categorie": "informatique",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info-sen@sylversys.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 839 70 17 ; (+221) 33 825 35 19 ; (+221) 76 640 11 93 ; (+221) 76 640 19 64",
+      "adresse": "10627 SACRE COEUR 3 PYROTECHNIE, BP 47229 DAKAR-LIBERTE, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "http://www.sylversys.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil et services professionnels : stratégie, conseil, digital, technologie et opérations ; sécurité d'entreprise, infrastructures informatiques et solutions métier ; filiale sénégalaise de SYLVERSYS Consulting International (Burkina Faso, Côte d'Ivoire, Ghana, Mali, Sénégal, Royaume-Uni, États-Unis)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592679-sylversys-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.sylversys.com/contact/senegal/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592679-sylversys-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » vers http://www.sylversys.com, aucune activité décrite, aucun email",
+        "Site ouvert : http://www.sylversys.com (accueil) — aucun email, liste des pays d'implantation dont le Sénégal ; puis https://www.sylversys.com/contact/ — aucune coordonnée, renvoi vers les pages par pays",
+        "R2 : « Sylversys Consulting Senegal Dakar contact email \"sylversys.com\" » — mène à la page Sénégal du site",
+        "Page ouverte : https://www.sylversys.com/contact/senegal/ — email info-sen@sylversys.com, tél +221 33 825 35 19, +221 76 640 11 93 et +221 76 640 19 64, adresse « 10627 SACRE COEUR 3 PYROTECHNIE BP 47229 DAKAR-LIBERTE DAKAR, SENEGAL »"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page « Senegal » du site officiel, atteinte depuis l'accueil puis confirmée par recherche web. Identité confirmée sans réserve : l'adresse de la page Sénégal est mot pour mot celle de la fiche (10627 Sacré Cœur 3 Pyrotechnie, BP 47229 Dakar-Liberté) et trois des quatre téléphones de la fiche y figurent. info-sen@sylversys.com est l'adresse dédiée au bureau sénégalais."
     }
   ]
 }
