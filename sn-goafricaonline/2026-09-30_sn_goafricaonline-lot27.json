@@ -233,6 +233,58 @@
       ],
       "statut": "a_verifier",
       "note": "Piste à reprendre : un extrait de moteur cite serim@orange.sn avec la BP et le téléphone de la fiche, mais la page source (snyello) ne répond pas et yelu masque l'email derrière un abonnement. Adresse non lue sur une page, donc non retenue."
+    },
+    {
+      "nom": "SENIA CONSEIL SARL (SENEGALAISE D'INGENIERIE ET D'ASSISTANCE CONSEIL)",
+      "sigle": "SENIA CONSEIL",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 855 95 10 ; Fax : (+221) 33 855 95 20",
+      "adresse": "A 63 Patte d'Oie Bulders, BP 37190 grd yoff, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Ingénierie et assistance conseil (SARL)",
+      "fiche_url": "https://www.goafricaonline.com/sn/479974-senia-conseil-bureaux-etudes-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 et R2 : \"SENIA CONSEIL\" \"Sénégalaise d'Ingénierie et d'Assistance Conseil\" Dakar email — la société est confirmée (A 63 Patte d'Oie Bulders, BP 37190, tél 33 855 95 10, mêmes coordonnées que la fiche), mais aucun email n'est publié par les annuaires trouvés",
+        "R3 : \"33 855 95 10\" Dakar Sénégal — aucune page citant ce numéro",
+        "R4 : \"SENIA CONSEIL\" — aucun résultat pour cette société ; uniquement des entreprises françaises portant le patronyme Senia et SENIA Consultants (réseau scolaire)",
+        "Adresses probables testées : seniaconseil.sn, seniaconseil.com, senia-conseil.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après recherche complète. Les coordonnées de la fiche sont corroborées par les annuaires, mais aucun d'eux ne publie d'adresse email."
+    },
+    {
+      "nom": "SCI DIATTA (SOCIETE CIVILE IMMOBILIERE DIATTA)",
+      "sigle": "SCI DIATTA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 821 59 26 ; Fax : (+221) 33 821 83 18",
+      "adresse": "Avenue Albert Sarraut, BP 2507, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Société civile immobilière",
+      "fiche_url": "https://www.goafricaonline.com/sn/479975-sci-diatta-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 et R2 : \"SCI DIATTA\" \"Société Civile Immobilière Diatta\" Dakar email Albert Sarraut — le répertoire des entreprises du Sénégal mentionne une SCI « DIATAA » au 8851 Sacré Cœur 3, BP 3298 Dakar, RC 17501 A : adresse et BP différentes de la fiche, donc rapprochement non retenu ; aucun email",
+        "R3 : \"33 821 59 26\" Dakar Sénégal — un extrait attribue ce numéro au Cabinet Médical Dr Gérard Drai (Immeuble Aline Sitoé, 60 Avenue Ponty) : information contradictoire, non retenue",
+        "R4 : \"SCI DIATTA\" Sénégal — aucun résultat pour cette société ; homonymes personnels et toponymes seulement",
+        "Adresses probables testées : scidiatta.sn et scidiatta.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après recherche complète. Une SCI « DIATAA » apparaît au répertoire des entreprises mais à une autre adresse (Sacré Cœur 3, BP 3298) : identité non confirmée, rien ne lui a été attribué."
     }
   ]
 }
