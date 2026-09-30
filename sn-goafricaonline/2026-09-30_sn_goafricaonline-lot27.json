@@ -146,6 +146,93 @@
       ],
       "statut": "a_verifier",
       "note": "Identité confirmée : le téléphone 77 450 03 60 affiché sur le site est exactement celui de la fiche. Adresse d'entreprise (q.e.s@orange.sn) placée avant l'adresse nominative (ndawaziz@yahoo.fr)."
+    },
+    {
+      "nom": "SASIF (SOCIETE AFRICAINE SONDAGES INJECTIONS FORAGES)",
+      "sigle": "SASIF",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "M. Yves Perilhou, directeur général",
+      "emails": [
+        "sasifdkr@orange.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 832 65 34 ; (+221) 33 832 63 85 ; (+221) 77 638 64 75 ; Fax : (+221) 33 832 62 08",
+      "adresse": "Km 3,5 Boulevard du Centenaire, BP 900 Dakar, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Société anonyme spécialisée dans l'étude de forages et les travaux publics : sondages, injections, forages",
+      "fiche_url": "https://www.goafricaonline.com/sn/479949-sasif-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.nexpages.com/phonebook/societe-africaine-sondages-injections-forages-sasif-senegal-4917",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"SASIF\" \"Société Africaine de Sondages Injections Forages\" Dakar Sénégal — société anonyme de forages et travaux publics, Km 3,5 Boulevard du Centenaire, DG M. Yves Perilhou",
+        "Page ouverte : https://www.nexpages.com/phonebook/societe-africaine-sondages-injections-forages-sasif-senegal-4917 — email sasifdkr@orange.sn lu tel quel, avec tél +221 338 32 65 34 / 338 32 63 85, fax 338 32 62 08, Km 3,5 Boulevard du Centenaire, BP 900 Dakar",
+        "Page ouverte : https://www.senpages.com/entreprise/societe-africaine-sondages-injections-forages/ — même adresse ; aucun email",
+        "Adresses probables testées : sasif.sn et sasif.com — aucune ne répond",
+        "R2 à R4 non nécessaires : l'email a été trouvé et lu dès la première recherche, sur une page dont l'adresse, les deux téléphones et le fax correspondent exactement à la fiche"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée sans ambiguïté : adresse, BP, deux téléphones et fax identiques à ceux de la fiche."
+    },
+    {
+      "nom": "SENES (SENES MANAGEMENT ENGINEERING CONSULTANCY)",
+      "sigle": "SENES",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "El-hadji Habib Dieme, président du conseil de gestion",
+      "emails": [
+        "senes@senesgroupe.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 01 51 ; (+221) 33 836 86 06 ; (+221) 33 864 51 04 ; (+221) 77 369 95 15 ; Fax : (+221) 33 836 86 07 ; (+221) 33 864 51 02",
+      "adresse": "6, Résidences Sançu Jeynaba Route de Kounoune, BP 5393 Fann, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "http://www.senesgroupe.com",
+      "site_source": "recherche web",
+      "specialite": "SARL de conseil en management et en ingénierie urbaine et industrielle ; le groupe porte aussi l'Institut Polytechnique de Kounoune (IPK)",
+      "fiche_url": "https://www.goafricaonline.com/sn/479950-senes-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.nexpages.com/phonebook/senes-management-engineering-consultancy-senegal-4918",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"SENES\" \"MANAGEMENT ENGINEERING CONSULTANCY\" Dakar Sénégal email — fiche nexpages avec email senes@senesgroupe.com, site www.senesgroupe.com, président El-hadji Habib Dieme ; le groupe apparaît aussi via senesgroupe.sn (Institut Polytechnique de Kounoune)",
+        "Page ouverte : https://www.nexpages.com/phonebook/senes-management-engineering-consultancy-senegal-4918 — email senes@senesgroupe.com lu tel quel, avec tél +221 338 36 86 06 et 773 69 95 15, fax 338 36 86 07, adresse 6 Résidences Sançu Jeynaba Route de Kounoune, BP 5393 Dakar Fann",
+        "Page ouverte (tentative) : https://www.senesgroupe.sn/ — ne répond pas",
+        "Adresses probables testées : senes.sn et senesmec.com — aucune ne répond",
+        "R2 à R4 non nécessaires : l'email a été trouvé et lu dès la première recherche, sur une page dont l'adresse, la BP, deux téléphones et un fax correspondent exactement à la fiche"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée sans ambiguïté (adresse, BP, téléphones et fax identiques à la fiche). Le site senesgroupe.com annoncé par l'annuaire n'a pas été chargé, d'où l'absence de preuve_url sur le site propre du bureau ; l'email est lu sur la fiche nexpages."
+    },
+    {
+      "nom": "SERIM AFRIQUE",
+      "sigle": "SERIM",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 821 16 62 ; (+221) 33 867 73 73",
+      "adresse": "16, Avenue L. S. Senghor, BP 2451 Dakar, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/479953-serim-afrique-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 et R2 : \"SERIM AFRIQUE\" Dakar Sénégal contact email — un extrait de moteur, issu de snyello.com, cite serim@orange.sn avec BP 2451 Dakar, tél (221) 33 821 16 62 et fax (221) 33 821 20 33, ce qui recoupe la fiche",
+        "R3 : \"33 821 16 62\" OR \"33 867 73 73\" Dakar — aucune page citant directement ces numéros",
+        "R4 : \"SERIM AFRIQUE\" — aucun résultat pour cette société ; seule SERIM (Société d'Études et de Recherches Industrielles du Mali), entité malienne distincte",
+        "Page ouverte sans succès : http://www.snyello.com/company/12391/Serim_Afrique — ne répond pas",
+        "Page ouverte : https://www.yelu.sn/company/12391/Serim_Afrique — BP 2451 Dakar, tél (221) 33 821 16 62, fax (221) 33 821 20 33 confirmés, mais l'email est masqué derrière un abonnement (Data Hub)",
+        "Page ouverte (tentative) : https://www.nexpages.com/phonebook/serim-afrique-senegal — page inexistante",
+        "Adresses probables testées : serimafrique.sn et serimafrique.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Piste à reprendre : un extrait de moteur cite serim@orange.sn avec la BP et le téléphone de la fiche, mais la page source (snyello) ne répond pas et yelu masque l'email derrière un abonnement. Adresse non lue sur une page, donc non retenue."
     }
   ]
 }
