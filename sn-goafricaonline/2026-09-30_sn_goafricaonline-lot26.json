@@ -450,6 +450,63 @@
       ],
       "statut": "a_verifier",
       "note": "Le bureau avait déclaré un site Google Business, mais celui-ci renvoie une erreur 404 : plus aucune page à lire, donc aucun email et site_web laissé vide. Tous les autres « Nissi Consulting » trouvés sont étrangers."
+    },
+    {
+      "nom": "OECONOMIA EXPERTISE",
+      "sigle": "OECONOMIA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Thomas Engels, directeur général",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 117 59 64 ; Fax : (+221) 33 864 58 27",
+      "adresse": "Lot 13 Cité CESPI Mamelles Aviation, Mamelles Ouakam, BP 24517, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://oeconomia-expertise.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études en économie et financement de la santé : financement des systèmes de santé, analyse économique (études de coûts, coût-efficacité, coût-bénéfice), gestion hospitalière, formulation et évaluation de projets, enquêtes et recherche opérationnelle ; créé en 2018 avec l'AEDES",
+      "fiche_url": "https://www.goafricaonline.com/sn/592525-oeconomia-expertise-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : bouton « Site web » présent, pointant vers https://oeconomia-expertise.com/fr ; aucun email sur la fiche",
+        "Page ouverte : https://oeconomia-expertise.com/fr — accueil, présentation du bureau ; aucun email",
+        "Page ouverte : https://oeconomia-expertise.com/fr/nous-contacter — page contact officielle : adresse OECONOMIA EXPERTISE SARL, Lot 13 Cité CESPI Mamelles Aviation, Mamelles Ouakam, BP 24517, Dakar ; mobile +221 78 117 59 64, fixe +221 33 864 58 27 ; AUCUNE adresse email publiée, seulement un formulaire",
+        "Page ouverte : https://oeconomia-expertise.com/nous-contacter — version anglaise de la page contact, mêmes coordonnées, aucun email",
+        "Pages ouvertes (tentatives) : https://oeconomia-expertise.com/fr/contact et /fr/a-propos/notre-equipe — 404",
+        "R1 : \"OECONOMIA EXPERTISE\" Sénégal Dakar — confirme le bureau, adresse identique à la fiche, DG Thomas Engels, créé en 2018 avec l'AEDES",
+        "R2 : \"Oeconomia Expertise\" Dakar email contact santé — aucun email trouvé, les sources ne donnent que téléphone et adresse",
+        "R3 : \"78 117 59 64\" OR \"33 864 58 27\" Dakar — aucune page citant ces numéros hors du site du bureau",
+        "R4 : \"OECONOMIA EXPERTISE\" — confirme le bureau et son dirigeant ; aucun email"
+      ],
+      "statut": "a_verifier",
+      "note": "Bureau bien identifié (site officiel confirmé par la fiche et par l'adresse identique), mais il ne publie aucune adresse email : sa page contact ne propose qu'un formulaire et deux téléphones. Rien n'a été reconstitué. Le contact se fera par téléphone ou par le formulaire."
+    },
+    {
+      "nom": "MGK CONSULTING & CONSEILS",
+      "sigle": "MGK",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 639 08 01",
+      "adresse": "Ouakam, Cité Elh Malick Sy Villa N°657, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/611907-mgk-consulting-bureaux-etudes-consils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"MGK CONSULTING\" Dakar Ouakam Sénégal — aucun résultat pour ce cabinet ; seules MAK Consulting et MAK Group Consulting, noms et adresses différents, non retenues",
+        "R2 : \"MGK CONSULTING & CONSEILS\" Dakar contact email — aucun résultat sénégalais ; homonymes étrangers avec emails (MGK Consulting Kenya info@mgkconsult.co.ke, MGK Consulting Grèce mgk@mgk.gr, MGK Consulting Jordanie info@mgk-consulting.com, MGK Consultancy Dubaï) : aucun retenu",
+        "R3 : \"78 639 08 01\" Sénégal — aucune page citant ce numéro",
+        "R4 : \"MGK CONSULTING\" — uniquement des homonymes (MGK Consulting LLC États-Unis, MGK Consulting Limited Kenya, MGK Consultancy hôtellerie)",
+        "Adresses probables testées : mgkconsulting.sn et mgk.sn (ne répondent pas) ; mgkconsulting.com répond mais c'est un cabinet américain de « Fractional CMO Services » ; mgk-consulting.com est le cabinet jordanien — aucun des deux n'est retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email attribuable : le sigle MGK est porté par plusieurs cabinets étrangers (Kenya, Grèce, Jordanie, États-Unis, Dubaï), mais aucun ne correspond à l'adresse d'Ouakam ni au téléphone de la fiche."
     }
   ]
 }
