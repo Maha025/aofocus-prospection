@@ -314,6 +314,68 @@
       ],
       "statut": "a_verifier",
       "note": "Rapprochement fondé sur le nom (AFRICA NITY GROUP / AFRICANITY GROUP) et sur la localisation VDN à Dakar, commune de Sicap-Liberté sur la fiche et « Sacré Coeur VDN Lot 6 » sur le site. Le téléphone du site (33 801 82 41) diffère de celui de la fiche (77 629 25 29) : correspondance à confirmer."
+    },
+    {
+      "nom": "Galerie Yassine Art - Keur Gaïndé",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Amadou Yacine Thiam",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 214 13 86",
+      "adresse": "Hann Marinas, Rte du CVD - Hann Bel-Air, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Galerie d'art africain contemporain et ancien, centre culturel (Yassine Arts Center) avec hôtel et restaurant",
+      "fiche_url": "https://www.goafricaonline.com/sn/782914-galerie-yassine-art-keur-gainde",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"Galerie Yassine Art\" \"Keur Gaïndé\" Dakar Sénégal — confirme la structure à Hann Marinas, Route du CVD ; sites annoncés keurgainde.com et yassineartsgallery.com",
+        "R2 : \"Keur Gainde\" Hann Bel-Air Dakar contact email galerie — extraits de moteur citant contact@keurgainde.com et amadouyacine@yahoo.com, attribués à keurgainde.com et dakarpanorama.com",
+        "R3 : \"77 214 13 86\" Sénégal Dakar — aucune page citant ce numéro",
+        "R4 : \"Galerie Yassine Art\" — confirme le fondateur Amadou Yacine Thiam et l'implantation à Hann Marinas, Dakar",
+        "Pages ouvertes sans succès : https://keurgainde.com/ et http://www.yassineartsgallery.com/galerie-yassine-art.html — domaines ne résolvant plus (ENOTFOUND), sites hors service ; http://dakarpanorama.com/ — domaine ne résolvant plus ; https://timbu.sn/hotel/1418427-hotel-keur-gainde — pas de réponse",
+        "Page ouverte : https://www.au-senegal.com/keur-gainde,1511.html?lang=fr — description du complexe, aucun email affiché",
+        "Page ouverte : https://www.au-senegal.com/Visions-d-artistes-a-Yassine-Arts.html?lang=fr — article sur le centre, aucun email",
+        "Page ouverte : https://www.safarinow.com/go/hotel-keur-gainde-dakar — page vide sans JavaScript, aucun email",
+        "Adresses probables testées : galerieyassineart.sn, galerieyassineart.com, keurgainde.sn — aucune ne répond ; keurgainde.com ne résout plus"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité bien établie (Hann Marinas / Route du CVD, Hann Bel-Air, comme sur la fiche ; fondateur Amadou Yacine Thiam). Des extraits de moteur de recherche citent contact@keurgainde.com et amadouyacine@yahoo.com, mais les sites keurgainde.com et yassineartsgallery.com ne résolvent plus : aucune adresse n'a pu être lue sur une page, donc aucune n'est retenue. site_web laissé vide pour la même raison. À revérifier si les sites reviennent en ligne."
+    },
+    {
+      "nom": "GROUPEMENT SAGEMCOM / SLS, SOTRAC MERMOZ LOT N°91 DAKAR SÉNÉGAL",
+      "sigle": "SAGEMCOM / SLS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Salim Dieng (directeur général de Sagemcom Sénégal SA)",
+      "emails": [
+        "contact@sagemcom.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 50 15",
+      "adresse": "lot, 90, sotrac mermoz - Mermoz Sacre-coeur, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.sagemcom.com",
+      "site_source": "recherche web",
+      "specialite": "Groupe industriel : comptage intelligent électricité, gaz et eau, solutions haut débit, audio et vidéo ; groupement avec SLS",
+      "fiche_url": "https://www.goafricaonline.com/sn/782931-groupement-sagemcom-sls-sotrac-mermoz-lot-n091-dakar-senegal",
+      "preuve_url": "https://www.sagemcom.com/fr/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email, aucun lien social",
+        "R1 : \"GROUPEMENT SAGEMCOM\" SLS Sénégal Sotrac Mermoz — fiche Waze du groupement et profils Sagemcom Sénégal SA (No 14 Mermoz Pyrotechnie, Dakar, DG Salim Dieng)",
+        "R2 : Sagemcom SLS Dakar Mermoz contact email Sénégal — téléphones (221) 338645015 et fax 338645016 confirmés, aucun email propre à l'entité sénégalaise",
+        "R3 : \"33 864 50 15\" Dakar Sénégal — aucune page citant ce numéro dans les résultats directs, mais le numéro 338645015 est confirmé par deux annuaires (business-senegal, annuaire-senegal) comme celui de Sagem / Sagemcom à Mermoz Pyrotechnie Villa 14",
+        "R4 : \"Sagemcom\" \"SLS\" groupement Sénégal compteurs — confirme Sagemcom comme groupe de comptage communicant présent au Sénégal",
+        "Page ouverte : https://www.annuaire-senegal.com/telecommunication/sagem-s155979.html — tél 338645015, fax 338645016, Mermoz Pyrotechnie Villa 14 ; aucun email affiché",
+        "Page ouverte : https://www.business-senegal.com/fre/Entreprises/profilent/_14253 — fiche accessible seulement après connexion, aucun email lisible",
+        "Page ouverte : https://www.sagemcom.com/fr/contact — email générique du groupe contact@sagemcom.com lu tel quel"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée par le téléphone : 33 864 50 15 est le numéro de Sagemcom / Sagem à Mermoz Pyrotechnie Villa 14, Dakar, selon deux annuaires. L'email retenu est l'adresse générique du groupe Sagemcom (France), lue sur son site : aucune adresse propre à l'entité sénégalaise ni au groupement avec SLS n'a été trouvée."
     }
   ]
 }
