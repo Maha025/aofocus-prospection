@@ -59,6 +59,62 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun site ni email trouvé. Le sigle RPS n'est pas développé sur la fiche et la société n'a aucune présence en ligne détectable au Sénégal. Les RPS Energy existants (rps-energy.com et RPS Group) sont des sociétés britanniques et australiennes sans lien avec Dakar : ni leur site ni leurs emails ne sont attribués. Attention, le numéro fixe de la fiche est présenté comme un fax : le seul numéro de contact direct est le mobile 77 633 72 77. L'activité supposée (études et conseil en énergie) en fait néanmoins une cible pertinente pour AOFocus."
+  },
+  {
+   "nom": "SAEDIC",
+   "sigle": "SAEDIC",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 889 14 20 ; (+221) 77 644 73 73",
+   "adresse": "2 place de l'indépendance, BP 157, Dakar - Sénégal ; une autre source précise « 2 Imm Sdih, Place de l'Indépendance, Dakar-Plateau »",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Bureaux d'études - Conseils - Consultants (aucune description d'activité détaillée sur la fiche)",
+   "fiche_url": "https://www.goafricaonline.com/sn/651302-saedic-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié (72 vues)",
+    "R1 : « SAEDIC » Sénégal Dakar — aucun résultat sur cette société ; homonyme partiel SADE Sénégal SA, entité différente",
+    "R2 : « SAEDIC » Dakar « place de l'indépendance » email contact société — une seule mention utile : SAEDIC située « 2 Imm Sdih Place De L'indépendance Dakar-plateau », tél. 338891421, soit la même adresse et un numéro voisin de celui de la fiche (identité et adresse corroborées) ; aucun email",
+    "Page ouverte : https://www.annuaire-senegal.com/conseil/_dakar-p4 — vérification faite, cette page de l'annuaire ne liste PAS SAEDIC (28 cabinets listés, aucun ne correspond)",
+    "R3 : « 338891420 » puis « 33 889 14 20 » / « 77 644 73 73 » Dakar — aucune page ne reprend ces numéros. Deux documents publics ont en outre été téléchargés et dépouillés localement : le tableau 2020/2021 des experts de l'Ordre National des Experts du Sénégal (159 emails) et le Fichier 3500 Entreprises Commerce Sénégal — aucune occurrence de « SAEDIC » ni de ces numéros dans l'un ou l'autre",
+    "R4 : « SAEDIC » seul — aucun résultat d'entreprise ; uniquement un profil Myspace et des termes homophones sans rapport (Sahidic, Sadic)",
+    "Adresses probables testées : saedic.sn, saedic.com, saedic-senegal.com — aucune ne répond"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun site ni email trouvé. L'adresse de la fiche est corroborée par une seconde source (2 Imm Sdih, Place de l'Indépendance, Dakar-Plateau, tél. 338891421, numéro voisin du 33 889 14 20 de la fiche), mais aucune source ne publie d'email, et le sigle n'est pas développé sur la fiche, ce qui empêche toute recherche sur la dénomination complète. Deux annuaires PDF officiels (experts ONES, 3 500 entreprises) ont été dépouillés sans résultat. Aucun site ni email ne lui est attribué. Seuls les deux téléphones et l'adresse sont exploitables."
+  },
+  {
+   "nom": "SAMSUNG ELECTRONICS (WALTD)",
+   "sigle": "SAMSUNG ELECTRONICS WEST AFRICA LTD",
+   "categorie": "industrie (hors cible)",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 859 61 28 ; (+221) 33 820 42 59",
+   "adresse": "Building 2 K Plaza Suite C 1 Rte du Méridien Président, Dakar, Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.samsung.com/africa_en/",
+   "site_source": "recherche web",
+   "specialite": "Filiale ouest-africaine du groupe sud-coréen Samsung Electronics : électronique grand public (téléviseurs, smartphones, électroménager, équipements réseau) ; aucune activité de bureau d'études ou de conseil",
+   "fiche_url": "https://www.goafricaonline.com/sn/480091-samsung-electronics-waltd-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié (541 vues)",
+    "R1 : « Samsung Electronics West Africa » Dakar Sénégal « K Plaza » OU « Méridien Président » — identité confirmée : la fiche d'entreprise Dun & Bradstreet situe SAMSUNG ELECTRONICS WEST AFRICA LTD à « Immeuble 2K Plaza, Route Du Meridien President, Dakar », exactement l'adresse de la fiche ; « WALTD » est donc l'abréviation de West Africa Ltd",
+    "Page ouverte : https://samsung-electronics.africa-newsroom.com/contact/senegal (récupérée en curl, WebFetch bouclant sur des redirections) — il s'agit du bureau de presse APO Group pour le Sénégal, 12 Bd Djily Mbaye Immeuble Azur 15 BP 50555, email affiché « senegal (at) apo-opa.org » et voip +41225349673 : adresse d'APO Group, le diffuseur de communiqués, et non celle de Samsung ; de surcroît masquée par « (at) ». Non retenue",
+    "R2 : « SAMSUNG ELECTRONICS WEST AFRICA » email contact Senegal office — oriente vers la page de contact officielle du groupe pour l'Afrique",
+    "Page ouverte : https://www.samsung.com/africa_en/support/contact/ — emails publiés : ngservice@samsung.com (support technique Afrique de l'Ouest), service.seea@samsung.com (Afrique de l'Est), scaservice@samsung.com (escalade). Pour le Sénégal, la page ne donne qu'un numéro de téléphone (200 077) et AUCUN email dédié : le pays relève du support Afrique de l'Ouest",
+    "R3 : « 33 859 61 28 » puis « 33 820 42 59 » Samsung Dakar — aucune page ne relie ces numéros à Samsung",
+    "R4 non nécessaire : l'identité est établie de façon certaine par la concordance exacte de l'adresse (Immeuble 2K Plaza, Route du Méridien Président)"
+   ],
+   "statut": "a_verifier",
+   "note": "Attention, cette fiche est mal classée par l'annuaire : Samsung Electronics West Africa est la filiale ouest-africaine du groupe d'électronique sud-coréen, pas un bureau d'études ni un cabinet de conseil. Elle ne correspond donc pas à la cible de prospection d'AOFocus, et n'est conservée que parce que la routine demande de garder tous les bureaux de l'annuaire. Aucun email retenu : les seules adresses lues sont des adresses de support après-vente régional (ngservice@samsung.com pour l'Afrique de l'Ouest, lue sur samsung.com) et l'adresse du diffuseur de presse APO Group, aucune n'étant l'adresse professionnelle du bureau dakarois ; la page officielle confirme d'ailleurs qu'aucun email n'est publié pour le Sénégal. Le site renseigné est le site régional Afrique du groupe, l'entité dakaroise n'en ayant pas en propre, d'où un preuve_url vide."
   }
  ]
 }
