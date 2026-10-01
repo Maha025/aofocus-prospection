@@ -271,6 +271,114 @@
    ],
    "statut": "a_verifier",
    "note": "Homonymie écartée après vérification : « RH Solutions » de rh-solutions.sn (avenue Georges Pompidou, secteurs maritime et pétrolier) porte un nom au pluriel, une autre adresse et ne reprend pas le téléphone de la fiche ; son email contact@rh-solutions.sn n'est donc PAS attribué à ce bureau de Sicap Liberté 5. Aucun email propre trouvé."
+  },
+  {
+   "nom": "SADESI",
+   "sigle": "SADESI",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "sarl.sadesi1113@gmail.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "+221 33 820 08 66 | +221 77 087 79 56",
+   "adresse": "5 Cite Adama Diop, 1e Etage | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592584-sadesi",
+   "preuve_url": "https://minesgeologie.gouv.sn/sites/default/files/LISTE%20SOCITES%20MINIERES_trie.pdf",
+   "recherches": [
+    "R1 : « SADESI » Sénégal Dakar bureau études — aucune page propre au bureau ; uniquement d'autres bureaux d'études sénégalais (ETECS, Sahel Ingénierie, CEDS)",
+    "R2 : « SADESI » Dakar email contact — pas de site du bureau ; une mention agricole sans rapport (ppfam.com, téléphone espagnol) écartée",
+    "R3 : « 33 820 08 66 » OR « 77 170 31 44 » Sénégal — résultat décisif : le numéro 33 820 08 66 figure dans la liste officielle des sociétés minières du ministère des Mines et de la Géologie du Sénégal, rattaché à « SOCIETE AFRICAINE DE DEVELOPPEMENT ECONOMIQUE ET SOCIAL INTEGRE », 15 Cité Adama Diop, Yoff Layéne, Dakar, avec l'email sarl.sadesi1113@gmail.com",
+    "Ouverture et lecture de https://minesgeologie.gouv.sn/sites/default/files/LISTE%20SOCITES%20MINIERES_trie.pdf — email sarl.sadesi1113@gmail.com lu tel quel dans le document, sur la ligne de cette société, en regard du téléphone 33 820 08 66 et de l'adresse Cité Adama Diop",
+    "R4 : « SADESI » seul (voir R2, nom entre guillemets) — aucune autre page du bureau",
+    "Adresses probables testées : sadesi.sn (DNS injoignable), sadesi.com (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité retenue avec un bon niveau de confiance : le sigle SADESI correspond à « Société Africaine de Développement Economique et Social Intégré », le téléphone de la liste officielle est identique à celui de la fiche (33 820 08 66), l'adresse est la même Cité Adama Diop à Dakar (numéro 15 dans le document officiel, 5 sur la fiche goafricaonline — seule divergence), et l'email publié contient le sigle « sadesi ». Email lu tel quel dans un document public du ministère des Mines et de la Géologie, non reconstitué. Aucun site web."
+  },
+  {
+   "nom": "SAM (SENEGAL ASSET MANAGEMENT)",
+   "sigle": "SAM",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 77 170 31 44",
+   "adresse": "Sacré cœur 3 pyrotechnique 110, Immeuble Khaïr 4e étage | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480081-sam-senegal-asset-management",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « Senegal Asset Management » SAM Dakar Sénégal — aucune page de ce bureau ; d'autres sociétés de gestion de Dakar seulement (Attijari Asset Management, NSIA Asset Management, Baobab Asset Management)",
+    "R2 : « SAM » « Senegal Asset Management » email contact Sacré Coeur pyrotechnie Immeuble Khaïr — aucune trace de SAM ; d'autres sociétés du même immeuble ressortent (Africadis, lot 110 Immeuble Khaira, 33 825 64 21 ; SIET, contact@sietdakar.com) mais ce sont des sociétés distinctes, dont les coordonnées n'ont donc pas été retenues",
+    "R3 : « 77 170 31 44 » Sénégal — aucun résultat rattaché à ce numéro ; absent également de la liste officielle des sociétés minières consultée pour SADESI",
+    "R4 : « Senegal Asset Management » seul — uniquement le paysage financier sénégalais (BRVM, FONSIS, Attijari, NSIA, Mazars) ; aucune société portant exactement ce nom",
+    "Adresses probables testées : senegalassetmanagement.sn (DNS injoignable), senegalassetmanagement.com (DNS injoignable), sam.sn (répond HTTP 422 avec 107 octets, sans contenu ni identification : écarté, l'identité du bureau n'est pas confirmée)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email ni site retenu. Le sigle SAM est trop court et trop courant pour une recherche fiable, et les sociétés voisines du même Immeuble Khaïra (Africadis, SIET) sont des entités distinctes : leurs emails ne lui ont pas été attribués. Le domaine sam.sn répond mais sans contenu permettant de confirmer l'identité, il n'a donc pas été retenu."
+  },
+  {
+   "nom": "SCP SENEGAL",
+   "sigle": "SCP",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 77 643 81 57",
+   "adresse": "Villa N°08/B, Cité Fidak Sud | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://canaldeprovence.com",
+   "site_source": "recherche web",
+   "specialite": "Ingénierie et études de l'eau et des aménagements hydrauliques (représentation ouest-africaine de la Société du Canal de Provence)",
+   "fiche_url": "https://www.goafricaonline.com/sn/592602-scp-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « SCP SENEGAL » Dakar Cité Fidak bureau études conseil — identité établie : SCP est la Société du Canal de Provence, qui a ouvert en 2017 une représentation permanente « SCP-Sénégal » à Dakar ; bureau situé « Cité Fidak Sud Villa N°08/B », téléphone (221) 77 64 38 157 — adresse et téléphone identiques à la fiche",
+    "Ouverture de https://canaldeprovence.com/nous-contacter/nos-coordonnees/ — la page officielle de la Société du Canal de Provence liste bien le bureau de Dakar : « Cité Fidak Sud Villa N°08/B Dakar, SENEGAL », téléphone (221) 77 64 38 157, horaires du lundi au vendredi ; AUCUN email n'y est publié pour ce bureau",
+    "Pages canaldeprovence.com/nous-contacter/ et /mentions-legales/ également ouvertes et inspectées : aucune adresse email publiée (contact par formulaire uniquement)",
+    "R2 : « SCP Sénégal » email contact Dakar — aucune page du bureau ; uniquement des sociétés civiles professionnelles d'avocats et de notaires sénégalais homonymes (SCP François Sarr, SCP Mame Adama Gueye, SCP Faye et Sall, SCP Houda, SCP Sow), dont les emails ne lui ont pas été attribués",
+    "R3 : « 77 643 81 57 » — le numéro ne ressort que via la page officielle du Canal de Provence déjà ouverte ; absent de la liste officielle des sociétés minières consultée par ailleurs",
+    "R4 : « SCP SENEGAL » seul (voir R1, nom entre guillemets) — en dehors du Canal de Provence, uniquement la fiche creationdentreprise.sn « SCP SENEGAL SUCCURSALE » et des homonymes d'avocats"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité certaine : le site officiel de la Société du Canal de Provence publie lui-même l'adresse (Cité Fidak Sud Villa N°08/B) et le téléphone (77 64 38 157) de sa représentation sénégalaise, identiques à la fiche. Le site est donc attribué, mais aucun email : le groupe ne publie aucune adresse, ni sur la page des coordonnées, ni dans les mentions légales (contact par formulaire seulement). Le sigle SCP est par ailleurs très répandu au Sénégal pour les sociétés civiles professionnelles d'avocats : aucune de leurs adresses n'a été retenue."
+  },
+  {
+   "nom": "SEFIMA CONSULTING",
+   "sigle": "SEFIMA",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 821 34 41 | +221 77 332 24 23",
+   "adresse": "74. Rue Carnot | BP 4452 Dakar | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/518431-sefima-consulting",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « SEFIMA » Sénégal Dakar Rue Carnot conseil — aucune trace du bureau ; uniquement d'autres établissements de la rue Carnot à Dakar (Clinique Pasteur, hôtel Le Ndiambour, Radiologues Associés, Jokko Tours)",
+    "R2 : « SEFIMA CONSULTING » email contact Dakar — un homonyme français : SEFIMA, courtier en assurance-vie et conseil en gestion de patrimoine, 59 Avenue André Roussin, 13016 Marseille, contact@sefima.com, +33 4 96 15 26 60 ; aucun bureau à Dakar",
+    "R3 : « 33 821 34 41 » / « 77 332 24 23 » — aucun résultat rattaché à ces numéros ; absents également de la liste officielle des sociétés minières consultée par ailleurs",
+    "R4 : « SEFIMA CONSULTING » seul — confirme l'homonyme marseillais uniquement (fondé en 1991, racheté en décembre 2022 par Groupe Premium) ; aucune page sénégalaise",
+    "Adresses probables testées : sefima.sn (DNS injoignable), sefimaconsulting.com (DNS injoignable), sefima-consulting.com (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Homonymie écartée : le SEFIMA du web est un cabinet marseillais de gestion de patrimoine (filiale du Groupe Premium), sans rapport avec ce bureau du 74 rue Carnot à Dakar ; son email contact@sefima.com n'a donc PAS été retenu. Aucun email ni site propre trouvé. À noter : la rue Carnot de Dakar a été rebaptisée rue Imam Matar Sylla, ce qui peut expliquer la rareté des mentions récentes."
   }
  ]
 }
