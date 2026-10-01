@@ -463,6 +463,89 @@
    ],
    "statut": "a_verifier",
    "note": "Cabinet dont l'existence à Dakar est corroborée par une source indirecte (mention d'un ancien directeur administratif), mais sans aucune présence web propre : ni site, ni page officielle, ni email. Le nom étant un patronyme français répandu, les recherches sur le nom seul sont très bruitées ; rien n'a été attribué."
+  },
+  {
+   "nom": "TROPICA",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 867 18 98 | +221 33 867 18 99",
+   "adresse": "Sicap Liberté 6 N° 8181, | BP: 5335 | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Audit et conseil en environnement, études environnementales",
+   "fiche_url": "https://www.goafricaonline.com/sn/592641-tropica",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « TROPICA » Sénégal Dakar Sicap Liberté 6 bureau études conseil — identité établie : « Tropica Environemental Consultants », cabinet d'audit et de conseil en environnement, 8181 Sicap Liberté 6, BP 5335 Dakar Fann, téléphone 33 867 18 98, fax 33 867 18 99, ouvert du lundi au vendredi 9h-18h, équipe francophone, hispanophone et anglophone — adresse, boîte postale, téléphone ET fax identiques à la fiche",
+    "Ouverture de https://www.senpages.com/entreprise/tropica-environemental-consultants/ — nom, adresse « 8181 Sicap Liberté 6, Dakar » et téléphone « +221 33 867 18 98 » confirmés ; ni site web ni email affichés (vérifié explicitement)",
+    "R2 : « Tropica Environemental Consultants » OR « Tropica Environmental Consultants » email contact Dakar — aucune adresse email publiée : les fiches d'annuaires (business-senegal.com, piaafrica.com, yelu.sn) affichent un champ email vide ou un libellé sans valeur",
+    "R3 : « 33 867 18 98 » Sénégal — le numéro ne ressort que via ces fiches d'annuaires ; absent de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux téléchargés et dépouillés",
+    "R4 : « TROPICA ENVIRONEMENTAL CONSULTANTS » seul — un profil LinkedIn de manager confirme l'existence du cabinet au Sénégal, mais les autres résultats sont des homonymes américains et indiens (Tropical Environmental Consultants en Floride, en Inde) ; aucun email du cabinet sénégalais",
+    "Adresses probables testées : tropica.sn (DNS injoignable), tropica-senegal.com (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité certaine : la raison sociale complète est « Tropica Environemental Consultants » et les annuaires donnent exactement l'adresse, la boîte postale, le téléphone et le fax de la fiche. Aucun email cependant : toutes les fiches consultées laissent ce champ vide, et le cabinet n'a pas de site. Homonymes américains et indiens écartés."
+  },
+  {
+   "nom": "TROPIS (TROPICAL SERVICE)",
+   "sigle": "TROPIS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@tropis-sn.com",
+    "secretariat.tropis@gmail.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "+221 33 820 80 81",
+   "adresse": "Route de l'Aéroport Yoff | BP 26405 | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://tropis-sn.com",
+   "site_source": "recherche web",
+   "specialite": "Études, formation, maîtrise d'œuvre et recherche-action dans quatre domaines : environnement, eau, territoires et communautés ; études d'impact environnemental, gestion intégrée des ressources en eau, SIG, évaluation des services écosystémiques",
+   "fiche_url": "https://www.goafricaonline.com/sn/479998-tropis-tropical-service",
+   "preuve_url": "https://tropis-sn.com/index.php/contact-2/",
+   "recherches": [
+    "R1 : « TROPIS » « Tropical Service » Sénégal Dakar Yoff — identité établie : site officiel tropis-sn.com, raison sociale « Tropical service », sigle Tropis, SARL au capital de 1 000 000 F, registre de commerce 99 B 478, bureau d'études créé par des Sénégalais pour accompagner la décentralisation dans le secteur de l'environnement",
+    "Ouverture de https://tropis-sn.com/index.php/contact-2/ — emails contact@tropis-sn.com et secretariat.tropis@gmail.com lus tels quels sur la page, avec l'adresse « Immeuble Tabara Ngom, AP B3/2ème étage, HLM Grand Yoff N° 443, BP: 26 405 Dakar », téléphone +221 33 827 34 82 et fax 820 65 49",
+    "Vérification d'identité : la BOÎTE POSTALE publiée sur le site (BP 26 405 Dakar) est identique à celle de la fiche goafricaonline (BP 26405), et la raison sociale développée « Tropical Service / TROPIS » correspond exactement au nom de la fiche — identité confirmée malgré l'adresse de rue différente (HLM Grand Yoff au lieu de Route de l'Aéroport Yoff), signe d'un déménagement depuis la mise en ligne de la fiche",
+    "R2 et R3 non nécessaires : emails trouvés sur le site officiel du bureau dès l'étape 2, identité confirmée par la boîte postale et la raison sociale",
+    "R4 : « TROPIS » / « Tropical Service » (via R1, noms entre guillemets) — aucun homonyme gênant au Sénégal"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité confirmée par la boîte postale : BP 26405 sur la fiche goafricaonline et « BP: 26 405 Dakar » sur le site officiel, avec la même raison sociale développée (Tropical Service, sigle TROPIS, SARL). L'adresse de rue et le téléphone publiés aujourd'hui diffèrent de ceux de la fiche (Immeuble Tabara Ngom, HLM Grand Yoff N° 443, tél 33 827 34 82) : le bureau a déménagé, les coordonnées de la fiche sont probablement périmées et celles du site sont à privilégier. Les deux emails sont lus tels quels sur la page contact, l'adresse générique en premier."
+  },
+  {
+   "nom": "TSA FORMA CONSEIL",
+   "sigle": "TSA",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 860 55 59",
+   "adresse": "Dakar-Plateau | BP 62046 | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Études de marché, conseil et formation",
+   "fiche_url": "https://www.goafricaonline.com/sn/389318-tsa-forma-conseil",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « TSA FORMA CONSEIL » Sénégal Dakar — identité confirmée : cabinet d'études de marché et de conseil à Dakar-Plateau, téléphone 33 860 55 59, fax 33 860 55 61, boîte postale 62046, ouvert du lundi au vendredi 9h-18h — adresse, boîte postale et téléphone identiques à la fiche",
+    "Ouverture de https://www.annuaire-senegal.com/etudes/etude-de-marche/tsa-forma-conseil-s160396.html — nom « Tsa Forma Conseil », « Dakar-plateau, Dakar, Sénégal », code postal 62046, téléphone 338605559, fax 338605561 ; ni site web ni email affichés (vérifié explicitement)",
+    "R2 : « TSA FORMA » OR « Forma Conseil » Dakar Plateau email contact formation — aucune adresse email publiée ; homonymes écartés : Teranga Sûreté Aéroportuaire (TSA) au Sénégal, TSA Algérie, Forma Conseil à La Réunion, l'agence américaine TSA",
+    "R3 : « 33 860 55 59 » Sénégal — aucun résultat rattaché nominativement à ce numéro hors la fiche d'annuaire déjà ouverte ; numéro et raison sociale absents de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux téléchargés et dépouillés localement",
+    "R4 : « TSA FORMA CONSEIL » seul (via R1 et R2, nom entre guillemets) — aucune page propre au cabinet en dehors des fiches d'annuaires",
+    "Adresses probables testées : tsaforma.sn (DNS injoignable), tsa-forma.com (DNS injoignable), formaconseil.sn (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité confirmée par une fiche d'annuaire indépendante aux mêmes adresse, boîte postale et téléphone que la fiche goafricaonline (fax supplémentaire relevé : 33 860 55 61). Aucun email publié, aucun site. Le sigle TSA est partagé par plusieurs organisations sans rapport (Teranga Sûreté Aéroportuaire au Sénégal, TSA Algérie, agence américaine) : rien ne leur a été emprunté."
   }
  ]
 }
