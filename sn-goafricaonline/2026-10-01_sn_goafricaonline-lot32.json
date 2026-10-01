@@ -286,6 +286,35 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun email trouvé, mais identité certaine : l'adresse (17 Liberté 6 Nord) et le téléphone (+221 33 827 10 64) relevés par les sources externes sont exactement ceux de la fiche. Son site officiel spc-agency.com lui est attribué sur cette base, mais le domaine ne se résout pas depuis cet environnement : impossible d'y lire un email, d'où un preuve_url vide. Piste à rouvrir lors d'un prochain passage depuis un accès où le domaine répond — la page /en/our-company/ est indexée et le site comporte vraisemblablement une page de contact. Ne pas confondre avec spcagency.com, agence de DJ bulgare sans rapport, ni avec les nombreux Strategy Partners étrangers."
+  },
+  {
+   "nom": "STUDIO GALLI INGEGNERIA SPA",
+   "sigle": "SGI",
+   "categorie": "ingenierie",
+   "type_marches": "inconnu",
+   "responsable": "Bara Mbengue, contact du bureau de Dakar d'après le registre des entreprises italiennes au Sénégal",
+   "emails": [
+    "bara.mbengue@sgi-spa.it"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 827 27 37",
+   "adresse": "Immeuble Moustapha, 4ème étage, Dakar - Sénégal (fiche) ; le registre italien et d'autres sources situent le bureau « Zone CICES, Lot n° 316, Foire, Dakar »",
+   "ville": "Dakar",
+   "site_web": "http://www.sgi-spa.it",
+   "site_source": "recherche web",
+   "specialite": "Bureau d'ingénierie italien fondé en 1920, spécialisé dans l'eau, l'environnement et le génie civil, avec des compétences en transports, urbanisme, aménagement du paysage et énergies renouvelables ; siège à Padoue, six établissements en Italie et plusieurs bureaux à l'étranger dont celui de Dakar",
+   "fiche_url": "https://www.goafricaonline.com/sn/655686-studio-galli-ingegneria-spa-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.infomercatiesteri.it/presenza_italiana.php?id_paesi=27",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié (91 vues, fiche non revendiquée)",
+    "R1 : « Studio Galli Ingegneria » Sénégal Dakar bureau — identifie SGI Studio Galli Ingegneria, bureau d'ingénierie italien fondé en 1920 (siège à Padoue), doté d'un bureau à Dakar « Zone CICES Lot n° 316, Foire » ; son site est sgi-spa.it",
+    "Site sgi-spa.it essayé à plusieurs reprises (pages /contatti/, /en/contacts/ et racine, en WebFetch puis en curl avec un en-tête de navigateur) : WebFetch reçoit une 503 Service Unavailable puis le domaine ne répond plus du tout (code 000) ; aucune page du site n'a pu être lue",
+    "R2 : « sgi-spa.it » OU « SGI Studio Galli » email contact Dakar Senegal « Lot 316 » CICES — oriente vers le registre des entreprises italiennes au Sénégal du ministère italien des Affaires étrangères",
+    "Page ouverte : https://www.infomercatiesteri.it/presenza_italiana.php?id_paesi=27 — SGI Studio Galli Ingegneria y figure pour le Sénégal avec l'email bara.mbengue@sgi-spa.it lu tel quel, l'adresse « Zone CICES Lot n. 316 Foire Dakar », le téléphone « (00221) 33 827 27 37 » — exactement celui de la fiche — et le site http://www.sgi-spa.it ; identité confirmée et email obtenu",
+    "R3 et R4 non nécessaires : un email a été lu sur une page officielle et l'identité est établie par la concordance exacte du téléphone"
+   ],
+   "statut": "a_verifier",
+   "note": "Email bara.mbengue@sgi-spa.it lu sur le registre des entreprises italiennes présentes au Sénégal tenu par le ministère italien des Affaires étrangères (infomercatiesteri.it), source officielle qui donne pour cette société le téléphone (00221) 33 827 27 37, identique à celui de la fiche : l'identité est certaine. Il s'agit d'une adresse nominative (le contact du bureau de Dakar) et non d'une adresse générique, le site sgi-spa.it n'ayant pas pu être ouvert depuis cet environnement (503 puis aucune réponse) pour y chercher une adresse de contact générale — à compléter lors d'un prochain passage si une adresse générique est souhaitée. Les deux adresses connues du bureau dakarois diffèrent (Immeuble Moustapha 4e étage sur la fiche, Zone CICES Lot 316 Foire sur le registre italien) : les deux sont conservées. Aucune adresse n'a été reconstituée à partir du format « prenom.nom@sgi-spa.it » signalé par un agrégateur."
   }
  ]
 }
