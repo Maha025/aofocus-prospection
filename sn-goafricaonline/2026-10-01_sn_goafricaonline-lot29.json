@@ -1,9 +1,9 @@
 {
- "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN&p=20",
+ "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN&p=20 puis &p=21",
  "_extrait_le": "2026-10-01",
  "_agent": "routine prospection goafrica SN",
  "_pays": "SN",
- "_pages": "p=20",
+ "_pages": "p=20 à p=21",
  "_methode": "Fiches goafricaonline relevées une à une (nom, adresse, téléphones, bouton Site web), puis pour chaque bureau sans email : ouverture du site s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et test des adresses probables en .sn et .com. Aucun email deviné : seules les adresses lues sur une page sont retenues, avec la page dans preuve_url.",
  "bureaux": [
   {
@@ -87,6 +87,60 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun email ni site exploitable. Le domaine sivaconseils.com a bien été enregistré en 2017 mais ne résout plus, et aucune page du bureau n'est accessible. Le nom d'un gérant possible (Souleymane Abou Siva Ly) apparaît sur un agrégateur de profils, source trop faible : le champ responsable est laissé vide."
+  },
+  {
+   "nom": "SOCIETE AFRICAINE DE CONSEIL ET D'INGENIERIE-SACI",
+   "sigle": "SACI",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 860 56 87",
+   "adresse": "40 Mermoz pyrotechinie | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/653690-societe-africaine-de-conseil-et-d-ingenierie-saci",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « Societe Africaine de Conseil et d'Ingenierie » SACI Sénégal Dakar — la société est attestée à Dakar (elle apparaît dans des rôles d'audience du tribunal de commerce de Dakar) mais sans aucune page propre ; sociétés distinctes écartées : SACFI (Société Africaine de Conseil et Formation pour l'Industrie), SIAT Sénégal, SICI Ingénierie",
+    "R2 : « SACI » Dakar Mermoz pyrotechnie email contact ingénierie — aucune page de la société ; d'autres structures du même quartier ressortent (Sahel Ingénierie, Mermoz Pyrotechnie Cité des Impôts villa 38, sahel-ing@sahel-ing.com ; PATROL-AFRICA au 63 Mermoz Pyrotechnie ; PROCASEF lot 9), toutes distinctes, dont les emails n'ont pas été retenus",
+    "R3 : « 33 860 56 87 » Sénégal — aucun résultat rattaché à ce numéro ; absent aussi de la liste officielle des sociétés minières consultée par ailleurs",
+    "R4 : « SOCIETE AFRICAINE DE CONSEIL ET D'INGENIERIE » seul — aucune correspondance sénégalaise : uniquement des sociétés au nom voisin dans d'autres pays (SAFI en Tunisie, SAGI en Centrafrique, SARFIC au Burkina Faso, SA2IF)",
+    "Adresses probables testées : saci-senegal.com (DNS injoignable) ; saci.sn répond (HTTP 200) mais le site est celui de « Solution Informatique Durable - SOLID Afrique », société informatique sans rapport : écarté, et son email formations@solid-afrique.com n'a pas été retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Société bien réelle (citée dans des rôles d'audience du tribunal de commerce de Dakar) mais sans présence web : aucun site, aucune page officielle, aucun email. Le domaine saci.sn appartient à une société informatique distincte (SOLID Afrique) : rien ne lui a été attribué. Sigle SACI trop court pour une recherche fiable employé seul."
+  },
+  {
+   "nom": "SOCIETE D'ETUDES ET DE CORDINATION - SECO",
+   "sigle": "SECO",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 825 17 97",
+   "adresse": "Rue 1 Angle D Point E | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Conseil en gestion d'entreprise, études et coordination",
+   "fiche_url": "https://www.goafricaonline.com/sn/654579-societe-d-etudes-et-de-cordination-seco",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « Société d'Etudes et de Coordination » SECO Sénégal Dakar Point E — identité confirmée par deux annuaires : « Seco - Societe D'etudes Et De Coordination », rue 1 x D-Point E, Dakar, tél 33 825 17 97, fax 33 825 30 54, activité conseil en gestion d'entreprise — adresse et téléphone identiques à la fiche",
+    "Ouverture de https://www.yelu.sn/company/14633/Seco_Societe_Detudes_Et_De_Coordination — nom, adresse « rue 1 x D-Point E, Dakar » et téléphone 33 825 17 97 confirmés ; AUCUN email affiché (vérifié explicitement), ni site web",
+    "Tentative d'ouverture de https://www.africabizinfo.com/fr-SN/seco-societe-detudes-et-de-coordination-33-825-17-97 — HTTP 403, page inaccessible",
+    "R2 : « SECO » « Société d'Etudes et de Coordination » Dakar email contact bureau études — aucun email publié ; sociétés distinctes écartées : SECOS Industries, S.E.C.CO (secco.sn, bureau de contrôle technique), Seco Power, ETECS",
+    "R3 : « 33 825 17 97 » Sénégal — le numéro ne ressort que via les deux fiches d'annuaires déjà ouvertes ; absent de la liste officielle des sociétés minières",
+    "R4 : « SECO » seul — terme trop courant (SECO suisse, Luis A. Seco, SODECO…) ; aucune page du bureau",
+    "Adresses probables testées : seco.sn (DNS injoignable), seco-senegal.com (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité confirmée par deux annuaires indépendants aux mêmes adresse et téléphone que la fiche (un fax supplémentaire relevé : 33 825 30 54), mais aucun email publié nulle part et pas de site. Plusieurs sociétés au sigle proche (S.E.C.CO, SECOS, Seco Power) ont été écartées : leurs emails ne lui ont pas été attribués."
   }
  ]
 }
