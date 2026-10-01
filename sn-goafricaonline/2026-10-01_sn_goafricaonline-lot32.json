@@ -115,6 +115,36 @@
    ],
    "statut": "a_verifier",
    "note": "Attention, cette fiche est mal classée par l'annuaire : Samsung Electronics West Africa est la filiale ouest-africaine du groupe d'électronique sud-coréen, pas un bureau d'études ni un cabinet de conseil. Elle ne correspond donc pas à la cible de prospection d'AOFocus, et n'est conservée que parce que la routine demande de garder tous les bureaux de l'annuaire. Aucun email retenu : les seules adresses lues sont des adresses de support après-vente régional (ngservice@samsung.com pour l'Afrique de l'Ouest, lue sur samsung.com) et l'adresse du diffuseur de presse APO Group, aucune n'étant l'adresse professionnelle du bureau dakarois ; la page officielle confirme d'ailleurs qu'aucun email n'est publié pour le Sénégal. Le site renseigné est le site régional Afrique du groupe, l'entité dakaroise n'en ayant pas en propre, d'où un preuve_url vide."
+  },
+  {
+   "nom": "SEFA CONSULTING",
+   "sigle": "SEFA CONSULTING",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 827 44 15",
+   "adresse": "Rue LIB 39, non loin du Canon De Beauté, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Cabinet de conseil et d'accompagnement des entreprises depuis 2011 : finance, management, diagnostic et études de projet ; agréé par le Bureau de Mise à Niveau (BMN), l'ADEPME et le 3FPT ; secteurs de prédilection : hôtellerie-restauration, BTP, industrie, informatique, agriculture, services aux entreprises et conseil",
+   "fiche_url": "https://www.goafricaonline.com/sn/592547-sefa-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié",
+    "R1 : « SEFA CONSULTING » Sénégal Dakar — identifie le cabinet, actif depuis 2011, agréé BMN / ADEPME / 3FPT, et son site sefaconsulting.com ; l'extrait de recherche cite un email sefaconsulting@gmail.com et le téléphone +221 33 827 44 15, soit EXACTEMENT celui de la fiche",
+    "Site sefaconsulting.com essayé à plusieurs reprises (https, http, www, et l'URL indexée https://sefaconsulting.com/?pcsp_html) : le domaine ne se résout pas depuis cet environnement (getaddrinfo ENOTFOUND, code 000 en curl alors que le test de contrôle example.com répond 200) ; aucune page n'a donc pu être lue",
+    "Page ouverte : https://www.bmn.sn/liste-des-consultants/ — SEFA CONSULTING y figure bien parmi les consultants agréés par le BMN (identité confirmée par une source officielle), mais la liste n'affiche que le nom, sans aucune coordonnée",
+    "R2 : « sefaconsulting@gmail.com » OU « SEFA CONSULTING » Dakar « 33 827 44 15 » contact — ne fait ressortir que des homonymes étrangers (SEFA Consulting Ltd au Royaume-Uni, enquiries@sefaconsulting.co.uk ; Sefa Social Consulting Group à Amsterdam, sscg@sefa.nl ; sefa.co.in, sefa.fr)",
+    "sn.worldcombiz.com/Catalogue/dakar/conseiller essayé : le domaine ne se résout pas non plus",
+    "R3 : « 33 827 44 15 » Dakar — aucune page ne reprend ce numéro ; seuls d'autres numéros du même préfixe 33 827 ressortent",
+    "R4 : « SEFA CONSULTING » bureau d'étude Dakar depuis 2011 — confirme à nouveau la description du cabinet et l'email sefaconsulting@gmail.com dans l'extrait indexé de son site, toujours inaccessible",
+    "Adresses probables testées : sefaconsulting.sn, sefa-consulting.sn, sefaconsulting.com, sefa-consulting.com — aucune ne répond depuis cet environnement"
+   ],
+   "statut": "a_verifier",
+   "note": "PISTE À CONFIRMER, EMAIL NON RETENU FAUTE DE LECTURE DIRECTE. Le cabinet existe bien et son identité est certaine : il est listé parmi les consultants agréés du BMN (source officielle ouverte) et le téléphone indexé pour lui, +221 33 827 44 15, est exactement celui de la fiche. Son site sefaconsulting.com publie selon l'index du moteur de recherche l'adresse sefaconsulting@gmail.com, mais ce domaine ne se résout pas depuis cet environnement : la page n'a pu être ouverte, l'adresse n'a donc PAS été lue et n'est pas inscrite dans emails, conformément à la règle « uniquement des adresses lues sur une page ». À rouvrir en priorité lors d'un prochain passage depuis un accès où le domaine répond : c'est le bureau le plus prometteur de cette fin de page 23, avec un email très probablement valide et un profil parfaitement dans la cible d'AOFocus (études de projet, agréé BMN, ADEPME et 3FPT). Homonymes écartés : SEFA Consulting Ltd (Royaume-Uni) et Sefa Social Consulting Group (Amsterdam)."
   }
  ]
 }
