@@ -199,6 +199,33 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun site ni email trouvé. Le sigle SN est à la fois très courant et ambigu (il désigne aussi le Sénégal lui-même), ce qui rend les recherches peu discriminantes, et le cabinet n'a aucune présence en ligne détectable. Aucun site ni email ne lui est attribué ; à ne pas confondre avec AF Consulting Sénégal ni avec SN Global Capital. Les trois mobiles de la fiche et la localisation (Ngor-Almadies) sont les seuls éléments exploitables ; la fiche porte un avis client 5/5, signe qu'elle a été consultée et que l'activité est vraisemblablement réelle."
+  },
+  {
+   "nom": "SNDEV",
+   "sigle": "SNDEV",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 638 82 02",
+   "adresse": "Rue IV, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Bureaux d'études - Conseils - Consultants (aucune description d'activité détaillée sur la fiche)",
+   "fiche_url": "https://www.goafricaonline.com/sn/592660-sndev-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié ; un seul mobile",
+    "R1 : « SNDEV » Sénégal Dakar bureau études conseil — le seul résultat concernant cette société est sa propre fiche goafricaonline ; aucune autre source sénégalaise ne la mentionne",
+    "R2 : « SNDEV » Dakar email contact société — même constat : seule la fiche goafricaonline ressort, sans email",
+    "R3 : « 77 638 82 02 » puis « +221776388202 » — aucune page ne reprend ce numéro",
+    "R4 : « SNDEV » seul — aucun résultat d'entreprise sénégalaise ; le sigle est entièrement capté par la communauté de développeurs ServiceNow SNDevs, par des kits de développement ZigBee de STMicroelectronics (SNDEV-250, SNDEV-260) et par un outil du projet Stacker News",
+    "Adresses probables testées : sndev.sn, sndev-senegal.com, sndev.com — aucune ne répond"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun site ni email trouvé. La société n'a aucune présence en ligne en dehors de sa fiche goafricaonline, et le sigle SNDEV est saturé par des usages informatiques étrangers (communauté ServiceNow, composants STMicroelectronics) qui rendent les recherches stériles ; le sigle n'étant pas développé sur la fiche, aucune recherche sur la dénomination complète n'est possible. Aucun site ni email ne lui est attribué. Seuls le mobile et l'adresse très sommaire (« Rue IV ») sont exploitables."
   }
  ]
 }
