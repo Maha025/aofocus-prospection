@@ -143,6 +143,117 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun email trouvé. L'activité réelle (communication et relations presse, via le média AfriquePressInfo) est cohérente avec une structure dakaroise du même nom, mais la seule page du groupe est sur Facebook derrière un mur de connexion : l'email y est inaccessible et n'a pas été cherché au-delà. Aucun site propre ne répond. Les homonymes marocain, français et américain ne sont pas retenus. Seuls le téléphone et l'adresse sont exploitables."
+  },
+  {
+   "nom": "GROUPEMENT ITECH SOLUTION / DS CONSULTING",
+   "sigle": "ITECH SOLUTION / DS CONSULTING",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Moussa Dia (PDG d'ITECH Solutions et administrateur de DS Consulting, d'après son profil LinkedIn)",
+   "emails": [
+    "contact@itechafrique.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 968 12 60",
+   "adresse": "Sicap-Liberté, Dakar, Dakar - Sénégal ; le titre de la fiche précise « Liberté 6 Extension, VDN, derrière CNCAS »",
+   "ville": "Dakar",
+   "site_web": "https://itechafrique.com/",
+   "site_source": "recherche web",
+   "specialite": "Groupement de deux sociétés ; côté ITECH Solutions : services et conseil informatiques (intégration SAGE, Microsoft, Cisco, audit et sécurité), groupe fondé en 2009 et présent dans 7 pays",
+   "fiche_url": "https://www.goafricaonline.com/sn/782871-groupement-itech-solution-ds-consulting-liberte-6-extension-vdn-derriere-cncas-dakar-senegal",
+   "preuve_url": "https://itechafrique.com/contact/",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié ; le titre de la fiche donne la localisation précise (Liberté 6 Extension, VDN, derrière CNCAS)",
+    "R1 : « ITECH SOLUTION » « DS CONSULTING » Sénégal groupement — identifie GROUPE ITECH SOLUTIONS, Dakar, siège « Liberté 6 Extension X VDN, Rue Lib. 42 Lot 54, Immeuble Babou 3e étage », et Moussa Dia, PDG d'ITECH Solutions et administrateur de DS Consulting : les deux membres du groupement sont donc bien liés",
+    "Site ouvert : https://itechafrique.com/contact/ — email contact@itechafrique.com lu tel quel, adresse « Liberté 6 Extension X VDN, BP 64898 – DAKAR », tél. +221 33 869 79 39 ; la page ne mentionne pas DS Consulting",
+    "Recherche complémentaire sur l'autre membre : « DS Consulting » Sénégal Dakar « Moussa Dia » contact email — fait ressortir « DS Consulting Africa » (6 rue Salva X Amadou Assane Ndoye, dakar@dsconsultingafrique.com, +221 77 255 68 18), adresse et dénomination différentes : identité non confirmée, cet email n'est donc pas retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé côté ITECH Solutions, le membre identifiable du groupement : contact@itechafrique.com, lu sur https://itechafrique.com/contact/. Identité retenue sur le nom (ITECH Solution) et l'adresse (Liberté 6 Extension X VDN, Dakar), identique à celle du titre de la fiche. Le téléphone du site (+221 33 869 79 39) diffère de celui de la fiche (33 968 12 60), probablement une ligne propre au groupement : les deux sont conservés. L'email de « DS Consulting Africa » (dakar@dsconsultingafrique.com) n'est PAS retenu : adresse et dénomination différentes de celles du groupement, identité non confirmée. R2 à R4 non nécessaires, un email ayant été lu sur le site du bureau."
+  },
+  {
+   "nom": "HSS-CONSULT",
+   "sigle": "HSS-CONSULT",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 227 92 16",
+   "adresse": "Non loin de l'école Kaffrine, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Bureaux d'études - Conseils - Consultants (aucune description d'activité détaillée sur la fiche)",
+   "fiche_url": "https://www.goafricaonline.com/sn/592572-hss-consult-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié (81 vues, fiche non revendiquée)",
+    "R1 : « HSS-CONSULT » OU « HSS CONSULT » Sénégal — aucun résultat sur ce bureau ; uniquement des offres de mission « health system strengthening » au Sénégal, Health Systems Consult Limited (Nigeria) et HPSD-Consulting (Dakar, nom différent)",
+    "R2 : « HSS Consult » Dakar email contact bureau d'études — aucun résultat ; seulement d'autres bureaux d'études dakarois (BECE, BETPLUS, Sahel Ingénierie, DCEG)",
+    "R3 : « 77 227 92 16 » puis « +221772279216 » — aucune page ne reprend ce numéro",
+    "R4 : « HSS-CONSULT » seul — uniquement des homonymes étrangers (HSS Project Consult à Sofia, CHSS à Dubaï, HSS Consultants Ltd à Londres, HS Consulting Group, hôpital HSS à New York)",
+    "Adresses probables testées : hss-consult.sn, hssconsult.sn, hss-consult.com, hssconsult.com — aucune ne répond"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun site ni email trouvé. Le sigle HSS est très répandu (hôpital new-yorkais, cabinets bulgare, émirati, britannique) mais aucun homonyme ne correspond au Sénégal, donc aucun site ni email ne lui est attribué. À noter que l'adresse de la fiche (« non loin de l'école Kaffrine ») est ambiguë : Kaffrine est aussi une région du centre du Sénégal, alors que la fiche place le bureau à Dakar. Seul le téléphone est exploitable."
+  },
+  {
+   "nom": "IMCG (INGENIERIE ET MANAGEMENT CONSULTING GROUP)",
+   "sigle": "IMCG",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 860 35 86",
+   "adresse": "Sotrac Mermoz N 19 1er Etage, Dakar, Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Bureaux d'études - Conseils - Consultants ; d'après sa dénomination, ingénierie et conseil en management",
+   "fiche_url": "https://www.goafricaonline.com/sn/592503-imcg-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié (102 vues, fiche non revendiquée)",
+    "R1 : « INGENIERIE ET MANAGEMENT CONSULTING GROUP » IMCG Sénégal — aucun résultat sur ce bureau ; autres cabinets dakarois au sigle proche mais au nom différent (ICG / International Consulting Group, 55 avenue Lamine Gueye, icg.sn ; ICM Sénégal, icmsenegal.com) et homonymes étrangers (imcg-inc.com aux États-Unis, groupe-imcg.com en France)",
+    "R2 : IMCG Dakar « Sotrac Mermoz » contact email ingénierie management — aucun résultat sur IMCG ; la seule structure trouvée à Sotrac Mermoz est FDCUIC (Lot 16, contact@fdcuic.sn, +221 33 840 72 27), nom, lot et téléphone différents, donc non retenue",
+    "R3 : « 33 860 35 86 » puis « +221338603586 » — aucune page ne reprend ce numéro",
+    "R4 : « Ingénierie et Management Consulting Group » seul — aucun résultat sur ce bureau ; uniquement des cabinets d'ingénierie européens au nom voisin",
+    "Adresses probables testées : imcg.sn (ne répond pas), imcg-senegal.com (ne répond pas), imcgsenegal.com (ne répond pas), imcg.co (répond)",
+    "Page ouverte : https://imcg.co/ — site d'une société nommée IMCG (« Innovative Solutions, Reliable Results ») mais sans aucune adresse, aucun pays, aucun téléphone ni email : rien ne confirme l'identité sénégalaise, site non retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun site ni email trouvé. imcg.co existe et porte bien le sigle IMCG, mais la page n'affiche ni pays, ni adresse, ni téléphone (seulement un formulaire de contact) : l'identité du bureau dakarois n'y est pas confirmée, donc ce domaine ne lui est pas attribué. Attention également aux cabinets dakarois ICG (icg.sn) et ICM Sénégal, de sigles proches mais de dénominations différentes. Seuls le téléphone et l'adresse de la fiche sont exploitables."
+  },
+  {
+   "nom": "IRIS (INSTITUT DE RECHERCHE D'INVESTIGATIONS PAR SONDAGE)",
+   "sigle": "IRIS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Aly Saleh Diop, directeur (confirmé par yelu.sn et son profil Viadeo au titre « Institut de Recherches et d'Investigations par Sondage »)",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 822 10 78 ; mobile +221 77 637 52 20 et fax +221 33 822 37 91 relevés sur yelu.sn",
+   "adresse": "1, Place de l'indépendance Immeuble Allumettes, Porte 2, BP 1757, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Institut d'études de marché et de sondage créé en 1993 : sondages d'opinion, enquêtes de motivation, études agriculture / santé et assainissement / distribution et consommation, promotion des céréales locales, stratégies marketing, évaluation de systèmes d'information de marché, conseil et formation commerciale aux PME, pré-tests et post-tests publicitaires",
+   "fiche_url": "https://www.goafricaonline.com/sn/479977-institut-recherche-investigations-sondage-iris-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié",
+    "R1 : « INSTITUT DE RECHERCHE » « INVESTIGATIONS PAR SONDAGE » IRIS Sénégal — identité confirmée : institut de sondage créé en 1993, siège 1 Place de l'Indépendance immeuble Les Allumettes (même adresse que la fiche), dirigé par Aly Saleh Diop, cité par Jeune Afrique parmi les cinq instituts de sondage les plus réputés de Dakar",
+    "Page ouverte : https://www.yelu.sn/company/18513/Institut_De_Recrutement_Dinvestigations_Par_Sondage_iris — même adresse et même fixe que la fiche, plus un mobile (+221776375220) et un fax (+221338223791) ; aucun email, aucun site",
+    "R2 : IRIS sondage Dakar « Aly » Diop email contact institut recherche investigations — aucun email ; confirme le dirigeant via son profil Viadeo (viadeo.journaldunet.com/p/diop-aly-saleh-1861327)",
+    "Page ouverte : https://www.annuaire-senegal.com/etudes/etude-de-marche/iris-s157690.html — adresse, tél. 338221078, fax 338223791, BP 1757 ; aucun email, aucun site",
+    "R3 : « 338221078 » puis « 33 822 10 78 » / « 776375220 » Sénégal — aucune page nouvelle ne reprend ces numéros en dehors des annuaires déjà ouverts",
+    "R4 : « Institut de Recherches et d'Investigations par Sondage » seul — uniquement la fiche yelu.sn déjà vue et des instituts de sondage français ou suisses sans rapport",
+    "Adresses probables testées : iris.sn, iris-senegal.com, irissondage.com, irissenegal.com — aucune ne répond"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité parfaitement établie (adresse identique, dirigeant nommé, institut connu depuis 1993) mais aucun email ni site web n'a pu être lu : les trois annuaires qui le référencent (goafricaonline, yelu.sn, annuaire-senegal.com) ne publient que téléphone, fax et adresse. Coordonnées complémentaires relevées sur yelu.sn : mobile +221 77 637 52 20 et fax +221 33 822 37 91. Piste solide pour une prospection par téléphone."
   }
  ]
 }
