@@ -248,6 +248,115 @@
    ],
    "statut": "a_verifier",
    "note": "Fiche correspondant à l'ancien bureau dakarois du groupe français SOGREAH, absorbé par ARTELIA en 2010 : la raison sociale n'existe plus et l'ancien domaine sogreah.com ne résout plus. Aucun email n'a été retenu : l'adresse du siège français d'Artelia ne peut pas être attribuée à ce bureau, et la page Sénégal d'Artelia ne publie aucun contact local. Coordonnées téléphoniques et adresse de la fiche à considérer comme possiblement périmées."
+  },
+  {
+   "nom": "SOGUI CONSULTING GROUPE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 966 18 69",
+   "adresse": "Moderne Ourossogui | Dakar - Sénégal",
+   "ville": "Ourossogui",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/388916-sogui-consulting-groupe",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « SOGUI CONSULTING » Sénégal Ourossogui Matam — aucune page du bureau ; uniquement des contenus géographiques sur Ouro Sogui (Matam) et un Hôtel Sogui local, établissement distinct",
+    "R2 : « SOGUI CONSULTING GROUPE » email contact Sénégal — aucune page du bureau ; profils individuels portant le nom Sogui et sociétés distinctes (SOGAFRIC, SOGA Sénégal, SSGI Consulting, SOGICO)",
+    "R3 : « 33 966 18 69 » Sénégal — aucun résultat rattaché à ce numéro. Recherche également faite dans deux documents publics téléchargés et dépouillés : l'Annuaire de l'Industrie du Sénégal (obsindustrie.sn) et la liste officielle des sociétés minières (minesgeologie.gouv.sn) — numéro et raison sociale absents des deux (la seule occurrence de « Sogui » dans l'annuaire est un nom de rue, Terrou Baye Sogui)",
+    "R4 : « SOGUI CONSULTING » seul — aucune correspondance : uniquement des cabinets au nom phonétiquement proche à l'étranger (Sugai, Sugoi, Sugou, SoJo, Sogeti)",
+    "Adresses probables testées : soguiconsulting.com (DNS injoignable), sogui-consulting.sn (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email ni site. L'indicatif 33 966 situe la ligne dans la région de Matam, cohérent avec l'adresse « Moderne Ourossogui » : le bureau est à Ourossogui, bien que la fiche goafricaonline le classe sous Dakar — le champ ville a été renseigné en conséquence."
+  },
+  {
+   "nom": "SPORT SYNERGIE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 77 812 43 55",
+   "adresse": "Rue Saint Germain Gorée | BP 020 | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480038-sport-synergie",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « SPORT SYNERGIE » Sénégal Gorée Dakar — aucune page du bureau ; uniquement l'actualité sportive de Gorée et de la Traversée Dakar-Gorée, et les clubs US Gorée",
+    "R2 : « SPORT SYNERGIE » Sénégal (nom entre guillemets avec le pays, voir aussi R4) — aucune page du bureau",
+    "R3 : « 77 812 43 55 » Sénégal — aucun résultat rattaché à ce numéro ; absent également de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux téléchargés et dépouillés",
+    "R4 : « SPORT SYNERGIE » seul — aucune correspondance sénégalaise : uniquement des sociétés françaises et réunionnaises homonymes (Sport Synergie Consulting en France, Synergie Sport à La Réunion, Synergie Sports à Saint-Maurice-l'Exil, Synergy Sports / Sportradar)",
+    "Adresses probables testées : sportsynergie.sn (DNS injoignable), sport-synergie.com (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email ni site. Toutes les occurrences du nom sur le web renvoient à des sociétés françaises ou réunionnaises homonymes, sans lien avec ce bureau de l'île de Gorée : rien ne leur a été attribué. Adresse (rue Saint-Germain, Gorée) et téléphone de la fiche restent les seules coordonnées."
+  },
+  {
+   "nom": "SSC CONSULTING ET TRAINING",
+   "sigle": "SSC",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@ssc-t.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "+221 77 815 93 71",
+   "adresse": "28 rue valmy x ely manel fall | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://www.ssc-t.com",
+   "site_source": "recherche web",
+   "specialite": "Conseil et formation en management : organisation et conduite du changement, accompagnement, formations certifiantes (PNL, formation de formateurs, prise de parole), développement personnel",
+   "fiche_url": "https://www.goafricaonline.com/sn/389008-ssc-consulting-et-training",
+   "preuve_url": "https://sn.linkedin.com/company/ssc-consulting-&-training",
+   "recherches": [
+    "R1 : « SSC CONSULTING » Sénégal Dakar rue Valmy formation — identité confirmée : SSC Consulting & Training, cabinet de conseil et de formation en management, 28 rue Valmy à Dakar, créé en 2015, 2 à 10 salariés ; pages officielles Facebook et LinkedIn identifiées",
+    "Ouverture de https://sn.linkedin.com/company/ssc-consulting-&-training (page officielle du cabinet) — adresse « 28 rue Valmy x Ely Manel Fall, Dakar, SN » IDENTIQUE à celle de la fiche goafricaonline, site http://www.ssc-t.com et email contact@ssc-t.com lus sur cette page ; aucun téléphone affiché",
+    "Tentative d'ouverture du site propre http://www.ssc-t.com et de ssc-t.com : le domaine ne se résout pas depuis cet environnement, l'email n'a donc pas pu être recoupé sur le site lui-même — il a été lu sur la page officielle LinkedIn du cabinet, qui sert de preuve_url",
+    "R2 : « SSC CONSULTING ET TRAINING » Dakar email contact (voir R1, mêmes sources) — aucune autre adresse publiée",
+    "R3 : « 77 815 93 71 » Sénégal — aucun résultat rattaché à ce numéro ; absent également de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux téléchargés et dépouillés",
+    "R4 : « SSC CONSULTING » seul (via R1) — aucun homonyme gênant au Sénégal"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité certaine : l'adresse lue sur la page officielle LinkedIn du cabinet (28 rue Valmy x Ely Manel Fall) est identique, au mot près, à celle de la fiche goafricaonline. L'email contact@ssc-t.com a été lu tel quel sur cette page officielle, non deviné ; le site ssc-t.com lui-même n'est pas joignable depuis cet environnement, à revérifier lors d'un passage ultérieur."
+  },
+  {
+   "nom": "TALENTS CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 820 10 50",
+   "adresse": "Almadies Zone 4-Lot 13, Immeuble Atlantis, Appart N° 21… | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592495-talents-consulting",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « TALENTS CONSULTING » Sénégal Dakar Almadies Atlantis — un cabinet dakarois de ce nom existe (conseil en transformation des processus et systèmes d'information, audit organisationnel, schémas directeurs informatiques, créé en 2013) mais à une autre adresse : Cité ATTAYA appt 382 Bât.3 8e étage / Espace Ataya, Keur Damel, Nord Foire",
+    "R2 : « Talents Consulting » Dakar email contact cabinet recrutement Sénégal — ce cabinet publie le téléphone +221 33 864 38 18 et un email infos@talentsconsult (domaine donné tantôt en .org, tantôt en .com selon les sources, ce qui invite à la prudence)",
+    "Ouverture et vérification de https://talentsconsult.com/contactez-nous/ — la page officielle donne « Cité ATTAYA, appt 382, Bat.3, 8ém étage, Dakar », téléphone +221 33 864 38 18, email infos@talentsconsult.org : ni l'adresse « Almadies Zone 4 Lot 13 », ni l'« Immeuble Atlantis », ni le téléphone 33 820 10 50 de notre fiche n'y figurent",
+    "Recherche de confirmation : « TALENTS CONSULTING » Almadies Zone 4 Immeuble Atlantis Dakar — l'adresse de la fiche n'apparaît dans AUCUNE source ; seule ressort l'adresse de Cité Attaya",
+    "R3 : « 33 820 10 50 » Sénégal — aucun résultat rattaché à ce numéro (un numéro voisin, 33 820 20 50, appartient à une autre société, Alpha Business Africa Group) ; absent de l'Annuaire de l'Industrie et de la liste des sociétés minières, tous deux dépouillés",
+    "R4 : « TALENTS CONSULTING » seul (via R1 et R2) — uniquement le cabinet de Cité Attaya et des annuaires commerciaux qui le reprennent",
+    "Adresses probables testées : talentsconsulting.sn (DNS injoignable), talents-consulting.sn (DNS injoignable) ; talentsconsult.com existe mais appartient au cabinet de Cité Attaya"
+   ],
+   "statut": "a_verifier",
+   "note": "Doute d'identité non levé, donc ni site ni email attribués : le « Talents Consulting » présent sur le web (talentsconsult.com, email infos@talentsconsult.org) siège à Cité Attaya avec le téléphone 33 864 38 18, alors que cette fiche donne les Almadies Zone 4, Immeuble Atlantis, et le téléphone 33 820 10 50. Il peut s'agir du même cabinet ayant déménagé comme de deux structures homonymes : aucune source ne mentionne l'adresse des Almadies, impossible de trancher. À revérifier en appelant le numéro de la fiche. Adresse de la fiche tronquée (« Appart N° 21… »)."
   }
  ]
 }
