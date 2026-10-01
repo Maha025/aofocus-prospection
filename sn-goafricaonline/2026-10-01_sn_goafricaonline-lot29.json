@@ -1,0 +1,92 @@
+{
+ "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN&p=20",
+ "_extrait_le": "2026-10-01",
+ "_agent": "routine prospection goafrica SN",
+ "_pays": "SN",
+ "_pages": "p=20",
+ "_methode": "Fiches goafricaonline relevées une à une (nom, adresse, téléphones, bouton Site web), puis pour chaque bureau sans email : ouverture du site s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et test des adresses probables en .sn et .com. Aucun email deviné : seules les adresses lues sur une page sont retenues, avec la page dans preuve_url.",
+ "bureaux": [
+  {
+   "nom": "SETICO INGENIEURIE CONSEILS",
+   "sigle": "SETICO",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 863 21 11 | +221 77 420 91 50",
+   "adresse": "Sacré coeur 3 vdn Ext. N° 157 | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.setico.sn",
+   "site_source": "recherche web",
+   "specialite": "Ingénierie-conseil : eau et environnement, aménagements hydrauliques, eau potable, assainissement, génie civil et infrastructures ; interventions au Sénégal, en Côte d'Ivoire, Guinée-Bissau, Niger, Mali, Mauritanie et Tchad",
+   "fiche_url": "https://www.goafricaonline.com/sn/652768-setico-ingenieurie-conseils",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « SETICO » ingénierie conseils Sénégal Dakar — identité établie : SETICO Ingénieurs Conseils, bureau d'études créé en 1988, un des leaders de l'ingénierie au Sénégal (eau et environnement, hydraulique, eau potable, assainissement, génie civil), certifié ISO 9001 ; site officiel www.setico.sn ; adresse « Sacré Cœur III VDN Extension Villa n°157 Lots B-D, BP 2116 Dakar RP » — identique à celle de la fiche",
+    "Ouverture de https://bdd.pseau.org/outils/organismes/organisme_detail.php?org_organisme_id=4326 — fiche « SETICO Ingénieur Conseil », adresse « Sacré Cœur III VDN Extension N°157 Lots B-D, BP 2111 RP », Dakar, tél +221 33 864 08 97, fax +221 33 864 08 98, site www.setico.sn. Les emails y sont affichés sous forme d'IMAGES et non de texte : adresse masquée, non décodée (aucune protection contournée), donc comptée comme absente",
+    "Tentatives d'ouverture du site officiel https://setico.sn/ et https://www.setico.sn/ : le domaine ne se résout pas depuis cet environnement (EAI_AGAIN, puis échec DNS en direct) — site non consultable ici",
+    "Autres sources tentées sans succès : pagesjaunesdusenegal.com/pages/fiche.php?k=7337 (HTTP 404), fr.cybo.com/SN-biz/tpf-setico (HTTP 403), devex.com/organizations/setico-41498 (HTTP 403)",
+    "Ouverture de https://www.yelu.sn/company/18765/Setico_Ingenieur_Conseil — « Setico Ingenieur Conseil », Sacré Cœur 3 face VDN BP 2116 RP Dakar, tél 33 860 25 55 ; aucun email affiché (vérifié explicitement)",
+    "R2 : « SETICO » Dakar email contact setico.sn ingénieurs conseils — les résumés de moteur citent l'adresse setico@sentoo.sn, mais aucune page ouvrable depuis cet environnement ne permet de la LIRE (voir ci-dessus) : elle n'a donc pas été retenue",
+    "R3 : « 33 863 21 11 » / « 77 420 91 50 » — pas de résultat propre ; les annuaires donnent pour SETICO d'autres numéros (33 869 21 11, 33 869 21 13, 33 864 08 97, 33 860 25 55), signe de plusieurs lignes au fil du temps",
+    "R4 : « setico@sentoo.sn » OR « SETICO » « sentoo.sn » Dakar — mêmes sources d'annuaires et d'agrégateurs ; aucune page lisible publiant l'adresse"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité certaine : l'adresse Sacré Cœur III VDN Extension n°157 de la fiche pSEau est identique à celle de la fiche goafricaonline, le site officiel est donc attribué. En revanche AUCUN email n'est enregistré : l'adresse setico@sentoo.sn est annoncée par plusieurs résumés de moteurs, mais la fiche pSEau l'affiche en image (protection non contournée, donc comptée comme absente) et toutes les autres pages sont soit injoignables (setico.sn ne se résout pas depuis cet environnement), soit en erreur (404, 403), soit sans email (yelu). Piste solide à revérifier lors d'un passage ultérieur, depuis un accès où setico.sn se résout."
+  },
+  {
+   "nom": "SIGA GLOBAL BUSINESS",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 77 690 94 94",
+   "adresse": "Kolda | Dakar - Sénégal",
+   "ville": "Kolda",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592574-siga-global-business",
+   "preuve_url": "",
+   "recherches": [
+    "Bouton « Site web » de la fiche : https://siga-global-business.business.site/ — ouvert, répond HTTP 404 (page Google Business Profile supprimée, le service business.site ayant été fermé) : aucun email lisible",
+    "R1 : « SIGA GLOBAL BUSINESS » Sénégal — le bureau est confirmé (agence immobilière / services, Kolda, téléphone 77 690 94 94, horaires lundi-vendredi 8h30-17h30 et samedi 9h30-13h30, via wikipemap) mais aucun email ; sociétés distinctes écartées : SIGA Corporate (informatique et mobilier, Dakar, 33 867 93 93), SIGA INFORMATIQUE BUREAUTIQUE ET SERVICES, Senegal Global Business (Km 18 route de Rufisque)",
+    "R2 : « SIGA GLOBAL BUSINESS » Kolda Dakar email contact — aucune adresse email publiée ; seules des adresses du type @sigacorporate.com apparaissent, qui appartiennent à SIGA Corporate, société distincte, et n'ont pas été retenues",
+    "R3 : « 77 690 94 94 » Sénégal Siga — confirme le rattachement du numéro à Siga Global Business (wikipemap) ; aucun email",
+    "R4 : « SIGA GLOBAL BUSINESS » seul — uniquement des homonymes internationaux sans rapport (SIGA Technologies à New York, SIGA suisse, Sport Integrity Global Alliance)",
+    "Adresses probables testées : siga-global-business.com (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Seul bureau de cette page dont la fiche goafricaonline annonçait un site web, mais le lien (Google Business Profile sur business.site) renvoie une erreur 404, le service ayant été fermé : site_web laissé vide. Le téléphone est bien confirmé par une seconde source, sans email. Les sociétés au nom proche (SIGA Corporate, SIGA INFORMATIQUE) sont distinctes : leurs emails n'ont pas été attribués. Bureau localisé à Kolda bien que la fiche le classe sous Dakar."
+  },
+  {
+   "nom": "SIVACONSEILS SUARL",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 827 88 18 | +221 77 637 15 10",
+   "adresse": "Liberté 6 villa N 6586 | BP 23114 | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/525090-sivaconseils-suarl",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « SIVACONSEILS » / « SIVA CONSEILS » Sénégal Dakar Liberté 6 — aucune page du bureau ; le moteur ne renvoie que des informations géographiques et hôtelières sur le quartier Sicap Liberté 6",
+    "R2 : « SIVACONSEILS » Dakar email contact SUARL — aucune page du bureau ; d'autres sociétés SUARL de Dakar sans rapport",
+    "R3 : « 33 827 88 18 » / « 77 637 15 10 » Sénégal — aucun résultat rattaché à ces numéros ; absents aussi de la liste officielle des sociétés minières consultée par ailleurs",
+    "R4 : « SIVACONSEILS » seul — deux traces seulement : le sitemap de goafricaonline, et une base de noms de domaine (registrydb) indiquant qu'un domaine sivaconseils.com a été enregistré le 07/10/2017 ; une page d'agrégateur de personnes cite un gérant nommé Souleymane Abou Siva Ly, information non retenue faute de source fiable",
+    "Adresses probables testées : sivaconseils.sn (DNS injoignable), sivaconseils.com et www.sivaconseils.com (domaine enregistré en 2017 mais ne se résolvant plus : injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email ni site exploitable. Le domaine sivaconseils.com a bien été enregistré en 2017 mais ne résout plus, et aucune page du bureau n'est accessible. Le nom d'un gérant possible (Souleymane Abou Siva Ly) apparaît sur un agrégateur de profils, source trop faible : le champ responsable est laissé vide."
+  }
+ ]
+}
