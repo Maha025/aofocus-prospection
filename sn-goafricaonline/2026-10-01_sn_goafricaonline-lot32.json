@@ -257,6 +257,35 @@
    ],
    "statut": "a_verifier",
    "note": "Email infos@socabeg.com lu sur https://www.nexpages.com/phonebook/socabeg-senegal-6902. Identité certaine : la BP 1270 de cette fiche et de celle de business-senegal.com est exactement celle de la fiche goafricaonline, et le site officiel confirme la dénomination « Société d'Aménagement de Bâtiment et d'Études Générales », dont les « Études Générales » expliquent le classement de l'annuaire. Réserves : les téléphones diffèrent selon les sources (33 867 35 12 sur la fiche, 33 889 35 35 et 33 889 30 99 ailleurs, le 33 867 26 75 étant donné comme fax), et deux adresses de rue circulent (Fann-Hock / Corniche et Sicap Liberté VI Extension) ; tous ces éléments sont conservés. Le site socabeg.com étant une application JavaScript, aucun email n'a pu y être lu directement, d'où le recours à l'annuaire nexpages. Une seconde adresse, dado@socabeg.sn, apparaît dans un extrait de recherche mais n'a pu être lue sur aucune page ouverte : elle n'est pas retenue. L'activité réelle est plutôt immobilier et BTP que conseil, mais la société porte bien « Études Générales » dans sa raison sociale."
+  },
+  {
+   "nom": "STRATEGY PARTNERS CONSULTING",
+   "sigle": "SPC Agency",
+   "categorie": "conseil et communication",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 827 10 64",
+   "adresse": "17, Liberté 6 Nord, Mosquée Liberté 6, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://spc-agency.com/",
+   "site_source": "recherche web",
+   "specialite": "Conseil et relations publiques : positionnement des organisations et développement de projets, conseil en stratégie de communication économique, politique et sociale ; production audiovisuelle, graphique, numérique et imprimée (rapproche les entités Strategies et Oxygen) ; 11 à 50 salariés",
+   "fiche_url": "https://www.goafricaonline.com/sn/592512-strategy-partners-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié",
+    "R1 : « Strategy Partners Consulting » Sénégal Dakar — identité confirmée : la société, également appelée SPC Agency, est donnée au « 17 Liberté 6 Nord, Dakar » avec le téléphone +221 338271064, soit EXACTEMENT l'adresse et le numéro de la fiche ; son site est spc-agency.com",
+    "Site spc-agency.com essayé en https et http, sur la racine, /contact et l'URL indexée http://spc-agency.com/en/our-company/ : le domaine ne se résout pas depuis cet environnement (getaddrinfo ENOTFOUND, code 000 en curl) ; aucune page n'a pu être lue, donc aucun email relevé",
+    "R2 : « SPC Agency » OU « spc-agency.com » Dakar email contact Strategy Partners Consulting — confirme l'adresse « Liberté 6 Nord, lotissement numéro 17, Dakar » et le téléphone +221 338271064, ainsi que l'activité (conseil, relations publiques, production audiovisuelle), mais aucune source ne publie d'email ; les autres résultats sont des homonymes étrangers (spcconsulting.org, spc.co.in, SPC Indonesia, SPC Management Services en Inde)",
+    "R3 : « 33 827 10 64 » puis « 338271064 » Dakar — aucune page ne reprend ce numéro en dehors des sources déjà vues",
+    "R4 : « Strategy Partners Consulting » seul — uniquement des homonymes étrangers (strategypartnersconsulting.com, Strategy Partners Group à Moscou, strategypartners.com, strategypartnersglobal.com, Strategic Partners Group) : aucun n'est dakarois, aucun n'est retenu",
+    "Adresses probables testées : spc-agency.sn, spcagency.sn, strategypartners.sn (ne répondent pas) ; spcagency.com répond (200)",
+    "Page ouverte : https://spcagency.com/ — il s'agit d'une agence de DJ bulgare (Сънрайз Парти Център, Sofia, office@spcagency.com, téléphones en +359), sans aucun rapport ; écartée"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email trouvé, mais identité certaine : l'adresse (17 Liberté 6 Nord) et le téléphone (+221 33 827 10 64) relevés par les sources externes sont exactement ceux de la fiche. Son site officiel spc-agency.com lui est attribué sur cette base, mais le domaine ne se résout pas depuis cet environnement : impossible d'y lire un email, d'où un preuve_url vide. Piste à rouvrir lors d'un prochain passage depuis un accès où le domaine répond — la page /en/our-company/ est indexée et le site comporte vraisemblablement une page de contact. Ne pas confondre avec spcagency.com, agence de DJ bulgare sans rapport, ni avec les nombreux Strategy Partners étrangers."
   }
  ]
 }
