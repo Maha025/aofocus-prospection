@@ -113,6 +113,58 @@
    ],
    "statut": "a_verifier",
    "note": "Identité certaine : l'adresse du bureau sénégalais publiée sur le site officiel du Groupe Willier (39 Cité Biagui, Route de l'aéroport, Dakar) est identique à celle de la fiche goafricaonline. L'email retenu est celui du bureau de Dakar (.sn), lu sur la page contact, et non celui du siège français (.fr). Seule divergence : le téléphone affiché aujourd'hui sur le site est +221 33 820 27 83, alors que la fiche et les annuaires donnent 33 860 66 40 — deux lignes, ou changement de numéro ; les deux sont à considérer."
+  },
+  {
+   "nom": "VB25 ( VISION BADY 2025 )",
+   "sigle": "VB25",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 77 521 30 43",
+   "adresse": "Scat Hann Mariste 1, N°F60 | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592583-vb25-vision-bady-2025",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « VB25 » OR « VISION BADY » Sénégal Dakar Hann Mariste — aucune page de la société ; uniquement des contenus sur le quartier de Hann Maristes (locations, établissements scolaires maristes)",
+    "R2 : « VISION BADY 2025 » OR « VB25 » email contact Dakar Sénégal société — aucune page de la société ; structures distinctes écartées (World Vision Sénégal, Dakar Vision, Vision School Dakar, agences d'optique et de communication portant « Vision »)",
+    "R3 : « 77 521 30 43 » Sénégal — aucun résultat rattaché à ce numéro ; absent de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux téléchargés et dépouillés localement",
+    "R4 : « VB25 » / « VISION BADY » seuls (via R1 et R2, noms entre guillemets) — aucune correspondance : le sigle VB25 est trop court et sans occurrence sénégalaise",
+    "Adresses probables testées : vb25.sn (DNS injoignable), visionbady.com (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucune trace web de cette structure : ni site, ni page officielle, ni email, ni reprise d'annuaire en dehors de la fiche goafricaonline. Le sigle VB25 est trop court pour une recherche utile et le nom développé (Vision Bady 2025) ne renvoie que des homonymies partielles sur le mot « Vision ». Seuls le téléphone et l'adresse de la fiche sont exploitables."
+  },
+  {
+   "nom": "WANAXO AFRIQUE SARL",
+   "sigle": "WANAXO",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 820 23 12",
+   "adresse": "59, Cité Diamalaye 3 Noire Foire | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480059-wanaxo-afrique-sarl",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « WANAXO » Sénégal Dakar — aucune page de la société ; sociétés au nom proche écartées car distinctes : Wanadoo (sérigraphie et textile, Sacré-Cœur 3) et Wanekoo (création de sites web)",
+    "R2 : « WANAXO AFRIQUE » email contact Dakar Diamalaye — aucun email publié. Attention : le résumé du moteur attribue à WANAXO AFRIQUE les téléphones 338279037 et 776353378 ; ce sont en réalité ceux de SICOS CONSTRUCTION, un autre bureau de cette même liste, et non ceux de la fiche WANAXO (33 820 23 12) : l'affirmation a été écartée. Les sociétés « Diamalaye » voisines (Diamalaye Services Telecoms, Diamalaye Import Export) sont également distinctes",
+    "R3 : « 33 820 23 12 » Sénégal — aucun résultat rattaché à ce numéro ; absent de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux dépouillés localement",
+    "R4 : « WANAXO » seul (via R1) — aucune occurrence du nom exact, les moteurs proposant systématiquement des orthographes voisines (Wanadoo, Wanekoo)",
+    "Adresses probables testées : wanaxo.sn (DNS injoignable), wanaxo.com (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email ni site. Nom rare, qu'aucun moteur ne trouve tel quel : les résultats dérivent vers Wanadoo et Wanekoo, sociétés distinctes de Dakar dont rien n'a été retenu. Un rattachement de téléphones proposé par un résumé de moteur a été vérifié et écarté : ces numéros sont ceux d'un autre bureau de la même liste (SICOS CONSTRUCTION)."
   }
  ]
 }
