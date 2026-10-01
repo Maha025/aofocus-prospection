@@ -1,0 +1,118 @@
+{
+ "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN&p=21",
+ "_extrait_le": "2026-10-01",
+ "_agent": "routine prospection goafrica SN",
+ "_pays": "SN",
+ "_pages": "p=21",
+ "_methode": "Fiches goafricaonline relevées une à une (nom, adresse, téléphones, bouton Site web), puis pour chaque bureau sans email : ouverture du site s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et test des adresses probables en .sn et .com. Deux documents publics ont en outre été téléchargés et dépouillés pour chaque bureau : l'Annuaire de l'Industrie du Sénégal (ministère de l'Industrie et des Mines) et la liste officielle des sociétés minières. Aucun email deviné : seules les adresses lues sur une page sont retenues, avec la page dans preuve_url.",
+ "bureaux": [
+  {
+   "nom": "UNIVERS COMMUNICATION",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 821 87 21",
+   "adresse": "96, Avenue Lamine Guèye | BP 11185 | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Communication, production audiovisuelle et marketing digital (d'après la description de ses pages sociales)",
+   "fiche_url": "https://www.goafricaonline.com/sn/480070-univers-communication",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « UNIVERS COMMUNICATION » Sénégal Dakar Lamine Guèye — aucune page du bureau ; le moteur ne renvoie que des contenus biographiques sur Me Lamine Guèye, dont l'avenue porte le nom",
+    "R2 : « UNIVERS COMMUNICATION » Dakar email contact agence Sénégal — aucune page du bureau ; agences distinctes écartées : Univers Techno (contact@universtechno.net, Thiaroye Gare), Agence Communication Sénégal, Digicom, Agence221",
+    "R3 : « 33 821 87 21 » Sénégal — aucun résultat rattaché à ce numéro ; absent de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux téléchargés et dépouillés localement",
+    "R4 : « UNIVERS COMMUNICATION » seul — une agence sénégalaise de ce nom existe bien (communication, production audiovisuelle, marketing digital, appui aux entreprises de médias), avec plusieurs pages Facebook (Univers.Communication, unicomsenegal, Universcom) et une chaîne YouTube ; les autres résultats sont des sociétés françaises homonymes (Paris, Saint-Denis, Villers-sur-Saulnot), dont les coordonnées n'ont pas été retenues",
+    "Ouverture tentée de https://www.facebook.com/unicomsenegal/ — la page renvoie un écran de connexion Facebook : aucune coordonnée visible et aucune tentative de contournement de la page de connexion (interdit). Aucun email n'a donc pu être lu",
+    "Adresses probables testées : universcommunication.sn (DNS injoignable), univers-communication.sn (DNS injoignable) ; univers-communication.com appartient à une agence française de services télécoms, non retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Agence sénégalaise bien réelle, présente sur Facebook et YouTube, mais aucun email lisible : les pages Facebook ne s'affichent que derrière un écran de connexion, qui n'a pas été contourné, et aucun site propre n'existe. Plusieurs homonymes français portent le même nom : rien ne leur a été emprunté. Spécialité reprise des descriptions de ses pages sociales telles que résumées par les moteurs, non lue sur une page ouverte."
+  },
+  {
+   "nom": "VALSEN CONSULTING SUARL",
+   "sigle": "VALSEN",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 78 145 70 03 | +221 78 145 70 00",
+   "adresse": "Saly Niakh Niakh | BP 154 Mbour | M'bour - Sénégal",
+   "ville": "M'bour",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Conseil (activité agro-business d'après la fiche d'annuaire sénégalaise, sous réserve qu'il s'agisse bien de la même société)",
+   "fiche_url": "https://www.goafricaonline.com/sn/525347-valsen-consulting-suarl",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « VALSEN CONSULTING » Sénégal Saly Mbour — une fiche d'annuaire sénégalaise existe (« Valsen Consulting Suarl », société spécialisée dans l'agro-business) mais localisée à Dalifort, Dakar, et non à Saly",
+    "Ouverture et vérification de https://www.senpages.com/entreprise/valsen-consulting-suarl/ — « Valsen Consulting Suarl », Dalifort, Dakar, téléphone +221 78 145 70 30, catégorie agroalimentaire ; ni l'adresse de Saly Niakh Niakh, ni la BP 154 Mbour, ni les téléphones 78 145 70 03 / 78 145 70 00 de notre fiche n'y figurent. À noter : le numéro de senpages (78 145 70 30) est très proche de ceux de la fiche, à un chiffre près — même série de lignes probable, mais rien ne le prouve. Aucun email affiché de toute façon (vérifié explicitement)",
+    "R2 : « VALSEN CONSULTING SUARL » email contact (voir R4) — aucune adresse email publiée pour la société sénégalaise",
+    "R3 : « 78 145 70 03 » Sénégal — aucun résultat rattaché à ce numéro ; absent de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux dépouillés",
+    "R4 : « VALSEN CONSULTING SUARL » seul — la société sénégalaise d'agro-business de Dalifort, et un groupe homonyme des Seychelles (Valsen Fiduciaries / Valsen Consulting, services corporate et financiers à Victoria, Mahé), société distincte",
+    "Adresses probables testées : valsen.sn (DNS injoignable) ; valsenconsulting.com répond HTTP 521 « Web server is down », sans contenu, et appartient de toute façon au groupe seychellois : écarté"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email. Deux réserves : l'adresse diffère entre la fiche goafricaonline (Saly Niakh Niakh, BP 154 Mbour) et la fiche d'annuaire sénégalaise (Dalifort, Dakar), avec un téléphone proche à un chiffre près — même société ayant déménagé ou deux structures distinctes, impossible de trancher ; et un groupe homonyme des Seychelles (Valsen Fiduciaries) occupe le domaine valsenconsulting.com. Rien ne leur a été attribué. Seul bureau de ce lot situé hors de la région de Dakar."
+  },
+  {
+   "nom": "UNITE DE COORDINATION CES PROJETS ET PROGRAMMES",
+   "sigle": "UCSP",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 825 57 38",
+   "adresse": "Complexe sicap point E imm. D 4ème étage | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Coordination et suivi de projets et programmes publics",
+   "fiche_url": "https://www.goafricaonline.com/sn/653505-unite-de-coordination-ces-projets-et-programmes",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « Unité de Coordination des Projets et Programmes » Sénégal Point E Dakar — correspondance très probable : l'« Unité de coordination et de suivi des projets et programmes » (UCSP) du ministère de la Jeunesse, de l'Emploi et de la Promotion des Valeurs civiques, « Immeuble D, aile de droite, 4ème étage, 1 avenue Cheikh Anta Diop x Canal IV, Dakar » — l'immeuble D et le 4e étage correspondent à l'adresse de la fiche (Complexe SICAP Point E, imm. D, 4e étage), le Complexe SICAP Point E donnant sur l'avenue Cheikh Anta Diop",
+    "R2 : « Unité de Coordination et de Suivi des Projets et Programmes » UCSP email contact Dakar ministère — téléphone (221) 33 825 57 98 et renvoi vers www.sig-jeunesse.gouv.sn ; AUCUN email publié pour cette unité",
+    "R3 : « 33 825 57 38 » Sénégal — aucun résultat rattaché à ce numéro ; absent de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux téléchargés et dépouillés localement. À noter que le numéro de l'UCSP publié par le ministère (33 825 57 98) diffère de celui de la fiche (33 825 57 38) sur les deux derniers chiffres : lignes voisines d'un même standard, ou entités distinctes",
+    "R4 : nom entre guillemets (voir R1 et R2) — aucune page propre à cette unité sous le libellé exact de la fiche ; d'autres structures de coordination sénégalaises ressortent et ont été écartées (Bureau Opérationnel de Coordination et de Suivi de la Primature, Cellule de Planification du ministère de l'Hydraulique)",
+    "Aucune adresse probable testée : il s'agit d'une unité administrative publique, sans nom de domaine propre plausible ; le site de rattachement cité est sig-jeunesse.gouv.sn"
+   ],
+   "statut": "a_verifier",
+   "note": "Il s'agit vraisemblablement d'une unité administrative publique (coordination et suivi de projets et programmes) et non d'un bureau d'études privé, malgré son classement dans cette rubrique de l'annuaire. Rapprochement fait avec l'UCSP du ministère de la Jeunesse et de l'Emploi (même immeuble D, même étage), mais le téléphone diffère de deux chiffres : le doute n'est pas entièrement levé et aucune coordonnée extérieure ne lui a été attribuée. Aucun email publié. Intérêt limité pour une prospection commerciale, à confirmer par AOFocus."
+  },
+  {
+   "nom": "W2I WILLIER INGENIERIE INTERNATIONALE",
+   "sigle": "W2I",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@willieringenierie.sn"
+   ],
+   "email_qualite": "ok",
+   "tels": "+221 33 860 66 40",
+   "adresse": "39 Cite Biagui, Route Aeroport | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://willieringenierie.com",
+   "site_source": "recherche web",
+   "specialite": "Bureau d'études BTP : études techniques et assistance à maîtrise d'ouvrage en bâtiment et génie civil (réalisations dont les résidences universitaires de l'UCAD)",
+   "fiche_url": "https://www.goafricaonline.com/sn/592607-w2i-willier-ingenierie-internationale",
+   "preuve_url": "https://willieringenierie.com/contact",
+   "recherches": [
+    "R1 : « W2I » « Willier Ingenierie Internationale » Sénégal Dakar — identité établie : W2I est la filiale sénégalaise du Groupe WILLIER Ingénierie (bureau d'études implanté à Rouen et à Dakar), raison sociale « WILLIER INGENIERIE INTERNATIONALE SUARL », créée le 28 avril 2014, activité BTP : études techniques et assistance à maîtrise d'ouvrage en bâtiment et génie civil ; adresse « 39 Cité Biagui, Route de l'aéroport, Dakar Sénégal » et téléphone +221 33 860 66 40 cités par les annuaires, identiques à la fiche",
+    "Ouverture de https://willieringenierie.com/contact — la page distingue les deux bureaux : France (45 Allée Paul Langevin, Immeuble Copernic, 76230 Bois Guillaume, +33 235 239 247, contact@willieringenierie.fr) et SÉNÉGAL (« 39 Cité Biagui, Route de l'aéroport, Dakar Sénégal », +221 33 820 27 83, contact@willieringenierie.sn). L'adresse du bureau de Dakar est identique à celle de la fiche ; l'email contact@willieringenierie.sn, rattaché explicitement à ce bureau, a été lu tel quel sur cette page",
+    "R2 et R3 non nécessaires : email trouvé sur le site officiel du groupe dès l'étape 2, identité confirmée par l'adresse exacte du bureau de Dakar",
+    "R4 : nom entre guillemets (via R1) — confirme la filiale sénégalaise (fiche creationdentreprise.sn « WILLIER INGENIERIE INTERNATIONALE SUARL », page icricinternational.org) ; aucun homonyme gênant",
+    "Adresses probables non nécessaires (site officiel trouvé) ; w2i.sn, willier-ingenierie.com et w2i-senegal.com testés par précaution : DNS injoignables"
+   ],
+   "statut": "a_verifier",
+   "note": "Identité certaine : l'adresse du bureau sénégalais publiée sur le site officiel du Groupe Willier (39 Cité Biagui, Route de l'aéroport, Dakar) est identique à celle de la fiche goafricaonline. L'email retenu est celui du bureau de Dakar (.sn), lu sur la page contact, et non celui du siège français (.fr). Seule divergence : le téléphone affiché aujourd'hui sur le site est +221 33 820 27 83, alors que la fiche et les annuaires donnent 33 860 66 40 — deux lignes, ou changement de numéro ; les deux sont à considérer."
+  }
+ ]
+}
