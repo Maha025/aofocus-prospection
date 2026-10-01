@@ -226,6 +226,37 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun site ni email trouvé. La société n'a aucune présence en ligne en dehors de sa fiche goafricaonline, et le sigle SNDEV est saturé par des usages informatiques étrangers (communauté ServiceNow, composants STMicroelectronics) qui rendent les recherches stériles ; le sigle n'étant pas développé sur la fiche, aucune recherche sur la dénomination complète n'est possible. Aucun site ni email ne lui est attribué. Seuls le mobile et l'adresse très sommaire (« Rue IV ») sont exploitables."
+  },
+  {
+   "nom": "SOCABEG",
+   "sigle": "SOCABEG (Société d'Aménagement de Bâtiment et d'Études Générales)",
+   "categorie": "batiment et etudes generales",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "infos@socabeg.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 867 35 12 sur la fiche ; +221 33 889 35 35 et +221 33 889 30 99 ailleurs, fax +221 33 867 26 75",
+   "adresse": "BP. 1270, Dakar, Sénégal (fiche) ; adresse de rue relevée ailleurs : « Face Cour Suprême, quartier Fann-Hock, Corniche, Dakar », et « Sicap Liberté VI Extension, Route des HLM Grand Yoff » sur une autre source",
+   "ville": "Dakar",
+   "site_web": "http://www.socabeg.com/",
+   "site_source": "recherche web",
+   "specialite": "Société anonyme d'aménagement de bâtiment et d'études générales : promotion immobilière, BTP, travaux publics, construction et commercialisation de programmes immobiliers et de logements sociaux ; présentée comme un acteur de premier plan du logement social au Sénégal",
+   "fiche_url": "https://www.goafricaonline.com/sn/592596-socabeg-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.nexpages.com/phonebook/socabeg-senegal-6902",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié (66 vues, fiche non revendiquée) ; seules une BP et un téléphone",
+    "R1 : « SOCABEG » Sénégal Dakar — identifie une société anonyme dakaroise de promotion immobilière et de BTP, avec les domaines socabeg.sn et socabeg.com",
+    "Page ouverte : https://www.business-senegal.com/fre/Entreprises/profilent/_15662 — « BP 1270 dakar », soit EXACTEMENT la BP de la fiche, tél. et fax (221) 338672675 (même préfixe 33 867 que le numéro de la fiche), adresse Sicap Liberté VI Extension / Route des HLM Grand Yoff, secteurs travaux publics, bâtiment, équipements, site http://www.socabeg.com/ : identité confirmée, mais aucun email sur cette page",
+    "Site ouvert : http://www.socabeg.com/ (et en https) — la page affiche bien « SOCABEG - Société d'Aménagement de Bâtiment et d'Etudes Générales », ce qui confirme la dénomination et explique le classement en bureau d'études, mais il s'agit d'une application JavaScript dont le contenu ne se charge pas sans navigateur (« You need to enable JavaScript to run this app ») : aucun email lisible. socabeg.sn ne répond pas (000 en https, 404 en http)",
+    "R2 : « SOCABEG » « Société d'Aménagement de Bâtiment et d'Etudes Générales » email contact Dakar — oriente vers plusieurs annuaires",
+    "Page ouverte : https://www.nexpages.com/phonebook/socabeg-senegal-6902 — email infos@socabeg.com lu tel quel, BP 1270 Dakar (identique à la fiche), adresse Face Cour Suprême / Fann-Hock / Corniche, tél. +221 338 89 35 35 et +221 338 89 30 99, fax +221 338 67 26 75",
+    "Page ouverte : https://www.au-senegal.com/socabeg,4135.html?lang=fr — confirme la dénomination complète et l'adresse Corniche Ouest face Cour Suprême, mais ne publie ni email ni téléphone",
+    "Page http://pagesjaunesdusenegal.com/pages/fiche.php?k=8935 essayée : renvoie une 404"
+   ],
+   "statut": "a_verifier",
+   "note": "Email infos@socabeg.com lu sur https://www.nexpages.com/phonebook/socabeg-senegal-6902. Identité certaine : la BP 1270 de cette fiche et de celle de business-senegal.com est exactement celle de la fiche goafricaonline, et le site officiel confirme la dénomination « Société d'Aménagement de Bâtiment et d'Études Générales », dont les « Études Générales » expliquent le classement de l'annuaire. Réserves : les téléphones diffèrent selon les sources (33 867 35 12 sur la fiche, 33 889 35 35 et 33 889 30 99 ailleurs, le 33 867 26 75 étant donné comme fax), et deux adresses de rue circulent (Fann-Hock / Corniche et Sicap Liberté VI Extension) ; tous ces éléments sont conservés. Le site socabeg.com étant une application JavaScript, aucun email n'a pu y être lu directement, d'où le recours à l'annuaire nexpages. Une seconde adresse, dado@socabeg.sn, apparaît dans un extrait de recherche mais n'a pu être lue sur aucune page ouverte : elle n'est pas retenue. L'activité réelle est plutôt immobilier et BTP que conseil, mais la société porte bien « Études Générales » dans sa raison sociale."
   }
  ]
 }
