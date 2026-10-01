@@ -3,7 +3,7 @@
  "_extrait_le": "2026-10-01",
  "_agent": "routine prospection goafrica SN",
  "_pays": "SN",
- "_pages": "p=23 (fin de page) puis p=24",
+ "_pages": "p=23 (fin de la page, désormais entièrement traitée) puis début de p=24, dernière page de la pagination",
  "_methode": "Fiches goafricaonline relevées une à une (nom, adresse, téléphones, bouton Site web), puis pour chaque bureau sans email : ouverture du site s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et test des adresses probables en .sn et .com. Aucun email deviné : seules les adresses lues sur une page sont retenues, avec la page dans preuve_url.",
  "bureaux": [
   {
