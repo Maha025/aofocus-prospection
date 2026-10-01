@@ -379,6 +379,60 @@
    ],
    "statut": "a_verifier",
    "note": "Homonymie écartée : le SEFIMA du web est un cabinet marseillais de gestion de patrimoine (filiale du Groupe Premium), sans rapport avec ce bureau du 74 rue Carnot à Dakar ; son email contact@sefima.com n'a donc PAS été retenu. Aucun email ni site propre trouvé. À noter : la rue Carnot de Dakar a été rebaptisée rue Imam Matar Sylla, ce qui peut expliquer la rareté des mentions récentes."
+  },
+  {
+   "nom": "SEMIS (SOCIETE D'EXPLOITATION ET DE MONTAGE DE MICRO INDUSTRIE AU SENEGAL)",
+   "sigle": "SEMIS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 825 31 89 | +221 77 653 44 77",
+   "adresse": "Front de Terre Cité CFAO | BP 6256 Etoile | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/480079-semis-societe-d-exploitation-et-de-montage-de-micro-industrie-au-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « SEMIS » « micro industrie » Sénégal Dakar société exploitation montage — aucune page de ce bureau ; deux sigles voisins ressortent : SEMIS = « Services de l'énergie en milieu sahélien » (semis.sn) et SEMI = « Société d'équipements marines et industriels » (semisenegal.sn)",
+    "R2 : « SEMIS » Dakar Front de Terre CFAO email contact Sénégal — aucune page du bureau ; seul SEMI Sénégal (équipement marin, info@semisenegal.sn, KM 6 Boulevard du Centenaire Hann Marinas, BP 678) ressort, société distincte",
+    "Vérification d'homonymie, lecture de https://www.semis.sn/fr/telecharge/semis_profil.pdf (profil officiel de l'autre SEMIS) : sa dénomination est « Services de l'énergie en milieu sahélien - SEMIS », créée en 1987, siège à Saint-Louis, bureaux « Espace Résidence, Immeuble 14 – N°21, Han Mariste, BP 652 Dakar RP », tél (221) 33 832 73 97, email dgsemis@semis.sn — ni le nom complet, ni l'adresse (Front de Terre Cité CFAO), ni la boîte postale (BP 6256 Etoile), ni le téléphone (33 825 31 89) de notre fiche n'y figurent. Société différente : son email n'a pas été retenu",
+    "R3 : « 33 825 31 89 » Sénégal — aucun résultat rattaché à ce numéro ; absent aussi de la liste officielle des sociétés minières consultée par ailleurs",
+    "R4 : « SOCIETE D'EXPLOITATION ET DE MONTAGE DE MICRO INDUSTRIE » seul — aucune correspondance : uniquement des entreprises françaises de montage industriel sans rapport",
+    "Adresses probables testées : semis-senegal.com (DNS injoignable) ; semis.sn existe mais appartient à l'autre SEMIS (voir ci-dessus), donc non retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Collision de sigle soigneusement levée : le domaine semis.sn et l'email dgsemis@semis.sn appartiennent à « Services de l'énergie en milieu sahélien », dénomination, adresse, boîte postale et téléphone tous différents de ceux de ce bureau (« Société d'Exploitation et de Montage de Micro Industrie au Sénégal », Front de Terre Cité CFAO). Rien ne leur a donc été attribué. Aucun email propre trouvé."
+  },
+  {
+   "nom": "SEN ENGINIERIE CONSULT SARL",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 832 61 12",
+   "adresse": "Cité Acenda Maristes, Villa N°665 | BP 8027 PHC8 | Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "",
+   "fiche_url": "https://www.goafricaonline.com/sn/592497-sen-enginierie-consult-sarl",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « SEN ENGINIERIE » / « SEN ENGINEERING CONSULT » Sénégal Dakar Maristes — trois sociétés voisines mais distinctes : SEN-ENGINEERING INTERNATIONAL S.A. (sen-engineering.com), GROUPE SEN INGENIERIE / GSI (sen-ingenierie.com, 81 Cité La Gazelle) et SENES Management Engineering Consultancy ; une fiche cartographique « Sen Ingenierie Consult » sans coordonnées exploitables",
+    "R2 : « Sen Ingenierie Consult » Dakar email contact Sénégal — aucune page du bureau ; mêmes sociétés voisines",
+    "Vérification d'homonymie, ouverture de https://bdd.pseau.org/outils/organismes/organisme_detail.php?org_organisme_id=73196 : il s'agit de « Sen Engineering (SenEngineering International S.A.) », 21 Immeuble Immorama 2ème étage Hann Maristes B.P 27106 Dakar, tél +221 33 832 00 89 et +221 77 623 22 00, email sen-engineering@sen-engineering.com — ni « Cité Acenda Maristes », ni la villa 665, ni la BP 8027, ni le téléphone 33 832 61 12 de notre fiche n'y figurent. Société différente : son email n'a pas été retenu",
+    "R3 : « 33 832 61 12 » Sénégal — aucun résultat rattaché à ce numéro ; absent aussi de la liste officielle des sociétés minières consultée par ailleurs",
+    "R4 : « SEN ENGINIERIE CONSULT » seul — aucune page propre : la seule mention du nom exact est une page d'annuaire goafricaonline (rubrique gardiennage-sécurité) ; les autres résultats sont les sociétés voisines déjà écartées",
+    "Adresses probables testées : senenginierieconsult.com (DNS injoignable), sen-enginierie.sn (DNS injoignable), senenginierie.sn (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Trois homonymes proches à Dakar (SEN-ENGINEERING INTERNATIONAL, GROUPE SEN INGENIERIE, SENES) ont été vérifiés et écartés : aucun ne partage l'adresse Cité Acenda Maristes villa 665 ni le téléphone 33 832 61 12 de ce bureau, donc aucun de leurs emails ne lui a été attribué. Aucun email ni site propre trouvé. À noter que le nom exact apparaît aussi dans la rubrique gardiennage-sécurité de goafricaonline, ce qui laisse penser à une activité mixte."
   }
  ]
 }
