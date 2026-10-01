@@ -368,6 +368,91 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun email attribué. Le point important est de ne pas confondre ce bureau avec MSA SENEGAL (MS & ASSOCIES), cabinet dakarois distinct dont les coordonnées sont publiques (contact@msasenegal.com, msadakar@orange.sn, Lot N°58 VDN BP 24186, 33 865 11 80) : dénomination, adresse, BP et téléphone diffèrent tous de ceux de MSA. COM. SA, ses emails ne sont donc pas repris ici. L'identité et le téléphone de MSA. COM. SA sont en revanche confirmés par annuaire-senegal.com (mêmes adresse et numéro), source qui ne publie aucun email. Le domaine msasenegal.com n'a pas pu être ouvert (503 puis aucune réponse). Seuls le téléphone et l'adresse sont exploitables."
+  },
+  {
+   "nom": "OASYS SARL",
+   "sigle": "OASYS",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Ousmane Amadou Sy, président-directeur général d'OASYS Groupe",
+   "emails": [
+    "mail@oasysgroupe.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 867 90 11 et (+221) 77 550 94 72 sur la fiche ; +221 33 801 90 85 sur son site",
+   "adresse": "aucune adresse sur la fiche, seulement Dakar - Sénégal ; son site indique « VDN, Cité Horizon, Villa N C03, Dakar-Fann »",
+   "ville": "Dakar",
+   "site_web": "https://oasysgroupe.com/",
+   "site_source": "recherche web",
+   "specialite": "Société de conseil et d'assistance technique créée en 2009, dédiée aux projets et programmes de développement économique et social en Afrique : développement organisationnel, gestion programmatique et financière, mobilisation d'experts et de consultants de terrain, formation ; certifiée ISO 9001 version 2015 par Bureau Veritas Sénégal le 19 décembre 2022",
+   "fiche_url": "https://www.goafricaonline.com/sn/651242-oasys-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://oasysgroupe.com/contact",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié, aucune adresse (89 vues)",
+    "R1 : « OASYS » SARL Sénégal Dakar bureau études conseil — identifie OASYS Groupe (oasysgroupe.com), société dakaroise de conseil et d'assistance technique aux projets de développement créée en 2009",
+    "Site ouvert : https://oasysgroupe.com/contact — email mail@oasysgroupe.com lu tel quel, tél. +221-33-801-90-85, adresse « VDN, Cité Horizon, Villa N C03, Dakar-Fann Sénégal » ; les deux numéros de la fiche n'y figurent pas",
+    "R2 : « OASYS SARL » Dakar contact email — confirme le même email mail@oasysgroupe.com et la même adresse ; aucune autre société OASYS dakaroise",
+    "R3 : « 33 867 90 11 » puis « 77 550 94 72 » / « 338679011 » Sénégal — aucune page ne reprend ces numéros",
+    "R4 : « OASYS » Sénégal — une seule société de conseil OASYS au Sénégal, OASYS Groupe, dirigée par Ousmane Amadou Sy (articles Dakaractu, SenePlus, allAfrica sur son outil OASYS 2.0 lancé en avril 2026) ; les autres OASYS sont étrangers (Inde, Thaïlande, Algérie, logiciels)"
+   ],
+   "statut": "a_verifier",
+   "note": "Email mail@oasysgroupe.com lu sur https://oasysgroupe.com/contact. Identité retenue sur le nom (OASYS), la ville (Dakar) et l'activité (conseil et assistance technique, exactement la catégorie de l'annuaire) : les recherches ne font apparaître aucune autre société de conseil nommée OASYS au Sénégal. Réserve à signaler : les deux téléphones de la fiche (33 867 90 11 et 77 550 94 72) ne figurent pas sur le site, qui donne +221 33 801 90 85, et la fiche goafricaonline, non revendiquée, ne porte aucune adresse permettant de recouper ; la correspondance repose donc sur le nom, la ville et l'activité, pas sur le téléphone. Les deux jeux de numéros sont conservés."
+  },
+  {
+   "nom": "OTD-CONSULT (ORGANISATION POUR LE TRAVAIL ET LE DEVELOPPEMENT)",
+   "sigle": "OTD-CONSULT",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 536 12 04",
+   "adresse": "Sicap-Liberte Vi, Villa N°159, BP 16005, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Bureaux d'études - Conseils - Consultants ; d'après sa dénomination, conseil sur les questions de travail et de développement",
+   "fiche_url": "https://www.goafricaonline.com/sn/592661-otd-consult-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié (181 vues, fiche non revendiquée)",
+    "R1 : « ORGANISATION POUR LE TRAVAIL ET LE DEVELOPPEMENT » OTD Sénégal — aucun résultat sur cette structure ; uniquement des documents de l'OIT sur le travail décent au Sénégal (programmes PPTD) sans aucune mention d'OTD-CONSULT",
+    "R2 : « OTD-CONSULT » OU « OTD Consult » Dakar email contact — aucun résultat ; uniquement des programmes universitaires américains d'ergothérapie (Occupational Therapy Doctorate) et des sociétés sans rapport",
+    "R3 : « 77 536 12 04 » puis « +221775361204 » — aucune page ne reprend ce numéro",
+    "R4 : « OTD-CONSULT » seul — uniquement des pages sur la consultation en ergothérapie aux États-Unis, aucun rapport",
+    "Adresses probables testées : otd-consult.sn, otdconsult.sn, otd-consult.com, otdconsult.com — aucune ne répond"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun site ni email trouvé. Le sigle OTD est largement capté en anglais par « Occupational Therapy Doctorate », ce qui noie les recherches, et la dénomination développée ne ressort dans aucune source sénégalaise : la structure n'a visiblement aucune présence en ligne. Aucun site ni email ne lui est attribué. Seuls le téléphone et l'adresse (Sicap-Liberté VI, Villa n°159, BP 16005) sont exploitables."
+  },
+  {
+   "nom": "PAMODZI SPORTS MARKETING SARL",
+   "sigle": "PAMODZI",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Massata Diack, CEO de Pamodzi Sports Marketing au Sénégal (profils LinkedIn)",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 820 61 50 ; (+221) 33 864 55 02 ; (+221) 77 639 84 86",
+   "adresse": "aucune adresse sur la fiche, seulement Dakar - Sénégal ; yelu.sn indique « Rte Des Almadies BP 5702, Dakar »",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Marketing sportif : sponsoring, hospitalité et acquisition de droits, surtout football et athlétisme ; a assuré le marketing de la Fédération sénégalaise de football",
+   "fiche_url": "https://www.goafricaonline.com/sn/658777-pamodzi-sports-marketing-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "Fiche goafricaonline ouverte : aucun bouton « Site web », aucun email publié, aucune adresse de rue (120 vues)",
+    "R1 : « PAMODZI SPORTS MARKETING » Sénégal Dakar — identifie Massata Diack comme CEO de Pamodzi Sports Marketing au Sénégal, société chargée du marketing de la Fédération sénégalaise de football ; fait aussi apparaître l'entité nigériane du même nom",
+    "Page ouverte : https://www.yelu.sn/company/17978/Pamodzi_Sport_Consulting — « Rte Des Almadies BP 5702, Dakar », téléphone 33 820 61 50, identique au premier numéro de la fiche : identité et adresse confirmées, mais aucun email, aucun site",
+    "R2 : « Pamodzi » Dakar « Almadies » email contact sport marketing — ne fait ressortir que le site de l'entité nigériane, pamodzisportsmarketing.com",
+    "Site ouvert : http://pamodzisportsmarketing.com/contact-us/ (récupéré en http, la version https ne répond pas et WebFetch recevait une 503) — emails info@pamodzisportsmarketing.com et support@pamodzisportsmarketing.com, téléphones 234-1-2706712 / 234-1-2702116, adresse « 4, Jalupon Close, by Gbajumo Crescent, off Adeniran Ogunsanya Street, Surulere, Lagos Nigeria » ; la page précise « operations in Nigeria » et ne mentionne ni le Sénégal, ni Dakar, ni aucun des trois numéros de la fiche",
+    "R3 : « 33 864 55 02 » puis « 77 639 84 86 » Sénégal Pamodzi — aucune page ne reprend ces deux numéros",
+    "R4 : « PAMODZI SPORTS MARKETING SARL » seul — uniquement l'entité nigériane (siège Lagos, partenaire marketing de la Nigeria Football Federation) et sa propre fiche goafricaonline nigériane (goafricaonline.com/ng/888495), distincte de celle-ci",
+    "Adresses probables testées : pamodzi.sn, pamodzisport.sn, pamodzisenegal.com, pamodzi-senegal.com — aucune ne répond"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun email attribué, bien qu'un site Pamodzi existe : pamodzisportsmarketing.com est le site de l'entité NIGÉRIANE (siège à Lagos, téléphones en +234, page qui annonce « operations in Nigeria »), alors que la fiche concerne la SARL sénégalaise de Dakar, dirigée par Massata Diack. Cas explicite d'« autre pays » : ni le site ni ses emails (info@ et support@pamodzisportsmarketing.com) ne sont attribués à la société dakaroise, même si les deux structures portent le même nom et relèvent vraisemblablement du même groupe. À signaler pour une prospection humaine : ces adresses nigérianes pourraient permettre de remonter à l'antenne sénégalaise. Identité et adresse dakaroises confirmées par yelu.sn (Rte des Almadies BP 5702, même numéro 33 820 61 50). Les trois téléphones de la fiche restent exploitables. À noter que des articles de presse sénégalais évoquent un départ de Pamodzi : l'activité de la structure dakaroise est peut-être arrêtée."
   }
  ]
 }
