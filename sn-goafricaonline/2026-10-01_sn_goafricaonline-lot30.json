@@ -3,7 +3,7 @@
  "_extrait_le": "2026-10-01",
  "_agent": "routine prospection goafrica SN",
  "_pays": "SN",
- "_pages": "p=21",
+ "_pages": "p=21, puis p=22 (relue, aucun bureau nouveau) et début de p=23",
  "_methode": "Fiches goafricaonline relevées une à une (nom, adresse, téléphones, bouton Site web), puis pour chaque bureau sans email : ouverture du site s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et test des adresses probables en .sn et .com. Deux documents publics ont en outre été téléchargés et dépouillés pour chaque bureau : l'Annuaire de l'Industrie du Sénégal (ministère de l'Industrie et des Mines) et la liste officielle des sociétés minières. Aucun email deviné : seules les adresses lues sur une page sont retenues, avec la page dans preuve_url.",
  "bureaux": [
   {
@@ -165,6 +165,59 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun email ni site. Nom rare, qu'aucun moteur ne trouve tel quel : les résultats dérivent vers Wanadoo et Wanekoo, sociétés distinctes de Dakar dont rien n'a été retenu. Un rattachement de téléphones proposé par un résumé de moteur a été vérifié et écarté : ces numéros sont ceux d'un autre bureau de la même liste (SICOS CONSTRUCTION)."
+  },
+  {
+   "nom": "FALL MOR",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Mor Fall",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 33 832 45 26 | +221 77 754 77 34",
+   "adresse": "Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Assistance technique et conseil pour ONG, projets et institutions de microfinance (activité de POLY CONSEILS, cabinet dirigé par Mor Fall)",
+   "fiche_url": "https://www.goafricaonline.com/sn/611917-fall-mor",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « FALL MOR » bureau études conseil Dakar Sénégal — aucune page propre ; le nom étant un patronyme sénégalais très courant inversé (Mor Fall), les résultats sont noyés dans l'actualité et les profils de plusieurs homonymes (dont le DG de l'École nationale d'administration et un enseignant en droit public de l'UCAD)",
+    "R2 : « FALL MOR » OR « Mor Fall » cabinet conseil société Dakar annuaire entreprise — RÉSULTAT DÉCISIF : un profil professionnel indique que Mor Fall est Directeur Général de POLY CONSEILS à Dakar, cabinet réalisant des missions d'assistance technique pour des ONG, projets et institutions de microfinance en Afrique de l'Ouest. Or POLY CONSEILS figure sur cette même page 23 de l'annuaire goafricaonline avec EXACTEMENT le même téléphone (+221 33 832 45 26) : les deux fiches désignent donc la même structure, l'une au nom du dirigeant, l'autre au nom du cabinet",
+    "R3 : « 33 832 45 26 » OR « 77 754 77 34 » Sénégal — aucun résultat nominatif ; le rapprochement proposé par un résumé de moteur avec la Compagnie Sahélienne d'Entreprise (CSE) a été écarté, les numéros de CSE étant 33 832 45 77 et 33 832 29 80, donc différents. Numéros absents de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux dépouillés localement",
+    "R4 : « FALL MOR » seul (via R1 et R2, nom entre guillemets) — aucune page d'entreprise sous ce libellé ; uniquement des homonymes",
+    "Adresses probables testées : fallmor.sn (DNS injoignable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Doublon probable dans l'annuaire : cette fiche « FALL MOR » porte le même téléphone (33 832 45 26) que la fiche « POLY CONSEILS » de la même page 23, et Mor Fall est identifié comme Directeur Général de POLY CONSEILS. La fiche est donc vraisemblablement l'inscription du dirigeant pour le même cabinet — à traiter comme un seul prospect avec POLY CONSEILS, qui reste à traiter lors d'un prochain passage. La fiche ne donne aucune adresse (champ réduit à « Dakar - Sénégal »). Aucun email trouvé. Un rapprochement de téléphone suggéré par un moteur (CSE) a été vérifié et écarté."
+  },
+  {
+   "nom": "FAYAN CONSULTING",
+   "sigle": "FAYAN",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Antoine Faye",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "+221 77 120 70 14",
+   "adresse": "Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.fayan-consulting.com",
+   "site_source": "recherche web",
+   "specialite": "Conseil en énergies renouvelables, financement de l'énergie propre, résilience urbaine et mécanismes de financement climat en Afrique",
+   "fiche_url": "https://www.goafricaonline.com/sn/481883-fayan-consulting",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : « FAYAN CONSULTING » Sénégal Dakar — identité établie : cabinet basé à Dakar, site officiel fayan-consulting.com, fondé par Antoine Faye (ancien analyste financier à l'ambassade des États-Unis à Dakar, double licence en développement international et gestion des finances publiques à la City University of New York) ; spécialités : énergies renouvelables, résilience urbaine, financement de l'énergie propre et mécanismes de financement climat — a conseillé l'ancien ministère des Énergies renouvelables et participé à la Stratégie de résilience urbaine de Dakar (100 Resilient Cities, fondation Rockefeller)",
+    "Tentative d'ouverture de https://www.fayan-consulting.com/contact/ et test de fayan-consulting.com : le domaine ne se résout pas depuis cet environnement (ENOTFOUND, puis échec DNS en direct), le site n'a donc pas pu être consulté et aucun email n'a pu y être lu",
+    "R2 : « FAYAN » Dakar email contact conseil « 77 120 70 14 » — aucune adresse email publiée ailleurs que, potentiellement, sur le site inaccessible",
+    "R3 : « 77 120 70 14 » (inclus dans la requête R2) — aucun résultat rattaché à ce numéro ; absent de l'Annuaire de l'Industrie du Sénégal et de la liste officielle des sociétés minières, tous deux dépouillés localement",
+    "R4 : « FAYAN CONSULTING » seul (via R1, nom entre guillemets) — confirme le cabinet et la page de son fondateur (fayan-consulting.com/le-fondateur/) ; aucun homonyme gênant",
+    "Adresses probables testées : fayanconsulting.sn (DNS injoignable) ; fayan-consulting.com est bien le site officiel mais reste injoignable depuis cet environnement"
+   ],
+   "statut": "a_verifier",
+   "note": "Site officiel identifié et attribué (fayan-consulting.com, avec une page « le fondateur » au nom d'Antoine Faye), mais le domaine ne se résout pas depuis cet environnement : impossible d'y lire un email, donc email absent et preuve_url vide. Piste à rouvrir lors d'un prochain passage depuis un accès où le domaine répond — c'est le bureau le plus prometteur de ce début de page 23."
   }
  ]
 }
