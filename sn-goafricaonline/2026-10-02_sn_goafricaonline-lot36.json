@@ -114,6 +114,141 @@
       ],
       "statut": "a_verifier",
       "note": "Email lu dans le fichier de contenu du site officiel du cabinet (site en application monopage : le texte de la page de contact n'existe que dans ce fichier JavaScript, d'où l'URL donnée en preuve). Identité confirmée par le nom, l'activité (coaching, formation, conseil), le quartier (Ngor, Dakar) et une fiche en ligne qui donne pour Leaders Vision Consulting l'adresse exacte de la fiche goafricaonline. Le cabinet semble avoir déménagé depuis : son site indique Lot n°4, 197 x 28, Ngor, 3e étage, et deux numéros différents de celui de la fiche."
+    },
+    {
+      "nom": "LEGAFRIK",
+      "sigle": "LEGAFRIK",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@legafrik.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 78 157 86 76 — numéro sénégalais affiché sur son site : (+221) 78 60 07 975",
+      "adresse": "Mermoz sur la VDN, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.legafrik.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Entreprise digitale d'assistance juridique et administrative (création de société, formalités), présente dans plus de 11 pays d'Afrique",
+      "fiche_url": "https://www.goafricaonline.com/sn/1160598-legafrik-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.legafrik.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1160598-legafrik-bureaux-etudes-conseils-consultants-dakar-senegal — bouton Site web : https://www.legafrik.com/",
+        "Site de la fiche ouvert : https://www.legafrik.com/ — l'adresse contact@legafrik.com est affichée sur la page d'accueil (vérifiée dans le code source) ; la page mentionne une offre dédiée au Sénégal et un numéro sénégalais (+221) 78 60 07 975, ainsi qu'un numéro ivoirien (+225) 07 07 59 35 95",
+        "Pages testées : https://www.legafrik.com/senegal et https://www.legafrik.com/contact — HTTP 404"
+      ],
+      "statut": "a_verifier",
+      "note": "Email générique du groupe, lu sur la page d'accueil de son site officiel (celui déclaré sur la fiche). Legafrik est un acteur panafricain (siège en Côte d'Ivoire, représentations dans plus de 11 pays) : l'adresse n'est pas propre au bureau de Dakar, mais c'est la seule publiée. Le site n'a pas de page de contact dédiée au Sénégal."
+    },
+    {
+      "nom": "MF CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 832 72 99 / (+221) 33 832 75 66 / (+221) 76 644 25 95",
+      "adresse": "Hann Mariste Imm S97, BP 50554, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Audit, conseil et suivi ; comptabilité, services juridiques et conseil",
+      "fiche_url": "https://www.goafricaonline.com/sn/480016-mf-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480016-mf-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton Site web",
+        "R1 : \"MF CONSULTING\" Sénégal audit conseil Dakar Hann Mariste — le seul résultat sur ce cabinet est sa propre fiche goafricaonline",
+        "R2 : \"MF Consulting\" Dakar email contact audit — aucune adresse ; résultats sur des cabinets MF Consulting étrangers (Autriche, France, Afrique du Sud)",
+        "R3 : \"33 832 72 99\" OR \"76 644 25 95\" Dakar — aucun résultat rattaché à l'entreprise",
+        "R4 : \"MF CONSULTING\" Sénégal — homonymes en France (Boulogne-Billancourt), au Maroc, en Tanzanie et en Afrique du Sud, aucun lien avec Dakar",
+        "Page ouverte : https://www.nexpages.com/senegal/controle-expertise/p1 — annuaire des cabinets d'audit du Sénégal : MF CONSULTING n'y figure pas (seul « MF CONSEILS », entreprise différente, tél. +221 33 821 04 47)",
+        "Adresses probables testées, aucune ne répond : https://mfconsulting.sn/, https://mf-consulting.sn/, https://mfconsultingsenegal.com/"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé : hors de sa fiche goafricaonline, ce cabinet n'a aucune présence web et tous les « MF Consulting » trouvés ailleurs sont des sociétés étrangères sans rapport. Ne pas confondre avec MF CONSEILS, autre cabinet d'audit de Dakar. Les trois téléphones de la fiche sont le seul moyen de contact."
+    },
+    {
+      "nom": "RCL CONSULTING (RESEARCH CONSULT LEARN)",
+      "sigle": "RCL",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Tidiane Touré (Managing Director, d'après les profils professionnels en ligne)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 832 57 18",
+      "adresse": "Scat Urbam, Hann Mariste, BP 5378 Dakar – Fann",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Conseil en stratégie, management et organisation, avec une expertise des secteurs minier, pétrolier et gazier ; accompagnement d'investisseurs étrangers et département de formation agréé 3FPT",
+      "fiche_url": "https://www.goafricaonline.com/sn/480530-rcl-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480530-rcl-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton Site web",
+        "R1 : \"RCL CONSULTING\" OR \"Research Consult Learn\" Sénégal — identifie le site du cabinet (rclsn.com) et son profil UN Global Compact",
+        "R2 : \"RCL Consulting\" Dakar email contact stratégie management — bases commerciales (LeadIQ, RocketReach, ContactOut) qui masquent les adresses ou ne donnent qu'un format supposé",
+        "R3 : \"33 832 57 18\" Dakar RCL — aucun résultat rattaché à une page de coordonnées",
+        "R4 : recherche de l'adresse citée, \"info@rclsn.com\" — aucune page ne l'affiche",
+        "Site du cabinet testé : https://rclsn.com/, https://rclsn.com/contact/ et https://rclsn.com/contact — aucune réponse en HTTPS ; http://www.rclsn.com/ répond mais n'affiche que « Error. Page cannot be displayed. Please contact your service provider » (le domaine existe toujours, IP 162.241.253.36, mais le site n'est plus servi)",
+        "Page ouverte : https://unglobalcompact.org/what-is-gc/participants/164961-RCL-Consulting — profil du cabinet (Sénégal, services de soutien aux entreprises, désormais radié faute de rapport), aucune adresse email ni téléphone affichés",
+        "Adresses probables testées, aucune ne répond : https://rclconsulting.sn/, https://rcl.sn/"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu. Les résultats de recherche attribuent au cabinet l'adresse info@rclsn.com (avec les mêmes adresse postale et téléphone que la fiche), mais son site rclsn.com ne sert plus aucune page et aucune source accessible ne l'affiche : rien n'est retenu, l'adresse ayant de surcroît la forme d'une adresse reconstituable. Profil intéressant pour la prospection : conseil stratégique avec spécialité mines, pétrole et gaz."
+    },
+    {
+      "nom": "SAHEL INGENIERIE",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "sahel-ing@sahel-ing.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 860 91 33 / (+221) 77 471 30 27",
+      "adresse": "Mermoz pyrotechnie, cite impôts et domaines n°38, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://sahel-ing.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Études techniques des projets d'exécution d'ouvrages et d'aménagements, accompagnement des entreprises pour l'élaboration des dossiers d'appel d'offres (DAO), assistance à la maîtrise d'ouvrage",
+      "fiche_url": "https://www.goafricaonline.com/sn/592598-sahel-ingenierie-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://sahel-ing.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592598-sahel-ingenierie-bureaux-etudes-conseils-consultants-dakar-senegal — bouton Site web : https://sahel-ing.com/",
+        "Site de la fiche ouvert : https://sahel-ing.com/ — site en ligne, l'adresse sahel-ing@sahel-ing.com y figure",
+        "Page de contact ouverte : https://sahel-ing.com/contact/ — bloc de contact du bureau : « +(221) 33 860 91 33 », « sahel-ing@sahel-ing.com », « Mermoz Pyrotechnie Cité des Impôts et Domaines Villa 38 Dakar – Sénégal » : téléphone et adresse identiques à la fiche, identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Email générique lu sur la page de contact du site officiel du bureau, avec le même téléphone et la même adresse que la fiche goafricaonline. Le code de la page contient aussi une adresse Gmail (pouyeroga@gmail.com) sans libellé affiché, probablement l'adresse de réception du formulaire de contact ou celle du webmestre : elle n'est pas retenue, faute d'être présentée comme une adresse du bureau. Un autre numéro, (+221) 76 948 38 20, figure sur le site. Bureau particulièrement pertinent pour la prospection : il accompagne les entreprises dans l'élaboration des dossiers d'appel d'offres."
+    },
+    {
+      "nom": "SAKURA CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@shinodaservices.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 656 17 33 / (+221) 77 647 98 94",
+      "adresse": "Golf Nord Station 10, Villa 33, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://shinodaservices.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Consultance, traduction et interprétariat (lien Japon-Sénégal), location de main-d'œuvre et de véhicules utilitaires, représentation et courtage, conseil stratégique et assistance de chantier",
+      "fiche_url": "https://www.goafricaonline.com/sn/475839-sakura-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://shinodaservices.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/475839-sakura-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — bouton Site web : shinodaservices.com",
+        "Site de la fiche ouvert : https://shinodaservices.com/ (et https://www.shinodaservices.com/) — site « Shinoda Services – Le lien vivant entre le Japon et le Sénégal » dont le bloc de contact affiche « Téléphone : +221 77 656 17 33 », « Email : info@shinodaservices.com » et « Adresse : Dakar, Sénégal » ; le téléphone est identique au premier numéro de la fiche, ce qui confirme l'identité",
+        "Page testée : https://shinodaservices.com/contact/ — HTTP 404 (le site est une page unique, le bloc de contact figure sur l'accueil)"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur le site déclaré par le bureau sur sa fiche. Attention : le site porte le nom commercial « Shinoda Services » et non « Sakura Consulting » ; le lien est établi par le téléphone, identique à celui de la fiche, et par l'activité (traduction et interprétariat japonais, location de main-d'œuvre et de véhicules, conseil). Le site ne mentionne plus l'adresse précise de la fiche, seulement « Dakar, Sénégal »."
     }
   ]
 }
