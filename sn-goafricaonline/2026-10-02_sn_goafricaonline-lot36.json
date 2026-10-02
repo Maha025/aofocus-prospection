@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-02",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : p=3, fiches jamais traitées",
+  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=3 (9 bureaux), puis toutes les fiches jamais traitées de p=4 (7 bureaux). Lot arrêté à 16 bureaux par la limite de durée du passage",
   "_methode": "Pour chaque fiche de l'annuaire jamais traitée : relevé de la fiche goafricaonline (nom, adresse, téléphones, activités, bouton Site web), puis ouverture du site s'il existe pour y lire l'email, puis à défaut quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et test d'adresses probables en .sn et .com. Aucun email deviné : seules les adresses lues sur une page, citée dans preuve_url.",
   "bureaux": [
     {
@@ -249,6 +249,201 @@
       ],
       "statut": "a_verifier",
       "note": "Email lu sur le site déclaré par le bureau sur sa fiche. Attention : le site porte le nom commercial « Shinoda Services » et non « Sakura Consulting » ; le lien est établi par le téléphone, identique à celui de la fiche, et par l'activité (traduction et interprétariat japonais, location de main-d'œuvre et de véhicules, conseil). Le site ne mentionne plus l'adresse précise de la fiche, seulement « Dakar, Sénégal »."
+    },
+    {
+      "nom": "SEMACO TECHNOLOGIES",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "semaco.dakar1@yahoo.fr"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 832 02 92 / (+221) 77 540 01 93",
+      "adresse": "Cité Isra Bel Air, Villa 150, BP 35076 Dakar Colobane",
+      "ville": "Dakar",
+      "site_web": "https://semaco-technologies.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Études, audit et gestion, systèmes d'information, formation aux technologies émergentes",
+      "fiche_url": "https://www.goafricaonline.com/sn/480591-semaco-technologies-informatique-dakar-senegal",
+      "preuve_url": "https://semaco-technologies.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480591-semaco-technologies-informatique-dakar-senegal — bouton Site web : semaco-technologies.com",
+        "Site de la fiche ouvert : https://semaco-technologies.com/ (et https://www.semaco-technologies.com/) — l'adresse semaco.dakar1@yahoo.fr y figure",
+        "Page de contact ouverte : https://semaco-technologies.com/contact/ — affiche « semaco.dakar1@yahoo.fr », « +221 77 540 01 93 » et « Bel-Air Cité ISRA villa 150 » : téléphone et adresse identiques à ceux de la fiche, identité confirmée"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page de contact du site officiel du bureau (adresse chez Yahoo et non sur son domaine), avec le même téléphone et la même adresse que la fiche goafricaonline."
+    },
+    {
+      "nom": "SENOU GROUP",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 864 73 50 / (+221) 77 876 29 70",
+      "adresse": "Avenue Cheick A. Bamba, Immeuble 2686, HLM6 - HLM, Dakar - 12500 - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Cabinet international de consultance : comptabilité, fiscalité, audit, marketing et programmation, accompagnement des PME et grandes entreprises (banques, assurances, BTP, industries, services)",
+      "fiche_url": "https://www.goafricaonline.com/sn/481308-senou-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/481308-senou-group-bureaux-etudes-conseils-consultants-dakar-senegal — bouton Site web : www.senougroup.com",
+        "Site de la fiche testé : https://www.senougroup.com/, https://senougroup.com/ et https://www.senougroup.com/contact — le site répond mais n'affiche qu'une erreur fatale PHP d'un greffon WordPress (« Fatal error: Unparenthesized `a ? b : c ? d : e` is not supported… »), aucun contenu ni email accessible",
+        "R1 : \"SENOU GROUP\" Sénégal",
+        "R2 : \"Senou Group\" Dakar HLM email contact",
+        "R3 : \"33 864 73 50\" OR \"77 876 29 70\" Dakar — aucun résultat rattaché à l'entreprise",
+        "R4 : \"senougroup@gmail.com\" OR \"SENOU GROUP\" cabinet consultance — aucune page n'affiche l'adresse",
+        "Page ouverte : https://www.senpages.com/entreprise/senou-group/ — fiche d'annuaire sans aucune adresse email dans la page",
+        "Pages testées : http://pagesjaunesdusenegal.com/pages/fiche.php?k=19605 (HTTP 404) et https://ecommerce.paydunya.com/senou-group1Ubkte (boutique en ligne du groupe, ouverte, aucune adresse email)",
+        "Adresses probables testées, aucune ne répond : https://senougroup.sn/, https://senou-group.com/"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu. Les résultats de recherche attribuent au cabinet l'adresse senougroup@gmail.com, mais aucune page accessible ne l'affiche : le site senougroup.com est en panne (erreur PHP d'un greffon WordPress) et les annuaires ouverts ne donnent pas d'email. À revérifier lors d'un prochain passage, le site pouvant être réparé. Cabinet fondé en 1990, SARL au capital de 5 millions FCFA, 9 salariés d'après les profils d'entreprise."
+    },
+    {
+      "nom": "SMARTE RH CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 962 56 56 / (+221) 76 637 96 96",
+      "adresse": "Immeuble S. Saliou Mbacké, Cité Vauvert, en face l'ancienne SERAS, BP 604, Saint-Louis - Sénégal",
+      "ville": "Saint-Louis",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Conseils et services en ressources humaines : recrutement, formations sur mesure, audit social, gestion de la paie, gestion de la performance, dialogue social",
+      "fiche_url": "https://www.goafricaonline.com/sn/592649-smarte-rh-consulting-bureaux-etudes-conseil-consultants-saint-louis-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592649-smarte-rh-consulting-bureaux-etudes-conseil-consultants-saint-louis-senegal — bouton Site web : https://smarterh.sn/",
+        "Site de la fiche testé : https://smarterh.sn/, https://smarterh.sn/contact/ et https://smarterh.sn/contact — aucune réponse ; vérification DNS (Google DoH) : NXDOMAIN pour smarterh.sn et www.smarterh.sn, le domaine n'existe plus",
+        "R1 : \"SMARTE RH CONSULTING\" Sénégal Saint-Louis — cabinet actif depuis septembre 2020 à Saint-Louis, présent sur LinkedIn et Facebook, aucune adresse email publiée",
+        "R2 : \"Smarte RH\" OR \"smarterh\" Saint-Louis Sénégal email contact ressources humaines — aucune adresse email",
+        "R3 : \"33 962 56 56\" OR \"76 637 96 96\" Saint-Louis Sénégal — aucun résultat rattaché à l'entreprise",
+        "R4 : recherches sur le nom seul (voir R1) — homonymes français et suisses (Smart RH au Cannet, smart-rh.ch), sans rapport",
+        "Adresses probables testées : https://smarterh.com/ — redirige vers une page de vente de domaine GoDaddy, aucun contenu du cabinet ; https://smarte-rh.sn/ ne répond pas",
+        "LinkedIn et Facebook non consultés : ces pages exigent une connexion depuis cet environnement, ce que la consigne interdit"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé : le site smarterh.sn indiqué sur la fiche n'existe plus (domaine supprimé) et la seule présence en ligne du cabinet est sur LinkedIn et Facebook, inaccessibles sans connexion. Les deux téléphones de la fiche sont le seul moyen de contact. Seul bureau de ce lot situé hors de Dakar (Saint-Louis)."
+    },
+    {
+      "nom": "SOCIETE GENERALE DE SURVEILLANCE - SGS",
+      "sigle": "SGS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Ives Schoen (directeur général, d'après la fiche Nexpages)",
+      "emails": [
+        "sgs_senegal@sgs.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 849 43 43 / (+221) 33 843 43 33 / (+221) 77 740 68 00 — fax (+221) 33 849 43 33",
+      "adresse": "26-28, Rue Felix Faure, plateau, BP 2734, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://www.sgs.com/",
+      "site_source": "recherche web",
+      "specialite": "Inspection, vérification, test et certification ; bureau agréé pour les études d'impact environnemental ; laboratoire de ressources naturelles (laboratoire Mako)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592486-sgs-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.nexpages.com/phonebook/societe-generale-de-surveillance-sgs-senegal-4019",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592486-sgs-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton Site web",
+        "R1 : SGS Sénégal Dakar \"Félix Faure\" contact email inspection certification",
+        "Pages testées sur le site du groupe : https://www.sgs.com/fr-fr/nous-contacter et https://www.sgs.com/en/offices-and-labs?country=senegal — HTTP 404 (adresses obsolètes)",
+        "Page ouverte : https://www.nexpages.com/phonebook/societe-generale-de-surveillance-sgs-senegal-4019 — fiche SGS Sénégal affichant l'email sgs_senegal@sgs.com (vérifié dans le code source), tél. +221 33 849 43 43, fax +221 33 849 43 33, adresse 26-28 Rue Félix Faure BP 2734 Dakar, site www.sgs.com, directeur général Ives Schoen : adresse et téléphone identiques à ceux de la fiche goafricaonline, identité confirmée",
+        "Page ouverte : https://www.eurocham.sn/annuaire-des-membres/sgs-senegal-sa/ — fiche de membre d'Eurocham Sénégal, sans adresse email propre à SGS (seul l'email de la chambre, contact@eurocham.sn, y figure)"
+      ],
+      "statut": "a_verifier",
+      "note": "Email de la filiale sénégalaise lu sur la fiche d'annuaire Nexpages, avec adresse et téléphone identiques à ceux de la fiche goafricaonline. SGS est le groupe suisse mondial d'inspection et de certification ; les pages de contact de sgs.com consultées sont obsolètes (404), d'où la preuve prise sur l'annuaire. Une adresse nominative (Ndella.diop@sgs.com) apparaît aussi dans les résultats de recherche mais n'a été lue sur aucune page ouverte : elle n'est pas retenue."
+    },
+    {
+      "nom": "SOFT AFRICA CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 389 85 88",
+      "adresse": "Sud Foire Cipres 2, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Cabinet de consultance : élaboration de projets, suivi-évaluation, plaidoyer, formation",
+      "fiche_url": "https://www.goafricaonline.com/sn/575353-soft-africa-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/575353-soft-africa-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton Site web",
+        "R1 : \"SOFT AFRICA CONSULTING\" Sénégal — aucune page du cabinet",
+        "R2 : \"Soft Africa Consulting\" Dakar email contact suivi-évaluation — aucun résultat sur ce cabinet",
+        "R3 : \"77 389 85 88\" Dakar — aucun résultat rattaché à l'entreprise",
+        "R4 : \"SOFT AFRICA CONSULTING\" — uniquement des sociétés informatiques au nom proche (SoftNet Africa, SoftSolutions South Africa, Africa-Soft à Abidjan, Africa Software Solutions), sans rapport",
+        "Adresses probables testées, aucune ne répond : https://softafricaconsulting.com/, https://softafrica.sn/, https://softafricaconsulting.sn/"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé : le cabinet n'a ni site web ni présence dans un autre annuaire, et les noms proches trouvés en ligne sont des sociétés informatiques sans rapport. Le téléphone de la fiche est le seul moyen de contact. Profil pertinent pour la prospection : élaboration de projets et suivi-évaluation."
+    },
+    {
+      "nom": "SONED-AFRIQUE (SOCIETE INTERNATIONALE D'INGENIERIE ET D'ETUDES DE DEVELOPPEMENT EN AFRIQUE)",
+      "sigle": "SONED-AFRIQUE",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "soned@soned-afrique.org"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 88 02 / (+221) 76 637 37 98",
+      "adresse": "Immeuble Ndiaga DIOP, Parc à Mazout Colobane, BP 12981 Dakar-Fann",
+      "ville": "Dakar",
+      "site_web": "https://www.soned-afrique.org/",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études et d'ingénierie-conseils : ingénierie et études de développement en Afrique",
+      "fiche_url": "https://www.goafricaonline.com/sn/592474-soned-afrique-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.soned-afrique.org/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592474-soned-afrique-bureaux-etudes-conseils-consultants-dakar-senegal — bouton Site web : www.soned-afrique.org",
+        "Site de la fiche ouvert : https://www.soned-afrique.org/ (et https://soned-afrique.org/) — l'en-tête et le bloc « CONTACT » de la page affichent « soned@soned-afrique.org » et « +221 33 825 88 02 », ainsi que les horaires (lun-ven 08:00-17:00, pause 13:30-14:30) : téléphone identique à celui de la fiche, identité confirmée",
+        "Page testée : https://www.soned-afrique.org/contact/ — HTTP 404 (les coordonnées figurent directement sur l'accueil)"
+      ],
+      "statut": "a_verifier",
+      "note": "Email générique lu sur la page d'accueil du site officiel du bureau, avec le même téléphone que la fiche goafricaonline. Bureau d'ingénierie-conseils de référence au Sénégal, à cibler en priorité pour la prospection."
+    },
+    {
+      "nom": "WEST AFRICA COMMODITIES",
+      "sigle": "WAFCOM",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Alassane Diouf (directeur général, d'après un profil d'entreprise en ligne)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 889 35 35 / (+221) 33 842 08 50 — fax (+221) 33 842 03 89",
+      "adresse": "11, Rue Malan Immeuble Electra 10 eme, BP 5034, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Commerce de produits agricoles (négoce de céréales, oléagineux et produits bruts) ; référencée aussi comme bureau d'études, conseils et consultants",
+      "fiche_url": "https://www.goafricaonline.com/sn/479996-wafcom-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/479996-wafcom-bureaux-etudes-conseils-consultants-dakar-senegal — bouton Site web : www.wafcom.sn",
+        "Site de la fiche testé : https://www.wafcom.sn/, https://wafcom.sn/ et https://www.wafcom.sn/contact (aucune réponse en HTTPS), http://www.wafcom.sn/ et http://wafcom.sn/ (HTTP 503, « upstream connect error ») — le domaine existe toujours (IP 41.208.148.80, hébergement hebcpanelsecure2.orange.sn) mais le serveur ne répond plus",
+        "R1 : \"WEST AFRICA COMMODITIES\" OR \"WAFCOM\" Sénégal Dakar — société créée en avril 2002, négoce de céréales et oléagineux, environ 175 salariés, DG Alassane Diouf, aucune adresse email",
+        "R2 : \"Wafcom\" Dakar email contact produits agricoles — aucune adresse email",
+        "R3 : \"33 889 35 35\" OR \"33 842 08 50\" Dakar — aucun résultat rattaché à l'entreprise",
+        "R4 : \"WAFCOM\" Sénégal — surtout la compétition de football WAFCON et des homonymes ; aucune page de coordonnées",
+        "Page ouverte : https://en.algomtl.com/diakher (fiche import-export « Diakher WAF Commodities ») — aucune adresse email",
+        "Adresses probables testées : https://wafcom.com/ (répond, mais c'est un cabinet de conseil et de formation comptable sans lien avec Dakar, téléphone américain 209-337-5705 : écarté) ; https://westafricacommodities.com/ ne répond pas"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé : le site wafcom.sn de la fiche est en panne (domaine et hébergement Orange toujours actifs mais serveur injoignable) et aucune autre source accessible ne publie d'adresse. L'homonyme wafcom.com est un cabinet comptable étranger, écarté. Activité principale déclarée : commerce de produits agricoles — pertinence à vérifier pour la prospection « bureaux d'études »."
     }
   ]
 }
