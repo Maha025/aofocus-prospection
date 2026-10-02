@@ -144,6 +144,141 @@
    ],
    "statut": "a_verifier",
    "note": "Un résultat de recherche mentionne un domaine odasmconsulting.com, mais ce domaine ne résout pas (DNS introuvable) : aucune page n'a pu être lue, donc aucun email n'est retenu. Rien n'a été reconstitué."
+  },
+  {
+   "nom": "SAARA CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@saara-consulting.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 638 78 55 / (+221) 77 874 05 95",
+   "adresse": "Cité Magistrats,Villa 102M, Foire - Grand Yoff, Dakar, Dakar - 11500 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://saara-consulting.com",
+   "site_source": "fiche goafrica",
+   "specialite": "SAARA CONSULTING a un portefeuille d'offre de services dans les domaines suivants: Stratégie, Management & Organisation, Management des systèmes d'information, Finance",
+   "fiche_url": "https://www.goafricaonline.com/sn/592533-saara-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://saara-consulting.com/contact/",
+   "recherches": [
+    "Fiche goafricaonline : bouton « Site web » → https://saara-consulting.com",
+    "Page ouverte : https://saara-consulting.com/contact/ — email contact@saara-consulting.com lu sur la page",
+    "Pages ouvertes : https://saara-consulting.com/a-propos et /mentions-legales — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. Doublon dans l'annuaire avec https://www.goafricaonline.com/sn/1365663-saara-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (même téléphone +221 77 638 78 55, même site) ; les deux fiches sont conservées, à fusionner en aval."
+  },
+  {
+   "nom": "SAARA CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@saara-consulting.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 638 78 55",
+   "adresse": "Lot N°9, Medina Zac Mbao, Dakar - 17000 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://saara-consulting.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "Accompagnement stratégique, financier et organisationnel des PME sénégalaises",
+   "fiche_url": "https://www.goafricaonline.com/sn/1365663-saara-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://saara-consulting.com/contact/",
+   "recherches": [
+    "Fiche goafricaonline : bouton « Site web » → http://saara-consulting.com/",
+    "Page ouverte : https://saara-consulting.com/contact/ — email contact@saara-consulting.com lu sur la page",
+    "Pages ouvertes : https://saara-consulting.com/a-propos et /mentions-legales — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. Attention : ce bureau fait l'objet de deux fiches distinctes dans l'annuaire, celle-ci et https://www.goafricaonline.com/sn/592533-saara-consulting-bureaux-etudes-conseils-consultants-dakar-senegal (même téléphone +221 77 638 78 55, même site) ; les deux fiches sont conservées telles quelles, le doublon est à fusionner en aval."
+  },
+  {
+   "nom": "SCS",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 76 473 46 37",
+   "adresse": "Rond-Point Castor après SGS (Société́ Générale Sénégal) 1er angle à gauche Héritage Couture avant Mosquée Niassene rue en face Wafa N°2550, Dakar - 11000 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Nous sommes une structure qui accompagne et aide les entreprises et les particuliers dans leur développement. Fort d’une grande expérience dans le conseil, l’accompagnement et la formation de particuliers et d’entreprise",
+   "fiche_url": "https://www.goafricaonline.com/sn/1196909-scs-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"SCS\" bureau études conseils consultants Dakar Sénégal Castor » — plusieurs entités SCS distinctes à Dakar, aucune à l'adresse de la fiche",
+    "R2 : recherche web « \"SCS\" Dakar Sénégal email contact accompagnement conseil formation entreprises particuliers » — SCS Senegalese Consulting and Services (Ouakam, scs-consulting.net), SCS-SENEGAL (Hann Bel-Air, scssenegal.com), SCS Seck Conseil et Services (Avenue Bourguiba) : adresses et activités différentes",
+    "R3 : recherche web « \"+221 76 473 46 37\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"SCS\" Sénégal Niassene Wafa 2550 Dakar » — aucune correspondance avec l'adresse de la fiche",
+    "Page ouverte : https://scs.com/ (lien « Site web » de la fiche) — il s'agit de « Sherman Consulting Services », société informatique des États-Unis ; seul email présent : helpdesk@scs.com",
+    "Adresses probables testées : scs.sn (connexion refusée)"
+   ],
+   "statut": "a_verifier",
+   "note": "Doute sur l'identité : le lien « Site web » de la fiche pointe vers scs.com, qui est « Sherman Consulting Services », une société informatique américaine sans rapport avec ce bureau de Dakar (activité et pays différents). Ni site ni email ne lui sont donc attribués, et helpdesk@scs.com n'est pas retenu. Les autres SCS trouvés à Dakar ont une adresse et une activité différentes de celles de la fiche."
+  },
+  {
+   "nom": "GLOBAL FINANCES CONSULTING & TRADING - GFCT",
+   "sigle": "GFCT",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 33 825 36 36 / (+221) 78 183 16 75",
+   "adresse": "Avenue Bourguiba x Liberté 3, villa n°2082, BP 17437 Dakar, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://www.globalconsultingtraining.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "GLOBAL CONSULTING & TRAINING est un cabinet qui offre différents types de services : Etudes économiques et sectorielles, Banque et Finances, Accompagnement des PME et des organisations",
+   "fiche_url": "https://www.goafricaonline.com/sn/533357-global-finances-consulting-trading-gfct-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"GLOBAL FINANCES CONSULTING\" OR \"GFCT\" Sénégal Dakar Bourguiba » — fiche zoominfo, page creationdentreprise.sn (GLOBAL FINANCES CONSULTING & TRAINING SUARL, RC SNDKR2016B3303, Ninéa 005809605), page globalconsultingtraining.com/spip.php",
+    "R2 : recherche web « \"Global Consulting & Training\" Dakar Sénégal email contact BP 17437 » — adresse confirmée (Avenue Bourguiba x Liberté 3, villa n°2082), aucun email",
+    "R3 : recherche web « \"+221 33 825 36 36\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"GLOBAL FINANCES CONSULTING & TRADING\" » — uniquement des homonymes étrangers, sans rapport",
+    "Page ouverte : http://www.globalconsultingtraining.com/ (lien « Site web » de la fiche) — page OVHcloud « Site en construction », aucun contenu ni email ; toutes les autres pages testées renvoient 404",
+    "Page tentée : https://globalconsultingtraining.com/spip.php?page=catalogue-formations — HTTP 404",
+    "Page tentée : http://creationdentreprise.sn/global-finances-consulting-training-suarl-gfct-suarl — le domaine ne résout pas (DNS introuvable)"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site déclaré par la fiche (globalconsultingtraining.com) n'affiche qu'une page OVHcloud « Site en construction » : aucun email n'y est lisible. La fiche nomme le bureau « GLOBAL FINANCES CONSULTING & TRADING - GFCT » alors que sa description et son site parlent de « GLOBAL CONSULTING & TRAINING » ; le registre trouvé en recherche indique la raison sociale GLOBAL FINANCES CONSULTING & TRAINING SUARL (GF/CT SUARL)."
+  },
+  {
+   "nom": "Global Partnerships For Africa",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 76 603 12 31",
+   "adresse": "Rue PE 43 - Fann-Point E-Amitié, Dakar, Dakar - 00221 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://partnership-africa.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Global Partnerships for Africa est essentiel pour vous faciliter le partenariat avec les pays africains et y mener des affaires prospères. .",
+   "fiche_url": "https://www.goafricaonline.com/sn/782939-global-partnerships-for-africa",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"Global Partnerships For Africa\" Sénégal Dakar » — aucune page du bureau (résultats sur des programmes de coopération sans rapport)",
+    "R2 : recherche web « \"Global Partnerships for Africa\" Dakar email contact » — aucune correspondance ; Global Partners Africa LTD (Royaume-Uni) et Global Partners for Development (États-Unis) écartés",
+    "R3 : recherche web « \"+221 76 603 12 31\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"Global Partnerships For Africa\" » — uniquement des programmes et articles institutionnels, aucune page du bureau",
+    "Page tentée : https://partnership-africa.com (lien de la fiche), http://partnership-africa.com et https://www.partnership-africa.com — le domaine ne résout pas (DNS introuvable)",
+    "Page ouverte : https://www.facebook.com/partnershipsafrica (lien de la fiche) — page de connexion Facebook, contenu non consultable sans compte, non contourné",
+    "Adresses probables testées : globalpartnershipsforafrica.com, partnershipsafrica.com, partnership-africa.sn (aucune ne répond)"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site déclaré par la fiche (partnership-africa.com) ne résout pas : aucune page lue, donc aucun email. La page Facebook du bureau exige une connexion : son contenu n'a pas été consulté et un éventuel email y est compté comme absent. Les organisations homonymes du Royaume-Uni et des États-Unis sont écartées."
   }
  ]
 }
