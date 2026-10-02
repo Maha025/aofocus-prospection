@@ -1,0 +1,244 @@
+{
+ "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+ "_extrait_le": "2026-10-02",
+ "_agent": "routine prospection goafrica SN",
+ "_pays": "SN",
+ "_pages": "suite de la relecture (étape 5) : p=2, et p=3 pour la dernière fiche abordée. Lot écourté par la limite de durée du passage : seuls les bureaux dont la recherche était terminée sont déposés",
+ "_methode": "Même méthode que le lot 33 : lecture de la fiche goafricaonline (une requête à la fois, au moins 3 s d'intervalle), puis ouverture du site déclaré et de ses pages contact / à propos / mentions légales. Les bureaux déposés ici ont tous livré un email lu sur leur propre site, les recherches R1 à R4 n'étaient donc pas requises. Les autres bureaux de la page, dont la recherche R1-R4 n'a pas pu être menée à son terme avant la fin du passage, ne sont volontairement pas écrits et seront traités au passage suivant.",
+ "bureaux": [
+  {
+   "nom": "PERFORMANCES MANAGEMENT CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "info@performancesgroup.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 849 90 90",
+   "adresse": "15 Boulevard Djily Mbaye, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://www.performancesgroup.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Entreprise d’étude, de conseil et consultants.",
+   "fiche_url": "https://www.goafricaonline.com/sn/592483-performances-management-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "http://www.performancesgroup.com",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → http://www.performancesgroup.com",
+    "Page ouverte : http://www.performancesgroup.com — email info@performancesgroup.com lu sur la page d'accueil (« Performances Group – Ensemble, transformons les économies africaines »)",
+    "Pages ouvertes : /contact et /contact/ — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. La fiche nomme le bureau « PERFORMANCES MANAGEMENT CONSULTING » ; son site est celui du groupe Performances Group, dont elle est l'entité de conseil."
+  },
+  {
+   "nom": "RIDWAN GROUP",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@ridwangroup.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 820 20 98",
+   "adresse": "Lot 20, Cité ARTP, Yoff, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.ridwangroup.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "RIDWAN GROUP assure le recrutement et la gestion des ressources humaines des entreprises. Nous sélectionnons les meilleurs employés ou stagiaires.",
+   "fiche_url": "https://www.goafricaonline.com/sn/782852-ridwan-group",
+   "preuve_url": "https://www.ridwangroup.com",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → https://www.ridwangroup.com/",
+    "Page ouverte : https://www.ridwangroup.com — email contact@ridwangroup.com lu sur la page d'accueil (« Accueil - RIDWAN GROUP »)",
+    "Page ouverte : https://www.ridwangroup.com/contact — ne porte qu'un exemple de gabarit (« adresse@gmail.com »), non retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. L'adresse « adresse@gmail.com » vue sur la page /contact est un texte d'exemple du gabarit du site, elle n'a pas été retenue."
+  },
+  {
+   "nom": "EXPERTISE SENEGAL",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@expertisesenegal.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 825 56 66 / (+221) 77 402 19 54",
+   "adresse": "75 C Cite keur Gorgui, derrière BIMAO, Dakar - 3850 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://www.expertisesenegal.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Fournir à toute organisation, une solution innovante et appropriée en Management de projet.",
+   "fiche_url": "https://www.goafricaonline.com/sn/498694-expertise-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "http://www.expertisesenegal.com",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → http://www.expertisesenegal.com",
+    "Page ouverte : http://www.expertisesenegal.com — email contact@expertisesenegal.com lu sur la page d'accueil (« Cabinet de Conseil, Études et Formation à Dakar »)",
+    "Pages ouvertes : /contact et /contact/ — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires."
+  },
+  {
+   "nom": "HARMONY SUAR",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "harmony@harmonygroup.sn"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 867 60 76 / (+221) 33 867 93 29",
+   "adresse": "Sacré Cœur 3, N°9569, 25884 Dakar, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://www.harmonygroup.sn/",
+   "site_source": "fiche goafrica",
+   "specialite": "Environnement, mine, écologie, énergie, agriculture",
+   "fiche_url": "https://www.goafricaonline.com/sn/592643-harmony-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "http://www.harmonygroup.sn",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → http://www.harmonygroup.sn/",
+    "Page ouverte : http://www.harmonygroup.sn — email harmony@harmonygroup.sn lu sur la page d'accueil (« Accueil - HARMONY GROUP »)",
+    "Pages ouvertes : /contact et /contact/ — même adresse, accolée au libellé « Écrivez-nous » dans le code de la page"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. Sur les pages /contact, l'adresse apparaît collée au libellé « Écrivez-nous » (« crivez-nousharmony@harmonygroup.sn ») ; seule la forme lue sur l'accueil, harmony@harmonygroup.sn, est retenue."
+  },
+  {
+   "nom": "ILLIMITIS",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "info@illimitis.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 416 69 69",
+   "adresse": "Rue Lib-50, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://illimitis.com/",
+   "site_source": "adresse probable vérifiée",
+   "specialite": "Notre imagination n'a pas de limites pour booster, chaque jour, la performance des entreprises et des individus en Afrique. Nous sommes ensemble, et le meilleur est à venir !",
+   "fiche_url": "https://www.goafricaonline.com/sn/853286-illimitis-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://illimitis.com/",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → https://training.illimitis.com/ — cette adresse ne répond pas",
+    "Adresse probable testée : https://illimitis.com/ — répond, titre « ILLIMITIS — Formation, Solutions Digitales & Coaching en Afrique »",
+    "Page ouverte : https://illimitis.com/ — email info@illimitis.com lu sur la page ; l'exemple de gabarit « vous@email.com » n'a pas été retenu"
+   ],
+   "statut": "a_verifier",
+   "note": "Le sous-domaine déclaré par la fiche (training.illimitis.com) ne répond pas ; le domaine principal illimitis.com a été testé comme adresse probable et retenu car son contenu confirme l'identité (même nom ILLIMITIS, même activité de formation et de performance des entreprises en Afrique que la description de la fiche)."
+  },
+  {
+   "nom": "SOLU ETUDE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "infos@soluetude.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 820 20 92",
+   "adresse": "Ouest Foire, VDN, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.soluetude.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "Cours à domicile, réinscriptions à l'étranger",
+   "fiche_url": "https://www.goafricaonline.com/sn/640693-solu-etude-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.soluetude.com/mentions-legales",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → https://www.soluetude.com/",
+    "Pages ouvertes : accueil, /contact, /a-propos — aucun email affiché",
+    "Page ouverte : https://www.soluetude.com/mentions-legales — email infos@soluetude.com lu dans les mentions légales"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. L'activité décrite (cours à domicile, réinscriptions à l'étranger) est plutôt du conseil pédagogique que du bureau d'études de marchés publics."
+  },
+  {
+   "nom": "TECHNOSOL INGENIERIE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "technosol@orange.sn"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 825 40 28",
+   "adresse": "HLM Sodida, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://www.technosol-ingenierie.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Ingénieur conseil, études d'impact environnemental",
+   "fiche_url": "https://www.goafricaonline.com/sn/479963-technosol-ingenierie-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "http://www.technosol-ingenierie.com",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → http://www.technosol-ingenierie.com",
+    "Page ouverte : http://www.technosol-ingenierie.com — email technosol@orange.sn lu sur la page d'accueil (titre « Technosol-Ingenierie – Bureau d'étude »)",
+    "Pages ouvertes : /contact et /contact/ — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. Adresse chez l'opérateur (orange.sn) et non sur le domaine du bureau, mais lue telle quelle sur son site."
+  },
+  {
+   "nom": "TEM BUSINESS RISING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "info@tembizrising.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 836 06 36 / (+221) 77 553 22 88 / (+221) 77 743 02 72 / +33 605 94 29 78",
+   "adresse": "SD City, Bloc 6, Lot 201, Diamniadio 10200 Sénégal (En face des Sphères ministérielles de Diamniadio), BP 473 Poste Rufisque 20000, Diamniadio - Sénégal",
+   "ville": "Diamniadio",
+   "site_web": "http://www.tembizrising.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Tem Business Rising est une société de Consultance International en affaires fondée en 2010 pour participer au développement des industries africaines. Notre mission première est d’aider les entreprises industrielles à a",
+   "fiche_url": "https://www.goafricaonline.com/sn/592651-tem-business-rising-bureaux-etudes-conseils-consultants-diamniadio-senegal",
+   "preuve_url": "http://www.tembizrising.com",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → http://www.tembizrising.com",
+    "Page ouverte : http://www.tembizrising.com — email info@tembizrising.com lu sur la page d'accueil (« Home | TEMBIZRISING »)",
+    "Pages testées sans contenu supplémentaire : /contact, /a-propos, /mentions-legales"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. La fiche donne aussi un numéro français (+33 605 94 29 78) en plus des numéros sénégalais."
+  },
+  {
+   "nom": "TROPIS",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@tropis-sn.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 827 34 82",
+   "adresse": "Immeuble Tabara Ngom, AP B3/2ème 2tage HLM Grand Yoff N° 443, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "http://tropis-sn.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "Cabinet d'expert pour la décentralisation",
+   "fiche_url": "https://www.goafricaonline.com/sn/592528-tropis-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "http://tropis-sn.com/contact",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → http://tropis-sn.com/",
+    "Page ouverte : http://tropis-sn.com/contact — email contact@tropis-sn.com lu sur la page",
+    "Pages ouvertes : /contact/ et /contactez-nous — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. La page /contact affiche un gabarit « Page non trouvée » mais son pied de page porte bien l'adresse du cabinet, qui y a été lue."
+  }
+ ]
+}
