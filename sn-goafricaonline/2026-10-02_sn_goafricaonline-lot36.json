@@ -1,0 +1,119 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-10-02",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "suite de la relecture (étape 5) : p=3, fiches jamais traitées",
+  "_methode": "Pour chaque fiche de l'annuaire jamais traitée : relevé de la fiche goafricaonline (nom, adresse, téléphones, activités, bouton Site web), puis ouverture du site s'il existe pour y lire l'email, puis à défaut quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et test d'adresses probables en .sn et .com. Aucun email deviné : seules les adresses lues sur une page, citée dans preuve_url.",
+  "bureaux": [
+    {
+      "nom": "JBC (JOLOF BUSINESS CONSULTING)",
+      "sigle": "JBC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 70 652 53 52 / (+221) 76 352 17 41",
+      "adresse": "Lot 36, VDN Mermoz, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Cabinet de conseil en finances et en communication",
+      "fiche_url": "https://www.goafricaonline.com/sn/481567-jbc-jolof-business-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/481567-jbc-jolof-business-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton Site web",
+        "R1 : \"JOLOF BUSINESS CONSULTING\" Sénégal — aucune page du cabinet ; autres entreprises sénégalaises de la marque Jolof (Jolof IT Services, Jolof Digital, Jolof Enterprises, Jolof Business Services à Casablanca), sans rapport établi",
+        "R2 : \"Jolof Business Consulting\" OR \"JBC\" Dakar Mermoz email contact finances communication — uniquement des cabinets JBC étrangers (Royaume-Uni, États-Unis, Canada)",
+        "R3 : \"70 652 53 52\" OR \"76 352 17 41\" Dakar — aucun résultat rattaché à l'entreprise",
+        "R4 : \"JBC (JOLOF BUSINESS CONSULTING)\" — aucun résultat sur ce cabinet",
+        "Adresses probables testées, aucune ne répond : https://jolofbusinessconsulting.com/, https://jbcsenegal.com/, https://jbc.sn/, https://jolofconsulting.sn/"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé : le cabinet n'a ni site web ni fiche dans un autre annuaire, et les nombreux homonymes « JBC » trouvés sont des sociétés étrangères sans lien, dont aucune coordonnée n'a été retenue. Seuls les deux téléphones de la fiche sont exploitables."
+    },
+    {
+      "nom": "JILMONDE CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Jildas Noumonzounde (dirigeant du cabinet)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 143 06 94",
+      "adresse": "Ouest Foire, Lot 01, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://jilmondeconsulting.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Assistance, études, conseils, formations et conception de logiciels de gestion (progiciel intégré Jil-MS : marchés publics, gestion financière et comptable, RH et paie, budget, gestion commerciale)",
+      "fiche_url": "https://www.goafricaonline.com/sn/772685-jilmonde-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/772685-jilmonde-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — bouton Site web : jilmondeconsulting.com/",
+        "Site de la fiche ouvert : https://jilmondeconsulting.com/ — le site est en ligne mais c'est une application monopage (Angular) : toutes les adresses (/, /contact, /conseil, /a-propos) renvoient la même coquille HTML, sans aucun texte ni email ; les fichiers JavaScript du site (chunk-C6VC3QLY.js, chunk-EQDQRRRY.js, chunk-M35LDUCU.js, chunk-OWTD5C2M.js, chunk-VCCXNLNQ.js, main.js) ont été téléchargés et ne contiennent aucune adresse email, seulement des points d'API pour un formulaire de contact",
+        "R1 : \"JILMONDE CONSULTING\" Sénégal — cabinet créé en 2012 au Bénin (Abomey-Calavi), filiale sénégalaise depuis septembre 2019, 18 salariés",
+        "R2 : \"Jilmonde\" Dakar email contact — aucune adresse dans les résultats",
+        "R3 : \"78 143 06 94\" OR \"781430694\" Jilmonde — confirme que ce numéro est celui de la filiale de Dakar",
+        "R4 : \"Cabinet Jilmonde Consulting\" — pages du site, LinkedIn du dirigeant, Facebook, profils RocketReach (adresses masquées)",
+        "Adresse probable testée : https://jilmondeconsulting.sn/ — ne répond pas ; https://www.jilmondeconsulting.com/ ne répond pas non plus"
+      ],
+      "statut": "a_verifier",
+      "note": "Site retenu (bien celui du cabinet) mais aucun email lisible : le site est une application monopage dont le contenu ne s'affiche qu'avec l'exécution du JavaScript, et ses fichiers JavaScript ne contiennent aucune adresse. Les moteurs de recherche, qui ont indexé une version antérieure du site, rattachent à la page /contact/ l'adresse contact@jilmondeconsulting.com ; elle n'est pas retenue faute de page lisible à citer et parce qu'elle a la forme d'une adresse reconstituable. Un formulaire de contact existe sur le site (non rempli)."
+    },
+    {
+      "nom": "KHEWEUL GUI IMMO",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 715 87 81 / (+221) 78 636 46 56",
+      "adresse": "Ouest foire, côté case des tout petits, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Consulting et orientation en projet d'investissement (immobilier)",
+      "fiche_url": "https://www.goafricaonline.com/sn/640261-kheweul-gui-immo-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/640261-kheweul-gui-immo-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton Site web",
+        "R1 : \"KHEWEUL GUI IMMO\" Sénégal — aucune page de l'entreprise ; résultats sur d'autres structures au nom proche (Touba Kheweul Gui Sarl, Kheweul Group, villas « F3 Kheweul » du projet de Diamniadio)",
+        "R2 : \"Kheweul Gui\" Dakar email contact immobilier investissement — aucune adresse pour cette entreprise ; l'email trouvé appartient à Peacock Investments, promoteur sans lien établi",
+        "R3 : \"77 715 87 81\" OR \"78 636 46 56\" Dakar — aucun résultat rattaché à l'entreprise",
+        "R4 : \"KHEWEUL GUI IMMO\" — un compte TikTok d'annonces immobilières, un groupe Facebook de restauration à Pikine, des homonymes (location de voitures, fitness, chaîne YouTube) : aucune page de coordonnées vérifiable",
+        "Adresses probables testées, aucune ne répond : https://kheweulguiimmo.com/, https://kheweulgui.sn/, https://kheweulguiimmo.sn/"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé : pas de site web, et le nom « Kheweul gui » est porté par de nombreuses structures sénégalaises sans rapport (restauration, location de voitures, fitness, commerce), ce qui empêche d'attribuer avec certitude une coordonnée trouvée ailleurs. Seuls les deux téléphones de la fiche sont exploitables."
+    },
+    {
+      "nom": "LEADERS VISION",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Safietou Ndiaye Sarr (directrice générale, d'après le profil LinkedIn du cabinet)",
+      "emails": [
+        "contact@leadersvision.org"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 868 34 77 — numéros actuels affichés sur son site : (+221) 33 824 46 10 et (+221) 77 137 88 12",
+      "adresse": "Ngor Almadies, Imm. Khadim Rassoul, 8ème étage, Appt 48, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://leadersvision.org/",
+      "site_source": "recherche web",
+      "specialite": "Coaching, formation et conseil : développement du leadership (notamment féminin africain), accompagnement stratégique des dirigeants, gestion du capital humain",
+      "fiche_url": "https://www.goafricaonline.com/sn/719584-leaders-vision-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://leadersvision.org/assets/index-Bm8K-Ptz.js",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/719584-leaders-vision-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton Site web",
+        "R1 : \"LEADERS VISION\" Sénégal coaching formation conseil Dakar — trouve le site du cabinet, https://leadersvision.org/",
+        "R2 : \"Leaders Vision\" Dakar Almadies \"Khadim Rassoul\" email contact — un résultat situe Leaders Vision Consulting à « Immeuble Khadim Rassoul, NGOR ALMADIES, 8e étage Apt 48 », exactement l'adresse de la fiche, et nomme Safietou Ndiaye Sarr comme directrice générale",
+        "Site ouvert : https://leadersvision.org/ (ainsi que /contact, /contact/ et /nous-contacter/) — application monopage dont la coquille HTML ne contient aucun texte ; le fichier de contenu du site https://leadersvision.org/assets/index-Bm8K-Ptz.js a été téléchargé et affiche le bloc de contact du cabinet : « Email: contact@leadersvision.org », « Tél: (+221) 33 824 46 10 / (+221) 77 137 88 12 », adresse « Lot n°4, 197 x 28, Ngor — 3e étage à droite, Dakar, Sénégal »"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu dans le fichier de contenu du site officiel du cabinet (site en application monopage : le texte de la page de contact n'existe que dans ce fichier JavaScript, d'où l'URL donnée en preuve). Identité confirmée par le nom, l'activité (coaching, formation, conseil), le quartier (Ngor, Dakar) et une fiche en ligne qui donne pour Leaders Vision Consulting l'adresse exacte de la fiche goafricaonline. Le cabinet semble avoir déménagé depuis : son site indique Lot n°4, 197 x 28, Ngor, 3e étage, et deux numéros différents de celui de la fiche."
+    }
+  ]
+}
