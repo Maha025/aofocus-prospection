@@ -1,0 +1,149 @@
+{
+ "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+ "_extrait_le": "2026-10-02",
+ "_agent": "routine prospection goafrica SN",
+ "_pays": "SN",
+ "_pages": "relecture complète de p=1 à p=24 (étape 5 : la dernière page de la pagination était atteinte au passage précédent) ; les 707 fiches de l'annuaire ont été recensées et 170 n'avaient jamais été traitées. Ce lot traite les 20 premières de ces fiches restantes, dans l'ordre de l'annuaire : fin de p=1 et début de p=2",
+ "_methode": "Pagination de l'annuaire relue en entier (p=1 à p=24, une requête à la fois, au moins 3 s d'intervalle, aucun appel à /api/, /ajax/, /graphql ni /event-stats/) pour recenser les 707 fiches et isoler celles jamais traitées. Pour chaque bureau : lecture de sa fiche (nom, téléphones, adresse, activités, lien « Site web »), puis ouverture de son site et de ses pages contact / à propos / mentions légales ; à défaut d'email, les quatre recherches R1 à R4 (nom + Sénégal, nom + Dakar + email/contact, numéro de téléphone, nom entre guillemets) puis le test d'adresses probables en .sn et .com. Aucun email n'est retenu s'il n'a pas été lu sur une page, dont l'adresse est en preuve_url.",
+ "bureaux": [
+  {
+   "nom": "FELWINE GROUPE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@felwinegroupe.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 478 68 60",
+   "adresse": "Dakar, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://felwinegroupe.com/",
+   "site_source": "recherche web",
+   "specialite": "FELWINE Groupe, votre destination pour la croissance optimisée ! Chez nous, la planification devient une puissante force motrice derrière votre réussite. Préparez vous à libérer le potentiel illimité de votre entreprise",
+   "fiche_url": "https://www.goafricaonline.com/sn/1172619-felwine-groupe-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://felwinegroupe.com/",
+   "recherches": [
+    "R1 : recherche web « \"FELWINE GROUPE\" Sénégal » — résultat pertinent : felwinegroupe.com (site du bureau)",
+    "R2 : recherche web « FELWINE Groupe Dakar email contact » — felwinegroupe.com et felwinegroupe.com/index.php/about/",
+    "R3 : recherche web « \"+221 77 478 68 60\" » (numéro tel qu'affiché « (+221) 77 478 68 60 », identique au format +221) — aucun résultat nominatif",
+    "R4 : recherche web « \"FELWINE GROUPE\" » — felwinegroupe.com ; homonyme sans rapport : Felwine Sarr (universitaire/musicien), écarté",
+    "Page ouverte : https://felwinegroupe.com/ — email contact@felwinegroupe.com lu sur la page d'accueil",
+    "Pages testées sans contenu (404/redirection vers l'accueil) : /contact, /a-propos, /mentions-legales"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun bouton « Site web » sur la fiche goafricaonline ; le site a été trouvé par recherche web. Identité confirmée : même nom et même téléphone (+221 77 478 68 60) que la fiche."
+  },
+  {
+   "nom": "SMART S",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "consultance@smarts.sn"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 260 55 28",
+   "adresse": "8384, Rue SC155, Sacré Cœur 1, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.smarts.sn/",
+   "site_source": "fiche goafrica",
+   "specialite": "SMART S est votre interlocuteur unique pour toute la gestion de votre entreprise. Partenaire des TPE et PME qui souhaitent se structurer et développer leur activité en local et à l'international. Nous offrons une expérie",
+   "fiche_url": "https://www.goafricaonline.com/sn/1203139-smart-s-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://www.smarts.sn/",
+   "recherches": [
+    "Fiche goafricaonline : bouton « Site web » → https://www.smarts.sn/",
+    "Page ouverte : https://www.smarts.sn/ — email consultance@smarts.sn lu sur la page d'accueil",
+    "Pages ouvertes : https://www.smarts.sn/contact et /mentions-legales — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; les recherches R1 à R4 n'étaient donc pas nécessaires."
+  },
+  {
+   "nom": "GIRES CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 76 931 66 63",
+   "adresse": "Golf Sud, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://gires-consulting.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "C’est un groupe d’experts pluridisciplinaires, regroupant ainsi des statisticiens, des économistes, des informaticiens et des spécialistes en évaluation des politiques publiques.",
+   "fiche_url": "https://www.goafricaonline.com/sn/1202870-gires-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"GIRES CONSULTING\" Sénégal » — gires-consulting.com et gires-consulting.com/about/",
+    "R2 : recherche web « GIRES Consulting Dakar email contact statisticiens » — gires-consulting.com/about/",
+    "R3 : recherche web « \"+221 76 931 66 63\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"GIRES CONSULTING\" » — gires-consulting.com ; homonymes écartés (GIRESGROUP LLC, GIR Consulting au Royaume-Uni)",
+    "Page tentée : https://gires-consulting.com/ et toutes ses pages contact/à-propos/mentions légales — page « Website unavailable / This site is currently suspended » d'OVHcloud",
+    "Page tentée : https://gires-consulting.com/about/ — HTTP 503 Service Unavailable",
+    "Adresses probables testées : giresconsulting.sn, gires-consulting.sn (injoignables)"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site gires-consulting.com est celui indiqué par la fiche, mais il est actuellement suspendu (page OVHcloud « site currently suspended », HTTP 503) : aucune page n'a pu être lue. Des résultats de recherche affichent un email en contact@gires-consulting.com, mais il n'a pas pu être lu sur une page accessible, donc il n'est pas retenu."
+  },
+  {
+   "nom": "MND CORPORATE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "Mamadou Ndiaye",
+   "emails": [
+    "mndcorpo@gmail.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 187 91 63",
+   "adresse": "Sénégal, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "MND Corporate est un cabinet spécialisé dans la structuration de projets d'entreprises innovants à fort impact économique et social au Sénégal. Nous accompagnons les porteurs de projets, les TPMEs et la diaspora Sénégala",
+   "fiche_url": "https://www.goafricaonline.com/sn/926505-mnd-corporate-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://leadersenegalais.com/2023/08/23/mnd-corporate-entite-specialisee-dans-la-redaction-de-documents-de-projets/",
+   "recherches": [
+    "R1 : recherche web « \"MND CORPORATE\" Sénégal » — article leadersenegalais.com, Instagram @mnd_corporate, Facebook mndcorporate, X @MND_Corporate",
+    "R2 : recherche web « \"MND Corporate\" Dakar email contact structuration projets » — article leadersenegalais.com",
+    "R3 : recherche web « \"+221 77 187 91 63\" » — aucun résultat nominatif direct",
+    "R4 : recherche web « \"MND CORPORATE\" » — compte Instagram et page Facebook du bureau ; homonymes écartés (MND Association, MND groupe français, Mandalay Resources)",
+    "Page ouverte : https://leadersenegalais.com/2023/08/23/mnd-corporate-entite-specialisee-dans-la-redaction-de-documents-de-projets/ — email mndcorpo@gmail.com et téléphone +221 77 187 91 63 (identique à la fiche) lus sur la page, fondateur Mamadou Ndiaye",
+    "Adresses probables testées : mndcorporate.sn (injoignable), mndcorporate.com (aucune réponse)"
+   ],
+   "statut": "a_verifier",
+   "note": "Le bureau n'a pas de site propre identifié. L'email a été lu dans un article de presse en ligne consacré au cabinet (leadersenegalais.com), qui donne le même téléphone que la fiche goafricaonline — identité confirmée. Adresse générique Gmail, à revérifier avant usage."
+  },
+  {
+   "nom": "ODAS_M CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 78 425 26 26",
+   "adresse": "-, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Cabinet de conseil en stratégie, organisation et gestion de projets, spécialisé dans l'accompagnement des PME et des institutions dans leur transformation digitale et l'amélioration de leur performance opérationnelle.",
+   "fiche_url": "https://www.goafricaonline.com/sn/1201867-odasm-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"ODAS_M CONSULTING\" OR \"ODAS M CONSULTING\" Sénégal » — aucune correspondance (homonymes : Ordre des Architectes du Sénégal, ODAS Global Consulting au Royaume-Uni/Roumanie)",
+    "R2 : recherche web « ODASM Consulting Dakar email contact » — un résultat cite odasmconsulting.com/contact/",
+    "R3 : recherche web « \"+221 78 425 26 26\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"ODAS_M CONSULTING\" » — uniquement ODAS Global Consulting (Royaume-Uni/Roumanie), sans rapport",
+    "Page tentée : https://odasmconsulting.com/contact/ et https://odasmconsulting.com/ — le domaine ne résout pas (DNS introuvable), page non consultable",
+    "Adresses probables testées : odasmconsulting.sn, odasm.sn (injoignables)"
+   ],
+   "statut": "a_verifier",
+   "note": "Un résultat de recherche mentionne un domaine odasmconsulting.com, mais ce domaine ne résout pas (DNS introuvable) : aucune page n'a pu être lue, donc aucun email n'est retenu. Rien n'a été reconstitué."
+  }
+ ]
+}
