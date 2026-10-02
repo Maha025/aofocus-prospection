@@ -279,6 +279,140 @@
    ],
    "statut": "a_verifier",
    "note": "Le site déclaré par la fiche (partnership-africa.com) ne résout pas : aucune page lue, donc aucun email. La page Facebook du bureau exige une connexion : son contenu n'a pas été consulté et un éventuel email y est compté comme absent. Les organisations homonymes du Royaume-Uni et des États-Unis sont écartées."
+  },
+  {
+   "nom": "IF CONSULTING INTERNATIONAL",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 556 73 80",
+   "adresse": "Cité Socabeg, Rufisque - Sénégal",
+   "ville": "Rufisque",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Nous vous accompagnons pour améliorer la gestion de votre entité",
+   "fiche_url": "https://www.goafricaonline.com/sn/1206307-if-consulting-international-bureaux-etudes-conseils-consultants-rufisque-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"IF CONSULTING INTERNATIONAL\" Sénégal Rufisque » — aucune correspondance",
+    "R2 : recherche web « \"IF Consulting International\" Dakar email contact » — seul IF Consulting (ifconsulting.io) au Luxembourg, sans rapport",
+    "R3 : recherche web « \"+221 77 556 73 80\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"IF CONSULTING INTERNATIONAL\" » — uniquement des homonymes étrangers (IF Consulting Services LLC aux États-Unis, IF Consulting au Luxembourg, IFCN)",
+    "Adresses probables testées : ifconsultinginternational.com, ifconsulting-international.sn, ifconsulting.sn (aucune ne répond)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun site ni email trouvé. Les sociétés « IF Consulting » trouvées à l'étranger (Luxembourg, États-Unis) sont des homonymes sans lien avec ce bureau de Rufisque : leurs emails n'ont pas été retenus."
+  },
+  {
+   "nom": "IST CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 78 110 40 50",
+   "adresse": "Ourossogui-Quartier Moderne 3 En face Station Elton, Matam - Sénégal",
+   "ville": "Matam",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Professionnel du développement avec plus de 20 ans d'expérience en Afrique de l'Ouest, j'interviens dans la conception, la coordination, le suivi-évaluation et l'évaluation de projets. Spécialisé en sécurité alimentaire,",
+   "fiche_url": "https://www.goafricaonline.com/sn/1365736-ist-consulting-bureaux-etudes-conseils-consultants-matam-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"IST CONSULTING\" Sénégal Matam Ourossogui » — aucune correspondance",
+    "R2 : recherche web « \"IST Consulting\" Sénégal email contact suivi-évaluation » — aucune correspondance ; autres cabinets (ITTE Consulting, DI Consulting Senegal) écartés",
+    "R3 : recherche web « \"+221 78 110 40 50\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"IST CONSULTING\" » — uniquement des homonymes étrangers (IST Consulting Ltd, IST Consultancy Pays-Bas, I.S.T. Consulting Limited Royaume-Uni)",
+    "Adresses probables testées : istconsulting.sn, istconsulting-senegal.com (aucune ne répond)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun site ni email trouvé. Fiche rédigée à la première personne (consultant individuel, plus de 20 ans d'expérience) ; les « IST Consulting » étrangers sont des homonymes et leurs emails n'ont pas été retenus."
+  },
+  {
+   "nom": "SAND CONSULTING",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@sandconsulting.sn"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 184 76 26",
+   "adresse": "Central Park Ex 4C, Centre commercial les quatre C, Av. Malick Sy - Dakar-Plateau, Dakar, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.sandconsulting.sn",
+   "site_source": "fiche goafrica",
+   "specialite": "Le cabinet SAND Consulting vous offre des services de conseils,d'assistance, d'études et de formation en Douane, Fiscalité, QSE, Travail et..",
+   "fiche_url": "https://www.goafricaonline.com/sn/782859-sand-consulting",
+   "preuve_url": "https://www.sandconsulting.sn/contact",
+   "recherches": [
+    "Fiche goafricaonline : rubrique « Site web » → https://www.sandconsulting.sn",
+    "Page ouverte : https://www.sandconsulting.sn/contact — email contact@sandconsulting.sn lu sur la page",
+    "Page ouverte : https://www.sandconsulting.sn/mentions-legales — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires."
+  },
+  {
+   "nom": "SENEQHSE EXPERTISE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 78 190 24 93",
+   "adresse": "Rue 10 Keur Mbaye Fall, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Accompagner les entreprises sénégalaises et africaines dans la mise en place, l’amélioration et la certification de leurs systèmes de management QHSE, afin de garantir conformité, sécurité et performance durable.",
+   "fiche_url": "https://www.goafricaonline.com/sn/1202223-seneqhse-expertise-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"SENEQHSE EXPERTISE\" Sénégal » — présence confirmée (activité QHSE, contenu LinkedIn en français), aucun site propre trouvé",
+    "R2 : recherche web « SENEQHSE Dakar email contact QHSE » — aucun résultat pour SENEQHSE ; seuls d'autres cabinets QHSE de Dakar (VOQ Group, ISQT, Universe QHSE), écartés",
+    "R3 : recherche web « \"+221 78 190 24 93\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"SENEQHSE\" » — aucune page officielle du bureau",
+    "R2 bis : recherche web « SENEQHSE Expertise linkedin Dakar Keur Mbaye Fall contact » — aucun résultat nominatif",
+    "Adresses probables testées : seneqhse.com, seneqhse.sn, seneqhse-expertise.com, seneqhse.africa (aucune ne répond)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun site ni email trouvé. Les cabinets QHSE homonymes de Dakar apparus en recherche (VOQ Group, ISQT, Universe QHSE) sont d'autres sociétés et leurs emails n'ont pas été retenus."
+  },
+  {
+   "nom": "STRINTECH",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@strintech.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 22 178 82 84471",
+   "adresse": "40 YOFF TOUNDOUP RYA, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://strintech.com/",
+   "site_source": "recherche web",
+   "specialite": "Accompagnement d'entreprises, Conseil en stratégie d'entreprises, Organisation et assistance dans les recrutements, Conseil en implantation, Etudes de marché et orientation, Mise en relation B2B et B2G, Organisation d'év",
+   "fiche_url": "https://www.goafricaonline.com/sn/1192575-strintech-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://strintech.com/",
+   "recherches": [
+    "R1 : recherche web « \"STRINTECH\" Sénégal » — strintech.com, facebook.com/STRINTECHSN, linkedin.com/company/strintech",
+    "R2 : recherche web « STRINTECH Dakar email contact » — strintech.com",
+    "R3 : recherche web « \"+221 22 178 82 84\" STRINTECH » (numéro affiché sur la fiche : « (+221) 22 178 82 84471 ») — aucun résultat nominatif",
+    "R4 : recherche web « \"STRINTECH\" » — strintech.com",
+    "Page ouverte : https://strintech.com/ — email contact@strintech.com lu sur la page (cabinet de conseil Sénégal/Tunisie)",
+    "Page ouverte : https://www.facebook.com/strintechsn — page de connexion Facebook, contenu non consultable sans compte, non contourné"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun bouton « Site web » sur la fiche ; site trouvé par recherche web. Le numéro affiché sur la fiche, « (+221) 22 178 82 84471 », est manifestement erroné (11 chiffres) ; le site indique +221 78 828 44 71 pour le Sénégal et +216 52 654 622 pour la Tunisie. Les tels sont laissés tels qu'affichés sur la fiche."
   }
  ]
 }
