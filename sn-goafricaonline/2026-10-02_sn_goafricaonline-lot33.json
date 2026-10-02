@@ -413,6 +413,137 @@
    ],
    "statut": "a_verifier",
    "note": "Aucun bouton « Site web » sur la fiche ; site trouvé par recherche web. Le numéro affiché sur la fiche, « (+221) 22 178 82 84471 », est manifestement erroné (11 chiffres) ; le site indique +221 78 828 44 71 pour le Sénégal et +216 52 654 622 pour la Tunisie. Les tels sont laissés tels qu'affichés sur la fiche."
+  },
+  {
+   "nom": "Safari Cloud Engineering",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 78 437 64 28",
+   "adresse": "Immeuble Giaba, point E x Canal IV, Av. Cheikh Anta Diop - Fann-Point E-Amitié, Dakar, Dakar - 32400 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://www.safaricloud221.com",
+   "site_source": "fiche goafrica",
+   "specialite": "Votre nouvelle institution pour vous permettre de vous certifier sur AWS",
+   "fiche_url": "https://www.goafricaonline.com/sn/782862-safari-cloud-engineering",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"Safari Cloud Engineering\" Sénégal Dakar AWS » — « Safari Cloud Engineering School » à l'adresse www.safaricloud221.com (identité confirmée : école de certification AWS au Sénégal)",
+    "R2 : recherche web « \"Safari Cloud\" Dakar email contact certification AWS » — aucun email ; autres organismes de formation AWS écartés",
+    "R3 : recherche web « \"+221 78 437 64 28\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"Safari Cloud Engineering\" » — safaricloud221.com ; homonymes écartés (Safaricom Ethiopia, Safari AI, Cloud Safari, safaricloud.io)",
+    "Page tentée : https://www.safaricloud221.com/ (lien de la fiche), http://www.safaricloud221.com et https://safaricloud221.com — le domaine ne résout pas actuellement (DNS introuvable)",
+    "Adresses probables testées : safaricloud221.sn, safaricloud.sn (injoignables)"
+   ],
+   "statut": "a_verifier",
+   "note": "Le site déclaré par la fiche (safaricloud221.com) est bien celui du bureau d'après les recherches (« Safari Cloud Engineering School »), mais le domaine ne résout pas au moment du passage : aucune page n'a pu être lue, donc aucun email. Le site est conservé car il est déclaré par la fiche et confirmé par la recherche."
+  },
+  {
+   "nom": "EXPERT ADVICE",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "commercial@expertadvice.africa"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 77 525 14 34",
+   "adresse": "Ouest Foire Immeuble Lif, Dakar - 11000 - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://expertadvice.africa/fr",
+   "site_source": "fiche goafrica",
+   "specialite": "Formation inter / intra, Certification ISO, Certification AGILE, GMAO, Communication.",
+   "fiche_url": "https://www.goafricaonline.com/sn/602398-expert-advice-formation-professionnelle-dakar-senegal",
+   "preuve_url": "https://expertadvice.africa",
+   "recherches": [
+    "Fiche goafricaonline : bouton « Site web » → https://expertadvice.africa/fr",
+    "Page ouverte : https://expertadvice.africa — email commercial@expertadvice.africa lu sur la page d'accueil",
+    "Pages testées sans contenu : /contact, /a-propos, /mentions-legales (page quasi vide)"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires."
+  },
+  {
+   "nom": "FADILEX",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [],
+   "email_qualite": "absent",
+   "tels": "(+221) 77 586 01 83",
+   "adresse": "Zac Mbao, Cité Yaye Sokhna, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "",
+   "site_source": "",
+   "specialite": "Nous savons que toutes les entreprises n’ont pas la possibilité d’avoir le service juridique interne d’une grande entreprise. C’est pourquoi nous avons mis un paquet de services externes flexibles et novateurs adaptés à",
+   "fiche_url": "https://www.goafricaonline.com/sn/576328-able-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "",
+   "recherches": [
+    "R1 : recherche web « \"FADILEX\" Sénégal » — aucune correspondance (résultats sur le village de Fadial)",
+    "R2 : recherche web « FADILEX Dakar email contact juridique » — aucune correspondance ; cabinet FIDDEX SDA (nom différent) écarté",
+    "R3 : recherche web « \"+221 77 586 01 83\" » — aucun résultat nominatif",
+    "R4 : recherche web « \"FADILEX\" » — uniquement des homonymes sans rapport (compte GitHub, profil Facebook personnel, FADALEX S.R.L. en Argentine)",
+    "Adresses probables testées : fadilex.sn, fadilex.com (aucune ne répond)"
+   ],
+   "statut": "a_verifier",
+   "note": "Aucun site ni email trouvé. L'adresse de la fiche goafricaonline contient encore l'ancien nom « able-consulting » dans son URL, mais la fiche affiche « FADILEX » : c'est ce nom qui est retenu. Le cabinet FIDDEX SDA trouvé en recherche est une autre société, son email n'a pas été retenu."
+  },
+  {
+   "nom": "MERRY ADVISORY GROUP",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@merryadvisorygroup.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 864 45 64 / (+221) 77 676 35 35 / (+221) 77 676 39 39 / (+221) 77 676 50 50",
+   "adresse": "Bourguiba. Immeuble 2466, Appart.2 D, Face Université, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://merryadvisorygroup.com",
+   "site_source": "fiche goafrica",
+   "specialite": "MAG est composée de professionnels hautement qualifiés qui capitalisent 20 ans d’expérience en gestion administrative et financière, gestion de projets et programmes, développement des affaires, gestion des ressources hu",
+   "fiche_url": "https://www.goafricaonline.com/sn/586472-merry-advisory-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+   "preuve_url": "https://merryadvisorygroup.com/contact",
+   "recherches": [
+    "Fiche goafricaonline : bouton « Site web » → https://merryadvisorygroup.com",
+    "Page ouverte : https://merryadvisorygroup.com/contact — email contact@merryadvisorygroup.com lu sur la page",
+    "Pages ouvertes : accueil, /about, /nous-contacter — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires."
+  },
+  {
+   "nom": "GLOBAL MIND CONSULTING SENEGAL",
+   "sigle": "",
+   "categorie": "autre",
+   "type_marches": "inconnu",
+   "responsable": "",
+   "emails": [
+    "contact@globalmindconsulting.com"
+   ],
+   "email_qualite": "ok",
+   "tels": "(+221) 33 864 49 22",
+   "adresse": "12, Avenue Birago Diop Rue 5, Point E, BP 45198, Dakar - Sénégal",
+   "ville": "Dakar",
+   "site_web": "https://globalmindconsulting.com/",
+   "site_source": "fiche goafrica",
+   "specialite": "Cabinet-conseil spécialisé en relations publiques et accompagnement stratégique.",
+   "fiche_url": "https://www.goafricaonline.com/sn/592506-global-mind-consulting-bureaux-etudes-conseils-consltants-dakar-senegal",
+   "preuve_url": "https://globalmindconsulting.com/contact",
+   "recherches": [
+    "Fiche goafricaonline : bouton « Site web » → https://globalmindconsulting.com/",
+    "Page ouverte : https://globalmindconsulting.com/contact — email contact@globalmindconsulting.com lu sur la page",
+    "Pages ouvertes : accueil et /qui-sommes-nous — même email"
+   ],
+   "statut": "a_verifier",
+   "note": "Email trouvé sur le site déclaré par la fiche ; R1 à R4 non nécessaires. Le groupe a plusieurs implantations (la fiche est celle du Sénégal, Point E à Dakar) ; contact@globalmindconsulting.com est l'adresse générique du groupe."
   }
  ]
 }
