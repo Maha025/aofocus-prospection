@@ -153,6 +153,175 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email retenu : mgpafr@orange.fr circule dans les résultats de recherche mais n'a pu être lu sur aucune page, donc non retenu. site_web relevé sur la fiche business-senegal.com (qui donne le même téléphone 338605052), mais le domaine mgpafrique.com ne résout plus ; mgpafriquegroup.com, cité par les moteurs, ne résout plus non plus."
+    },
+    {
+      "nom": "MBAYE QUALITE SERVICES",
+      "sigle": "MQS",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 713 60 80 (service commercial)",
+      "adresse": "Fass",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Formation, consultance, coaching, management d'entreprises, audit qualité",
+      "fiche_url": "https://www.goafricaonline.com/sn/574087-mbaye-qualite-services-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/574087-mbaye-qualite-services-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : MBAYE QUALITE SERVICES Sénégal formation consultance audit qualité — un site est annoncé, https://mbayequaliteservices.com/service/, avec le même téléphone +221 77 713 60 80 et un email mbayequaliteservices@gmail.com dans le résumé de recherche",
+        "Tentatives d'ouverture de https://mbayequaliteservices.com/, /contact/ et /service/ — aucune réponse ; vérification DNS (dns.google) : le domaine mbayequaliteservices.com n'existe plus (NXDOMAIN). L'email n'a donc pu être lu sur aucune page et n'est pas retenu",
+        "R2 : \"Mbaye Qualité Services\" OR \"MQS\" Dakar email contact Fass — aucun email ; seulement un profil LinkedIn d'employée",
+        "R3 : \"77 713 60 80\" puis \"+221 77 713 60 80\" — aucune page ne rattache ce numéro à une entreprise",
+        "R4 : \"MBAYE QUALITE SERVICES\" — profils LinkedIn de salariés, aucune page de la société",
+        "Page ouverte : https://www.certification-qse.com/conseil-qualite/senegal/ — ne mentionne pas ce bureau",
+        "Adresses probables testées : mbayequaliteservices.sn, mqs.sn, mqs-senegal.com, mbaye-qualite-services.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Un email (mbayequaliteservices@gmail.com) apparaît dans les résumés des moteurs, repris de l'ancien site mbayequaliteservices.com, mais ce domaine n'existe plus (NXDOMAIN) et l'adresse n'a pu être lue sur aucune page : elle n'est donc pas retenue, conformément à la règle de ne garder qu'un email lu sur une page."
+    },
+    {
+      "nom": "LA TOUCHE",
+      "sigle": "",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 604 11 11 (standard)",
+      "adresse": "VDN, cité Horizon",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Coaching et accompagnement en développement personnel et professionnel, découverte des compétences",
+      "fiche_url": "https://www.goafricaonline.com/sn/575827-touche-bureau-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/575827-touche-bureau-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : \"La Touche\" Sénégal coaching accompagnement développement personnel VDN cité Horizon — aucune page de cette société ; résultats sur d'autres coachs du Sénégal et sur des annonces immobilières de la cité Horizon",
+        "R2 : \"La Touche\" Dakar coaching email contact société — aucun email ; seul un coach français homonyme (Olivier de la Touche, Mulhouse)",
+        "R3 : \"78 604 11 11\" puis \"+221 78 604 11 11\" — aucune page ne rattache ce numéro à une entreprise",
+        "R4 : \"LA TOUCHE\" société Sénégal — sociétés françaises homonymes, Touch Group / InTouch (fintech sénégalaise, sans rapport)",
+        "Adresses probables testées : latouche.sn (pas de réponse), latouche-senegal.com (pas de réponse), latouchecoaching.com (pas de réponse), latouche.com (page de domaine à vendre, sans rapport)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. Nom très générique : aucun site ne lui a été attribué, latouche.com étant un domaine en vente sans lien avec le Sénégal."
+    },
+    {
+      "nom": "NORM",
+      "sigle": "",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 804 87 80 (standard)",
+      "adresse": "HLM Grand Médine No 991",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil, organisation et suivi des opérations",
+      "fiche_url": "https://www.goafricaonline.com/sn/576375-norm-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/576375-norm-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : NORM Sénégal bureau études conseil organisation suivi des opérations HLM Grand Médine — aucune page de ce bureau ; résultats sur le quartier HLM Grand Médine et sur la SN HLM",
+        "R2 : \"NORM\" Dakar bureau d'études email contact \"77 804 87 80\" — aucun email ni page de ce bureau",
+        "R3 : \"77 804 87 80\" puis \"+221 77 804 87 80\" — aucune page ne rattache ce numéro à une entreprise",
+        "R4 : \"NORM\" bureau d'études conseils consultants Dakar Sénégal société — autres bureaux d'études sénégalais (E.TE.C.S., BEAD, SECCO, Sahel Ingénierie, Optima Ingénierie, C2A Consulting, SONED-Afrique), rien sur NORM",
+        "Adresses probables testées : norm.sn, norm-senegal.com, normsenegal.com, norm-sn.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. Le nom « NORM » est un mot courant, ce qui rend la recherche très bruitée ; aucun site ne lui a été attribué faute de confirmation d'identité."
+    },
+    {
+      "nom": "POLYCONSULT INTERNATIONAL",
+      "sigle": "",
+      "categorie": "etudes",
+      "type_marches": "inconnu",
+      "responsable": "Mamadou Moustapha Mbaye, Directeur Général",
+      "emails": [
+        "polyconsultinternational@gmail.com",
+        "mamadoumoustapha09@yahoo.fr"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 877 94 95 · (+221) 77 653 90 10",
+      "adresse": "Cité SHS Villa n°280 - 1ere étage",
+      "ville": "Guédiawaye",
+      "site_web": "https://polyconsult-international.com/",
+      "site_source": "recherche web",
+      "specialite": "Cabinet d'études, de conseils, de formation-insertion et de recherche-action au service du développement du Sénégal, de la sous-région et de l'Afrique",
+      "fiche_url": "https://www.goafricaonline.com/sn/592480-polyconsult-international-bureaux-etudes-conseils-consultants-guediawaye-senegal",
+      "preuve_url": "https://polyconsult-international.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592480-polyconsult-international-bureaux-etudes-conseils-consultants-guediawaye-senegal — aucun bouton « Site web »",
+        "R1 : POLYCONSULT INTERNATIONAL Sénégal étude conseil formation Guédiawaye — site https://polyconsult-international.com/ identifié",
+        "Site ouvert : https://polyconsult-international.com/ — section « Contacts » : adresse Cité SHS Villa n° 280 – 1er étage, Guédiawaye (Sénégal), téléphones 33 877 94 95 / 77 653 90 10 (identiques à la fiche goafrica, identité confirmée) et emails polyconsultinternational@gmail.com et mamadoumoustapha09@yahoo.fr ; directeur général Mamadou Moustapha Mbaye",
+        "Pages /contact/ et /contact du site testées : 404 — le site est une page unique, les contacts figurent en pied de page"
+      ],
+      "statut": "a_verifier",
+      "note": "Deux emails lus sur la page d'accueil du site : l'adresse générique polyconsultinternational@gmail.com est placée en premier, celle du directeur général ensuite."
+    },
+    {
+      "nom": "PERFORMANCES MANAGEMENT CONSULTING",
+      "sigle": "",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@performancesgroup.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 821 97 47",
+      "adresse": "43, Bd Djily Mbaye",
+      "ville": "Dakar",
+      "site_web": "https://performancesgroup.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil en management, organisation et consultance ; bureau d'études agréé pour les études d'impact sur l'environnement",
+      "fiche_url": "https://www.goafricaonline.com/sn/592509-performances-management-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://performancesgroup.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592509-performances-management-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » pointant vers performancesgroup.com",
+        "Site ouvert : https://performancesgroup.com/ — email info@performancesgroup.com en pied de page",
+        "Page ouverte : https://performancesgroup.com/contact/ — bloc « Détails » : 47, Route du King Fahd Palace – Immeuble A2, 4e étage, Almadies ; +221 33 849 90 90 ; info@performancesgroup.com",
+        "Pages /nous-contacter/, /mentions-legales/ et /a-propos/ testées : 404"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site lié depuis la fiche goafricaonline. Le site donne aujourd'hui une autre adresse (47, Route du King Fahd Palace, Almadies) et un autre standard (+221 33 849 90 90) que la fiche goafrica (43, Bd Djily Mbaye ; 33 821 97 47) : coordonnées de la fiche conservées telles quelles, celles du site notées ici."
+    },
+    {
+      "nom": "PCI (POLYCONSULT INGENIERIE)",
+      "sigle": "PCI",
+      "categorie": "ingenierie",
+      "type_marches": "inconnu",
+      "responsable": "Amadou Sylla Nam, Directeur Général (d'après son profil LinkedIn)",
+      "emails": [
+        "pcing@telecomplus.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 821 08 01 · Fax : (+221) 33 822 58 12",
+      "adresse": "Km 1, Avenue Cheikh Anta Diop, BP 6405 Dakar Etoile",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Ingénierie polyvalente : architecture, génie civil, travaux publics, socio-économie, environnement, transport, formation ; bureau d'études agréé pour les études d'impact sur l'environnement",
+      "fiche_url": "https://www.goafricaonline.com/sn/592524-pci-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.senpages.com/entreprise/polyconsult-ingenierie-pci/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592524-pci-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : POLYCONSULT INGENIERIE PCI Sénégal architecture bureau études impact environnement — annuaires SenPages et annuaire-senegal, profil LinkedIn du directeur général ; un site www.pci.sn est annoncé dans les résultats",
+        "Page ouverte : https://www.senpages.com/entreprise/polyconsult-ingenierie-pci/ — même adresse (Km 1, Avenue Cheikh Anta Diop, RC N° 91 B 394) et même téléphone (+221 33 821 08 01) que la fiche goafrica, et email pcing@telecomplus.sn inscrit dans la page",
+        "R2 : \"Polyconsult Ingenierie\" Dakar email contact pcing — mêmes annuaires, aucun autre email",
+        "Page ouverte : https://www.annuaire-senegal.com/etudes/polyconsult-ingenierie-s158351.html — autre implantation (Sicap Amitié 2, 338640632), aucun email",
+        "R3 : \"33 821 08 01\" puis \"+221 33 821 08 01\" / \"338210801\" — aucune page nouvelle ne rattache ce numéro à une entreprise",
+        "R4 : \"POLYCONSULT INGENIERIE\" — profils LinkedIn d'Amadou Sylla Nam (fondateur, 1991), annuaires sénégalais, et la fiche goafricaonline « Bâtiment / Travaux publics » du même bureau",
+        "Adresses probables testées : pci.sn, www.pci.sn, polyconsult.sn, polyconsult-ingenierie.com — aucune ne répond (le site www.pci.sn annoncé par les moteurs n'existe plus)"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu dans la page de l'annuaire SenPages, dont l'adresse et le téléphone concordent avec la fiche goafricaonline. Aucun site propre en ligne : www.pci.sn, cité dans les résultats de recherche, ne répond plus. Ne pas confondre avec POLYCONSULT INTERNATIONAL (Guédiawaye), bureau distinct."
     }
   ]
 }
