@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-03",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=5 (4 bureaux), toutes celles de p=6 (6 bureaux), puis p=7",
+  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=5 (4 bureaux), toutes celles de p=6 (6 bureaux), puis les 10 premières fiches jamais traitées de p=7",
   "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
   "bureaux": [
     {
@@ -392,6 +392,170 @@
       ],
       "statut": "a_verifier",
       "note": "Troisième fiche du même cabinet dans cet annuaire, avec un téléphone différent : voir aussi « Le 1er Cabinet Sénégalais Des Consultants Poliques Et Économiques. Cabinet Jgmic » (https://www.goafricaonline.com/sn/782865-..., déposée dans ce même lot) et « Cabinet J2-Maranatha-Consulting » (https://www.goafricaonline.com/sn/782882-cabinet-j2-maranatha-consulting, déposée précédemment) — même fondateur Jean Pierre Faye, même dénomination Jean Georgette Maranatha. L'email retenu est celui lu sur le site de ce cabinet ; prudence toutefois : ce site affiche le téléphone 78 327 73 68 et non le 77 260 02 88 de cette fiche. L'ancien domaine jgmcinternational.com est expiré, et son adresse cabinet@jgmcinternational.com serait inutilisable."
+    },
+    {
+      "nom": "JOKKOLABS",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "officedakar@jokkolabs.co"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 827 38 31",
+      "adresse": "Sacré Cœur 3, derrière la boulangerie jaune, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://www.jokkolabs.net",
+      "site_source": "fiche goafrica",
+      "specialite": "Écosystème d'innovation ouverte fondé en 2010 : accompagnement de nouveaux modèles d'affaires à l'ère numérique, espaces de travail collaboratif et appui à l'entrepreneuriat ; présent en France et dans neuf pays africains",
+      "fiche_url": "https://www.goafricaonline.com/sn/387248-jokkolabs-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.jokkolabs.net/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/387248-jokkolabs-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Sacré Cœur 3 derrière la boulangerie jaune, tél (+221) 33 827 38 31, bouton « Site web » : www.jokkolabs.net ; succursale signalée à Ziguinchor (quartier Tilène).",
+        "Site du bureau : https://www.jokkolabs.net/ — email lu tel quel sur la page : officedakar@jokkolabs.co, avec le téléphone +221 33 827 38 31 (identique à la fiche) et l'adresse « Sacré Cœur 3 Villa N° 9653, 4e phase 41, Voie de dégagement N, Dakar ». Identité confirmée par le téléphone.",
+        "Variantes testées : https://jokkolabs.net et /contact (pas de réponse sur le domaine sans www) ; le serveur refuse les requêtes en ligne de commande (HTTP 403) mais sert bien la page aux navigateurs."
+      ],
+      "statut": "a_verifier",
+      "note": "L'adresse email publiée est sur le domaine jokkolabs.co alors que le site est en .net : les deux domaines appartiennent au même réseau. Le site précise l'adresse complète du bureau de Dakar (Villa n°9653, 4e phase 41, Voie de dégagement N), plus détaillée que la fiche. Réseau panafricain : antenne également à Ziguinchor."
+    },
+    {
+      "nom": "KMT GROUPE CONSULTING",
+      "sigle": "KMT",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 608 33 33",
+      "adresse": "0000 - Mermoz Sacre-coeur, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592565-kmt-groupe-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592565-kmt-groupe-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Mermoz Sacré-Cœur, tél (+221) 78 608 33 33, bouton « Site web » : www.kmt.sn/wp/ , page Facebook signalée (KMTGroupeConsulting).",
+        "Site annoncé par la fiche : https://www.kmt.sn/wp/ , https://www.kmt.sn , https://kmt.sn/wp/contact et https://www.kmt.sn/wp/contact/ — le domaine kmt.sn ne résout plus (aucun DNS, aucune page servie). Aucun email lisible.",
+        "R1 : « KMT Groupe Consulting » Sénégal Dakar — aucun résultat sur ce bureau ; les cabinets dakarois trouvés sont d'autres sociétés (Kemet Consulting, KD Consulting). Aucun email.",
+        "R2 : « KMTGroupeConsulting » / « KMT Groupe » Dakar email contact facebook — aucun résultat sur ce bureau ; seuls des homonymes étrangers (KMT Groupe à Paris, radiée depuis le 29/08/2022 ; KM.T Consulting en Suisse ; KMT Consulting en Australie ; KMT Global Resources au Nigeria). Non retenus. La page Facebook KMTGroupeConsulting signalée par la fiche n'est pas ressortie et Facebook n'est de toute façon pas consultable sans connexion.",
+        "R3 : « 78 608 33 33 » / « 786083333 » Sénégal — aucun résultat rattaché au bureau (seulement des pages générales sur la numérotation sénégalaise).",
+        "R4 : « KMT GROUPE CONSULTING » (entre guillemets, seul) — uniquement KMT Consulting Group, cabinet de recrutement américain d'Evansville (Indiana) spécialisé dans les sciences de la vie, et ses fiches d'annuaires : homonyme sans rapport, non retenu.",
+        "Adresses probables testées : https://kmt.sn , https://kmtgroupe.sn , https://kmtconsulting.sn , https://kmtgroupeconsulting.com , https://kmt-groupe.com — aucune réponse."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site indiqué sur la fiche (kmt.sn) a disparu et aucune autre présence web propre n'a été trouvée : ni email, ni page officielle accessible. Plusieurs homonymes étrangers portent le sigle KMT (Paris, Suisse, Australie, États-Unis, Nigeria) : aucun site ni email ne leur a été emprunté. Seuls le mobile et le quartier de la fiche sont exploitables."
+    },
+    {
+      "nom": "Kub Group | Kane Universal Business Group.",
+      "sigle": "KUB",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Mouhamadou Kane (fondateur, d'après son profil LinkedIn)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 368 11 28",
+      "adresse": "Total, Maristes, derrière Station - Hann Bel-Air, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://sn.linkedin.com/company/kub-group",
+      "site_source": "fiche goafrica",
+      "specialite": "Groupe d'activités diversifiées : conseil (consultance en microfinance, accompagnement à la création d'entreprise, coaching), commerce et import-export, BTP, transport, confection de tenues traditionnelles sénégalaises, nettoyage professionnel",
+      "fiche_url": "https://www.goafricaonline.com/sn/782880-kub-group-kane-universal-business-group",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782880-kub-group-kane-universal-business-group — adresse Total Maristes derrière Station, Hann Bel-Air, tél (+221) 77 368 11 28 ; le bouton « Site web » renvoie non pas vers un site mais vers la page LinkedIn de l'entreprise : sn.linkedin.com/company/kub-group.",
+        "Page LinkedIn de l'entreprise ouverte : https://sn.linkedin.com/company/kub-group — « CUBE Group (Consulting and Universal Business Entreprise Group) », Dakar, activités commerce, import-export, BTP, transport, confection, nettoyage, consultance en microfinance et coaching. Aucune adresse email ni site web affichés ; LinkedIn limite le contenu aux visiteurs non connectés (connexion non effectuée).",
+        "R1 : « Kane Universal Business Group » / « KUB Group » Sénégal Dakar — rattache le groupe à Mouhamadou Kane, son fondateur, à Dakar (profil https://www.linkedin.com/in/kub-group/). Aucun email publié.",
+        "R2 : « KUB Group » Dakar email contact Mouhamadou Kane consulting — aucune adresse email publiée ; uniquement des profils LinkedIn d'homonymes nommés Mouhamadou Kane et une fiche rocketreach sans adresse lue. Non retenus.",
+        "R3 : « 77 368 11 28 » / « 773681128 » — aucun résultat (le numéro n'apparaît sur aucune page indexée).",
+        "R4 : « Kane Universal Business Group » (entre guillemets, seul) — aucun résultat sur ce groupe : uniquement des homonymes étrangers sans rapport (The Kane Group au Maryland, Kane Group au Royaume-Uni, KANE Group of Companies aux Caraïbes). Non retenus.",
+        "Adresses probables testées : https://kubgroup.sn , https://kub-group.com , https://kubgroup.com , https://kubgroupsn.com — aucune réponse."
+      ],
+      "statut": "a_verifier",
+      "note": "Le groupe n'a pas de site propre : le lien « Site web » de la fiche pointe vers sa page LinkedIn, qui n'affiche aucune adresse email aux visiteurs non connectés (aucune connexion effectuée, conformément aux consignes). Sa page LinkedIn se présente sous le nom « CUBE Group (Consulting and Universal Business Entreprise Group) », variante du « Kane Universal Business Group » de la fiche. Seul le mobile de la fiche est exploitable."
+    },
+    {
+      "nom": "LABOTECH",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@labotech.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 20 35",
+      "adresse": "8470, Sacré Coeur, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://www.labotech.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études de sol (géotechnique) : « l'expertise au service de l'Afrique »",
+      "fiche_url": "https://www.goafricaonline.com/sn/592687-labotech-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.labotech.sn/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592687-labotech-bureaux-etudes-conseils-consultants-dakar-senegal — adresse 8470 Sacré Cœur Dakar, tél (+221) 33 825 20 35, bouton « Site web » : www.labotech.sn",
+        "Site du bureau : https://www.labotech.sn/ (accueil, HTTP 200) — titre « Labotech : l'expertise au service de l'Afrique, Bureau d'études de sol » ; email déjà présent en lien mailto affiché : contact@labotech.sn",
+        "Page contact du site : https://www.labotech.sn/contact — email lu tel quel : contact@labotech.sn, avec le téléphone +221 33 825 20 35 et l'adresse « 8470, Sacre Coeur, Dakar-Senegal », tous deux identiques à la fiche : identité confirmée.",
+        "Page https://www.labotech.sn/nous-contacter : HTTP 404 (le site utilise /contact)."
+      ],
+      "statut": "a_verifier",
+      "note": "Téléphone et adresse du site identiques à ceux de la fiche. Bureau d'études de sol (géotechnique), profil pertinent pour les appels d'offres d'infrastructures. L'adresse technique vue dans le code (…@sentry-next.wixpress.com) est un identifiant de l'outil Wix, pas une adresse de contact : écartée."
+    },
+    {
+      "nom": "LEViER GROUP",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info.leviergroup@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 482 71 32",
+      "adresse": "Rue galerie Kemboury, Point E Dakar - Fann-Point E-Amitié, Dakar - 10700",
+      "ville": "Dakar",
+      "site_web": "https://leviergroups.wordpress.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Entreprise de consultance, d'accompagnement et d'assistance : comptabilité, fiscalité, finance, audit organisationnel, marketing digital, démarches sociales, démarches administratives et juridiques, prestation de services, formation",
+      "fiche_url": "https://www.goafricaonline.com/sn/782857-levier-group",
+      "preuve_url": "https://leviergroups.wordpress.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782857-levier-group — adresse Rue galerie Kemboury, Point E, tél (+221) 77 482 71 32, bouton « Site web » : leviergroups.wordpress.com",
+        "Site du bureau : https://leviergroups.wordpress.com (accueil, HTTP 200) — « Entreprise de consultance, d'accompagnement et d'assistance ». L'accueil republie des offres d'emploi d'autres sociétés et affiche donc leurs adresses (bethelcabinet@gmail.com, candidature@anpej.sn, contact@monbooster.com, etc.) : ce ne sont pas celles du bureau, écartées.",
+        "Page contact du site : https://leviergroups.wordpress.com/contact/ — email lu tel quel : info.leviergroup@gmail.com ; la page affiche « Nous joindre (221) 77 482 71 32 / 33 860 43 21 » : le mobile est identique à la fiche, identité confirmée.",
+        "Page à propos ouverte aussi : https://leviergroups.wordpress.com/a-propos/ — aucune adresse email supplémentaire."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site ajoute un fixe absent de la fiche : (221) 33 860 43 21, et des horaires (lun-ven 8h30-12h / 14h-17h30). Attention : l'accueil du site republie des annonces d'emploi d'autres entreprises avec leurs propres adresses email — seule info.leviergroup@gmail.com, lue sur la page contact, appartient à ce bureau."
+    },
+    {
+      "nom": "MTN GROUP IS International-Sénégal",
+      "sigle": "MTN GROUP IS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 587 22 03",
+      "adresse": "Villa 84, Cité - Yoff, Dakar",
+      "ville": "Dakar (Yoff)",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782919-mtn-group-is-international-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782919-mtn-group-is-international-senegal — adresse Villa 84 Cité Yoff Dakar, tél (+221) 77 587 22 03, bouton « Site web » : mtn-group.business.site/ ; horaires lun-sam 8h-18h, fermé le dimanche.",
+        "Site annoncé par la fiche : https://mtn-group.business.site/ et http://mtn-group.business.site/ — HTTP 404 (les sites « business.site » de Google ont été fermés) : aucun email lisible.",
+        "R1 : « MTN GROUP IS » International Sénégal Yoff bureau d'études conseils — seule la fiche goafricaonline elle-même ressort pour ce bureau ; tous les autres résultats concernent MTN Group, l'opérateur de télécommunications sud-africain, sans aucun rapport. Aucun email.",
+        "R2 : « MTN GROUP IS » Dakar email contact « 77 587 22 03 » — aucune page ne publie d'adresse email pour ce bureau ; seules la fiche goafricaonline et des pages sur l'opérateur MTN ressortent.",
+        "R3 : « 77 587 22 03 » / « 775872203 » — aucun résultat rattaché au bureau.",
+        "R4 : « MTN GROUP IS International-Sénégal » (entre guillemets, seul) — aucun résultat sur ce bureau : uniquement l'opérateur sud-africain MTN Group et ses filiales. Non retenus.",
+        "Adresses probables testées : https://mtn-group.sn , https://mtngroupis.com , https://mtn-groupis.com , https://mtngroup.sn — aucune réponse."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucune présence web propre : la mini-page Google « business.site » que la fiche indiquait comme site a disparu avec la fermeture de ce service, et rien d'autre n'a été trouvé. Attention à la confusion de nom : ce bureau dakarois n'a aucun lien avec MTN Group, l'opérateur de télécommunications sud-africain — aucune coordonnée de ce dernier n'a été reprise. Seuls le mobile et l'adresse de la fiche sont exploitables."
     }
   ]
 }
