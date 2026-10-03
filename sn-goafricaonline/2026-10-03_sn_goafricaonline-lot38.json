@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-03",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=5 (4 bureaux), puis toutes les fiches jamais traitées de p=6 (6 bureaux)",
+  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=5 (4 bureaux), toutes celles de p=6 (6 bureaux), puis p=7",
   "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
   "bureaux": [
     {
@@ -279,6 +279,119 @@
       ],
       "statut": "a_verifier",
       "note": "Son propre site étant en maintenance, l'email a été lu sur l'annuaire SenPages, où le téléphone et le quartier concordent avec la fiche. Le cabinet a aussi un bureau à Abidjan (Côte d'Ivoire) et une page LinkedIn « Youmann, Consulting & Recruiting Firm »."
+    },
+    {
+      "nom": "GQS SENEGAL OFFICE",
+      "sigle": "GQS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "senegal@gqsgroup.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 65 66",
+      "adresse": "Mermoz, Ancienne Piste X VDN, Lot No 24, 2ème Étage, Dakar - 12500",
+      "ville": "Dakar",
+      "site_web": "https://www.gqsgroup.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Inspection, audit et services qualité pour l'industrie (contrôle qualité, expédition, certification) ; bureau sénégalais d'un groupe international présent en Afrique, Europe, Asie et Amérique du Nord",
+      "fiche_url": "https://www.goafricaonline.com/sn/592523-gqs-office-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.gqsgroup.com/contacts-locations/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592523-gqs-office-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Mermoz Ancienne Piste x VDN lot n°24 2e étage, tél (+221) 33 825 65 66, bouton « Site web » : www.gqsgroup.com/",
+        "Site du bureau : https://www.gqsgroup.com/ (accueil, HTTP 200) — « Worldwide Provider of Inspection, Auditing & Quality Services ». Aucun email sur l'accueil.",
+        "Page contacts du site : https://www.gqsgroup.com/contacts-locations/ — bloc « GQS Senegal Office » avec l'email lu tel quel senegal@gqsgroup.com, l'adresse « Azur 15, Building 12 Bd Djily Mbaye, Plateau, Dakar » et le téléphone +221 33 829 64 64. C'est bien le site que la fiche elle-même désigne, et son seul bureau au Sénégal."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site du groupe donne pour son bureau sénégalais une adresse et un téléphone différents de la fiche (Azur 15, Building 12 Bd Djily Mbaye, Plateau, Dakar et +221 33 829 64 64, au lieu de Mermoz Ancienne Piste x VDN et 33 825 65 66) : le bureau a probablement déménagé depuis le dépôt de la fiche. L'adresse email retenue est l'adresse générique du bureau Sénégal, pas celle du siège."
+    },
+    {
+      "nom": "INTERNATIONAL CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 821 44 50 ; (+221) 33 865 26 65",
+      "adresse": "Rue Marchand X Autoroute, BP 50683, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480069-international-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480069-international-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Rue Marchand x Autoroute, BP 50683 Dakar, tél (+221) 33 821 44 50 et (+221) 33 865 26 65, bouton « Site web » : www.consulting-international.com. Aucune description d'activité au-delà de la rubrique de l'annuaire.",
+        "Site annoncé par la fiche : https://www.consulting-international.com/ , http://www.consulting-international.com et https://consulting-international.com — le domaine ne sert qu'une page de redirection vers « /lander » (domaine parqué, en vente) : ce n'est pas le site du bureau. Aucun email.",
+        "R1 : « INTERNATIONAL CONSULTING » Sénégal « Rue Marchand » / « BP 50683 » Dakar bureau d'études — aucun résultat sur ce bureau. Les sociétés trouvées à la même rue (Cecomar, CAFIJEX) ont d'autres boîtes postales et d'autres noms : non retenues. Aucun email.",
+        "R2 : « International Consulting » Dakar email contact « 33 821 44 50 » — aucun résultat rattaché au bureau ; seules d'autres sociétés dakaroises (AFRY, Dakar Consultancy, DeAKKAR) apparaissent. Les listes d'emails commerciales (aeroleads, rentechdigital) ne publient pas d'adresse lue pour ce bureau : non retenues.",
+        "R3 : « 33 865 26 65 » / « 338652665 » / « 338214450 » Sénégal — aucun résultat rattaché au bureau (le préfixe 33 865 renvoie à l'ambassade d'Afrique du Sud, sans rapport).",
+        "R4 : « INTERNATIONAL CONSULTING » (entre guillemets, seul) — le nom est trop générique : uniquement des sociétés et des définitions sans rapport (International Consulting Services LLC, International Consulting Group à Miami, grands cabinets internationaux). Aucun email. Recherche complémentaire « International Consulting » Sénégal SARL Dakar annuaire entreprise : renvoie des homonymes dakarois distincts (ADDAX International Consulting, International Business Consulting SARL / IBC au 26 cité Alia Diène, tél 33 867 05 95, Convergence d'Expertises pour la Consultance Internationale tél 33 867 69 39) — aucun ne partage les téléphones ni la boîte postale de la fiche : non retenus.",
+        "Adresses probables testées : https://internationalconsulting.sn , https://international-consulting.sn , https://www.internationalconsulting.sn — aucune réponse ; https://internationalconsulting.com — également un domaine parqué (page « /lander »), sans aucune mention du Sénégal : non retenu."
+      ],
+      "statut": "a_verifier",
+      "note": "Nom très générique et aucune présence web propre : le domaine indiqué sur la fiche (consulting-international.com) est aujourd'hui un domaine parqué, sans lien avec le bureau. Plusieurs homonymes dakarois existent (ADDAX International Consulting, International Business Consulting / IBC, Convergence d'Expertises pour la Consultance Internationale) : aucun site ni email ne leur a été attribué ici, faute de téléphone ou d'adresse concordant avec la fiche. Seuls les deux fixes et la boîte postale de la fiche sont exploitables."
+    },
+    {
+      "nom": "ITTE CONSULTING",
+      "sigle": "ITTE",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@itteconsulting.com",
+        "contact@itte.com",
+        "consulting@itte.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 827 76 72 ; (+221) 77 703 69 69",
+      "adresse": "Sud Foire Lot Numéro 50, 2eme étage, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://itteconsulting.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Quatre pôles : formation (séminaires sur mesure, team building, certifications professionnelles, accrédité 3FPT), intérim et recrutement (travail temporaire, recrutement permanent, externalisation de la paie), consulting RH (conseil RH stratégique, études et diagnostics RH, audit RH) et trading (commerce, immobilier d'entreprise, développement commercial)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592582-itte-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://itteconsulting.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592582-itte-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Sud Foire lot n°50 2e étage, tél (+221) 33 827 76 72 et (+221) 77 703 69 69, bouton « Site web » : www.itteconsulting.com",
+        "Site du bureau : https://itteconsulting.com/ et https://www.itteconsulting.com/ (HTTP 200) — trois adresses lues telles quelles sur la page : contact@itteconsulting.com (bloc « Contact » du pied de page, affiché à côté du téléphone), contact@itte.com (lien mailto du bloc de contact, affiché juste après « (+221) 33 827 76 72 », identique à la fiche) et consulting@itte.com (lien mailto du bouton d'appel à l'action). Identité confirmée par le téléphone fixe.",
+        "Pages https://itteconsulting.com/contact et /contact-us : HTTP 404 ; le site renvoie vers /contacts. Les chaînes « votre@email.com » et « votre.email@entreprise.com » vues dans le code ne sont que des exemples de formulaire : écartées."
+      ],
+      "statut": "a_verifier",
+      "note": "Trois adresses génériques publiées par le cabinet, conservées toutes les trois. Le pied de page du site donne une adresse postale différente de la fiche : « Mermoz, Immeuble la Pointe, 1er étage, Dakar » au lieu de Sud Foire lot n°50."
+    },
+    {
+      "nom": "JGM INTERNATIONAL CONSULTANTS",
+      "sigle": "JGMIC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Jean Pierre Faye (fondateur et directeur)",
+      "emails": [
+        "cabinetj2mconsulting@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 260 02 88",
+      "adresse": "",
+      "ville": "Dakar",
+      "site_web": "https://cabinetj2mconsulti.wixsite.com/cabinetj2-maranath-1",
+      "site_source": "recherche web",
+      "specialite": "Études, conseil et formation pour organisations publiques et privées ; cabinet de consultants internationaux en affaires socio-économiques et politiques",
+      "fiche_url": "https://www.goafricaonline.com/sn/1194988-jgm-international-consultants-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://cabinetj2mconsulti.wixsite.com/cabinetj2-maranath-1",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1194988-jgm-international-consultants-bureaux-etudes-conseils-consultants-dakar-senegal — « Études conseils formations », tél (+221) 77 260 02 88, aucune adresse postale, aucun bouton « Site web ».",
+        "R1 : « JGM INTERNATIONAL CONSULTANTS » Sénégal études conseils formations — cabinet créé en 2019 à Dakar par Jean-Pierre Faye, « premier cabinet sénégalais de consultants internationaux en affaires socio-économiques et politiques ». Pages ouvertes : article https://leadersenegalais.com/2022/11/03/portrait-jean-pierre-faye-directeur-cabinet-jgm-international-consultants/ (lu : aucune coordonnée du cabinet, seuls les contacts du site de presse — non retenus), page Facebook https://www.facebook.com/consultantsinternationaux/, pages indexées de jgmcinternational.com.",
+        "Site historique du cabinet : https://jgmcinternational.com/ , /legal-notice/ , /a-propos/ — le domaine ne résout plus (aucun DNS) ; l'index y rattache encore cabinet@jgmcinternational.com et « Point E Sicap rue 10, Dakar 17000, +221 783277368 » : adresse non retenue faute de page lisible.",
+        "R2 : « JGM International Consultants » Dakar email contact « 77 260 02 88 » / « 772600288 » — aucune page ne rattache cet email ni ce numéro ; seules les pages du domaine éteint ressortent.",
+        "R3 : « 77 260 02 88 » / « 772600288 » Dakar — aucun résultat rattaché au bureau (seulement des pages générales sur la numérotation et des contacts sans rapport).",
+        "R4 : « JGM INTERNATIONAL CONSULTANTS » (entre guillemets, seul) — le cabinet dakarois ressort en premier, puis des homonymes étrangers sans rapport : JGM Consulting Limited (Royaume-Uni), JGM Strategy Consulting, JGM Consultores (Espagne), Julie Green Ministries. Aucun email lu.",
+        "Site retenu, ouvert et lu : https://cabinetj2mconsulti.wixsite.com/cabinetj2-maranath-1 — site du même cabinet (dénomination « Cabinet Jean Georgette Maranatha International Consultants », dont JGM International Consultants est la forme abrégée, même fondateur Jean Pierre Faye) : email lu tel quel dans un lien mailto affiché, cabinetj2mconsulting@gmail.com.",
+        "Adresses probables testées : https://jgmic.sn , https://jgmconsultants.sn , https://jgm-international.com , https://jgmcinternational.sn , https://jgmic.com — aucune réponse."
+      ],
+      "statut": "a_verifier",
+      "note": "Troisième fiche du même cabinet dans cet annuaire, avec un téléphone différent : voir aussi « Le 1er Cabinet Sénégalais Des Consultants Poliques Et Économiques. Cabinet Jgmic » (https://www.goafricaonline.com/sn/782865-..., déposée dans ce même lot) et « Cabinet J2-Maranatha-Consulting » (https://www.goafricaonline.com/sn/782882-cabinet-j2-maranatha-consulting, déposée précédemment) — même fondateur Jean Pierre Faye, même dénomination Jean Georgette Maranatha. L'email retenu est celui lu sur le site de ce cabinet ; prudence toutefois : ce site affiche le téléphone 78 327 73 68 et non le 77 260 02 88 de cette fiche. L'ancien domaine jgmcinternational.com est expiré, et son adresse cabinet@jgmcinternational.com serait inutilisable."
     }
   ]
 }
