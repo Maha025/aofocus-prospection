@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-03",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : p=5, fiches jamais traitées",
+  "_pages": "suite de la relecture (étape 5) : p=5 — les 20 premières fiches de cette page jamais traitées (24 au total y restaient)",
   "_methode": "Page 5 de l'annuaire relue (une requête à la fois, au moins 3 s d'intervalle, aucun appel à /api/, /ajax/, /graphql ni /event-stats/) pour isoler les fiches jamais traitées. Pour chaque bureau : lecture de sa fiche (nom, téléphones, adresse, activités, lien « Site web »), puis ouverture de son site et de ses pages contact / à propos / mentions légales ; à défaut d'email, les quatre recherches R1 à R4 puis le test d'adresses probables en .sn et .com. Aucun email retenu s'il n'a pas été lu sur une page, dont l'adresse est en preuve_url.",
   "bureaux": [
     {
@@ -490,6 +490,86 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email ni site trouvé. gesteq.com est protégé par un filtre Cloudflare non contourné et gesteq.net renvoie une erreur serveur : ni l'un ni l'autre n'a pu confirmer une identité, et l'homonyme brésilien GESTEQ Consultoria a été écarté."
+    },
+    {
+      "nom": "ISIS INFORMATIQUE ET COACHING - IIC",
+      "sigle": "IIC",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 868 95 13",
+      "adresse": "41 coopération de l'ambassade de France",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil, formation, accompagnement marketing",
+      "fiche_url": "https://www.goafricaonline.com/sn/653906-iic-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/653906-iic-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : \"ISIS INFORMATIQUE ET COACHING\" IIC Sénégal conseil formation marketing — aucune page de ce bureau ; homonymes sénégalais distincts : ISIS Formations (VDN, +221 77 100 19 19), Groupe ISI, IICOM",
+        "R2 : \"ISIS\" \"IIC\" Dakar email contact coaching informatique \"33 868 95 13\" — le numéro de la fiche n'apparaît sur aucune page ; les emails trouvés appartiennent à d'autres structures (ISIS Dakar bien-être, Groupe ISI contact@groupeisi.com, ISI Senegal support@isisenegal.com, ISIS Formations isisformations@isysgroupe.com)",
+        "R3 : \"33 868 95 13\" / \"+221 33 868 95 13\" / \"338689513\" — aucune page ne rattache ce numéro à une entreprise",
+        "R4 : \"ISIS INFORMATIQUE ET COACHING\" — aucune page de ce bureau (ISIS Communication France, ISIS Corp, ISIS Formations, école d'ingénieurs ISIS Castres)",
+        "Adresses probables testées : iic.sn, isis-iic.com, isisinformatique.com, iic-senegal.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site. ISIS Formations (isisformations.com, VDN, 77 100 19 19) a une activité proche mais un nom, une adresse et un téléphone différents : par prudence aucun site ni email ne lui est attribué."
+    },
+    {
+      "nom": "LINDOR & ASSOCIES",
+      "sigle": "",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 835 90 31 (service commercial) · (+221) 77 177 71 78 · (+221) 76 314 71 78",
+      "adresse": "Rue PA-06, Patte d'oie, 10000",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil stratégique aux entreprises sénégalaises et ateliers d'entraînement pour les salariés (English Negotiation Tactics, Agile, Design Thinking)",
+      "fiche_url": "https://www.goafricaonline.com/sn/748065-lindor-associes-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/748065-lindor-associes-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : \"Lindor et Associés\" OR \"Lindor & Associés\" Sénégal conseils stratégiques Patte d'oie — aucune page du cabinet ; résultats sur le quartier Patte d'Oie",
+        "R2 : \"Lindor\" Dakar email contact conseil Design Thinking Agile ateliers — aucun email ; autres cabinets (YUX Dakar, Agile Mind) sans rapport",
+        "R3 : \"33 835 90 31\" OR \"77 177 71 78\" OR \"76 314 71 78\" — aucune page ne rattache ces numéros à une entreprise",
+        "R4 : \"LINDOR & ASSOCIES\" OR \"LINDOR ET ASSOCIES\" — un compte Instagram https://www.instagram.com/lindor_and_associates/ présenté comme le cabinet (Sénégal, Afrique du Sud, Mauritanie ; M&A, Agile, Design Thinking), non ouvert car Instagram exige une connexion ; le reste concerne des homonymes (Lindt, Jeff Lindor, Linder and Associates)",
+        "Adresses probables testées : lindorassocies.com, lindor-associes.com, lindor.sn, lindorassociates.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site. Seule présence en ligne repérée : un compte Instagram (lindor_and_associates) dont le contenu n'est pas consultable sans connexion ; aucune coordonnée n'en a donc été tirée."
+    },
+    {
+      "nom": "RGI SERVICES",
+      "sigle": "RGI",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "Info@rgiservices.info"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 553 39 23",
+      "adresse": "II 11000, No. 8636/C - Mermoz Sacre-coeur, 11000",
+      "ville": "Dakar",
+      "site_web": "https://rgiservices.info",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782861-rgi-services",
+      "preuve_url": "https://rgiservices.info/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782861-rgi-services — bouton « Site web » vers rgiservices.info, plus des liens Facebook, Instagram et YouTube (facebook.com/rgiservices, instagram.com/rgiservices)",
+        "Site ouvert : https://rgiservices.info — page d'accueil, aucun email affiché",
+        "Page ouverte : https://rgiservices.info/contact — « EMAIL : Info@rgiservices.info » ; la page passe par un écran de vérification intermédiaire mais le contenu complet a bien été servi, l'adresse y est écrite en clair (non masquée)"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site lié depuis la fiche goafricaonline ; conservé tel qu'écrit sur la page, avec la majuscule initiale. La fiche ne décrit pas l'activité du bureau."
     }
   ]
 }
