@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-03",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=5",
+  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=5 (4 bureaux), puis toutes les fiches jamais traitées de p=6 (6 bureaux)",
   "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
   "bureaux": [
     {
@@ -143,6 +143,142 @@
       ],
       "statut": "a_verifier",
       "note": "Aucune présence web propre trouvée : ni site, ni page officielle Facebook ou LinkedIn, ni mention dans un autre annuaire. Seuls le téléphone et l'adresse de la fiche sont exploitables. Nom très proche d'homonymes étrangers, à ne pas confondre."
+    },
+    {
+      "nom": "Sfatco",
+      "sigle": "SFATCO",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 76 259 56 57",
+      "adresse": "N°59 - Yoff, Dakar",
+      "ville": "Dakar (Yoff)",
+      "site_web": "www.sfatco.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Certification d'entreprises candidates aux marchés pétroliers et gaziers (et industries conventionnelles et tertiaires) et formation de leur personnel : HSE, incendie, secourisme, formations offshore Oil & Gas (BOSIET) ; auditeurs certifiés IRCA",
+      "fiche_url": "https://www.goafricaonline.com/sn/782905-sfatco",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782905-sfatco — adresse N°59 Yoff Dakar, tél (+221) 76 259 56 57, bouton « Site web » : www.sfatco.com",
+        "Site du bureau : https://www.sfatco.com/ , https://sfatco.com , http://www.sfatco.com et https://www.sfatco.com/contact — le domaine sfatco.com ne résout plus (aucun DNS, aucune page servie). Aucun email lisible.",
+        "R1 : « Sfatco » Sénégal — société de droit sénégalais créée début 2018 (certification et formation Oil & Gas, HSE, BOSIET). Pages ouvertes : https://www.hub-bridgeafrica.co/en/node/355 (annuaire professionnel — HTTP 503, contenu non servi), profil LinkedIn « SFATCO Formation et accompagnement ». Aucun email lisible.",
+        "R2 : « SFATCO » Dakar email contact formation HSE Oil Gas — l'index renvoie l'adresse contact@sfatco.com et « Thiès, BP 559, Sénégal » depuis l'ancien site https://www.sfatco.com/, mais ce domaine est éteint : adresse non retenue faute de page lisible.",
+        "R3 : « 76 259 56 57 » / « +221 76 259 56 57 » / « 762595657 » — aucun résultat rattaché au bureau (seulement des pages générales sur la numérotation).",
+        "R4 : « SFATCO » (entre guillemets, seul) — page Facebook officielle https://www.facebook.com/sfatco.formation/ ouverte mais Facebook ne sert qu'un écran de connexion (non contourné) ; fiche rocketreach « SFATCO Management Team » (aucune adresse lue, uniquement des formats reconstitués) ; homonymes sans rapport. Aucun email.",
+        "Adresses probables testées : https://sfatco.sn et https://www.sfatco.sn — aucun DNS, aucune réponse."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site indiqué sur la fiche (sfatco.com) est éteint : l'adresse contact@sfatco.com, que l'index des moteurs rattache encore à ce domaine, n'a pas été retenue — page illisible et adresse de toute façon inexploitable sur un domaine sans DNS. La page Facebook officielle existe mais exige une connexion : contenu non consulté, adresse éventuelle comptée comme absente. L'index donne aussi une adresse postale à Thiès (BP 559), différente du Yoff/Dakar de la fiche. Attention à un homonyme français du même nom (conseil et formation QHSE)."
+    },
+    {
+      "nom": "TRANSECOR, SACRE COEUR 3",
+      "sigle": "TRANSECOR",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 825 54 55",
+      "adresse": "Sacré-Cœur 3 Pyrotechnie 142 Bis - Mermoz Sacre-coeur, Dakar - 45402",
+      "ville": "Dakar",
+      "site_web": "https://transecor.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Ingénierie des transports et gestion du trafic (études de circulation et de mobilité urbaine, stationnement, simulations dynamiques, audits de sécurité routière), puis génie civil urbain et rural : routes, bâtiment, hydraulique, assainissement, équipements, environnement et énergie ; agréé depuis 2012 pour les études d'impact environnemental ; formation et assistance technique",
+      "fiche_url": "https://www.goafricaonline.com/sn/782854-transecor-sacre-coeur-3",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782854-transecor-sacre-coeur-3 — adresse Sacré-Cœur 3 Pyrotechnie 142 Bis, tél (+221) 33 825 54 55, bouton « Site web » : transecor.com",
+        "Site du bureau : https://transecor.com/ , /contact , /nous-contacter , /contact.html — le serveur répond HTTP 200 mais ne renvoie qu'un corps vide (1 octet) sur toutes les pages HTML ; site WordPress visiblement cassé. Pages interrogées par l'API publique du site (wp/v2/pages, posts, flux RSS) : les sept pages (Présentation, Services, Réalisations, Produits, Partenaires, Contact, Blog) reviennent toutes avec un contenu vide, aucun email. Aucun email lisible sur le site.",
+        "R1 : « TRANSECOR » Sénégal bureau d'études — SAS/SARL de droit sénégalais créée en 2007, premier bureau d'ingénieurs-conseils d'Afrique de l'Ouest spécialisé en ingénierie des transports ; siège Sacré Cœur 3 villa n°142 BIS, 2e étage (identique à la fiche). Pages ouvertes : fiche Devex (HTTP 403, contenu non servi), profil LinkedIn « TRANSECOR SAS », pages indexées du site. Aucun email lisible.",
+        "R2 : TRANSECOR Dakar « @transecor » email contact — l'index renvoie l'adresse générique info@transecor.com, rattachée à la page https://transecor.com/contact du bureau lui-même, avec le téléphone +221 33 825 54 55 (identique à la fiche). Cette page ne sert aucun contenu : adresse non retenue faute d'avoir pu la lire. Annuaire ouvert et lu : https://business-senegal.com/eng/Entreprises/profilent/_10442 — « TRANSECOR SARL », lot 15 Ouest Foire Route de l'Aéroport, BP 45402 Dakar Fann, tél (221) 338255455, fax (221) 338257473, site transecor.com, mais aucun email affiché. Les fiches zoominfo et rocketreach n'affichent que des formats reconstitués : non retenus.",
+        "R3 : « 33 825 54 55 » / « 338255455 » Dakar — aucun résultat rattaché au bureau (le numéro apparaît dans une liste de sociétés minières pour une autre société, SEMAC SA : sans rapport, non retenu).",
+        "R4 : « TRANSECOR » (entre guillemets, seul) — page Facebook https://www.facebook.com/TRANSECOR-282106241992135/ et compte Instagram @transecor.sas (réseaux sociaux exigeant une connexion, non contournés), fiches Devex (403), Owler et ZoomInfo sans adresse lue. Aucun email.",
+        "Adresses probables testées : le domaine du bureau transecor.com est déjà connu ; testé aussi https://www.transecor.com (même site vide). Instantané d'archive du 21/04/2026 repéré mais web.archive.org inaccessible depuis cet environnement (HTTP 403)."
+      ],
+      "statut": "a_verifier",
+      "note": "Bureau d'études techniques important et bien réel (transports, génie civil, études d'impact environnemental, 13 pays CEDEAO), mais son site WordPress ne sert plus aucun contenu : aucun email n'a pu être lu. À vérifier à la main : l'index des moteurs rattache l'adresse générique info@transecor.com à sa page https://transecor.com/contact ; elle n'est pas retenue ici faute de page lisible. Le fax (221) 33 825 74 73 et l'adresse « lot 15 Ouest Foire Route de l'Aéroport, BP 45402 Dakar Fann » viennent de business-senegal.com."
+    },
+    {
+      "nom": "UNAREM GROUP",
+      "sigle": "UNAREM",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Ibrahima Mané (PDG / directeur général, d'après son profil LinkedIn « UNAREM GROUP MARKET RESEARCH »)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 647 19 49 ; (+221) 76 640 95 67 ; Fax (+221) 33 864 19 88",
+      "adresse": "Cité Conachap, Villa 38, BP 19023, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Sondages et études de marchés, suivi-évaluation de projets et programmes",
+      "fiche_url": "https://www.goafricaonline.com/sn/394434-unarem-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/394434-unarem-group-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Cité Conachap villa 38, BP 19023 Dakar, tél (+221) 77 647 19 49 et (+221) 76 640 95 67, fax (+221) 33 864 19 88, activités « Sondgaes et études de Marchés, Suivi-évaluation de projets et programmes », aucun bouton « Site web ».",
+        "R1 : « UNAREM » Sénégal sondages études de marchés suivi-évaluation — aucun résultat sur ce bureau ; les pages ouvertes concernent d'autres cabinets d'études de marché sénégalais (AfrikSurvey, People and Data, EMC). Aucun email.",
+        "R2 : « UNAREM GROUP » Dakar email contact — un seul rattachement au bureau : le profil LinkedIn d'Ibrahima Mané, PDG et directeur général de « UNAREM GROUP MARKET RESEARCH » à Dakar (aucune adresse email publiée). Les autres résultats concernent UNAREM LLC, société américaine d'Orlando (Floride) du groupe Ozerty/Qazila, avec contact.uk@ozerty.com : homonyme sans rapport, non retenu.",
+        "R3 : « 77 647 19 49 » / « 776471949 » / « 33 864 19 88 » Sénégal — aucun résultat rattaché au bureau (seulement des pages générales sur la numérotation sénégalaise).",
+        "R4 : « UNAREM GROUP » (entre guillemets, seul) — mêmes profils LinkedIn, plus les enregistrements de UNAREM LLC au registre des sociétés de Floride (admin@unarem.com, 8865 Commodity Circle, Orlando) : homonyme américain, non retenu.",
+        "Adresses probables testées : https://unarem.sn , https://unaremgroup.com , https://unarem-group.com , https://www.unaremgroup.sn — aucune réponse. Le domaine unarem.com appartient à l'homonyme américain : écarté, et sans réponse depuis cet environnement."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun site ni email propre trouvé. Attention à l'homonyme UNAREM LLC (Orlando, Floride, groupe Ozerty/Qazila), propriétaire du domaine unarem.com : ni son site ni son adresse admin@unarem.com ne concernent ce bureau dakarois. Le seul point d'entrée en ligne repéré est le profil LinkedIn du dirigeant Ibrahima Mané ; les téléphones et le fax de la fiche restent les coordonnées exploitables."
+    },
+    {
+      "nom": "WELL COMPTAX",
+      "sigle": "WELLCOMPTAX",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@wellcomptax.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 22 32",
+      "adresse": "375, HLM GRAND MEDINE, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://wellcomptax.sn",
+      "site_source": "adresse probable vérifiée",
+      "specialite": "Cabinet d'appui, de conseil et d'accompagnement des organisations : comptabilité, audit et contrôle de gestion, conseil en finance et en fiscalité",
+      "fiche_url": "https://www.goafricaonline.com/sn/1191404-well-comptax-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://wellcomptax.sn/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1191404-well-comptax-bureaux-etudes-conseils-consultants-dakar-senegal — adresse 375 HLM Grand Médine, tél (+221) 33 820 22 32, aucun bouton « Site web ».",
+        "R1 : « WELL COMPTAX » Sénégal comptabilité audit — fiche rocketreach « Well Comptax SAS » (cabinet d'appui et de conseil en gestion, site annoncé http://www.wellcomptax.com, aucune adresse email lue, pays indiqué à tort GN) ; les autres résultats concernent d'autres cabinets comptables sénégalais. Aucun email lisible.",
+        "Site .com annoncé par cette fiche : http://www.wellcomptax.com , https://www.wellcomptax.com , https://wellcomptax.com et /contact — aucune réponse (domaine sans service).",
+        "Adresse probable testée et retenue : https://wellcomptax.sn/ (HTTP 200) — titre « WellCompTax - Excellence & Innovation au service de votre croissance ». Le site est une application JavaScript : contenu lu dans son script https://wellcomptax.sn/assets/index-BOyD5lA6.js, qui contient le bloc « Contact » du pied de page avec le lien mailto affiché contact@wellcomptax.sn, les téléphones +221 33-820-22-32 (identique à la fiche), +221 77-411-61-15 et +221 77-833-40-54, et l'adresse « 167 Cité Léopold Sédar Senghor, Dakar, Sénégal ». Identité confirmée par le téléphone fixe."
+      ],
+      "statut": "a_verifier",
+      "note": "Site trouvé en testant l'adresse probable en .sn (le .com annoncé par un annuaire tiers ne répond pas) et retenu parce que le téléphone fixe +221 33 820 22 32 y est identique à celui de la fiche. Le site donne deux mobiles absents de la fiche (+221 77 411 61 15 et +221 77 833 40 54) et une autre adresse postale : 167 Cité Léopold Sédar Senghor, Dakar, au lieu du 375 HLM Grand Médine de la fiche. L'adresse « votre@email.com » vue dans le script n'est qu'un exemple de formulaire : écartée."
+    },
+    {
+      "nom": "Youmann Consulting Group",
+      "sigle": "YCG",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "youmann@youmann.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 08 63",
+      "adresse": "Cité Keur Gorgui - Mermoz Sacre-coeur, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://youmann.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet de conseil, recrutement et formation : conseil en stratégie et management, ressources humaines et organisation, tests RH, recrutement de talents, développement du leadership ; siège à Dakar et bureau à Abidjan",
+      "fiche_url": "https://www.goafricaonline.com/sn/782847-youmann-consulting-group",
+      "preuve_url": "https://www.senpages.com/entreprise/youmann-consulting-sarl",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782847-youmann-consulting-group — adresse Cité Keur Gorgui, tél (+221) 33 864 08 63, bouton « Site web » : www.youmann.com",
+        "Site du bureau : https://www.youmann.com , https://youmann.com et https://youmann.com/contact/ — le serveur répond HTTP 200 mais n'affiche qu'une page « Site is undergoing maintenance » : aucun email lisible sur le site.",
+        "R1 : « Youmann Consulting Group » Sénégal — cabinet de conseil, recrutement et formation à capitaux sénégalais et ivoiriens, créé en 2009, siège à Dakar et bureau à Abidjan. Pages ouvertes : annuaire https://www.senpages.com/entreprise/youmann-consulting-sarl — email lu tel quel : youmann@youmann.com, avec le téléphone +221 33 864 08 63 (identique à la fiche) et l'adresse « Keur Gorgui District, BNDE Building, 4th Floor, Dakar » (cohérente avec la Cité Keur Gorgui de la fiche) : identité confirmée. Page recruteur https://www.emploisenegal.com/recruteur/15672 : HTTP 403, contenu non servi. Pages indexées de youmann.com (fr et en) inaccessibles pendant la maintenance."
+      ],
+      "statut": "a_verifier",
+      "note": "Son propre site étant en maintenance, l'email a été lu sur l'annuaire SenPages, où le téléphone et le quartier concordent avec la fiche. Le cabinet a aussi un bureau à Abidjan (Côte d'Ivoire) et une page LinkedIn « Youmann, Consulting & Recruiting Firm »."
     }
   ]
 }
