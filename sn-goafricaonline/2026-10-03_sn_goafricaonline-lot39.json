@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-03",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : suite des fiches jamais traitées de p=7",
+  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=7 (9 bureaux), puis la première fiche jamais traitée de p=8 (XERUS SENEGAL). Lot arrêté à 10 bureaux par la limite de durée du passage",
   "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
   "bureaux": [
     {
@@ -141,6 +141,144 @@
       ],
       "statut": "a_verifier",
       "note": "L'adresse email publiée est sur le domaine progress.sn alors que le site est hébergé sur progressen.sn — le domaine progress.sn ne sert aucune page, à confirmer donc que la boîte fonctionne encore. Le site n'existe qu'en HTTP (pas de HTTPS) et son contenu visible date d'un séminaire d'octobre 2018 : page peut-être à l'abandon. La page /contact renvoie HTTP 403."
+    },
+    {
+      "nom": "PROXICONCEPT GROUP SARL",
+      "sigle": "Proxiconcept",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Insa Ba (fondateur, d'après son profil LinkedIn)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 824 10 50 ; (+221) 77 867 72 23",
+      "adresse": "Avenue Bourguiba, Immeuble Serigne Abdou Karim Mbacké Falilou, Ecobank 3ème étage B, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Cabinet de conseil pour entreprises privées et publiques, créé en 2018 : conseil, services, négoce, formation (dont anglais professionnel), assistance à maîtrise d'ouvrage (AMOA) et à maîtrise d'œuvre (AMOE), fourniture d'équipements, audit organisationnel, management de la performance, mise en conformité des établissements touristiques",
+      "fiche_url": "https://www.goafricaonline.com/sn/632470-proxiconcept-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/632470-proxiconcept-group-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Avenue Bourguiba, Immeuble Serigne Abdou Karim Mbacké Falilou, Ecobank 3e étage B, tél (+221) 33 824 10 50 et (+221) 77 867 72 23, bouton « Site web » : https://proxiconceptgroup.com/",
+        "Site annoncé par la fiche : https://proxiconceptgroup.com/ , /contact , /contact/ et /nous-contacter/ — le domaine a changé de main : toutes les adresses servent désormais « Vebotv », un site vietnamien de diffusion de football, sans aucun rapport avec le bureau. Aucun email du bureau n'y est lisible, et rien n'y a été retenu.",
+        "R1 : « PROXICONCEPT » Sénégal Dakar groupe conseil — cabinet sénégalais créé en septembre 2018 par Insa Ba, 2 à 10 salariés, réseau de partenaires en Afrique de l'Ouest. Pages ouvertes : https://sn.linkedin.com/company/proxiconcept et profils LinkedIn de ses salariés (aucune adresse email publiée).",
+        "R2 : « proxiconceptgroup.com » / « Proxiconcept Group » email contact Dakar — l'index renvoie, depuis la page https://proxiconceptgroup.com/contact/ d'avant la perte du domaine, trois adresses : maimounadiop@proxiconceptgroup.com (informations produits et services), fatoubintoudiouf@proxiconceptgroup.com (administratif et partenariats) et recrutements@proxiconceptgroup.com (emploi), avec « Avenue Bourguiba, Immeuble Serigne Abdou Karim Mbacké Falilou Ecobank 3e étage, BP 16499 Dakar Fann » et les deux téléphones +221 77 867 72 23 et +221 33 824 10 50, identiques à la fiche. La page n'existant plus (domaine détourné), ces adresses n'ont pas pu être lues : non retenues. Les fiches zoominfo et rocketreach masquent les adresses : non retenues.",
+        "R3 : « 77 867 72 23 » / « 33 824 10 50 » Dakar — aucun résultat rattaché au bureau (listes de prestataires et de pharmacies sans rapport).",
+        "R4 : « PROXICONCEPT GROUP SARL » (entre guillemets, seul) — mêmes pages LinkedIn et fiches d'annuaires commerciaux ; l'une annonce un site en .sn. Aucun email lu.",
+        "Adresses probables testées : https://proxiconceptgroup.sn , https://www.proxiconceptgroup.sn , https://proxiconcepgroup.sn et https://proxiconcept.sn — aucune réponse."
+      ],
+      "statut": "a_verifier",
+      "note": "Le domaine proxiconceptgroup.com a été perdu par le bureau et sert aujourd'hui un site vietnamien de streaming sportif : aucun email n'a pu être lu, et les adresses en @proxiconceptgroup.com ne fonctionnent probablement plus. À vérifier à la main : l'index conserve, depuis son ancienne page de contact, maimounadiop@, fatoubintoudiouf@ et recrutements@proxiconceptgroup.com, avec exactement l'adresse et les deux téléphones de la fiche. La fiche indique la boîte postale BP 16499 Dakar Fann. Un site en .sn a été annoncé par un annuaire mais ne répond pas."
+    },
+    {
+      "nom": "RMMS CONSULTING",
+      "sigle": "RMMS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 368 09 24",
+      "adresse": "Mariste 2 derrière la CBAO Mariste - Hann Bel-Air, Dakar",
+      "ville": "Dakar",
+      "site_web": "www.thermmsconsulting.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet de conseil spécialisé dans le retail, le merchandising, le management et les entreprises de services : coaching d'affaires et de retail, formation, recrutement, diagnostic de projet, analyse du point de vente, mise en place du merchandising",
+      "fiche_url": "https://www.goafricaonline.com/sn/782925-rmms-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782925-rmms-consulting — adresse Mariste 2 derrière la CBAO Mariste, Hann Bel-Air, tél (+221) 77 368 09 24, bouton « Site web » : www.thermmsconsulting.com",
+        "Site annoncé par la fiche : https://www.thermmsconsulting.com , https://thermmsconsulting.com et /contact — le domaine ne résout plus (aucun DNS, aucune page servie) : aucun email lisible.",
+        "R1 : « RMMS Consulting » Sénégal Dakar — confirme le profil du cabinet (retail, merchandising, management, services ; coaching, formation, recrutement ; fondateur expert en marketing management du luxe depuis plus de 15 ans, enseignant en école de commerce) d'après l'index de son ancien site thermmsconsulting.com. Aucun email publié. Les autres résultats concernent RMS Research and Marketing Services, autre société dakaroise : non retenue.",
+        "R2 : « thermmsconsulting » / « RMMS Consulting » Dakar email contact coaching retail — l'index mentionne une rubrique « Contacts » sur l'ancien site mais aucune adresse email ; les autres résultats sont des homonymes étrangers (RM Consulting, RMS Consulting en Irlande, RRMS Consulting). Aucun email retenu.",
+        "R3 : « 77 368 09 24 » / « 773680924 » — aucun résultat rattaché au bureau.",
+        "R4 : « RMMS CONSULTING » (entre guillemets, seul) — uniquement des homonymes étrangers : R&M CMMS Consulting (Houston, Texas), RM Medical Search (Colorado), RMMS Consultancy Ltd (Royaume-Uni, radiée le 12/01/2021). Non retenus.",
+        "Adresses probables testées : https://rmmsconsulting.com , https://rmmsconsulting.sn , https://thermmsconsulting.sn — aucune réponse."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site indiqué sur la fiche (thermmsconsulting.com) a disparu : aucun email n'a pu être lu, et aucune autre page ne publie d'adresse pour ce cabinet. Son profil (coaching retail et merchandising) le rend peu probable pour des appels d'offres d'études techniques. Attention aux nombreux homonymes étrangers et à RMS Research and Marketing Services, autre société de Dakar."
+    },
+    {
+      "nom": "Sen Manzil Immo",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 76 659 45 41",
+      "adresse": "00000 - Mermoz Sacre-coeur, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782874-sen-manzil-immo",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782874-sen-manzil-immo — adresse Mermoz Sacré-Cœur Dakar, tél (+221) 76 659 45 41, bouton « Site web » : sen-manzil-immo.business.site/",
+        "Site annoncé par la fiche : https://sen-manzil-immo.business.site/ — HTTP 404 (les mini-sites Google « business.site » ont été fermés) : aucun email lisible.",
+        "R1 : « Sen Manzil Immo » Sénégal Dakar immobilier — aucun résultat sur cette société ; uniquement d'autres agences immobilières sénégalaises au nom voisin (Sen'immo, SN IMMO, SIM IMMO, Sen.Immo, SENIMMOBILIER) : non retenues, aucune ne partage le téléphone de la fiche.",
+        "R2 : « Sen Manzil » Dakar email contact — aucun résultat sur cette société ; les adresses trouvées appartiennent à d'autres entités (info@manzil.online, société pakistanaise ; Sen Habitat Dakar ; Manzil Academy) : non retenues.",
+        "R3 : « 76 659 45 41 » / « 766594541 » — aucun résultat (le numéro n'apparaît sur aucune page indexée).",
+        "R4 : « Sen Manzil Immo » (entre guillemets, seul) — aucun résultat sur cette société : uniquement les agences « Sen Immo » homonymes du Sénégal et du Maroc, une agence belge « Immo-Sen » et des pages sans rapport (palais indiens nommés « Manzil »). Non retenus.",
+        "Adresses probables testées : https://senmanzilimmo.com , https://sen-manzil-immo.com , https://senmanzil.sn , https://senmanzilimmo.sn — aucune réponse."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucune présence web propre : la mini-page Google « business.site » indiquée par la fiche a disparu avec la fermeture de ce service. Le nom évoque l'immobilier plutôt qu'un bureau d'études, mais la fiche ne décrit aucune activité. Nombreuses agences sénégalaises homonymes « Sen Immo » : aucune coordonnée ne leur a été emprunté. Seuls le mobile et le quartier de la fiche sont exploitables."
+    },
+    {
+      "nom": "Snib",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 654 23 19",
+      "adresse": "Captage Dakar - Grand Yoff, Dakar - 11400",
+      "ville": "Dakar (Grand Yoff)",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782884-snib",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782884-snib — adresse Captage, Grand Yoff, Dakar - 11400, tél (+221) 77 654 23 19, bouton « Site web » : snib.business.site/",
+        "Site annoncé par la fiche : https://snib.business.site/ — HTTP 404 (les mini-sites Google « business.site » ont été fermés) : aucun email lisible.",
+        "R1 : « SNIB » Sénégal Dakar Grand Yoff bureau d'études conseils — aucun résultat sur ce bureau ; les pages ouvertes concernent d'autres bureaux d'études sénégalais (SENIC, S.E.C.CO, BEAD, Bureau d'Études Sénégalaise). Aucun email.",
+        "R2 : « Snib » Dakar email contact entreprise Sénégal — aucun résultat sur ce bureau ; uniquement des annuaires et registres généraux d'entreprises sénégalaises (CCIAD, NINEA/ANSD, Eurocham). Aucun email.",
+        "R3 : « 77 654 23 19 » / « 776542319 » — aucun résultat (le numéro n'apparaît sur aucune page indexée).",
+        "R4 : « Snib » (entre guillemets, seul) — le mot est un terme courant en anglais écossais (verrou, loquet) : uniquement des entrées de dictionnaire, la Scottish National Investment Bank et un article scientifique. Aucun rapport, rien retenu.",
+        "Adresses probables testées : https://snib.sn , https://www.snib.sn , https://snibsenegal.com , https://snib-sn.com — aucune réponse ; https://snib.com répond mais n'est qu'un domaine parqué (redirection vers « /lander »), sans aucune mention du Sénégal : non retenu."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucune présence web propre : la mini-page Google « business.site » indiquée par la fiche a disparu avec la fermeture de ce service, et le nom « Snib » est noyé dans des homonymes (mot du dictionnaire écossais, banque publique écossaise). Le domaine snib.com est parqué et sans lien avec ce bureau. Seuls le mobile et l'adresse de la fiche sont exploitables."
+    },
+    {
+      "nom": "XERUS SENEGAL",
+      "sigle": "XERUS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@xerus.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 90 28 ; (+221) 77 504 95 15",
+      "adresse": "Sacré Cœur, Cité keur Gorgui, Immeuble Hermès N°34, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://www.xerus.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592567-xerus-bureaux-etudes-conseils-consltants-dakar-senegal",
+      "preuve_url": "https://www.xerus.sn/contacts/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592567-xerus-bureaux-etudes-conseils-consltants-dakar-senegal — adresse Sacré Cœur, Cité Keur Gorgui, Immeuble Hermès n°34, tél (+221) 33 825 90 28 et (+221) 77 504 95 15, bouton « Site web » : www.xerus.sn/",
+        "Site du bureau : https://www.xerus.sn/ et https://xerus.sn/ (accueil, HTTP 200) — email déjà présent en lien mailto affiché : contact@xerus.sn",
+        "Page contacts du site : https://www.xerus.sn/contacts/ — email lu tel quel : contact@xerus.sn, avec les téléphones 33 825 90 28, 33 825 22 37 et 77 504 95 15 : le fixe 33 825 90 28 et le mobile 77 504 95 15 sont identiques à la fiche, identité confirmée. Les pages /contact et /contact/ redirigent vers /contact-three/, variante de page du thème."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site ajoute un second fixe absent de la fiche : 33 825 22 37. L'adresse support@rstheme.com vue dans le code est celle de l'éditeur du thème du site, pas un contact du bureau : écartée. Le site ne décrit pas explicitement les activités au-delà de la rubrique de l'annuaire."
     }
   ]
 }
