@@ -322,6 +322,93 @@
       ],
       "statut": "a_verifier",
       "note": "Email lu dans la page de l'annuaire SenPages, dont l'adresse et le téléphone concordent avec la fiche goafricaonline. Aucun site propre en ligne : www.pci.sn, cité dans les résultats de recherche, ne répond plus. Ne pas confondre avec POLYCONSULT INTERNATIONAL (Guédiawaye), bureau distinct."
+    },
+    {
+      "nom": "GES CONSEIL",
+      "sigle": "GES",
+      "categorie": "etudes",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 867 34 88 · (+221) 77 644 25 48",
+      "adresse": "S9B 2°étage Scat - Urbam, BP 5286 Dakar Fann",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Recherche, études et conseil sur l'eau, l'environnement et l'industrie",
+      "fiche_url": "https://www.goafricaonline.com/sn/592526-ges-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592526-ges-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : GES CONSEIL Sénégal études eau environnement industrie Scat Urbam — aucune page de ce bureau ; le site ges-sa.fr trouvé appartient à GES SAS, bureau d'études français, sans rapport",
+        "R2 : \"GES Conseil\" Dakar Sénégal email contact bureau études eau — aucun email ni page de ce bureau (autres bureaux sénégalais : BETPLUS, E.TE.C.S., CAFEC, SONED-Afrique)",
+        "R3 : \"33 867 34 88\" puis \"77 644 25 48\" / \"338673488\" — aucune page ne rattache ces numéros à une entreprise",
+        "R4 : \"GES CONSEIL\" Sénégal — une page LinkedIn « GES CONSEIL » existe mais pour un cabinet comptable français (Chavanod) ; au Sénégal seul GES-Petrogaz (ministère du Pétrole), sans rapport",
+        "Adresses probables testées : gesconseil.sn (pas de réponse), ges.sn (pas de réponse), ges-conseil.com (pas de réponse), gesconseil.com (répond mais ne contient qu'une page d'hébergement OVH par défaut, « Bienvenue chez OVH », sans aucun contenu ni email : identité non confirmée)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. Le sigle GES est très ambigu (gaz à effet de serre, GES SAS France, GES-Petrogaz) ; aucun site ne lui a été attribué."
+    },
+    {
+      "nom": "KARONE",
+      "sigle": "KGS",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "Michel Sagna, CEO fondateur (d'après le site kgs.sn)",
+      "emails": [
+        "info@kgs.sn",
+        "info@karone.co"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 721 16 39 (standard, selon la fiche)",
+      "adresse": "Sacre coeur3 pyrotechnique, cité Keur gorgui",
+      "ville": "Dakar",
+      "site_web": "https://kgs.sn/",
+      "site_source": "recherche web",
+      "specialite": "Vente de matériels informatiques et solutions informatiques ; consultation en redressement de sociétés en difficulté financière ; approvisionnement, logistique et solutions de financement",
+      "fiche_url": "https://www.goafricaonline.com/sn/628431-karone-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://kgs.sn/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/628431-karone-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : KARONE Sénégal matériel informatique consultation redressement société difficulté financière Keur Gorgui — site https://kgs.sn/ (Karone Global Service) identifié",
+        "Site ouvert : https://kgs.sn/ — « Karone Global Service », adresse Cité Keur Gorgui, 131 Rond point VDN, Dakar ; téléphone (+221) 33 843 2732 ; emails info@kgs.sn (pied de page et bloc contact) et info@karone.co ; CEO fondateur Michel Sagna",
+        "Page ouverte : https://kgs.sn/page-services-5.html — même email info@kgs.sn ; https://kgs.sn/contact.html renvoie 404",
+        "R2 : \"KARONE\" Dakar email contact \"77 721 16 39\" — confirme l'adresse Cité Keur Gorgui 131 Rond point VDN et l'email info@karone.co, mais le numéro 77 721 16 39 de la fiche n'apparaît sur aucune page",
+        "R3 : \"77 721 16 39\" (voir R2) — aucune page ne rattache ce numéro à une entreprise",
+        "R4 : \"KARONE\" — Karone Global Service (Dakar) et Karone sarl (Montréal, même groupe) ; pages https://karone.ca/contact.html et /contact-fr.html en 404",
+        "Adresses probables testées : karone.co (page de redirection JavaScript seule, aucune coordonnée lisible ; /en/, /fr/, /en/contact, /fr/contact en 404), karone.sn (pas de réponse), karone.com (pas de réponse)"
+      ],
+      "statut": "a_verifier",
+      "note": "Emails lus sur https://kgs.sn/. Rattachement fondé sur le nom (Karone), la ville et le quartier (Cité Keur Gorgui, Dakar) et l'activité (matériel informatique, conseil, financement), tous concordants avec la fiche ; en revanche le téléphone de la fiche (77 721 16 39) ne figure sur aucune page du site, qui donne 33 843 27 32 — à confirmer lors de la prospection."
+    },
+    {
+      "nom": "RESIDENCE PRESTIGEOUS PATRIMONIA",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Dionysius Hervé Gomis (gestionnaire de la résidence, d'après la fiche Booking)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 822 39 14 · (+221) 33 829 08 68 · (+221) 77 558 25 82 · (+221) 78 158 65 01",
+      "adresse": "Cité Keur Gorgui, Villa N°52R",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil de gestion des patrimoines ; l'adresse héberge aussi une résidence meublée de 9 chambres louée aux voyageurs",
+      "fiche_url": "https://www.goafricaonline.com/sn/632611-residence-prestigeous-patrimonia-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/632611-residence-prestigeous-patrimonia-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : \"RESIDENCE PRESTIGEOUS PATRIMONIA\" Sénégal conseil gestion patrimoines — uniquement des fiches de réservation (Booking, Tripadvisor, gites.fr) : résidence meublée à Cité Keur Gorgui Villa R52, Mermoz Sacré-Cœur, gérée par Dionysius Hervé Gomis ; adresse identique à la fiche goafrica",
+        "R2 : \"Patrimonia\" Dakar \"Keur Gorgui\" email contact résidence Gomis — aucun email publié ; les plateformes de réservation ne diffusent pas l'email du propriétaire",
+        "Pages ouvertes : https://residence-prestigeous-patrimonia.dakar-hotels-sn.com/en/ et https://www.gites.fr/gites_residence-prestigeous-patrimonia_dakar_h8611331_en.htm — aucun email dans les pages",
+        "R3 : \"33 822 39 14\" OR \"77 558 25 82\" OR \"33 829 08 68\" — aucune page ne rattache ces numéros à une entreprise",
+        "R4 : \"PRESTIGEOUS PATRIMONIA\" — uniquement les plateformes de réservation ; aucun site propre",
+        "Adresses probables testées : patrimonia.sn, prestigeous-patrimonia.com, residencepatrimonia.com, patrimonia-senegal.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : les seules sources sont des plateformes de réservation, qui ne publient pas l'email de l'exploitant. Activité réelle principalement de résidence meublée ; la fiche goafricaonline la classe en « conseil de gestion des patrimoines » — pertinence à vérifier avant prospection."
     }
   ]
 }
