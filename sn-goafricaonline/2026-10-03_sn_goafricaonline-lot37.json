@@ -409,6 +409,87 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email : les seules sources sont des plateformes de réservation, qui ne publient pas l'email de l'exploitant. Activité réelle principalement de résidence meublée ; la fiche goafricaonline la classe en « conseil de gestion des patrimoines » — pertinence à vérifier avant prospection."
+    },
+    {
+      "nom": "SEKOU",
+      "sigle": "",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@sekou.org"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 376 34 48",
+      "adresse": "",
+      "ville": "Dakar",
+      "site_web": "https://sekou.org/",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet de conseil pour la conduite de projets complexes en Afrique subsaharienne : consulting et innovation, formations et workshops, sourcing et études, accompagnement et networking, couverture médiatique, services digitaux",
+      "fiche_url": "https://www.goafricaonline.com/sn/643833-sekou-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://sekou.org/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/643833-sekou-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » pointant vers sekou.org ; aucune adresse postale sur la fiche (champ « - »)",
+        "Site ouvert : https://sekou.org/ — email info@sekou.org en pied de page",
+        "Page ouverte : https://sekou.org/contact — bloc « Contacts » : email info@sekou.org, localisation « Paris - Dakar »",
+        "Page ouverte : https://sekou.org/a-propos/ — même email ; https://sekou.org/mentions-legales/ renvoie 404"
+      ],
+      "statut": "a_verifier",
+      "note": "Email lu sur la page contact du site lié depuis la fiche goafricaonline. Le site n'indique pas d'adresse postale, seulement « Paris - Dakar »."
+    },
+    {
+      "nom": "MAISON DE L'ETUDIANT",
+      "sigle": "",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 02 51 · (+221) 77 614 23 58 · (+221) 77 387 66 94",
+      "adresse": "Scat urbam villa E 20, grand yoff",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Agence de conseil et d'orientation, multiservices",
+      "fiche_url": "https://www.goafricaonline.com/sn/645049-maison-etudiant-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/645049-maison-etudiant-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : \"MAISON DE L'ETUDIANT\" Sénégal agence conseil orientation Scat Urbam Grand Yoff — aucune page de cette agence ; résultats sur le quartier Scat Urbam / Grand Yoff et sur le logement étudiant",
+        "R2 : \"Maison de l'Etudiant\" Dakar email contact orientation étudiants agence — aucun email ; seuls la Maison de l'UCAD (drci@ucad.edu.sn) et le COUD, structures universitaires sans rapport",
+        "R3 : \"33 827 02 51\" OR \"77 614 23 58\" OR \"77 387 66 94\" — aucune page ne rattache ces numéros à une entreprise",
+        "R4 : \"MAISON DE L'ETUDIANT\" Dakar Sénégal — uniquement des pages sur le logement étudiant et la Maison de l'UCAD",
+        "Adresses probables testées : maisondeletudiant.sn, maisondeletudiant.com, maison-etudiant.sn, maisonetudiant.com — aucune ne répond"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. Nom très proche de structures universitaires publiques (Maison de l'UCAD, COUD) : aucun email ne leur a été emprunté."
+    },
+    {
+      "nom": "GESTEQ",
+      "sigle": "",
+      "categorie": "conseil",
+      "type_marches": "inconnu",
+      "responsable": "Kewe Diouf, directeur (d'après la page LinkedIn « Gesteq gestion & equipements »)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 82 55 · (+221) 77 516 35 24",
+      "adresse": "9324 sacré cœur 3",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Consultance en gestion et équipement",
+      "fiche_url": "https://www.goafricaonline.com/sn/652716-gesteq-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/652716-gesteq-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web »",
+        "R1 : GESTEQ Sénégal consultance gestion équipement Sacré Coeur Dakar — une page LinkedIn « Gesteq gestion & equipements » (région de Dakar, directeur Kewe Diouf) ; aucun site",
+        "R2 : \"Gesteq\" Dakar email contact gestion équipements — aucun email pour Gesteq ; les emails trouvés appartiennent à SGE Equip (sge-equip@orange.sn) et Gest Parc (contact@gest-parc.com), sociétés distinctes",
+        "R3 : \"33 827 82 55\" OR \"77 516 35 24\" / \"338278255\" — aucune page ne rattache ces numéros à une entreprise",
+        "R4 : \"GESTEQ\" — société brésilienne homonyme GESTEQ Consultoria (Recife), sans rapport",
+        "Adresses probables testées : gesteq.sn (pas de réponse), gesteq-senegal.com (pas de réponse), gesteq.com (403, page de protection Cloudflare « Just a moment… », non contournée), http://www.gesteq.net/Revision/index.php (erreur 500, aucun contenu)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site trouvé. gesteq.com est protégé par un filtre Cloudflare non contourné et gesteq.net renvoie une erreur serveur : ni l'un ni l'autre n'a pu confirmer une identité, et l'homonyme brésilien GESTEQ Consultoria a été écarté."
     }
   ]
 }
