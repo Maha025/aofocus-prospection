@@ -1,0 +1,148 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-10-03",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=5",
+  "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
+  "bureaux": [
+    {
+      "nom": "Fitmarks Group",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 835 93 39",
+      "adresse": "HAMO 2 Case-bi Villa S34 - Guediawaye",
+      "ville": "Guediawaye",
+      "site_web": "www.fitmarks-group.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureaux d'études - Conseils - Consultants ; conseil en marketing et communication, support technologique et ingénierie (d'après les annuaires d'entreprises)",
+      "fiche_url": "https://www.goafricaonline.com/sn/782911-fitmarks-group",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782911-fitmarks-group — nom, adresse HAMO 2 Case-bi Villa S34 Guediawaye, tél (+221) 33 835 93 39, bouton « Site web » : www.fitmarks-group.com",
+        "Site du bureau : https://www.fitmarks-group.com et https://fitmarks-group.com — HTTP 503 puis 404, aucune page servie ; http://www.fitmarks-group.com → HTTP 404 (page d'erreur d'hébergeur, aucun contenu du bureau). Aucun email lisible.",
+        "R1 : « Fitmarks Group » Sénégal — résultats ouverts : fiche entreprise rocketreach.co/fitmarks-group-profile_b415707cff8366d4 (Sénégal, 2017, publicité/marketing, site fitmarks-group.com), profil LinkedIn personnel N. Fatou Diop (Fitmarks Group). Aucun email publié.",
+        "R2 : « Fitmarks » Dakar email contact — le seul contact trouvé est contact@fitmarks.com sur https://www.fitmarks.com/contact/, mais ce site est celui d'une société américaine (242 Linden Street, Fort Collins, Colorado) : homonyme, sans rapport avec le bureau sénégalais. Non retenu. RocketReach n'affiche qu'un « format d'email » reconstitué (prenom.nom@…), jamais une adresse lue : non retenu.",
+        "R3 : « 33 835 93 39 » puis « +221 33 835 93 39 » — aucun résultat rattaché au bureau (seulement des pages générales sur la numérotation sénégalaise).",
+        "R4 : « Fitmarks Group » (entre guillemets, seul) — mêmes fiches rocketreach et LinkedIn, plus la société américaine « Fitmark » (sacs de sport, Californie), sans rapport. Aucun email.",
+        "Adresses probables testées : http://fitmarks-group.com/contact (404), http://fitmarks-group.com/contact.html (404), https://www.fitmarks-group.sn (pas de réponse), https://fitmarks.sn (pas de réponse)."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site indiqué sur la fiche (www.fitmarks-group.com) ne répond plus (503/404) : aucun email n'a pu y être lu. Attention à l'homonyme fitmarks.com, société américaine sans lien avec ce bureau : son adresse contact@fitmarks.com n'a pas été retenue."
+    },
+    {
+      "nom": "Kiné",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Kiné Ndiaye (« Coach Kiné Ndiaye » sur son site)",
+      "emails": [
+        "contact@kccsolution.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 914 48 93",
+      "adresse": "10000 Dakar - Mermoz Sacre-coeur, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://kccsolution.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil et coaching relationnel et conjugal (accompagnement de couples, articles et boutique en ligne) ; référencé en « Bureaux d'études - Conseils - Consultants »",
+      "fiche_url": "https://www.goafricaonline.com/sn/782887-kine",
+      "preuve_url": "https://kccsolution.com/contact/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782887-kine — nom « Kiné », adresse 10000 Dakar - Mermoz Sacre-coeur, tél (+221) 77 914 48 93, bouton « Site web » : kccsolution.com",
+        "Site du bureau : https://kccsolution.com (accueil, HTTP 200) — aucun email sur l'accueil.",
+        "Page contact du site : https://kccsolution.com/contact/ — email lu tel quel : contact@kccsolution.com ; téléphone mobile +221 77 914 48 93 (identique à la fiche) et fixe +221 338427611. Identité confirmée par ce téléphone."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site ajoute un téléphone fixe absent de la fiche : +221 33 842 76 11. L'activité réelle est le coaching relationnel et conjugal (« Coach Kiné Ndiaye »), pas l'ingénierie : bureau peu susceptible de répondre à des appels d'offres d'études."
+    },
+    {
+      "nom": "Le 1er Cabinet Sénégalais Des Consultants Poliques Et Économiques. Cabinet Jgmic",
+      "sigle": "JGMIC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Jean Pierre Faye (consultant certifié en affaires, PDG)",
+      "emails": [
+        "cabinetj2mconsulting@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 78 327 73 68",
+      "adresse": "11-0040 Rte de Malika, Dakar, Keur Massar - 17000",
+      "ville": "Keur Massar (Dakar)",
+      "site_web": "https://sites.google.com/view/cabinetjgmic/accueil",
+      "site_source": "fiche goafrica",
+      "specialite": "Formation, coaching, études et conseil en politique et en économie : communication politique, gestion de projets, développement du leadership, études socio-économiques, accompagnement stratégique de ministères, collectivités locales, ONG, coopératives et entreprises",
+      "fiche_url": "https://www.goafricaonline.com/sn/782865-le-1er-cabinet-senegalais-des-consultants-poliques-et-economiques-cabinet-jgmic",
+      "preuve_url": "https://cabinetj2mconsulti.wixsite.com/cabinetj2-maranath-1",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782865-le-1er-cabinet-senegalais-des-consultants-poliques-et-economiques-cabinet-jgmic — tél (+221) 78 327 73 68, adresse 11-0040 Rte de Malika, Keur Massar, bouton « Site web » : sites.google.com/view/cabinetjgmic/accueil",
+        "Site du bureau : https://sites.google.com/view/cabinetjgmic/accueil — dénomination complète « Cabinet Jean Georgette Maranatha International Consultants (JGMIC) », responsable Jean Pierre Faye, adresse 806 Rue DSM - 682 Dakar, contact proposé par WhatsApp (wa.me/message/KD5CQXT7RKMQF1). Aucune adresse email publiée comme contact. Pages /contact et /a-propos de ce site : HTTP 404.",
+        "R1 : « Cabinet Jean Georgette Maranatha International Consultants » JGMIC Sénégal — résultats ouverts : fiche Yandex Maps https://yandex.com/maps/org/139623601567/ (même nom, Rue DSM-682 n°806, tél +221 783 27 73 68, site cabinetj2mconsulti.wixsite.com/cabinetj2-maranath-1) ; pages indexées de jgmcinternational.com.",
+        "R2 : JGMIC Dakar cabinet contact email « jgmcinternational » — l'index renvoie l'adresse cabinet@jgmcinternational.com et « Jean pierre Faye, Point E Sicap rue 10, Dakar 17000, +221 783277368 » depuis https://jgmcinternational.com/legal-notice/, mais ce domaine ne résout plus (aucun DNS, aucune page servie) : adresse non retenue faute de page lisible.",
+        "R3 : « 78 327 73 68 » / « +221 78 327 73 68 » / « 783277368 » Dakar — aucun résultat rattaché au bureau hors des pages déjà vues.",
+        "R4 : « Cabinet JGMIC » (entre guillemets, seul) — aucun résultat pertinent (homonymes anglophones d'ébénisterie).",
+        "Site trouvé par la fiche Yandex et ouvert : https://cabinetj2mconsulti.wixsite.com/cabinetj2-maranath-1 — email lu tel quel dans un lien mailto affiché : cabinetj2mconsulting@gmail.com ; la page affiche aussi le téléphone « 78 327 73 68 » (identique à la fiche) et l'adresse « 16 Rue DSM 775, Dakar » ainsi que le nom Maranatha : identité confirmée. Page /contact de ce site : HTTP 404.",
+        "Adresses probables testées : https://jgmcinternational.com/ , /contact/ , /a-propos/ et www.jgmcinternational.com — aucun DNS, aucune réponse."
+      ],
+      "statut": "a_verifier",
+      "note": "Même exploitant que la fiche « Cabinet J2-Maranatha-Consulting » (https://www.goafricaonline.com/sn/782882-cabinet-j2-maranatha-consulting, déjà déposée) : même téléphone 78 327 73 68, même site Wix, même responsable Jean Pierre Faye — doublon probable dans l'annuaire. L'ancien domaine jgmcinternational.com (sur lequel l'index renvoie cabinet@jgmcinternational.com) est expiré : cette adresse n'a pas été retenue, faute de page lisible, et serait de toute façon inutilisable. Trois adresses postales différentes selon les sources (Rte de Malika Keur Massar sur la fiche, 806 Rue DSM-682 sur le site Google, 16 Rue DSM 775 sur le site Wix)."
+    },
+    {
+      "nom": "SEMIS BUREAU D'ETUDES",
+      "sigle": "SEMIS (Services de l'Énergie en Milieu Sahélien)",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "dgsemis@semis.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "Standard (+221) 38326189 ; Mobile (+221) 77 638 45 29",
+      "adresse": "Route des Maristes, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://www.semis.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Bureau d'études spécialisé dans les services de l'énergie en milieu sahélien",
+      "fiche_url": "https://www.goafricaonline.com/sn/782937-semis-bureau-d-etudes",
+      "preuve_url": "https://www.semis.sn/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782937-semis-bureau-d-etudes — adresse Route des Maristes Dakar, standard (+221) 38326189, mobile (+221) 77 638 45 29, bouton « Site web » : www.semis.sn",
+        "Site du bureau : https://www.semis.sn/ (accueil, HTTP 200) — email lu tel quel dans le pied de page : dgsemis@semis.sn. La page donne « Semis, service de l'énergie en milieu sahélien », Espace Résidence, Hann Mariste, 1421 BP 652 Dakar RP, Tél (221) 33 832 73 97, Fax (221) 33 832 61 89 : l'adresse (Hann Mariste / Route des Maristes) et le fax (33 832 61 89 = le « 38326189 » de la fiche) confirment l'identité.",
+        "Page https://www.semis.sn/contact : HTTP 404 ; le site est une page unique, sans page séparée de contact, mentions légales ou à propos."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site ajoute un téléphone absent de la fiche : (221) 33 832 73 97, et un fax (221) 33 832 61 89 ; le « standard 38326189 » de la fiche correspond en réalité à ce numéro de fax. Site réduit à une page unique, dernière mention de copyright « © 2000 »."
+    },
+    {
+      "nom": "SENEKE",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 723 04 74",
+      "adresse": "Zac Mbao, Cité soleil villa 34, Dakar - 3370",
+      "ville": "Dakar (Mbao)",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Services juridiques externalisés : diagnostic légal et offres personnalisées pour petites, moyennes et grandes entreprises",
+      "fiche_url": "https://www.goafricaonline.com/sn/974517-seneke-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/974517-seneke-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Zac Mbao Cité Soleil villa 34, tél (+221) 77 723 04 74, aucun bouton « Site web ».",
+        "R1 : « SENEKE » Sénégal bureau d'études conseils juridiques — aucun résultat sur ce bureau ; les pages ouvertes concernent d'autres cabinets sénégalais (SENCAS, SENIC, LP-Consulting) et des annuaires généraux. Aucun email rattaché à SENEKE.",
+        "R2 : « Seneke » Dakar contact email entreprise — aucun résultat sur ce bureau ; seuls des homonymes (personnes nommées Seneke en Afrique du Sud) et d'autres sociétés dakaroises (SEN EAU, SEN HABITAT, SENELEC). Non retenus.",
+        "R3 : « 77 723 04 74 » / « +221 77 723 04 74 » / « 777230474 » — aucun résultat rattaché au bureau (seulement des pages générales sur la numérotation).",
+        "R4 : « SENEKE » (entre guillemets, seul) — uniquement des homonymes sans rapport : ensemble de percussions ouest-africaines aux États-Unis, compositrice italienne Teresa Seneke, artiste sud-africain Pyes Seneke, compte X « Seneke INC ». Aucun email.",
+        "Adresses probables testées : https://seneke.sn , https://www.seneke.sn , https://seneke.com , https://www.seneke.com — aucune réponse (aucun site)."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucune présence web propre trouvée : ni site, ni page officielle Facebook ou LinkedIn, ni mention dans un autre annuaire. Seuls le téléphone et l'adresse de la fiche sont exploitables. Nom très proche d'homonymes étrangers, à ne pas confondre."
+    }
+  ]
+}
