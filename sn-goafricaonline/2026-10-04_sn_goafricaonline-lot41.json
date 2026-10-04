@@ -1,0 +1,167 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-10-04",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "suite de la relecture (étape 5) : dernière fiche jamais traitée de p=9 (MAX CONSULTING GROUP), puis les premières fiches jamais traitées de p=10",
+  "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
+  "bureaux": [
+    {
+      "nom": "MAX CONSULTING GROUP",
+      "sigle": "MCG",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Magatte Diattara (associé unique)",
+      "emails": [
+        "maxconsulting@maxconsulting.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 860 84 66",
+      "adresse": "Sacré coeur 3 villa n° 157 A VDN à côté Résidence Mamoune, BP 10722 Dakar Liberté",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Cabinet d'expertise comptable : expertise comptable, commissariat aux comptes, conseil en gestion et audit, séminaires de formation ; membre du réseau Crowe",
+      "fiche_url": "https://www.goafricaonline.com/sn/592507-max-consulting-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.onecca.org/fr/annuaire/societes-expertise-comptable/max-consulting-group/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592507-max-consulting-group-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Sacré cœur 3 villa n° 157 A VDN à côté Résidence Mamoune, BP 10722 Dakar Liberté, tél (+221) 33 860 84 66, bouton « Site web » : www.maxconsulting.sn/.",
+        "Site annoncé par la fiche : http://www.maxconsulting.sn et https://maxconsulting.sn — l'accueil répond HTTP 200 mais sert une page du raccourcisseur TinyURL indiquant « URL Terminated » (lien supprimé pour violation des conditions d'utilisation) : le site du cabinet n'est plus en ligne. Toutes les autres adresses testées (/contact, /contacts, /a-propos, /mentions-legales, /qui-sommes-nous, ainsi que /contact-us-4/ repéré par la recherche) renvoient HTTP 404. Aucun email lisible sur le domaine du cabinet.",
+        "R1 : recherche « \"MAX CONSULTING GROUP\" Sénégal Dakar Sacré Coeur » — annuaire officiel de l'ONECCA (Ordre national des experts comptables du Sénégal), SenPages, yelu.sn, business-senegal.com, success.ai, et le site du réseau Crowe ; confirme l'adresse « Sacré cœur 3 villa n° 157 A - VDN - Bp 10722 Dakar - Liberté » et l'associé unique Magatte Diattara.",
+        "R2 : recherche « \"maxconsulting.sn\" OR \"Max Consulting\" Dakar email contact » — mêmes sources, plus Dobiza ; l'adresse maxconsulting@maxconsulting.sn y est annoncée.",
+        "Page retenue comme preuve : https://www.onecca.org/fr/annuaire/societes-expertise-comptable/max-consulting-group/ — fiche de l'annuaire officiel de l'Ordre, ouverte et lue : email maxconsulting@maxconsulting.sn, tél +221 33 860 84 66 et adresse « Sacré cœur 3 villa n° 157 A - VDN - Bp 10722 Dakar - Liberté », toutes identiques à la fiche goafrica : identité confirmée. La même adresse est également lue sur https://www.senpages.com/entreprise/max-consulting-group/. La fiche yelu.sn ouverte ne donne aucun email."
+      ],
+      "statut": "a_verifier",
+      "note": "Email maxconsulting@maxconsulting.sn lu sur la fiche de l'annuaire officiel de l'ONECCA, confirmée par le téléphone et l'adresse identiques à la fiche goafrica, et retrouvée telle quelle sur SenPages. site_web laissé vide : le domaine maxconsulting.sn ne sert plus que la page d'un lien TinyURL supprimé, le site du cabinet n'existe donc plus même si son domaine de courrier reste utilisé. Le cabinet est affilié au réseau international Crowe (il apparaît aussi sous « Max Consulting Crowe Sénégal », site iarcomsenegal.com, non ouvert faute de temps : à vérifier lors d'un prochain passage)."
+    },
+    {
+      "nom": "MCN (METHODIC CONSULTING MANAGEMENT)",
+      "sigle": "MCN",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 824 57 10",
+      "adresse": "Liberté 4, Sapeur Pompier, Non loin de Martyrs de l'Ouganda",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480534-mcn-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480534-mcn-bureaux-etudes-conseils-consultants-dakar-senegal — nom MCN (METHODIC CONSULTING MANAGEMENT), adresse Liberté 4, Sapeur Pompier, non loin de Martyrs de l'Ouganda, Dakar, tél (+221) 33 824 57 10, bouton « Site web » : www.methodicconsulting.com. La fiche affiche aussi des liens facebook.com/MethodicConsulting et linkedin.com/company/methodic-consulting, et porte la mention « C'est votre entreprise ? » (fiche non revendiquée).",
+        "Site annoncé par la fiche : http://www.methodicconsulting.com — accueil ouvert (HTTP 200) ; /contact, /contacts, /a-propos, /nous-contacter, /mentions-legales en 404. L'adresse info@methodicconsulting.com y est lisible, mais la page est celle d'un cabinet américain : le pied de page indique « Methodic, P.O. Box 4213, Covina, CA 91723 », le site est entièrement en anglais et ne mentionne ni le Sénégal, ni Dakar, ni le numéro 33 824 57 10 ni l'adresse de Liberté 4. Identité non confirmée : ni site ni email retenus.",
+        "R1 : recherche « \"METHODIC CONSULTING MANAGEMENT\" OR \"MCN\" Sénégal Dakar Liberté 4 consulting » — aucun résultat sur ce bureau ; uniquement d'autres cabinets de Dakar (AFRY, McCANN, AF Consulting, AMCO) et des annuaires généraux.",
+        "R2 : recherche « \"Methodic Consulting\" Dakar Sénégal email contact cabinet » — le nom n'apparaît que dans une liste générique d'entreprises de conseil au Sénégal (lusha.com), sans coordonnées ; aucun email sénégalais.",
+        "R3 : recherche « \"33 824 57 10\" OR \"+221 33 824 57 10\" Dakar » — aucune page ne cite ce numéro ; seuls des annuaires de Dakar portant des numéros voisins du même central.",
+        "R4 : recherche « \"MCN\" \"METHODIC CONSULTING\" » — uniquement des homonymes étrangers : Methodic Consulting (Covina, Californie), MCN Consulting (Orlando, Floride), Migrant Clinicians Network, Museum Computer Network. Tous écartés.",
+        "Adresse probable : le domaine methodicconsulting.com est déjà celui de la fiche et appartient au cabinet américain homonyme ; aucune autre adresse plausible à tester pour l'entité sénégalaise, dont le sigle (MCN) ne correspond à aucun domaine connu."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site retenus. Le site indiqué sur la fiche (methodicconsulting.com) est celui d'un cabinet américain homonyme établi à Covina, Californie : nom de l'enseigne proche mais pays, adresse et téléphone sans rapport avec la fiche, donc doute sur l'identité, et info@methodicconsulting.com, pourtant lisible, est écarté. Le bureau sénégalais n'a aucune présence en ligne propre repérable. Reste joignable au 33 824 57 10 et à l'adresse de la fiche. Pistes pour un prochain passage : les pages facebook.com/MethodicConsulting et linkedin.com/company/methodic-consulting citées par la fiche, non consultables sans connexion."
+    },
+    {
+      "nom": "MIC (MATY INGENIERIE CONSULTANCE)",
+      "sigle": "MIC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "micniang@micniang.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 867 49 00 ; Fax : (+221) 33 867 49 01",
+      "adresse": "Cité Sipres 1, N°34, 3ème étage, BP 17327",
+      "ville": "Dakar",
+      "site_web": "http://www.micniang.com",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/387671-mic-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.micniang.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/387671-mic-bureaux-etudes-conseils-consultants-dakar-senegal — nom MIC (MATY INGENIERIE CONSULTANCE), adresse Cité Sipres 1 n°34, 3e étage, BP 17327, Dakar, tél (+221) 33 867 49 00, fax (+221) 33 867 49 01, bouton « Site web » : www.micniang.com.",
+        "Site du bureau : http://www.micniang.com — accueil ouvert (HTTP 200, 156 Ko) ; toutes les autres adresses testées (/contact, /contacts, /a-propos, /mentions-legales, /qui-sommes-nous…) répondent 200 mais ne servent qu'une page de 1 207 octets sans contenu, le site tenant sur son accueil. L'accueil affiche en clair : « Adresse: CITE SIPRES 1 LOT N°34 3EME ETAGE DAKAR, B.P. 17 327 DAKAR-LIBERTE | Téléphone: +221 33 867 49 00 | Courrier électronique: micniang@micniang.com ». Adresse postale et téléphone identiques à la fiche : identité confirmée."
+      ],
+      "statut": "a_verifier",
+      "note": "Email micniang@micniang.com lu sur l'accueil du site propre du bureau ; adresse et téléphone identiques à la fiche. Recherches R1 à R4 non nécessaires : un email a été trouvé sur le site du bureau."
+    },
+    {
+      "nom": "MLS CONSULTING GROUP",
+      "sigle": "MLS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@mls-consulting.org"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 842 23 24 ; (+221) 77 637 37 39",
+      "adresse": "Rue 7xB, Point E",
+      "ville": "Dakar",
+      "site_web": "https://mls-consulting.org",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet d'expertise en évaluation immobilière et conseil, plus de 30 ans d'expérience au Sénégal",
+      "fiche_url": "https://www.goafricaonline.com/sn/478430-mls-consulting-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://mls-consulting.org/assets/index-YgQmbpP5.js",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/478430-mls-consulting-group-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Rue 7xB, Point E, Dakar, tél (+221) 33 842 23 24 et (+221) 77 637 37 39, bouton « Site web » : www.mls-consulting.org. La fiche affiche aussi un lien LinkedIn personnel (linkedin.com/in/mamy-gueye-788876b9).",
+        "Site du bureau : http://www.mls-consulting.org — toutes les adresses testées renvoient la même page de 1 209 octets : application monopage (React) dont le titre est « MLS Consulting Group - Cabinet d'Expertise Immobilière » et la description « Cabinet d'Expertise en Évaluation Immobilière et Conseil au Sénégal. Plus de 30 ans d'expérience. ». Le contenu est servi par le script https://mls-consulting.org/assets/index-YgQmbpP5.js, téléchargé tel qu'il est servi : il contient l'adresse lue telle quelle contact@mls-consulting.org ainsi que les deux numéros 33 842 23 24 et 77 637 37 39, identiques à ceux de la fiche : identité confirmée."
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact@mls-consulting.org lu dans le script que le site sert lui-même (site monopage sans HTML de contenu) ; preuve_url pointe donc ce fichier. Identité confirmée par les deux téléphones identiques à la fiche. Le site précise l'activité, absente de la fiche : expertise en évaluation immobilière."
+    },
+    {
+      "nom": "MODELSIS",
+      "sigle": "MODELSIS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@modelsis.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 821 29 49",
+      "adresse": "68 Rue Wagane Diouf x Amadou Assane Ndoye Immeuble Aissata Diallo, BP 25919 Fann",
+      "ville": "Dakar",
+      "site_web": "http://www.modelsis.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Société de conseil et d'ingénierie informatique : modélisation de procédures, mise en place de systèmes d'information, élaboration de stratégies pour entreprises publiques et privées et organismes internationaux",
+      "fiche_url": "https://www.goafricaonline.com/sn/387776-modelsis-dakar-senegal",
+      "preuve_url": "http://www.modelsis.sn/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/387776-modelsis-dakar-senegal — adresse 68 Rue Wagane Diouf x Amadou Assane Ndoye, Immeuble Aissata Diallo, BP 25919 Fann, Dakar, tél (+221) 33 821 29 49, bouton « Site web » : www.modelsis.sn.",
+        "Site du bureau : http://www.modelsis.sn — accueil, http://www.modelsis.sn/contact, /contact-us, /a-propos et /about ouverts (HTTP 200) ; /contacts, /nous-contacter, /mentions-legales en 404. L'adresse contact@modelsis.sn est lue telle quelle sur l'accueil et sur la page contact, qui donne « Adresse : Fenêtre Mermoz x Corniche Ouest, près de l'Ecole Actuelle Bilingue » et « Téléphone : +221 33 849 46 46 », ainsi que la description de l'activité reprise ci-dessus.",
+        "Vérification d'identité : le site est celui que la fiche déclare, le nom est identique (ModelSis) et la boîte postale BP 25919 Fann est commune aux deux fiches goafricaonline de cette société. Le téléphone affiché aujourd'hui par le site (33 849 46 46) est celui de l'autre fiche (MODELSIS MODELISATION) et non le 33 821 29 49 de celle-ci : les deux fiches sont deux inscriptions de la même société, à des adresses successives."
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact@modelsis.sn lu sur la page contact du site propre du bureau. Attention : cette fiche et la fiche « MODELSIS MODELISATION » (goafricaonline 592666) désignent la même société, avec des adresses et des numéros différents ; le site ne publie plus qu'une seule adresse (Fenêtre Mermoz x Corniche Ouest) et un seul numéro (33 849 46 46), qui correspond à l'autre fiche. Les coordonnées de la fiche sont conservées telles quelles. À dédoublonner côté prospection : une seule et même adresse email pour les deux fiches."
+    },
+    {
+      "nom": "MODELSIS MODELISATION",
+      "sigle": "MODELSIS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@modelsis.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 849 46 46 ; (+221) 77 631 54 86",
+      "adresse": "Avenue Lamine Gueye Rue Jules Ferry, BP 25919 Fann",
+      "ville": "Dakar",
+      "site_web": "http://www.modelsis.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Société de conseil et d'ingénierie informatique : modélisation de procédures, mise en place de systèmes d'information, élaboration de stratégies pour entreprises publiques et privées et organismes internationaux",
+      "fiche_url": "https://www.goafricaonline.com/sn/592666-modelsis-modelisation-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://www.modelsis.sn/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592666-modelsis-modelisation-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Avenue Lamine Gueye Rue Jules Ferry, BP 25919 Fann, Dakar, tél (+221) 33 849 46 46 et (+221) 77 631 54 86, bouton « Site web » : www.modelsis.sn.",
+        "Site du bureau : http://www.modelsis.sn — accueil et http://www.modelsis.sn/contact ouverts (HTTP 200). L'adresse contact@modelsis.sn est lue telle quelle, avec « Téléphone : +221 33 849 46 46 » — identique au fixe de cette fiche — et l'adresse actuelle « Fenêtre Mermoz x Corniche Ouest, près de l'Ecole Actuelle Bilingue ». Identité confirmée par le téléphone."
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact@modelsis.sn lu sur la page contact du site propre du bureau, identité confirmée par le fixe 33 849 46 46 identique à la fiche. Cette fiche désigne la même société que la fiche « MODELSIS » (goafricaonline 387776), avec laquelle elle partage la BP 25919 Fann et l'adresse email : à dédoublonner côté prospection. L'adresse physique actuelle du site (Fenêtre Mermoz x Corniche Ouest) diffère de celle de la fiche, conservée telle quelle. Recherches R1 à R4 non nécessaires : un email a été trouvé sur le site du bureau."
+    }
+  ]
+}
