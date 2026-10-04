@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-04",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=8 (2 bureaux), puis les 10 premières fiches jamais traitées de p=9",
+  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=8 (2 bureaux), puis les 18 premières fiches jamais traitées de p=9",
   "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
   "bureaux": [
     {
@@ -337,6 +337,218 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email retenu, bien que le résumé du moteur de recherche indique manager@icomatec.com : le site icomatec.com est en maintenance (403 sur toutes ses pages, page d'accueil sans coordonnées) et les deux annuaires qui reprenaient la fiche refusent l'accès (403 et 503), donc l'adresse n'a été lue sur aucune page et n'est pas enregistrée. site_web renseigné malgré la maintenance : le domaine est bien celui du bureau (nom, fondateur et téléphone concordants). À reprendre lors d'un prochain passage, le site pouvant redevenir accessible. Le siège indiqué en ligne (SV City, Ngor Virage) diffère de celui de la fiche (570 Grand Yoff) ; l'adresse de la fiche a été conservée telle quelle."
+    },
+    {
+      "nom": "IDEV (INGENIERIE CONSEIL POUR LE DEVELOPPEMENT INTERNATIONAL)",
+      "sigle": "IDEV",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "idev-ic@idev-ic.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 855 95 90 ; (+221) 33 855 95 93 ; (+221) 77 450 03 65 ; Fax : (+221) 33 855 95 92",
+      "adresse": "Patte D'oie Villa Builders n°B11 et D11 jumelées, BP 8316 Dakar Yoff",
+      "ville": "Dakar",
+      "site_web": "http://idev-ic.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "Ingénierie-conseil pour le développement international",
+      "fiche_url": "https://www.goafricaonline.com/sn/479961-idev-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "http://idev-ic.sn/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/479961-idev-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Patte d'Oie Villa Builders n°B11 et D11 jumelées, BP 8316 Dakar Yoff, tél (+221) 33 855 95 90, 33 855 95 93 et 77 450 03 65, fax (+221) 33 855 95 92, bouton « Site web » : idev-ic.sn.",
+        "Site du bureau : http://idev-ic.sn — accueil (HTTP 200), http://idev-ic.sn/contact et http://idev-ic.sn/qui-sommes-nous ouverts ; /contacts, /a-propos, /mentions-legales en 404. L'adresse idev-ic@idev-ic.sn est lue telle quelle sur toutes les pages du site (pied de page) et sur la page contact, qui affiche aussi « Dakar/Sénégal » et le numéro +221 33 855 95 92 — identique au fax de la fiche : identité confirmée."
+      ],
+      "statut": "a_verifier",
+      "note": "Email idev-ic@idev-ic.sn lu sur la page contact du site propre du bureau. Identité confirmée par le numéro +221 33 855 95 92, identique au fax figurant sur la fiche. Recherches R1 à R4 non nécessaires : un email a été trouvé sur le site du bureau."
+    },
+    {
+      "nom": "ISAO SENEGAL",
+      "sigle": "ISAO",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "info@isao-ltd.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 07 53 ; (+221) 76 529 98 46",
+      "adresse": "Imm Diaollo Lo 325 327 5e Etage Cices VDN, BP 23 468 DAKAR",
+      "ville": "Dakar",
+      "site_web": "https://www.isao-ltd.com",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/645492-isao-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.isao-ltd.com/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/645492-isao-bureaux-etudes-conseils-consultants-dakar-senegal — nom ISAO SENEGAL, adresse Imm Diaollo Lo 325 327 5e Etage Cices VDN, BP 23 468 Dakar, tél (+221) 33 820 07 53 et (+221) 76 529 98 46, bouton « Site web » : www.isao-ltd.com/. La fiche affiche aussi un lien LinkedIn ci.linkedin.com/company/isao-ltd-afrique (page du groupe, hébergée sur le LinkedIn ivoirien).",
+        "Site du groupe (celui déclaré par la fiche) : https://www.isao-ltd.com — accueil et https://www.isao-ltd.com/contact ouverts (HTTP 200) ; /contacts, /a-propos, /nous-contacter, /mentions-legales en 404. L'adresse info@isao-ltd.com est lue telle quelle sur toutes les pages (pied de page) et sur la page contact. Cette page ne donne qu'une adresse postale à Abidjan (« Cocody 26 BP 216 ABIDJAN ») : ni le téléphone sénégalais, ni l'adresse de Dakar de la fiche n'y figurent. Les pages du site ne mentionnent le Sénégal que dans un article de blog (https://isao-ltd.com/senegal-menace-terroriste-aux-portes-du-pays-de-la-teranga/), pas comme implantation."
+      ],
+      "statut": "a_verifier",
+      "note": "Email info@isao-ltd.com lu sur le site que la fiche du bureau déclare elle-même comme son site web ; c'est l'adresse générique du groupe ISAO, dont le siège affiché est à Abidjan (Cocody 26 BP 216). Le site ne publie aucune coordonnée propre à l'entité sénégalaise : ni le 33 820 07 53, ni l'adresse du Cices VDN n'y apparaissent, donc l'identité de l'entité de Dakar n'est pas confirmée par le site lui-même — seul le nom (ISAO) et la déclaration du site sur la fiche la rattachent. Adresse à utiliser en sachant qu'elle mènera au groupe, pas directement au bureau de Dakar. Recherches R1 à R4 non nécessaires : un email a été trouvé sur le site déclaré par la fiche."
+    },
+    {
+      "nom": "JURIDIS CONSULTING",
+      "sigle": "JURIDIS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@juridis.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 824 24 70 ; (+221) 77 638 49 60",
+      "adresse": "2201, Avenue Bourguiba, Dieupeul / Derkelé",
+      "ville": "Dakar",
+      "site_web": "https://www.juridis.sn",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592599-juridis-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.juridis.sn/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592599-juridis-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — adresse 2201, Avenue Bourguiba, Dieupeul / Derkelé, Dakar, tél (+221) 33 824 24 70 et (+221) 77 638 49 60, bouton « Site web » : www.juridis.sn. La fiche propose aussi un lien WhatsApp vers le 221776384960, qui est le mobile déjà listé.",
+        "Site du bureau : https://www.juridis.sn — accueil, https://www.juridis.sn/contact et https://www.juridis.sn/a-propos ouverts (HTTP 200) ; /contacts, /nous-contacter, /mentions-legales en 404. L'adresse contact@juridis.sn est lue telle quelle sur toutes les pages et sur la page contact, qui affiche les numéros 33 824 24 70 et 77 638 49 60 — tous deux identiques à la fiche : identité confirmée."
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact@juridis.sn lu sur la page contact du site propre du bureau, identité confirmée par les deux téléphones identiques à la fiche. Recherches R1 à R4 non nécessaires : un email a été trouvé sur le site du bureau."
+    },
+    {
+      "nom": "KAF SENEGAL OPPORTUNITY",
+      "sigle": "KAF",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 728 50 65 ; (+221) 78 457 47 40",
+      "adresse": "HLM Grand Yoff villa - Grand Yoff, Dakar - 1158",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Monétisation d'instruments financiers en partenariat avec des banques, pour une clientèle internationale",
+      "fiche_url": "https://www.goafricaonline.com/sn/592531-kaf-opportunity-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592531-kaf-opportunity-bureaux-etudes-conseils-consultants-dakar-senegal — nom KAF SENEGAL OPPORTUNITY, adresse HLM Grand Yoff villa, Grand Yoff, Dakar 1158, tél (+221) 77 728 50 65 (affiché deux fois) et (+221) 78 457 47 40, bouton « Site web » : kafsenegal.com/.",
+        "Site annoncé par la fiche : https://kafsenegal.com — aucune réponse sur l'accueil ni sur /contact, /a-propos, /mentions-legales ; testé aussi en http, avec et sans www, et sur le chemin /monetisation apparu dans les résultats de recherche : toujours aucune réponse. Le nom de domaine ne résout plus (pas d'enregistrement DNS) : site disparu, aucun email lisible.",
+        "R1 : recherche « \"KAF SENEGAL OPPORTUNITY\" OR \"KAF Sénégal\" Grand Yoff Dakar » — aucun résultat sur ce bureau ; uniquement des pages sur le quartier de Grand Yoff et la région de Kaffrine.",
+        "R2 : recherche « \"KAF SENEGAL OPPORTUNITY\" email contact kafsenegal » — le résumé du moteur attribue à kafsenegal.com les adresses contact@kafsenegal.com et assane@kafsenegal.com, les téléphones +221 77 728 50 65 et +221 78 457 47 40 (identiques à la fiche) et l'adresse « Hlm Grand Yoff villa 1158 Dakar Senegal ». Ces adresses n'ont pu être lues sur aucune page : la seule source est le site kafsenegal.com, dont le domaine n'existe plus. Non retenues.",
+        "R3 : recherche « \"77 728 50 65\" OR \"78 457 47 40\" Sénégal KAF » — aucune page ne cite ces numéros ; seules des pages générales sur la numérotation sénégalaise et la région de Kaffrine.",
+        "R4 : recherche « \"KAF SENEGAL OPPORTUNITY\" » seul — aucune correspondance ; uniquement des projets de développement sans rapport (PASA Lou-Ma-Kaf, GAFSP).",
+        "Adresses probables testées : https://kafsenegal.sn et https://kaf-senegal.com — aucune ne résout (pas de DNS)."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu. Le site kafsenegal.com a disparu (domaine sans DNS), de sorte que les adresses contact@kafsenegal.com et assane@kafsenegal.com, visibles seulement dans le résumé du moteur de recherche, n'ont pu être lues sur aucune page : conformément à la consigne, elles ne sont pas enregistrées. Les téléphones et l'adresse de la fiche sont corroborés par ce même résumé. À reprendre si le site réapparaît."
+    },
+    {
+      "nom": "Kalitera Consulting",
+      "sigle": "KALITERA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 012 47 47",
+      "adresse": "Memoz Dakar - Dakar-Plateau, Dakar - 05001",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil en management de la qualité, santé et sécurité au travail, environnement et sécurité des aliments : biosécurité, RSE, formation, diagnostic et audit, accompagnement à la certification",
+      "fiche_url": "https://www.goafricaonline.com/sn/782866-kalitera-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782866-kalitera-consulting — adresse « Memoz Dakar - Dakar-Plateau », Dakar 05001, tél (+221) 78 012 47 47, aucun bouton « Site web », aucune activité décrite au-delà de la rubrique de l'annuaire.",
+        "R1 : recherche « \"Kalitera Consulting\" Sénégal » — site propre annoncé https://kaliteraconsulting.com, page Facebook facebook.com/Kaliteraconsult et compte Instagram @kaliteraconsulting ; le résumé du moteur indique le tél (+221) 78 012 47 47 — identique à la fiche — l'adresse « Mermoz, face station Elton » et l'email kaliteraconsulting@gmail.com.",
+        "Site annoncé : https://kaliteraconsulting.com et https://www.kaliteraconsulting.com — aucune réponse, le nom de domaine ne résout pas (pas de DNS), ni en direct ni par récupération de page : aucune page lue, aucun email lisible.",
+        "R2 : recherche « \"kaliteraconsulting@gmail.com\" OR \"Kalitera\" Mermoz Dakar qualité QHSE contact » — mêmes sources (site éteint, Facebook, Instagram) ; l'adresse kaliteraconsulting@gmail.com et un second numéro (+221) 77 747 82 81 n'apparaissent que dans le résumé du moteur, repris du site disparu.",
+        "R3 : recherche « \"78 012 47 47\" Kalitera » — le seul résultat rattaché à ce numéro est le site kaliteraconsulting.com, inaccessible ; les autres résultats sont des homonymes grecs et français (chansons, Kalitera Meubles), écartés.",
+        "R4 : recherche « \"Kalitera Consulting\" » seul — site éteint, Facebook, Instagram, plus un cabinet français homonyme « Kalitera Conseils » (partenariat Qualipro) et Kalitera Agency / Kalytera, tous écartés.",
+        "Adresses probables testées : https://kalitera.sn et https://kalitera.com — aucune ne résout (pas de DNS). Les pages Facebook et Instagram ne sont pas consultables sans connexion : non ouvertes, aucun contournement."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu. L'adresse kaliteraconsulting@gmail.com est bien attribuée à ce cabinet par le résumé du moteur de recherche et le téléphone concorde exactement avec la fiche, mais le site source (kaliteraconsulting.com) n'existe plus : l'adresse n'a pu être lue sur aucune page et n'est donc pas enregistrée. Reste joignable au 78 012 47 47. Les recherches indiquent une localisation plus précise (Mermoz, face station Elton) et un second numéro (77 747 82 81), non retenus faute de page consultable ; l'adresse de la fiche est conservée telle quelle."
+    },
+    {
+      "nom": "Kombiko Partner",
+      "sigle": "KOMBIKO",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@kombikopartner.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 568 33 62",
+      "adresse": "114, avenue Peytavin, 4ième étage, résidence Serigne Massamba MBacké - Dakar-Plateau, Dakar Plateau - 10500",
+      "ville": "Dakar",
+      "site_web": "https://kombikopartner.com",
+      "site_source": "recherche web",
+      "specialite": "Accompagnement de projets depuis 2010 : coaching, conseil, formation sur mesure, assistance aux procédures et à la gestion, suivi-évaluation, développement des compétences comportementales des jeunes talents de l'UEMOA",
+      "fiche_url": "https://www.goafricaonline.com/sn/782875-kombiko-partner",
+      "preuve_url": "https://kombikopartner.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782875-kombiko-partner — adresse 114, avenue Peytavin, 4e étage, résidence Serigne Massamba Mbacké, Dakar-Plateau 10500, tél (+221) 77 568 33 62, aucun bouton « Site web », aucune activité décrite au-delà de la rubrique de l'annuaire.",
+        "R1 : recherche « \"Kombiko Partner\" Sénégal Dakar » — site propre https://kombikopartner.com, fiche recruteur emploisenegal.com/recruteur/13587, page Facebook facebook.com/kombikogroupe, ancien site Google Business kombiko-partner.business.site, profil Viadeo d'Abdoulaye Ngom.",
+        "Site retenu : https://kombikopartner.com — accueil ouvert (HTTP 200) ; toutes les sous-pages testées (/contact, /a-propos, /mentions-legales, /qui-sommes-nous…) renvoient 404, le site tenant sur une seule page. L'adresse contact@kombikopartner.com y est lue telle quelle, avec « 85, cité Dame, Dakar Sénégal » et le téléphone +221 77 568 33 62 — identique à la fiche : identité confirmée."
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact@kombikopartner.com lu sur l'accueil du site propre du bureau (site monopage), identité confirmée par le téléphone identique à la fiche. Le site donne une adresse différente de la fiche (85, cité Dame au lieu du 114 avenue Peytavin) : l'adresse de la fiche a été conservée telle quelle. Recherches R2 à R4 non nécessaires : un email a été trouvé dès R1 sur le site du bureau."
+    },
+    {
+      "nom": "LQT CONSULTING",
+      "sigle": "LQT",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 90 76 ; (+221) 77 644 06 25",
+      "adresse": "Liberté VI Extension, No 48, 1er Etage, BP 28768",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil en management QHSE (qualité, hygiène, sécurité, environnement), évaluations environnementales, formation continue et audit",
+      "fiche_url": "https://www.goafricaonline.com/sn/592543-lqt-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592543-lqt-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Liberté VI Extension, n°48, 1er étage, BP 28768, Dakar, tél (+221) 33 827 90 76 et (+221) 77 644 06 25, aucun bouton « Site web » ; la fiche affiche un lien de page Facebook (fr-fr.facebook.com/lqtconsulting).",
+        "R1 : recherche « \"LQT CONSULTING\" Sénégal Dakar Liberté » — le cabinet annonce le site www.lqtconsulting.com ; fiches ZoomInfo, business-senegal.com, annuaire-senegal.com, yelu.sn, et page Facebook facebook.com/lqtconsulting. Confirme l'adresse « Liberté VI Ext 1er étage n°48 » et les deux numéros de la fiche.",
+        "Site annoncé : https://www.lqtconsulting.com — aucune réponse sur l'accueil ni sur /contact, /a-propos, /mentions-legales, /qui-sommes-nous : site inaccessible, aucun email lisible.",
+        "R2 : recherche « \"LQT Consulting\" email contact Dakar QHSE » — uniquement des pages ZoomInfo qui masquent les adresses (« ****@lqtconsulting.com ») et une page RocketReach qui ne propose qu'un « format d'email » deviné (prenom@lqtconsulting.com) : masquées ou devinées, donc écartées.",
+        "R3 : recherche « \"33 827 90 76\" OR \"77 644 06 25\" Dakar » — aucune page ne cite ces numéros ; seuls des annuaires de Dakar portant des numéros voisins. La fiche https://business-senegal.com/fre/Entreprises/profilent/_11203 a toutefois été ouverte : elle confirme « Sicap Liberté 6 Extension N°48 Dakar, BP 28768 Dakar Médina » et « Tel.: (221) 338279076 / 776440625 », mais son email est masqué derrière un bouton ouvrant une fenêtre modale : non lisible, compté comme absent.",
+        "R4 : recherche « \"LQT CONSULTING\" » seul — mêmes fiches sénégalaises ; les homonymes LQT Consulting AB (Suède) et Litts Quality Technologies (États-Unis) sont écartés.",
+        "Adresses probables testées : https://lqt.sn et https://lqtconsulting.sn — aucune ne résout (pas de DNS). Le domaine annoncé lqtconsulting.com ne répond pas."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu. Le domaine du cabinet (lqtconsulting.com) ne répond pas, et les seules adresses en circulation sont masquées (ZoomInfo, business-senegal.com) ou devinées (format RocketReach) : ni décodage ni reconstitution, conformément à la consigne. Adresse postale précisée par business-senegal.com (BP 28768 Dakar Médina) ; l'adresse de la fiche est conservée telle quelle. Marcel Gbaguidi est cité comme associé principal par ZoomInfo, information non confirmée par une page du cabinet, donc non reportée en responsable."
+    },
+    {
+      "nom": "Le bon conseil",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 254 26 40",
+      "adresse": "Sacré cœur 3, près de la boulangerie jaune Dakar - Sicap-Liberté, Dakar - 11000",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782886-le-bon-conseil",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782886-le-bon-conseil — adresse Sacré cœur 3, près de la boulangerie jaune, Sicap-Liberté, Dakar 11000, tél (+221) 77 254 26 40, aucun bouton « Site web », aucune activité décrite au-delà de la rubrique de l'annuaire.",
+        "R1 : recherche « \"Le bon conseil\" cabinet Sacré Coeur Dakar Sénégal conseil » — aucun résultat sur ce bureau ; d'autres cabinets du quartier apparaissent (DPM Consulting, ELKOF Consulting, AXE Audit & Expertise), tous écartés.",
+        "R2 : recherche « \"Le bon conseil\" Dakar Sénégal bureau études consultants » — aucun résultat sur ce bureau ; uniquement d'autres cabinets de Dakar (Tiidde Consulting, ITTE Consulting, Arix International, DAYNA Conseil, DG Consulting, BEMCD-Solution) et des annuaires généraux.",
+        "R3 : recherche « \"77 254 26 40\" OR \"+221 77 254 26 40\" » — aucune page ne cite ce numéro ; seules des pages générales sur la numérotation.",
+        "R4 : le nom « Le bon conseil » a été interrogé entre guillemets dans les deux requêtes ci-dessus ; l'expression étant un nom commun très courant en français, aucune page ne correspond à ce bureau précis.",
+        "Adresses probables testées : https://lebonconseil.sn — ne résout pas (pas de DNS) ; https://lebonconseil.com répond mais c'est une page de revente de nom de domaine (HugeDomains, « LeBonConseil.com is for sale »), sans aucun lien avec le bureau : écartée."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après R1 à R4 et essai des adresses probables : ce bureau n'a aucune présence en ligne repérable, son nom étant par ailleurs une expression française trop courante pour isoler des résultats. Reste joignable au 77 254 26 40 et à l'adresse de la fiche. Le domaine lebonconseil.com est en vente et n'appartient pas au bureau."
     }
   ]
 }
