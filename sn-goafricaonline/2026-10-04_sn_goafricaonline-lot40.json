@@ -1,0 +1,177 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-10-04",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=8 (2 bureaux), puis les fiches jamais traitées de p=9",
+  "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
+  "bureaux": [
+    {
+      "nom": "Zvle Business Consulting",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 76 732 01 64",
+      "adresse": "x 22, Rue 39 - Medina, Dakar - 10500",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782917-zvle-business-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782917-zvle-business-consulting — adresse x 22, Rue 39 - Medina, Dakar 10500, tél (+221) 76 732 01 64. Pas de bouton « Site web » : la fiche n'affiche qu'un lien de page Facebook (www.facebook.com/watch/zbconsulting221). La fiche ne décrit aucune activité au-delà de la rubrique de l'annuaire et porte la mention « C'est votre entreprise ? » (fiche non revendiquée), donc aucun email.",
+        "R1 : recherche « \"Zvle Business Consulting\" Sénégal » — aucun résultat sur ce bureau ; seuls des annuaires généraux de consultants au Sénégal (expat.com, consultancy.africa, business-senegal.com) et des sociétés homonymes sans rapport.",
+        "R2 : recherche « ZB Consulting 221 Dakar email contact zbconsulting221 » — aucun résultat sénégalais ; uniquement des « ZB Consulting » du Royaume-Uni, du Pakistan et d'Afrique du Sud, écartés.",
+        "R3 : recherche « \"76 732 01 64\" OR \"+221 76 732 01 64\" Dakar » — aucune page ne cite ce numéro ; seules des pages générales sur la numérotation sénégalaise.",
+        "R4 : recherche « \"Zvle Business Consulting\" » seul — aucune correspondance exacte ; résultats homonymes (Z Business Consultants, ZV Consulting Group, zeb consulting), tous hors Sénégal.",
+        "Adresses probables testées : https://zvle.sn (pas de DNS), https://zvleconsulting.com et https://zvleconsulting.sn (pas de DNS), https://zvle.com (HTTP 200 mais contenu « ZEN Virtual Learning Environments », démos de réalité virtuelle liées à anticdotes.com et au LMETB irlandais : aucun rapport avec un cabinet de conseil sénégalais, écarté).",
+        "Le lien Facebook de la fiche est une URL /watch/ (page vidéo) et non une page d'entreprise consultable sans connexion : non ouvert, aucune tentative de contournement."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après R1 à R4 et essai des adresses probables. Le seul lien en ligne connu est une page Facebook (facebook.com/watch/zbconsulting221) qui n'est pas accessible sans compte ; aucun site propre. zvle.com existe mais appartient à un projet irlandais de réalité virtuelle sans lien avec ce bureau : ni site ni email attribués."
+    },
+    {
+      "nom": "tollois consulting",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 284 45 19",
+      "adresse": "liberté 6 /BP - Sicap-Liberté, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil juridique, fiscal et en gestion d'entreprise (droit du travail, droit des sociétés, droit fiscal, conseil marketing)",
+      "fiche_url": "https://www.goafricaonline.com/sn/782920-tollois-consulting",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782920-tollois-consulting — adresse liberté 6 /BP, Sicap-Liberté, Dakar, tél (+221) 77 284 45 19, lien affiché tollois-consulting.business.site/.",
+        "Site annoncé par la fiche : https://tollois-consulting.business.site — HTTP 404 sur l'accueil et sur /contact, /contacts, /a-propos, /mentions-legales, /qui-sommes-nous : le site Google Business a été fermé (Google a supprimé ces sites en 2024). Aucun email lisible.",
+        "R1 : recherche « \"tollois consulting\" Sénégal » — fiche LinkedIn du co-fondateur El hadj Malick Diop (Dakar) et compte X @tollois ; cabinet de conseil juridique, fiscal et en gestion créé en décembre 2020, adresse Liberté 6 villa n°6042. Aucun email publié.",
+        "R2 : recherche « \"Tollois\" consulting Dakar contact email Sicap Liberté » — mêmes pages (LinkedIn, X @tollois) et annuaires généraux ; aucun email.",
+        "R3 : recherche « \"77 284 45 19\" Sénégal » — aucune page ne cite ce numéro ; seules des pages générales sur la numérotation sénégalaise.",
+        "R4 : recherche « \"tollois consulting\" » seul — mêmes pages LinkedIn et X ; les autres résultats (Tollo Consulting, Talos Consulting) sont des homonymes sans rapport, écartés.",
+        "Adresses probables testées : https://tollois.sn, https://tollois.com, https://tolloisconsulting.com, https://tolloisconsulting.sn — aucune ne résout (pas de DNS)."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Le site indiqué sur la fiche (tollois-consulting.business.site) est hors service depuis la fermeture des sites Google Business, donc non retenu comme site_web. Présence en ligne limitée à LinkedIn (co-fondateur El hadj Malick Diop) et au compte X @tollois, aucun des deux ne publiant d'adresse ; les recherches indiquent aussi une adresse « Liberté 6 villa n°6042 », plus précise que celle de la fiche, mais l'adresse retenue reste celle de la fiche."
+    },
+    {
+      "nom": "ESPERE SENEGAL",
+      "sigle": "ESPERE",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "espere.senegal@gmail.com",
+        "info@cabinet-espere.fr"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 827 00 47",
+      "adresse": "Immeuble Restaurant VDN, BP 47630 Dakar Liberté",
+      "ville": "Dakar",
+      "site_web": "https://www.esperesenegal.com",
+      "site_source": "recherche web",
+      "specialite": "Conseil en développement durable et RSE : accompagnement des entreprises, collectivités et organisations dans la transition durable ; économie circulaire",
+      "fiche_url": "https://www.goafricaonline.com/sn/480662-espere-senegal-bureaux-etudes-conseils-consultants-dakar",
+      "preuve_url": "https://www.esperesenegal.com/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/480662-espere-senegal-bureaux-etudes-conseils-consultants-dakar — adresse Immeuble Restaurant VDN, BP 47630 Dakar Liberté, tél (+221) 33 827 00 47, bouton « Site web » : www.cabinet-espere.fr. Un lien de page Facebook est aussi affiché (facebook.com/Espere-Sénégal-458020717603063).",
+        "Site annoncé par la fiche : https://www.cabinet-espere.fr — accueil et /qui-sommes-nous consultés, aucun email ; /contact, /contacts, /contactez-nous, /a-propos, /mentions-legales en 404. Page https://www.cabinet-espere.fr/nous-contacter/ ouverte : formulaire seul, aucun email. Page https://www.cabinet-espere.fr/mentions_legales ouverte : email lu tel quel info@cabinet-espere.fr, avec « Siège social : 17 Cour de l'Abbaye, 41100 VENDOME, SCOP à responsabilité limitée, RCS 453 522 823 » — il s'agit de la maison mère française. La page /qui-sommes-nous confirme la filiale sénégalaise : « nos activités d'économie circulaire au Sénégal via ESPERE Sénégal », créée en 2008 avec le partenaire associé Macoumba Diagne.",
+        "R1 : recherche « \"ESPERE Sénégal\" Dakar contact email économie circulaire » — pages LinkedIn « Espere Sénégal - Dakar » et « Cabinet ESPERE », et surtout le site propre de la filiale : https://www.esperesenegal.com.",
+        "Site de la filiale : https://www.esperesenegal.com (accueil), https://www.esperesenegal.com/contact et https://www.esperesenegal.com/about ouverts — email lu tel quel : espere.senegal@gmail.com, avec « Adresse : HLM Fass Paillote n°63, BP 47630 Dakar Liberté » et tél +221 33 822 85 00. La boîte postale BP 47630 Dakar Liberté est identique à celle de la fiche : identité confirmée."
+      ],
+      "statut": "a_verifier",
+      "note": "Email principal espere.senegal@gmail.com lu sur le site de la filiale sénégalaise (esperesenegal.com/contact), dont la BP 47630 Dakar Liberté correspond à la fiche. info@cabinet-espere.fr est l'adresse générique de la maison mère française (Cabinet ESPERE SCOP, Vendôme), conservée en second à titre de contact de repli. Le site de la filiale donne une adresse physique (HLM Fass Paillote n°63) et un fixe (33 822 85 00) différents de la fiche, plus récents ; les coordonnées de la fiche ont été conservées telles quelles. Recherches R2 à R4 non nécessaires : un email a été trouvé sur le site du bureau."
+    },
+    {
+      "nom": "ETS ABDOU DIENG",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 821 04 75 ; Fax : (+221) 33 864 46 87",
+      "adresse": "54 Avenue Lamine Gueye, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/386381-ets-abdou-dieng-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/386381-ets-abdou-dieng-dakar-senegal — adresse 54 Avenue Lamine Gueye, Dakar, tél (+221) 33 821 04 75, fax (+221) 33 864 46 87, bouton « Site web » : www.iscom.sn. Aucune activité décrite au-delà de la rubrique de l'annuaire.",
+        "Site annoncé par la fiche : http://www.iscom.sn — accueil et page http://www.iscom.sn/contact ouverts. Email affiché : contacts@iscom.sn, mais avec « Adresse : Avenue Bourguiba (face petite Porte Sodida), BP 47436 Dakar - Liberté » et « Téléphone : +221 78 865 32 32 ». Ni le nom (ISCOM), ni le téléphone, ni l'adresse ne correspondent à ETS ABDOU DIENG (54 Avenue Lamine Gueye, 33 821 04 75) : identité non confirmée, email écarté.",
+        "R1 : recherche « \"ETS ABDOU DIENG\" Sénégal » — aucun résultat sur cet établissement ; uniquement des profils de personnes homonymes nommées Abdou Dieng (LinkedIn, ISRA, SGBS…).",
+        "R2 : recherche « \"Abdou Dieng\" Dakar \"Avenue Lamine Gueye\" établissement contact email » — aucun résultat sur cet établissement ; une seule entreprise de l'Avenue Lamine Guèye apparaît (Tall & Associés, 192 Avenue Lamine Guèye, tallassocies@orange.sn), sans rapport, écartée.",
+        "R3 : recherche « \"33 821 04 75\" Dakar » — aucune page ne cite ce numéro ; seuls des annuaires de Dakar portant des numéros voisins du même central.",
+        "R4 : recherche « \"ETS ABDOU DIENG\" » seul — aucune correspondance ; uniquement des personnes homonymes (dont l'ancien directeur régional du PAM), toutes écartées.",
+        "Adresses probables testées : https://abdoudieng.sn, https://abdoudieng.com, https://etsabdoudieng.com, https://etsabdoudieng.sn — aucune ne résout (pas de DNS)."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email attribué. Le site www.iscom.sn indiqué sur la fiche présente une autre entité (ISCOM, Avenue Bourguiba, tél 78 865 32 32) : nom, téléphone et adresse tous différents de la fiche, donc doute sur l'identité — ni site ni email retenus, bien que contacts@iscom.sn y soit lisible. Reste joignable par téléphone et par courrier à l'adresse de la fiche."
+    },
+    {
+      "nom": "FLOW CONSULTING HOLDING",
+      "sigle": "FLOW",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@flowrh.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 824 60 76",
+      "adresse": "Liberté 6 extension, lot n°121, 3e étage, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://www.flowrh.sn",
+      "site_source": "recherche web",
+      "specialite": "Cabinet de conseil en ressources humaines : recrutement, travail temporaire, formation, gestion des carrières, GPEC, diagnostic RH, audit social, coaching",
+      "fiche_url": "https://www.goafricaonline.com/sn/592648-flow-consulting-holding-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.flowrh.sn/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592648-flow-consulting-holding-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Liberté 6 extension, lot n°121, 3e étage, Dakar, tél (+221) 33 824 60 76, bouton « Site web » : flowconsultinghr.com. Un lien de page Facebook est aussi affiché (facebook.com/FLOW-Consulting-Human-Resources-494156187289042).",
+        "Site annoncé par la fiche : https://flowconsultinghr.com — aucune réponse HTTP (connexion impossible) sur l'accueil comme sur /contact, /a-propos, /mentions-legales ; le domaine résout vers une IP d'hébergeur OVH (213.186.33.5) mais ne sert plus de page : site hors service, aucun email lisible.",
+        "R1 : recherche « \"FLOW CONSULTING\" Sénégal ressources humaines Dakar » — le cabinet a un nouveau site : https://www.flowrh.sn ; aussi LinkedIn « Flow Consulting HR », SenPages et une seconde fiche goafricaonline (622678, rubrique « Gestion des ressources humaines »).",
+        "R2 : recherche « \"Flow Consulting\" Dakar email contact \"Liberté 6\" » — mêmes pages, confirmant l'adresse Liberté 6 extension lot n°121 3e étage et le tél +221 33 824 60 76.",
+        "Site retenu : https://www.flowrh.sn — accueil, https://www.flowrh.sn/contact et https://www.flowrh.sn/a-propos ouverts. Email lu tel quel : contact@flowrh.sn, avec l'adresse « Liberté 6 extension lot n°121, 3e étage Dakar-Sénégal » et le tél +221 33 824 60 76, tous deux identiques à la fiche : identité confirmée."
+      ],
+      "statut": "a_verifier",
+      "note": "Le site indiqué sur la fiche (flowconsultinghr.com) ne répond plus ; le cabinet a migré vers flowrh.sn, dont l'adresse postale et le fixe sont identiques à la fiche. Le site ajoute un WhatsApp +221 78 537 99 99, absent de la fiche. Recherches R3 et R4 non nécessaires : un email a été trouvé et l'identité confirmée dès R1/R2."
+    },
+    {
+      "nom": "GETRAN",
+      "sigle": "GETRAN",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "getran@getran.com",
+        "getramar@orange.sn"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 825 96 85 ; (+221) 33 825 96 87 ; (+221) 33 825 97 20",
+      "adresse": "Rue Est, Fann point E amitié, Fann résidence, BP 16482, Dakar",
+      "ville": "Dakar",
+      "site_web": "https://getran.com",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592570-getran-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://getran.com/contact",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592570-getran-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Rue Est, Fann point E amitié, Fann résidence, BP 16482, Dakar, tél (+221) 33 825 96 85, 33 825 96 87 et 33 825 97 20, bouton « Site web » : getran.com/.",
+        "Site du bureau : https://getran.com (accueil, HTTP 200) — l'adresse getramar@orange.sn apparaît sur toutes les pages (pied de page).",
+        "Page contact du site : https://getran.com/contact — emails lus tels quels : getran@getran.com et getramar@orange.sn, avec « Adresse : Mermoz-Pyrotechnie Lot 46 DAKAR, BP 16 482 Dakar-Fann », « Tel : (+221) 33 825 96 85 – 33 825 96 87 » et « Fax : (+221) 33 825 97 20 ». Les trois numéros et la BP 16482 sont identiques à la fiche : identité confirmée."
+      ],
+      "statut": "a_verifier",
+      "note": "Deux adresses conservées, celle du domaine propre en premier. Le site donne une adresse physique plus récente (Mermoz-Pyrotechnie Lot 46) que la fiche (Fann résidence), même BP 16482 ; l'adresse de la fiche a été conservée telle quelle. Le troisième numéro de la fiche (33 825 97 20) est le fax selon le site. Recherches R1 à R4 non nécessaires : emails trouvés sur le site du bureau."
+    }
+  ]
+}
