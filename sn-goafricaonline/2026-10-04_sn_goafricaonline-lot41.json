@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-04",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : dernière fiche jamais traitée de p=9 (MAX CONSULTING GROUP), puis les 11 premières fiches jamais traitées de p=10. Lot arrêté à 12 bureaux par la limite de durée du passage",
+  "_pages": "suite de la relecture (étape 5) : dernière fiche jamais traitée de p=9 (MAX CONSULTING GROUP), puis les 15 premières fiches jamais traitées de p=10. Lot arrêté à 16 bureaux par la limite de durée du passage",
   "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
   "bureaux": [
     {
@@ -329,6 +329,119 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email trouvé. Fiche très pauvre : le nom déposé sur goafricaonline est l'expression générique « Marketing digital », ce qui rend toute recherche nominative inopérante, l'adresse se limite au quartier (Thiès Est) et le site Google Business annoncé est fermé. Reste joignable au 76 842 69 61. Entreprise située à Thiès et non à Dakar."
+    },
+    {
+      "nom": "Nema Groupe Consulting",
+      "sigle": "NEMA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Mbemba Diallo (manager général)",
+      "emails": [
+        "contact.nemagroup@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 748 76 60",
+      "adresse": "Sacre cœur 3 Sacré Cœur 3 Pyrotechnie - Mermoz Sacre-coeur, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Conseil, formation professionnelle et renforcement de capacités : formations modulaires, qualifiantes, séminaires et sessions individuelles pour entreprises et particuliers",
+      "fiche_url": "https://www.goafricaonline.com/sn/782867-nema-groupe-consulting",
+      "preuve_url": "https://www.senformation.com/etablissement/nema-group-consulting",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782867-nema-groupe-consulting — adresse Sacré Cœur 3 Pyrotechnie, Mermoz Sacré-Cœur, Dakar, tél (+221) 77 748 76 60, aucun bouton « Site web », aucune activité décrite au-delà de la rubrique de l'annuaire.",
+        "R1 : recherche « \"Nema Groupe Consulting\" Sénégal Dakar » — le cabinet (aussi écrit « Nema Group Consulting ») n'a pas de site propre ; pages LinkedIn (Mbemba Diallo, manager général), Facebook (facebook.com/Nemagroupeconsulting), fiches SenFormation et SenPages. Confirme l'adresse Sacré Cœur 3 Pyrotechnie et le tél +221 77 748 76 60.",
+        "R2 : recherche « \"Nema Group Consulting\" OR \"Nema Groupe Consulting\" Dakar email contact formation » — l'adresse contact.nemagroup@gmail.com est annoncée ; cabinet de formation et de conseil créé en 2020.",
+        "Page retenue comme preuve : https://www.senformation.com/etablissement/nema-group-consulting — fiche ouverte et lue : email contact.nemagroup@gmail.com, avec le nom « Nema Group Consulting » et l'adresse « Sacré Cœur 3 Pyrotechnie », identique à la fiche goafrica : identité confirmée. La fiche https://www.senpages.com/entreprise/nema-groupe-consulting a aussi été ouverte : même nom et même adresse, mais aucun email.",
+        "R3 : recherche « \"77 748 76 60\" OR \"+221 77 748 76 60\" » — aucune page ne cite ce numéro ; seules des pages générales sur la numérotation sénégalaise."
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact.nemagroup@gmail.com lu sur la fiche SenFormation du cabinet, dont le nom et l'adresse (Sacré Cœur 3 Pyrotechnie) correspondent à la fiche goafrica. Le cabinet n'a pas de site propre : site_web reste vide. R4 non nécessaire, l'identité étant établie et un email trouvé dès R2 ; les fiches RocketReach rencontrées ne proposent que des formats devinés, écartées."
+    },
+    {
+      "nom": "OMEDIA",
+      "sigle": "OMEDIA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 867 43 34 ; Fax : (+221) 33 867 43 34",
+      "adresse": "Sacré Coeur 3 Villa n°8785 - Sicap-Liberté, BP 29086, Dakar Yoff",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Institut d'études et de sondages : collecte et analyse de données marketing en Afrique de l'Ouest et centrale depuis 2005, veille média (suivi des campagnes publicitaires, analyse des investissements, revues de presse)",
+      "fiche_url": "https://www.goafricaonline.com/sn/592576-omedia-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592576-omedia-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Sacré Cœur 3 Villa n°8785, Sicap-Liberté, BP 29086 Dakar Yoff, tél (+221) 33 867 43 34 (également donné comme fax), bouton « Site web » : www.omedia-group.com.",
+        "Site annoncé par la fiche : http://www.omedia-group.com — toutes les adresses testées (accueil, /contact, /contacts, /a-propos, /mentions-legales, /qui-sommes-nous…) renvoient HTTP 503 avec une réponse vide : serveur hors service, aucun email lisible.",
+        "R1 : recherche « \"OMEDIA\" Sénégal Dakar Sacré Coeur agence » — fiches annuaire-senegal.com et SenPages ; confirme l'adresse « Sacré Coeur 3 Villa n°8785 », le tél 33 867 43 34 et l'activité (collecte et analyse de données marketing depuis 2005, implantations à Dakar, Abidjan et Bamako). La fiche https://www.senpages.com/entreprise/omedia-group/ a été ouverte : même adresse, aucun email.",
+        "R2 : recherche « \"omedia-group\" OR \"OMEDIA\" Dakar email contact » — le résumé du moteur attribue au cabinet l'adresse cgondry@omedia-group.com, reprise d'une fiche Europages ; cette page (https://m.europages.fr/OMEDIA-GROUP-SENEGAL/00000003727563-410047001.html) a été ouverte et renvoie HTTP 404 : l'adresse n'a pu être lue sur aucune page, elle n'est donc pas enregistrée. Les autres pistes (snyello, yelu, info-clipper, pagesjaunesdusenegal, RocketReach) n'affichent aucun email ou ne proposent qu'un format deviné.",
+        "R3 : recherche « \"33 867 43 34\" OR \"+221 33 867 43 34\" » — aucune page ne cite ce numéro ; seules des pages générales sur la numérotation.",
+        "R4 : recherche « \"OMEDIA GROUP\" » seul — page LinkedIn du groupe, Crunchbase, Tracxn, Datanyze. Information importante : « Omedia Group a été racheté par Ipsos le 20 juillet 2023 », ce qui explique l'extinction du site. L'homonyme américain OMedia Group (Celebration, Floride) est écarté.",
+        "Adresses probables testées : https://omedia-group.sn et https://omedia.sn — aucune ne résout (pas de DNS)."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu. Le site du cabinet (omedia-group.com) répond 503 sur toutes ses pages et la seule adresse en circulation (cgondry@omedia-group.com, adresse nominative) n'a pu être lue sur aucune page, la fiche Europages qui la portait renvoyant 404 : non enregistrée. À savoir pour la prospection : d'après les bases d'entreprises, Omedia Group a été racheté par Ipsos en juillet 2023 — l'entité peut avoir été absorbée, et un contact passerait plutôt par Ipsos Sénégal. Reste joignable au 33 867 43 34 et à l'adresse de la fiche."
+    },
+    {
+      "nom": "OROYAM",
+      "sigle": "OROYAM",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 139 53 60",
+      "adresse": "10700 Dakar - Ouakam, Dakar - 10700",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/782930-oroyam",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782930-oroyam — adresse réduite au quartier (« 10700 Dakar - Ouakam »), Dakar 10700, tél (+221) 77 139 53 60, aucun bouton « Site web », aucune activité décrite au-delà de la rubrique de l'annuaire.",
+        "R1 : recherche « \"OROYAM\" Sénégal Dakar Ouakam » — aucun résultat sur ce bureau ; uniquement des pages encyclopédiques et touristiques sur le quartier de Ouakam.",
+        "R2 : recherche « \"OROYAM\" Dakar email contact » — un seul résultat rattaché au bureau : une fiche Yandex Maps (yandex.com/maps/org/132222661376) donnant le tél +221 77 139 53 60 — identique à la fiche — et la localisation « Dakar, Almadies, Ouakam ». Aucun email publié.",
+        "R3 : recherche « \"77 139 53 60\" OR \"+221 77 139 53 60\" » — aucune page ne cite ce numéro hors de la fiche cartographique ci-dessus ; seules des pages générales sur la numérotation.",
+        "R4 : recherche « \"OROYAM\" » seul — seule la fiche Yandex Maps concerne ce bureau (classé « experts privés », Ouakam) ; les autres résultats (guilde du jeu DragonBound, podcast péruvien, traduction biblique en dangme) sont écartés.",
+        "Adresses probables testées : https://oroyam.com et https://oroyam.sn — aucune ne résout (pas de DNS)."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après R1 à R4 et essai des adresses probables : la seule trace en ligne est une fiche cartographique Yandex, qui confirme le téléphone et le quartier mais ne publie aucune adresse. La fiche goafrica ne donne pas d'adresse précise, seulement Ouakam. Reste joignable au 77 139 53 60."
+    },
+    {
+      "nom": "PWC TAX & LEGAL (PRICEWATHERHOUSECOOPERS)",
+      "sigle": "PwC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Pierre Michaux (responsable Legal Sénégal)",
+      "emails": [
+        "secretariat.dakar@sn.pwc.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 849 05 00 ; Fax : (+221) 33 849 17 50",
+      "adresse": "3 Place de l'Indépendance Immeuble SDIH, BP 6454 Dakar Etoile",
+      "ville": "Dakar",
+      "site_web": "https://www.pwc.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil fiscal et juridique : fiscalité directe et indirecte, prix de transfert, fiscalité internationale, fusions-acquisitions, reporting et stratégie fiscale, droit des sociétés et immigration",
+      "fiche_url": "https://www.goafricaonline.com/sn/456692-pwc-tax-legal-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.senegel.org/fr/societe-et-people/societes-etrangeres/orgdetails/673",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/456692-pwc-tax-legal-bureaux-etudes-conseils-consultants-dakar-senegal — adresse 3 Place de l'Indépendance, Immeuble SDIH, BP 6454 Dakar Étoile, tél (+221) 33 849 05 00, fax (+221) 33 849 17 50, bouton « Site web » : www.pwc.com ; la fiche affiche aussi un lien twitter.com/pwcafrica.",
+        "Site annoncé par la fiche : https://www.pwc.com — site mondial du réseau. La page pays https://www.pwc.com/sn/en/contacts.html a été demandée et renvoie HTTP 403 : non consultable depuis cet environnement, aucun email lisible sur le site du réseau.",
+        "R1 : recherche « PwC Sénégal Dakar \"Place de l'Indépendance\" immeuble SDIH contact bureau » — confirme « 3 Place de l'Indépendance, Immeuble SDIH, 7e étage, BP 6454 Dakar » et le directeur général / responsable Legal Pierre Michaux ; sources nexpages, contactout et senegel.org.",
+        "R2 : recherche « \"PwC\" Sénégal Dakar email contact \"sn_\" OR \"@pwc.com\" tax legal » — l'adresse secretariat.dakar@sn.pwc.com est annoncée. À noter : la documentation fiscale de PwC précise que le réseau n'a pas de bureau permanent de services fiscaux au Sénégal, l'équipe dédiée étant hébergée par PwC Ghana.",
+        "Page retenue comme preuve : https://www.senegel.org/fr/societe-et-people/societes-etrangeres/orgdetails/673 — fiche ouverte et lue : email secretariat.dakar@sn.pwc.com, tél +221 33 849 05 00 et adresse « 3, place de l'Indépendance – Immeuble SDIH 7e étage », téléphone et adresse identiques à la fiche goafrica : identité confirmée. La fiche nexpages ouverte (price-waterhouse-coopers-tax-legal-pwc-senegal-3435) ne donne que la BP 6454, sans email.",
+        "R3 : recherche « \"33 849 05 00\" OR \"+221 33 849 05 00\" PwC » — le numéro est rattaché à Pierre Michaux, responsable Legal Sénégal, sur la page des contacts Legal du site mondial de PwC.",
+        "R4 : recherche « \"PWC TAX & LEGAL\" Sénégal » — documentation fiscale de PwC sur le Sénégal (taxsummaries.pwc.com, guide PwC Ghana), fiches nexpages et senegel.org ; confirme l'adresse du bureau de Dakar, le tél +221 338 49 05 00 et le fax +221 338 49 17 50. Aucun homonyme à écarter."
+      ],
+      "statut": "a_verifier",
+      "note": "Email secretariat.dakar@sn.pwc.com lu sur la fiche SENEGEL du cabinet, confirmé par le téléphone et l'adresse identiques à la fiche goafrica ; c'est une adresse de secrétariat (générique), appropriée à une prise de contact. site_web renseigné avec le site mondial déclaré par la fiche (www.pwc.com) : la page pays /sn/ existe mais renvoie 403 depuis cet environnement. À savoir : la documentation fiscale du réseau indique que PwC n'a pas de bureau permanent de services fiscaux au Sénégal, l'équipe dédiée étant rattachée à PwC Ghana — le bureau de Dakar reste toutefois référencé à cette adresse."
     }
   ]
 }
