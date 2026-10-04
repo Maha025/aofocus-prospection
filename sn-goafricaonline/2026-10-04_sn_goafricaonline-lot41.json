@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-04",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : dernière fiche jamais traitée de p=9 (MAX CONSULTING GROUP), puis les premières fiches jamais traitées de p=10",
+  "_pages": "suite de la relecture (étape 5) : dernière fiche jamais traitée de p=9 (MAX CONSULTING GROUP), puis les premières fiches jamais traitées de p=10. Lot arrêté à 8 bureaux par la limite de durée du passage",
   "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
   "bureaux": [
     {
@@ -162,6 +162,62 @@
       ],
       "statut": "a_verifier",
       "note": "Email contact@modelsis.sn lu sur la page contact du site propre du bureau, identité confirmée par le fixe 33 849 46 46 identique à la fiche. Cette fiche désigne la même société que la fiche « MODELSIS » (goafricaonline 387776), avec laquelle elle partage la BP 25919 Fann et l'adresse email : à dédoublonner côté prospection. L'adresse physique actuelle du site (Fenêtre Mermoz x Corniche Ouest) diffère de celle de la fiche, conservée telle quelle. Recherches R1 à R4 non nécessaires : un email a été trouvé sur le site du bureau."
+    },
+    {
+      "nom": "NSOREX",
+      "sigle": "NSOREX",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 825 01 93",
+      "adresse": "2534, Boulevard du President Habib Bourguiba",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Audit et conseil, services d'entrée sur les marchés africains : accompagnement des entreprises étrangères souhaitant opérer en Afrique de l'Ouest (besoins d'information et d'exploitation)",
+      "fiche_url": "https://www.goafricaonline.com/sn/481314-nsorex-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/481314-nsorex-bureaux-etudes-conseils-consultants-dakar-senegal — adresse 2534, Boulevard du Président Habib Bourguiba, Dakar, tél (+221) 33 825 01 93, aucun bouton « Site web » ; la fiche affiche trois liens de réseaux sociaux : fr.linkedin.com/company/nsorex, twitter.com/nsorex et facebook.com/NSOREXX.",
+        "R1 : recherche « \"NSOREX\" Sénégal Dakar Bourguiba » — seconde fiche goafricaonline (801360, rubrique « Audit - Conseil »), fiche showroomafrica.com, page Facebook ; confirme l'adresse « N°2534, Boulevard du Président Habib Bourguiba, Dieuppeul Derklé », le tél (+221) 33 825 01 93 et l'annonce d'un site nsorex.com.",
+        "R2 : recherche « \"NSOREX\" Dakar email contact cabinet » — le résumé du moteur annonce contact@nsorex.com et le site http://www.nsorex.com ; les seules pages correspondantes sont des fiches RocketReach, qui ne proposent que des « formats d'email » devinés, écartées.",
+        "Site candidat vérifié : https://nsorex.com — le domaine répond (HTTP 200) mais il a changé de mains : l'accueil, la page /contact et la page /about servent désormais un site thaïlandais de casino en ligne (« GS855X »), entièrement en thaï, sans aucune mention de NSOREX, de Dakar ni du 33 825 01 93. La seule adresse de la page contact est masquée par la protection anti-robots de Cloudflare (« [email protected] », attribut data-cfemail) : non décodée, et de toute façon celle du casino. Le domaine n'est donc plus celui du bureau : ni site ni email retenus.",
+        "R3 : recherche « \"33 825 01 93\" OR \"+221 33 825 01 93\" » — aucune page ne cite ce numéro ; seules des pages générales sur la numérotation sénégalaise.",
+        "R4 : recherche « \"NSOREX\" » seul — page Facebook, fiches RocketReach ; société fondée en 2005, basée à Dakar. Les autres résultats (NSX, Notiosorex, National Stock Exchange of Australia) sont des homonymes sans rapport, écartés.",
+        "Adresse probable testée : https://nsorex.sn — ne résout pas (pas de DNS). Le domaine nsorex.com est désormais occupé par un tiers (voir ci-dessus)."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site retenus. Le domaine nsorex.com, encore annoncé par les annuaires, a été repris par un site de jeux en ligne thaïlandais : son unique adresse est masquée par Cloudflare (comptée comme absente, non décodée) et n'appartient pas au bureau. Reste joignable au 33 825 01 93 et à l'adresse de la fiche. Pistes pour un prochain passage : les pages LinkedIn (linkedin.com/company/nsorex), X (twitter.com/nsorex) et Facebook (facebook.com/NSOREXX) citées par la fiche, non consultables sans connexion. À noter aussi une seconde fiche goafricaonline du même bureau (801360, rubrique « Audit - Conseil »), à dédoublonner."
+    },
+    {
+      "nom": "Nedge PS",
+      "sigle": "NEDGE PS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 869 14 13",
+      "adresse": "Avenue Bourguiba, Complexe GAMA Villa N° 3079, Amitié 1, Bd du President Habib Bourguiba - Grand Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Ingénierie informatique et télécoms : intégration de solutions, communications unifiées et collaboration, infrastructures et sécurité, datacenters, services professionnels et formation",
+      "fiche_url": "https://www.goafricaonline.com/sn/782900-nedge-ps",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782900-nedge-ps — adresse Avenue Bourguiba, Complexe GAMA Villa n° 3079, Amitié 1, Bd du Président Habib Bourguiba, Grand Dakar, tél (+221) 33 869 14 13, aucun bouton « Site web », aucune activité décrite au-delà de la rubrique de l'annuaire.",
+        "R1 : recherche « \"Nedge PS\" OR \"Nedge\" Sénégal Dakar Complexe GAMA Amitié » — le bureau s'appelle en entier NEDGE PROFESSIONAL SERVICES ; fiche au-senegal.com, seconde fiche goafricaonline (258892, rubrique « Agences de communication »). Confirme l'adresse « Avenue Bourguiba, Complexe GAMA, Amitié 1, Villa N° 3079, BP 47300 Dakar », le tél (+221) 33 869 14 13 — identique à la fiche — un fax (+221) 33 864 17 24 et un site annoncé www.nedgeps.com. La fiche https://www.au-senegal.com/nedge-professional-services,4998.html?lang=fr a été ouverte : elle ne contient aucune adresse email.",
+        "Site annoncé : https://nedgeps.com et https://nedge-ps.com — aucun des deux ne résout (pas de DNS) : aucune page lue, aucun email lisible.",
+        "R2 : recherche « \"NEDGE PROFESSIONAL SERVICES\" Dakar email contact nedgeps » — fiches ZoomInfo, business-senegal.com, annuaire-senegal.com, senegal-export.com, SenPages, Crunchbase, RocketReach. Aucune n'affiche d'adresse email : les annuaires qui en prévoient une la laissent vide ou masquée, et RocketReach ne propose qu'un format deviné, écarté.",
+        "R3 : recherche « \"33 869 14 13\" OR \"+221 33 869 14 13\" Dakar » — aucune page ne cite ce numéro de façon exploitable ; seuls des documents généraux sur Dakar et la numérotation sénégalaise.",
+        "R4 : recherche « \"Nedge PS\" » seul — un mémoire d'étudiant consacré au système de notification des incidents support de NEDGE PS (memoireonline.com) et une fiche RocketReach (société de conseil technique et logiciel à Dakar, 21-50 salariés) ; les autres résultats (nEdge de ntop, application Nedge, Nedgame, groupe Nedge) sont des homonymes sans rapport, écartés.",
+        "Adresses probables testées : https://nedgeps.com et https://nedge-ps.com — aucune ne résout (pas de DNS)."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé après R1 à R4 et essai des adresses probables : le site annoncé par tous les annuaires (nedgeps.com) n'existe plus, et aucune fiche d'annuaire ne publie d'adresse. Reste joignable au 33 869 14 13 et à l'adresse de la fiche ; les recherches ajoutent une boîte postale (BP 47300 Dakar) et un fax ((+221) 33 864 17 24) absents de la fiche. À noter une seconde fiche goafricaonline du même bureau (258892, rubrique « Agences de communication »), à dédoublonner."
     }
   ]
 }
