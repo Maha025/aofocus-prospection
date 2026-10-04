@@ -3,7 +3,7 @@
   "_extrait_le": "2026-10-04",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=8 (2 bureaux), puis les fiches jamais traitées de p=9",
+  "_pages": "suite de la relecture (étape 5) : fin des fiches jamais traitées de p=8 (2 bureaux), puis les 10 premières fiches jamais traitées de p=9",
   "_methode": "Fiche goafricaonline relevée (nom, sigle, adresse, ville, téléphones, activités, lien « Site web »), puis site du bureau s'il existe, puis quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai d'adresses probables en .sn et .com vérifiées par le contenu. Aucun email deviné : seules des adresses lues sur une page, avec la page en preuve_url.",
   "bureaux": [
     {
@@ -172,6 +172,171 @@
       ],
       "statut": "a_verifier",
       "note": "Deux adresses conservées, celle du domaine propre en premier. Le site donne une adresse physique plus récente (Mermoz-Pyrotechnie Lot 46) que la fiche (Fann résidence), même BP 16482 ; l'adresse de la fiche a été conservée telle quelle. Le troisième numéro de la fiche (33 825 97 20) est le fax selon le site. Recherches R1 à R4 non nécessaires : emails trouvés sur le site du bureau."
+    },
+    {
+      "nom": "GROUPE HBK",
+      "sigle": "HBK",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 856 05 47 ; (+221) 77 254 52 52",
+      "adresse": "Route King Fadh Lot 73 Almadies, Dakar",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Groupe réunissant INFRASEN (BTP, zones industrielles, assainissement, réseaux d'eau potable), 2BK (bureau d'études : eau, bâtiment, environnement, infrastructures, hydraulique) et AQUILAE INVEST (accès aux marchés CEDEAO)",
+      "fiche_url": "https://www.goafricaonline.com/sn/1128868-groupe-hbk-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1128868-groupe-hbk-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Route King Fadh Lot 73 Almadies, Dakar, tél (+221) 33 856 05 47 et (+221) 77 254 52 52, bouton « Site web » : www.groupehbk.com/. La fiche affiche aussi des liens facebook.com/infrasen1 et x.com/Africa1Pipe (filiales/marques du groupe).",
+        "Site annoncé par la fiche : https://www.groupehbk.com et https://groupehbk.com — aucune réponse ; le nom de domaine ne résout plus du tout (pas d'enregistrement DNS, ni pour l'apex ni pour www), sur l'accueil comme sur /contact, /a-propos, /mentions-legales : site disparu, aucun email lisible.",
+        "R1 : recherche « \"GROUPE HBK\" Sénégal Almadies Dakar » — confirme l'adresse Route King Fadh Lot 73 Almadies et la composition du groupe (INFRASEN SARL, 2BK bureau d'études, AQUILAE INVEST) ; LinkedIn de Charles L. Ndiaye, directeur général adjoint ; fiche cartographique mapcarta. Le site groupehbk.com apparaît dans l'index du moteur mais n'est plus accessible.",
+        "R2 : recherche « \"GROUPE HBK\" email contact Infrasen 2BK Aquilae » — le résumé du moteur attribue à groupehbk.com l'adresse info@groupehbk.com et le tél (221) 33 856 05 47 ; cette adresse n'a pu être lue sur aucune page réellement ouverte (domaine éteint), donc non retenue. Les autres résultats concernent HBK Hottinger Brüel & Kjaer, HBK Engineering, HBK Capital et une SARL française H.B.K : homonymes écartés.",
+        "R3 : recherche « \"33 856 05 47\" OR \"+221 33 856 05 47\" OR \"77 254 52 52\" Sénégal » — aucune page ne cite ces numéros ; seules des pages générales sur la numérotation sénégalaise.",
+        "R4 : recherche « \"GROUPE HBK\" » seul — uniquement des homonymes internationaux (Hottinger Brüel & Kjaer, The HBK Gang, HBK Reims) ; rien sur le groupe sénégalais.",
+        "Tentatives d'archive : https://web.archive.org/web/20241211131501/https://www.groupehbk.com/ — un instantané du 11/12/2024 existe d'après l'API de l'Internet Archive, mais les requêtes vers web.archive.org sont refusées depuis cet environnement (HTTP 429 puis 403) : page non lue, aucune donnée reprise de l'archive."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu. Le site du groupe (groupehbk.com) a disparu : le domaine ne résout plus, donc aucune page n'a pu être lue. Le résumé du moteur de recherche mentionne info@groupehbk.com, mais cette adresse n'a été lue sur aucune page ouverte et correspond au schéma générique interdit par la consigne (pas d'email reconstitué) : écartée. Le groupe reste joignable au 33 856 05 47 / 77 254 52 52 et à l'adresse de la fiche. Pistes en ligne encore actives pour un futur passage : page Facebook facebook.com/infrasen1 (filiale INFRASEN) et compte X Africa1Pipe."
+    },
+    {
+      "nom": "GUINDO & CO",
+      "sigle": "GUINDO & CO",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Daouda Guindo (directeur général)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 824 33 34 ; (+221) 78 131 33 33",
+      "adresse": "Quartier Sacré cœur 3, BP 23531 Dakar Ponty",
+      "ville": "Dakar",
+      "site_web": "http://www.guindo.co",
+      "site_source": "fiche goafrica",
+      "specialite": "Étude, conception et suivi de projets en communication et nouveaux médias : marketing B2B et B2C, organisation d'événements professionnels, e-business et services en ligne",
+      "fiche_url": "https://www.goafricaonline.com/sn/258881-guindo-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/258881-guindo-bureaux-etudes-conseils-consultants-dakar-senegal — nom GUINDO & CO, adresse Quartier Sacré cœur 3, BP 23531 Dakar Ponty, tél (+221) 33 824 33 34 et (+221) 78 131 33 33, bouton « Site web » : www.guindo.co.",
+        "Site du bureau : http://www.guindo.co (accueil), http://www.guindo.co/contact et http://www.guindo.co/contactez-nous ouverts (HTTP 200) ; /contacts, /a-propos, /mentions-legales, /qui-sommes-nous en 404. Les pages affichent les deux numéros de la fiche en liens tel: (+221338243334 et +221781313333) : identité confirmée. La page contact ne donne que « Adresse : BP 10900 Dakar VDN, Sénégal » et un formulaire ; aucune adresse email n'est publiée sur aucune des pages consultées.",
+        "R1 : recherche « \"GUINDO & CO\" OR \"Guindo and Co\" Sénégal cabinet » — fiches au-senegal.com, theorg.com, SenPages et une seconde fiche goafricaonline (455350, rubrique « Evénementiel ») ; dirigeant Daouda Guindo ; aucune adresse email publiée.",
+        "R2 / R3 : recherche « \"33 824 33 34\" OR \"+221 33 824 33 34\" Guindo Dakar » — confirme les deux numéros de la fiche et l'adresse « Dakar Ponty 3 Sacré Coeur » ; les seules pistes d'email sont des pages ZoomInfo qui masquent l'adresse (« ****@guindo.co ») : masquée, donc comptée comme absente.",
+        "R4 : recherche « \"GUINDO & CO\" » seul — mêmes fiches (LinkedIn Daouda Guindo, theorg, ZoomInfo, success.ai, rocketreach) plus la page https://www.guindo.co/guindo-co/our-network/ du site ; l'homonyme guindo.com (studio de design à Barcelone) est écarté. Aucun email lisible ; rocketreach ne propose qu'un « format d'email » deviné, écarté.",
+        "Adresse probable : le domaine propre du bureau (guindo.co) est déjà celui de la fiche et a été entièrement parcouru ; aucun autre domaine à tester."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé, bien que le site guindo.co soit actif et confirmé par les deux téléphones de la fiche : le site ne publie qu'un formulaire de contact. Les seules occurrences d'adresse (ZoomInfo, « ****@guindo.co ») sont masquées : comptées comme absentes, aucun décodage ni reconstitution. Le site indique une boîte postale différente de la fiche (BP 10900 Dakar VDN au lieu de BP 23531 Dakar Ponty) ; l'adresse de la fiche a été conservée telle quelle."
+    },
+    {
+      "nom": "GUNGUE CONSULTING",
+      "sigle": "Gungë",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@gungueconsulting.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 76 762 92 40",
+      "adresse": "",
+      "ville": "Dakar",
+      "site_web": "https://www.gungueconsulting.com",
+      "site_source": "recherche web",
+      "specialite": "Cabinet de conseil en stratégie et management : accompagnement des PME, porteurs de projets et chefs d'entreprise ; stratégie institutionnelle, innovation numérique, montage de propositions techniques et financières pour les appels d'offres institutionnels (UE, PNUD, ENABEL, GIZ, USAID, KOICA)",
+      "fiche_url": "https://www.goafricaonline.com/sn/1196250-gunge-bureaux-etude-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.gungueconsulting.com/assets/index-D0qagp_4.js",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1196250-gunge-bureaux-etude-conseils-consultants-dakar-senegal — nom affiché GUNGUE CONSULTING, aucune adresse postale (champ réduit à « ; »), ville Dakar, tél (+221) 76 762 92 40, aucun bouton « Site web ». Activités décrites par le bureau : « Gungë est un cabinet de conseil en stratégie et management. Nous sommes spécialisés dans l'accompagnement des PMEs, des porteurs de projets et chefs d'entreprises… ». Fiche non revendiquée, donc aucun email.",
+        "R1 : recherche « \"Gungë\" OR \"Gungue Consulting\" Sénégal cabinet conseil stratégie » — deux sites candidats : https://www.gungueconsulting.com (Gunguë Consulting, conseil stratégique et innovation numérique en Afrique de l'Ouest, Dakar) et https://gunge.top.",
+        "Site retenu : https://www.gungueconsulting.com — l'accueil et toutes les adresses testées (/contact, /nous-contacter, /a-propos, /mentions-legales…) renvoient la même page de 2 298 octets : application monopage (React/Lovable) dont le contenu est servi par le script https://www.gungueconsulting.com/assets/index-D0qagp_4.js. Ce script, téléchargé tel qu'il est servi, contient le numéro +221767629240 — identique au 76 762 92 40 de la fiche — et l'adresse lue telle quelle contact@gungueconsulting.com : identité confirmée par le téléphone.",
+        "Second candidat écarté : https://gunge.top — accueil accessible (4 509 octets) mais toutes les sous-pages testées en 404, y compris /pages/contact apparue dans les résultats ; aucun email ni téléphone lisible, donc rien à en tirer."
+      ],
+      "statut": "a_verifier",
+      "note": "Email contact@gungueconsulting.com lu dans le script que le site sert lui-même (site monopage sans HTML de contenu) ; preuve_url pointe donc ce fichier. Identité confirmée par le téléphone (+221 76 762 92 40, identique à la fiche). La fiche ne donne aucune adresse postale, le champ reste vide. Le profil du cabinet (montage de réponses aux appels d'offres UE, PNUD, GIZ, USAID) en fait une cible particulièrement pertinente pour AOFocus."
+    },
+    {
+      "nom": "HUDUMA CABINET CONSEIL",
+      "sigle": "HUDUMA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Serge Daboiko (fondateur et directeur général)",
+      "emails": [
+        "daboiko.serge@gmail.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 173 58 80",
+      "adresse": "Liberté 6 Extension, Villa N° 48, NP 25379",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Cabinet de conseil en organisation : accompagnement des projets d'études à l'étranger, outils d'analyse comportementale et coaching RH, performance des équipes, études spéciales, démarche qualité",
+      "fiche_url": "https://www.goafricaonline.com/sn/481354-huduma-cabinet-conseil-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://myhuduma.com/",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/481354-huduma-cabinet-conseil-bureaux-etudes-conseils-consultants-dakar-senegal — adresse Liberté 6 Extension, Villa N° 48, NP 25379, Dakar, tél (+221) 77 173 58 80, aucun bouton « Site web ». La fiche affiche deux liens : facebook.com/myhuduma et linkedin.com/in/serge-daboiko-a02811106.",
+        "R1 / R2 : recherche « \"HUDUMA\" cabinet conseil Dakar Sénégal contact email Serge Daboiko » — page LinkedIn d'entreprise sn.linkedin.com/company/myhuduma, fiche SenPages, publications LinkedIn ; confirme l'adresse « LIBERTE 6 EXTENSION #48 DAKAR - SENEGAL, 25379 » (identique à la fiche) et Serge Daboiko comme fondateur et directeur général. Aucun email publié sur ces pages ; la fiche SenPages ouverte (https://www.senpages.com/entreprise/huduma-cabinet-conseil/) ne contient aucune adresse.",
+        "R3 : recherche « \"77 173 58 80\" OR \"+221 77 173 58 80\" Huduma » — aucune page ne cite ce numéro ; les résultats portent tous sur Huduma Kenya (service public kényan), sans rapport, écartés.",
+        "R4 : recherche « \"HUDUMA CABINET CONSEIL\" » seul — page LinkedIn d'entreprise et page Facebook facebook.com/myhuduma ; aucune adresse email affichée dans les extraits, et la page Facebook n'est pas consultable sans connexion (non ouverte, aucun contournement).",
+        "Adresses probables testées : https://huduma.sn, https://myhuduma.sn, https://hudumaconseil.com — aucune ne résout (pas de DNS) ; https://huduma.com répond mais la connexion TLS échoue et le nom n'a aucun lien établi avec le cabinet, écarté ; https://myhuduma.com (HTTP 200, même identifiant que la page Facebook de la fiche) : installation WordPress encore à l'état d'usine, servie sous le nom provisoire « myhuduma-com.preview-domain.com », avec le seul article par défaut « Bonjour tout le monde ! » daté d'octobre 2024. L'auteur de cet article y est affiché en clair : daboiko.serge@gmail.com, soit le nom du fondateur du cabinet."
+      ],
+      "statut": "a_verifier",
+      "note": "Email daboiko.serge@gmail.com lu tel quel sur https://myhuduma.com/ (signature d'auteur de l'article par défaut d'un WordPress non configuré). Ce n'est pas une adresse générique du cabinet mais l'adresse personnelle de son fondateur, Serge Daboiko : à utiliser avec prudence en prospection. Le rattachement au cabinet s'appuie sur deux éléments concordants : le domaine myhuduma.com reprend exactement l'identifiant de la page Facebook figurant sur la fiche (facebook.com/myhuduma), et le nom du compte est celui du fondateur documenté par LinkedIn. Aucun site_web retenu : le contenu de myhuduma.com est une page d'usine qui ne confirme ni le nom, ni le téléphone, ni l'adresse du cabinet."
+    },
+    {
+      "nom": "ICA (INGENIEURS CONSULTANTS ASSOCIES)",
+      "sigle": "ICA",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 869 15 68",
+      "adresse": "39 B Zone B, BP 25137 Fann",
+      "ville": "Dakar",
+      "site_web": "http://www.ica-sn.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Ingénierie des infrastructures routières : assistance aux maîtres d'ouvrage pour les études de faisabilité et d'exécution, la supervision et le contrôle de travaux ; formations ; management de la qualité",
+      "fiche_url": "https://www.goafricaonline.com/sn/592568-ica-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/592568-ica-bureaux-etudes-conseils-consultants-dakar-senegal — nom ICA (INGENIEURS CONSULTANTS ASSOCIES), adresse 39 B Zone B, BP 25137 Fann, Dakar, tél (+221) 33 869 15 68, bouton « Site web » : www.ica-sn.com.",
+        "Site du bureau : http://www.ica-sn.com — accueil, http://www.ica-sn.com/nous-contacter, /qui-sommes-nous, /references et /organigramme ouverts (HTTP 200) ; /contact, /contacts, /a-propos, /mentions-legales en 404. Site WordPress : la page « Nous contacter » ne propose qu'un formulaire Contact Form 7 (champs nom, e-mail, objet, message) et aucune adresse ; aucune des pages consultées ne contient d'adresse email. Le seul indice est un lien « WEBMAIL » vers https://webmail-oxcs.networksolutionsemail.com/appsuite/?user_domain=mail.ica-sn.com : c'est une page de connexion à la messagerie du bureau, non ouverte, et elle indique seulement que le domaine de courrier est ica-sn.com.",
+        "R1 / R2 : recherche « \"ICA\" \"Ingénieurs Conseils Associés\" OR \"Ingénieurs Consultants Associés\" Dakar email contact Zone B » — fiches business-senegal.com, SenPages, pagesjaunesdusenegal, ZoomInfo. La fiche https://www.business-senegal.com/fre/Entreprises/profilent/_10312 a été ouverte : elle confirme « 39 Square Zone B Dakar BP 25137 Dakar Fann », le tél (221) 338691568 — identique à la fiche goafrica — et un fax (221) 338641244, mais l'email y est masqué derrière un bouton « Email » ouvrant une fenêtre modale : non lisible, compté comme absent, aucun contournement. La fiche SenPages ouverte (https://www.senpages.com/entreprise/ica-ingenieurs-consultants-associes/) ne donne ni email ni téléphone, et une adresse différente (192 Liberté extension). La fiche pagesjaunesdusenegal (k=4051) renvoie HTTP 404.",
+        "R3 : le numéro de la fiche a été recherché via la requête ci-dessus et retrouvé tel quel sur business-senegal.com ((221) 338691568) : c'est la seule page qui le cite, et elle ne livre pas d'email lisible.",
+        "R4 : recherche « \"ica@ica.sn\" OR \"ica-sn.com\" Ingénieurs Consultants Associés Dakar » — pages du site ica-sn.com (accueil, /qui-sommes-nous, /references/formations/, /web/), LinkedIn « ICA SARL », ZoomInfo. Le résumé du moteur attribue l'adresse ica@ica.sn à ce bureau, mais elle n'a été lue sur aucune page ouverte, le domaine ica.sn ne résout pas (testé en https et http, avec et sans www) et le webmail du bureau indique le domaine mail.ica-sn.com : adresse non retenue.",
+        "Adresses probables testées : https://ica.sn, http://ica.sn, https://www.ica.sn — aucune ne répond. Le domaine propre du bureau (ica-sn.com) est celui de la fiche et a été parcouru."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu. Le site ica-sn.com est actif mais ne publie qu'un formulaire de contact ; l'email de la fiche business-senegal.com est masqué derrière une fenêtre modale (compté comme absent, non décodé). L'adresse ica@ica.sn n'apparaît que dans le résumé d'un moteur de recherche, sur un domaine qui ne résout pas, alors que le webmail du bureau pointe mail.ica-sn.com : non retenue pour ne rien reconstituer. Téléphone confirmé par deux sources (fiche et business-senegal.com), fax (+221) 33 864 12 44 relevé sur business-senegal.com, absent de la fiche."
+    },
+    {
+      "nom": "ICOMATEC (international consulting for management and technology)",
+      "sigle": "ICOMATEC",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Amadou Bamba Diop (fondateur et directeur général)",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 78 634 04 00",
+      "adresse": "570 - Grand Yoff, Dakar - 11500",
+      "ville": "Dakar",
+      "site_web": "https://icomatec.com",
+      "site_source": "recherche web",
+      "specialite": "Conseil en stratégie et transformation des organisations : excellence opérationnelle, management de projets d'ingénierie, Lean Six Sigma, audit, stratégie digitale, knowledge management",
+      "fiche_url": "https://www.goafricaonline.com/sn/782885-icomatec-international-consulting-for-management-and-technology",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/782885-icomatec-international-consulting-for-management-and-technology — adresse 570 - Grand Yoff, Dakar 11500, tél (+221) 78 634 04 00, aucun bouton « Site web », aucune activité décrite au-delà de la rubrique de l'annuaire.",
+        "R1 : recherche « \"ICOMATEC\" Sénégal international consulting management technology » — site propre https://icomatec.com (pages /about-us/our-company/contact/ et /our-team/), page LinkedIn sn.linkedin.com/company/icomatec, fiche zaubee.com ; siège « SV City, Ngor Virage, Dakar-Sénégal », fondé en 2015 par Amadou Bamba Diop, bureaux à Paris, New York et Shanghai.",
+        "Site du bureau : https://icomatec.com — toutes les adresses testées en direct (accueil, /contact, /contact-us, /nous-contacter, /a-propos, /mentions-legales…) renvoient HTTP 403. L'accueil ouvert autrement (https://icomatec.com/) affiche une page de maintenance générique sans aucune coordonnée, dont le seul lien est le formulaire de mot de passe oublié de WordPress. La page https://icomatec.com/about-us/our-company/contact/ renvoie HTTP 404. Aucun email lisible sur le site.",
+        "R2 : recherche « \"ICOMATEC\" Dakar email contact \"Ngor\" OR \"SV City\" consulting » — le résumé du moteur attribue au bureau l'adresse manager@icomatec.com, le tél +221 78 634 04 00 (identique à la fiche) et l'adresse « SV City, Ngor Virage ». Cette adresse email n'a pu être lue sur aucune page : la fiche https://zaubee.com/biz/icomatec-international-consulting-for-management-and-technology-b9cuk76i renvoie HTTP 403 (en direct comme par récupération de page) et https://www.yellowpagesofafrica.com/companies/senegal/consultants/start-11/ renvoie HTTP 503 : non retenue.",
+        "R3 : recherche « \"78 634 04 00\" OR \"+221 78 634 04 00\" » — aucune page ne cite ce numéro ; seules des pages générales sur la numérotation.",
+        "R4 : le nom « ICOMATEC » entre guillemets a été interrogé seul dans les deux requêtes ci-dessus (le sigle est unique, aucun homonyme n'apparaît) : les seuls résultats sont ceux du bureau lui-même (icomatec.com, LinkedIn, zaubee, devex, annuaires) et des agrégateurs de contacts (contactout, rocketreach) qui ne proposent que des formats d'email devinés, écartés.",
+        "Adresse probable testée : https://icomatec.sn — ne résout pas (pas de DNS). Le domaine propre du bureau est icomatec.com."
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email retenu, bien que le résumé du moteur de recherche indique manager@icomatec.com : le site icomatec.com est en maintenance (403 sur toutes ses pages, page d'accueil sans coordonnées) et les deux annuaires qui reprenaient la fiche refusent l'accès (403 et 503), donc l'adresse n'a été lue sur aucune page et n'est pas enregistrée. site_web renseigné malgré la maintenance : le domaine est bien celui du bureau (nom, fondateur et téléphone concordants). À reprendre lors d'un prochain passage, le site pouvant redevenir accessible. Le siège indiqué en ligne (SV City, Ngor Virage) diffère de celui de la fiche (570 Grand Yoff) ; l'adresse de la fiche a été conservée telle quelle."
     }
   ]
 }
