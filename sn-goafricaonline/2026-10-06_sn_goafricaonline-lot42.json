@@ -3,8 +3,8 @@
   "_extrait_le": "2026-10-06",
   "_agent": "routine prospection goafrica SN",
   "_pays": "SN",
-  "_pages": "suite de la relecture (étape 5) : fiches jamais traitées de p=10",
-  "_methode": "Pour chaque fiche : relevé du nom, adresse, téléphones, activités et lien « Site web » sur goafricaonline ; puis recherche de l'email sur le site du bureau (accueil, contact, mentions légales, à propos) et, à défaut, quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) plus test d'adresses probables en .sn et .com.",
+  "_pages": "fin de la relecture (étape 5) : 10 fiches jamais traitées de p=10, puis p=11 à p=24 relues — 1 fiche jamais traitée sur p=12 et 8 sur p=24 ; p=24 est la dernière page de la pagination",
+  "_methode": "Pour chaque fiche : relevé du nom, de l'adresse, des téléphones, des activités et du lien « Site web » sur goafricaonline, puis recherche de l'email sur le site du bureau (accueil, contact, pied de page, mentions légales, à propos) et, à défaut, quatre recherches web (R1 nom + Sénégal, R2 nom/sigle + Dakar + email/contact, R3 téléphone, R4 nom entre guillemets) complétées par le test des adresses probables en .sn et .com. Aucun email reconstitué : seules des adresses lues sur une page, avec cette page dans preuve_url.",
   "bureaux": [
     {
       "nom": "SYLVATROP CONSULTING",
@@ -433,6 +433,114 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email ni site. Aucune présence en ligne propre trouvée ; les homonymes (Pakistan, Belgique, Italie) sont écartés et aucun site ne lui est attribué. Restent le téléphone et l'adresse."
+    },
+    {
+      "nom": "HAZER INTERNATIONAL GROUP",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 832 74 60",
+      "adresse": "",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592633-hazer-international-group-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/592633-hazer-international-group-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune adresse postale ni activité décrite",
+        "R1 : recherche web « \"HAZER INTERNATIONAL GROUP\" Sénégal » — aucun résultat sur ce bureau",
+        "R2 : recherche web « HAZER Dakar email contact groupe international conseil » — aucun résultat pertinent",
+        "R3 : recherche web « \"33 832 74 60\" OR \"338327460\" » — aucun résultat pertinent",
+        "R4 : recherche web « \"HAZER INTERNATIONAL GROUP\" » seul — deux homonymes : Hazer Group Limited (société australienne d'hydrogène, ASX) et un « HAZER INTERNATIONAL GROUP » de financement de projets en Afrique sur http://www.hazerinternational.com/about-us.php , dont le domaine ne résout plus (DNS introuvable) et dont aucun élément ne le relie à ce bureau de Dakar",
+        "adresses probables testées : http://hazerinternational.com, http://www.hazerinternational.com/about-us.php, http://hazer.sn, http://hazergroup.sn, http://hazerinternationalgroup.com (aucune réponse, domaines non joignables)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site. Le « HAZER INTERNATIONAL GROUP » trouvé en recherche (financement de projets en Afrique) n'a pu être relié à ce bureau : son domaine ne résout plus et aucun téléphone ni adresse ne concorde ; ni site ni email ne lui sont donc attribués, pas plus que ceux de la société australienne homonyme Hazer Group Limited. Reste le téléphone ; la fiche ne donne aucune adresse postale."
+    },
+    {
+      "nom": "TCS (TECHNOLOGIES- CONSEILS-SERVI )",
+      "sigle": "TCS",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 889 48 20",
+      "adresse": "34-36 Rue de la République",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592676-tcs-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/592676-tcs-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite",
+        "R1 : recherche web « \"TECHNOLOGIES CONSEILS SERVICES\" TCS Sénégal Dakar » — aucun résultat sur ce bureau (une autre fiche goafricaonline « TCS exploitation minière » à Dakar, adresse et téléphone différents)",
+        "R2 : recherche web « TCS \"Technologies Conseils Services\" Dakar email contact \"Rue de la République\" » — aucun résultat pertinent (homonymes en France et à Abidjan)",
+        "R3 : recherche web « \"33 889 48 20\" OR \"338894820\" Dakar » — aucun résultat pertinent",
+        "R4 : recherche web « \"TCS\" \"TECHNOLOGIES- CONSEILS-SERVI\" » — a mené à http://www.cecif.com/entreprises/fiche-983-t-c-s-technologies-conseils-servi-senegal.html , ouvert : même nom exact (« T.C.S (TECHNOLOGIES- CONSEILS-SERVI »), Dakar, trois départements (études et conseil aux entreprises, distribution de détergents industriels et domestiques, import-export), contact ASSANE DIEYE, mais adresse différente (25 Patte d'Oie Builders) et téléphone, fax et email « réservés aux membres », donc non lisibles",
+        "adresses probables testées : https://tcs.sn, http://tcs-senegal.com, http://tcssenegal.com (aucune réponse) ; http://tcs.sn n'a pas pu être confirmé (DNS non résolu à la vérification)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email : la seule fiche d'annuaire trouvée (cecif.com) réserve téléphone, fax et email à ses membres, et aucune protection n'a été contournée. Le nom exact y correspond mais l'adresse diffère (25 Patte d'Oie Builders au lieu de 34-36 Rue de la République) : l'activité et le nom du contact n'ont donc pas été repris dans specialite et responsable, faute de second élément concordant. Restent le téléphone et l'adresse de la fiche."
+    },
+    {
+      "nom": "TOUR CONSULT SN",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 822 18 08 / (+221) 77 675 55 55",
+      "adresse": "73, Avenue Peytavin",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/656073-tour-consult-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/656073-tour-consult-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite",
+        "R1 : recherche web « \"TOUR CONSULT\" Sénégal Dakar » — aucun résultat sur ce bureau (tour-opérateurs et offres d'emploi de conseiller voyages)",
+        "R2 : recherche web « \"TOUR CONSULT SN\" Dakar email contact \"Avenue Peytavin\" » — aucun résultat pertinent",
+        "R3 : recherche web « \"33 822 18 08\" OR \"77 675 55 55\" Dakar » — aucun résultat pertinent",
+        "R4 : recherche web « \"TOUR CONSULT SN\" » seul — uniquement des homonymes étrangers (Tour Consult, tour-opérateur en Europe centrale ; SN Travels and Consults sur TikTok ; SNU Travels)",
+        "adresses probables testées : http://tourconsult.sn, https://tourconsult.sn, http://tourconsultsn.com, http://tour-consult.sn (aucune réponse, domaines non joignables)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site. Aucune présence en ligne trouvée ; les homonymes étrangers sont écartés et aucun site ne lui est attribué. Restent les deux téléphones et l'adresse."
+    },
+    {
+      "nom": "GROUPE DPSE – GROUPE DATA PRIVACY SOLUTION EXPERT",
+      "sigle": "GROUPE DPSE",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@groupedpse.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+225) 27 22 51 25 19 / (+225) 07 77 92 99 67 / (+225) 07 62 67 37 94",
+      "adresse": "",
+      "ville": "",
+      "site_web": "https://www.groupedpse.com",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet de conseil et de formation en management et protection des données à caractère personnel (RGPD), cybersécurité et lutte contre le blanchiment de capitaux et le financement du terrorisme, en Afrique de l'Ouest.",
+      "fiche_url": "https://www.goafricaonline.com/sn/955866-groupe-dpse-data-privacy-solution-expert-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.groupedpse.com/nous-contacter/",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/955866-groupe-dpse-data-privacy-solution-expert-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » : https://www.groupedpse.com ; liens LinkedIn https://linkedin.com/company/groupedpse , Twitter https://twitter.com/GroupeDPSE , Facebook https://www.facebook.com/groupedpse/ , YouTube ; activités longuement décrites ; la fiche indique elle-même « GROUPE DPSE est basé en Côte d'Ivoire » et ne donne que des numéros en +225, sans adresse postale",
+        "ouvert https://www.groupedpse.com/ — email contact@groupedpse.com lu sur la page",
+        "ouvert https://www.groupedpse.com/nous-contacter/ — même email contact@groupedpse.com, avec les adresses Abidjan (Cocody, II Plateaux, 7e Tranche, 359 Rue L129, Immeuble Manon Dispatching ; 08 BP 2474 Abidjan 08) et Puteaux (90 Avenue du Général de Gaulle, 92800), et les téléphones +225 27 22 51 25 19 et +225 07 77 92 99 67 identiques à la fiche : identité confirmée ; aucune adresse au Sénégal",
+        "ouvert https://www.groupedpse.com/qui-sommes-nous/ — même email"
+      ],
+      "statut": "a_verifier",
+      "note": "Email trouvé sur le site du bureau (identité confirmée par deux téléphones identiques à la fiche) ; R1 à R4 non nécessaires. Attention pour la prospection : bien que référencé dans l'annuaire Sénégal de goafricaonline, ce cabinet est basé en Côte d'Ivoire (Abidjan) avec un bureau en France (Puteaux) ; la fiche ne donne ni adresse ni téléphone sénégalais, et le site n'affiche aucune implantation au Sénégal. Les champs adresse et ville restent vides faute d'information sur la fiche."
     }
   ]
 }
