@@ -293,6 +293,90 @@
       ],
       "statut": "a_verifier",
       "note": "Aucun email. Le seul site annoncé était une page Google Business (gohardconsulting.business.site) désormais supprimée ; aucune autre présence en ligne trouvée. Restent le téléphone et la localisation (Thiès Est)."
+    },
+    {
+      "nom": "LANIA KEY",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@lania-studies.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 569 71 76",
+      "adresse": "",
+      "ville": "Dakar",
+      "site_web": "https://www.lania-studies.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Analyse de performance publicitaire et mesure d'audience des panneaux d'affichage fixes et mobiles à Dakar, pour l'optimisation des campagnes.",
+      "fiche_url": "https://www.goafricaonline.com/sn/1179470-lania-key-bueaux-etudes-conseils-consultants-dakr-senegal",
+      "preuve_url": "https://www.lania-studies.com/",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/1179470-lania-key-bueaux-etudes-conseils-consultants-dakr-senegal — bouton « Site web » : https://www.lania-studies.com/ ; lien Facebook https://www.facebook.com/p/LANIA-KEY-Research-and-Studies-61559666990768/ ; aucune adresse postale sur la fiche",
+        "ouvert https://www.lania-studies.com/ — email contact@lania-studies.com publié sur la page (données de contact structurées du site, avec le logo LOGO_LANIA-KEY.png qui confirme l'identité) ; /contact, /contacts, /nous-contacter, /contact-us, /a-propos, /about, /mentions-legales, /qui-sommes-nous : 404"
+      ],
+      "statut": "a_verifier",
+      "note": "Email trouvé sur le site du bureau ; R1 à R4 non nécessaires. Aucune adresse postale n'est publiée sur la fiche."
+    },
+    {
+      "nom": "ZIGUO SARL (ZIGUO)",
+      "sigle": "ZIGUO",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 630 62 69 / (+221) 77 560 76 10",
+      "adresse": "F4, Hlm Marinas",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/480054-ziguo-sarl-ziguo-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/480054-ziguo-sarl-ziguo-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite",
+        "R1 : recherche web « \"ZIGUO\" SARL Sénégal bureau d'études » — aucun résultat sur ce bureau (uniquement des documents sur Ziguinchor)",
+        "R2 : recherche web « ZIGUO Dakar email contact \"Hlm Marinas\" » — aucun résultat pertinent",
+        "R3 : recherche web « \"77 630 62 69\" OR \"77 560 76 10\" Sénégal » — aucun résultat pertinent",
+        "R4 : recherche web « \"ZIGUO SARL\" » seul — aucun résultat sur ce bureau (homonymes : chercheur Ziguo Zhong, ville de Ziguinchor)",
+        "adresses probables testées : http://ziguo.sn, https://ziguo.sn, https://ziguo.com, http://ziguosarl.com (aucune réponse) ; http://ziguo.com répond HTTP 404, aucun contenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site. Aucune présence en ligne trouvée pour ce bureau. Restent les deux téléphones et l'adresse."
+    },
+    {
+      "nom": "SYNOPTIQUE CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "Mamadou NDAO (fondateur)",
+      "emails": [
+        "mndao@synoptiqueconsulting.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 558 18 02",
+      "adresse": "Hlm Grand Médine N°381",
+      "ville": "Dakar",
+      "site_web": "https://synoptiqueconsulting.com/sc/",
+      "site_source": "fiche goafrica",
+      "specialite": "Conseil en management : planification stratégique, élaboration de business plan, diagnostic financier, étude de marché, recherche de financement ; vend aussi des livres de management en format électronique.",
+      "fiche_url": "https://www.goafricaonline.com/sn/480529-synoptique-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://synoptiqueconsulting.com/sc/nous-contacter/",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/480529-synoptique-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » : http://www.synoptiqueconsulting.com ; liens Facebook https://www.facebook.com/profile.php?id=61572313936523 , LinkedIn https://www.linkedin.com/company/106194181 , YouTube @boostezvotrepotentielmn ; activités décrites sur la fiche",
+        "ouvert http://www.synoptiqueconsulting.com/ — page d'attente de l'hébergeur (« Systalink — Ce domaine pointe vers notre infrastructure d'hébergement »), aucun email ; /contact, /contacts, /nous-contacter, /contact-us, /a-propos, /about, /mentions-legales, /qui-sommes-nous : 404",
+        "R1 : recherche web « \"SYNOPTIQUE CONSULTING\" Sénégal » — confirme le bureau (Hlm Grand Médine N°381, Dakar, conseil en management, cabinet créé en juin 2013)",
+        "R2 : recherche web « \"Synoptique Consulting\" Dakar email contact cabinet conseil management » — aucun email",
+        "R3 : recherche web « \"77 558 18 02\" OR \"775581802\" » — aucun résultat pertinent",
+        "R4 : recherche web « \"SYNOPTIQUE CONSULTING\" » seul — mène aux pages du site https://synoptiqueconsulting.com/sc/nous-contacter/ et https://synoptiqueconsulting.com/sc/qui-sommes-nous/ , dont le contenu restitué donne : HLM Grand Médine 381, Dakar ; +221 33 835 40 27 (fixe) et +221 77 558 18 02 (mobile, identique à la fiche) ; email mndao@synoptiqueconsulting.com ; fondateur Mamadou NDAO",
+        "tentative d'ouverture directe de https://synoptiqueconsulting.com/sc/nous-contacter/ et /sc/qui-sommes-nous/ : HTTP 503, puis certificat TLS expiré en https et 404 en http — pages non ouvrables sans désactiver la vérification TLS, ce qui n'a pas été fait",
+        "ouvert https://www.linkedin.com/company/106194181 — page chargée, aucun email affiché",
+        "adresses probables testées : http://synoptiqueconsulting.sn, https://synoptiqueconsulting.sn, http://synoptique.sn (aucune réponse)"
+      ],
+      "statut": "a_verifier",
+      "note": "Le domaine www.synoptiqueconsulting.com ne sert plus qu'une page d'hébergeur ; le site réel se trouve sous /sc/ mais son certificat TLS est expiré et il renvoie 503 ou 404 selon le protocole, donc il n'a pas pu être ouvert directement (aucune vérification TLS désactivée). L'email mndao@synoptiqueconsulting.com a été lu dans le contenu de la page https://synoptiqueconsulting.com/sc/nous-contacter/ restitué par la recherche web, avec la même adresse (HLM Grand Médine 381) et le même mobile (+221 77 558 18 02) que la fiche, ce qui confirme l'identité ; il n'est pas reconstitué. À revérifier quand le certificat du site sera renouvelé. Fixe supplémentaire annoncé sur cette page : +221 33 835 40 27 (non repris dans tels, qui ne contient que ce qui figure sur la fiche)."
     }
   ]
 }
