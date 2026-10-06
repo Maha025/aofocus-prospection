@@ -377,6 +377,62 @@
       ],
       "statut": "a_verifier",
       "note": "Le domaine www.synoptiqueconsulting.com ne sert plus qu'une page d'hébergeur ; le site réel se trouve sous /sc/ mais son certificat TLS est expiré et il renvoie 503 ou 404 selon le protocole, donc il n'a pas pu être ouvert directement (aucune vérification TLS désactivée). L'email mndao@synoptiqueconsulting.com a été lu dans le contenu de la page https://synoptiqueconsulting.com/sc/nous-contacter/ restitué par la recherche web, avec la même adresse (HLM Grand Médine 381) et le même mobile (+221 77 558 18 02) que la fiche, ce qui confirme l'identité ; il n'est pas reconstitué. À revérifier quand le certificat du site sera renouvelé. Fixe supplémentaire annoncé sur cette page : +221 33 835 40 27 (non repris dans tels, qui ne contient que ce qui figure sur la fiche)."
+    },
+    {
+      "nom": "GEOTEC AFRIQUE",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 76 224 49 76 / (+221) 76 338 46 80",
+      "adresse": "Sotrac Mermoz villa N°139, BP 13162 - CP 14563 Dakar Yoff",
+      "ville": "Dakar",
+      "site_web": "https://geotec-afrique.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Intervient sur toute la chaîne de construction : investigations géotechniques et minières, laboratoire routier et contrôle extérieur, ingénierie.",
+      "fiche_url": "https://www.goafricaonline.com/sn/574779-geotec-afrique-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/574779-geotec-afrique-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » : https://geotec-afrique.com/about.html ; lien LinkedIn https://www.linkedin.com/company/geotec-groupe/ ; activités décrites sur la fiche",
+        "ouvert https://geotec-afrique.com/about.html , / , /index.html , /contact.html , /metiers.html , /expertise.html , /world.html — aucun email sur aucune page ; la page contact ne propose qu'un formulaire (non rempli) ; /mentions-legales.html : 404",
+        "R1 : recherche web « \"GEOTEC AFRIQUE\" Sénégal géotechnique » — confirme le bureau (Sotrac Mermoz villa N°139, Dakar Yoff ; issu de l'association de Sénélabo-BTP et du groupe français Géotec), sans email",
+        "R2 : recherche web « \"Geotec Afrique\" Dakar email contact @geotec-afrique.com » — aucun email trouvé",
+        "R3 : recherche web « \"76 224 49 76\" OR \"76 338 46 80\" Sénégal » — aucun résultat pertinent",
+        "R4 : recherche web « \"GEOTEC AFRIQUE\" » seul — pages trouvées : https://sn.linkedin.com/company/geotec-afrique , https://www.geotec.fr/en/agency/geotec-afrique , https://www.geotec-afrique.net/ , fiches ZoomInfo et SignalHire ; aucun email lu",
+        "ouvert (tentatives) https://www.geotec.fr/en/agency/geotec-afrique , https://www.geotec.fr/fr/implantation/geotec-afrique , https://www.geotec.fr/en/implantations , https://www.geotec.fr/ et https://www.geotec-afrique.net/ (+ /contact.html) — aucune réponse depuis cet environnement (HTTP 000, puis 503) ; recherche web complémentaire sur la page agence de geotec.fr : seule l'adresse postale est restituée, aucun email",
+        "adresses probables testées : http://geotec-afrique.sn (aucune réponse) ; geotec-afrique.com déjà couvert par la fiche, geotec-afrique.net injoignable"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email lu. Le site geotec-afrique.com est en ligne mais n'affiche aucune adresse email : sa page contact ne propose qu'un formulaire, non rempli. Les pages du groupe (geotec.fr) et le domaine geotec-afrique.net ne répondent pas depuis cet environnement. Aucun email reconstitué. Restent les deux téléphones et l'adresse. Le bureau a aussi une autre fiche goafricaonline sous la catégorie « Laboratoire BTP » (sn/456650), hors de cet annuaire."
+    },
+    {
+      "nom": "TECHNI-CONSULT (TCONSULT)",
+      "sigle": "TCONSULT",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 827 49 44",
+      "adresse": "HLM Grand Yoff Rue GY-316 Villa n° 1225",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592500-techni-consult-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/592500-techni-consult-bureaux-etudes-conseils-consultants-dakar-senegal — aucun bouton « Site web », aucun lien externe, aucune activité décrite",
+        "R1 : recherche web « \"TECHNI-CONSULT\" Sénégal bureau d'études Dakar » — aucun résultat sur ce bureau (seuls des cabinets français homonymes)",
+        "R2 : recherche web « \"TCONSULT\" OR \"TECHNI-CONSULT\" Dakar email contact \"Grand Yoff\" » — aucun résultat pertinent",
+        "R3 : recherche web « \"33 827 49 44\" OR \"338274944\" » — aucun résultat pertinent",
+        "R4 : recherche web « \"TECHNI-CONSULT\" » seul — uniquement des homonymes étrangers (Techno Consult International au Pakistan, Technic Consult en Belgique, Techniconsult en Italie) ; aucun lien avec Dakar",
+        "adresses probables testées : http://techni-consult.sn, https://techni-consult.sn, http://techniconsult.sn, http://tconsult.sn, https://tconsult.com (aucune réponse) ; http://techni-consult.com répond HTTP 503, aucun contenu lisible et identité non vérifiable"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email ni site. Aucune présence en ligne propre trouvée ; les homonymes (Pakistan, Belgique, Italie) sont écartés et aucun site ne lui est attribué. Restent le téléphone et l'adresse."
     }
   ]
 }
