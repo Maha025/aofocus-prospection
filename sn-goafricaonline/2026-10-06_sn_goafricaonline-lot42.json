@@ -1,0 +1,152 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-10-06",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "suite de la relecture (étape 5) : fiches jamais traitées de p=10",
+  "_methode": "Pour chaque fiche : relevé du nom, adresse, téléphones, activités et lien « Site web » sur goafricaonline ; puis recherche de l'email sur le site du bureau (accueil, contact, mentions légales, à propos) et, à défaut, quatre recherches web (R1 nom+Sénégal, R2 nom/sigle+Dakar+email/contact, R3 téléphone, R4 nom entre guillemets) plus test d'adresses probables en .sn et .com.",
+  "bureaux": [
+    {
+      "nom": "SYLVATROP CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "contact@sylvatropconsulting.com"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 77 588 51 56",
+      "adresse": "4, Route de Ngor – Mamelles D",
+      "ville": "Dakar",
+      "site_web": "https://www.sylvatropconsulting.com",
+      "site_source": "fiche goafrica",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/478424-sylvatrop-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.sylvatropconsulting.com/",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/478424-sylvatrop-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » : http://www.sylvatropconsulting.com ; liens LinkedIn https://fr.linkedin.com/company/sylvatrop-consulting et Facebook https://www.facebook.com/pg/sylvatropconsulting/posts/",
+        "ouvert https://www.sylvatropconsulting.com/ — email contact@sylvatropconsulting.com lu dans le pied de page",
+        "ouvert https://www.sylvatropconsulting.com/en/contact/ — même email",
+        "ouvert https://www.sylvatropconsulting.com/mentions-legales/ — même email"
+      ],
+      "statut": "a_verifier",
+      "note": "Email trouvé sur le site du bureau ; R1 à R4 non nécessaires."
+    },
+    {
+      "nom": "WEST PLUS",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "rh@westplus.net"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 820 72 72",
+      "adresse": "Route de l'Aéroport, 7 Nord Foire, BP 38393",
+      "ville": "Dakar",
+      "site_web": "http://www.westplus.net",
+      "site_source": "fiche goafrica",
+      "specialite": "Cabinet indépendant de conseil financier aux entreprises : stratégie organisationnelle, levée de fonds, ingénierie financière, formation RH et modélisation financière, intermédiation commerciale (description LinkedIn du bureau).",
+      "fiche_url": "https://www.goafricaonline.com/sn/481912-west-plus-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "https://www.linkedin.com/company/west-plus",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/481912-west-plus-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » : http://www.westplus.net ; lien LinkedIn https://www.linkedin.com/company/west-plus",
+        "ouvert http://www.westplus.net/ (et /contact, /contacts, /nous-contacter, /contact-us, /a-propos, /about, /mentions-legales, /qui-sommes-nous) — toutes les pages renvoient HTTP 202 et une redirection vers un captcha (/.well-known/sgcaptcha/) ; protection non contournée, aucun contenu lisible",
+        "R1 : recherche web « \"WEST PLUS\" Sénégal bureau d'études conseils » — aucun résultat pertinent sur ce bureau",
+        "R2 : recherche web « WEST PLUS Dakar email contact westplus.net » — aucun résultat pertinent",
+        "R3 : recherche web « \"33 820 72 72\" Dakar » puis « \"+221 33 820 72 72\" OR \"WEST PLUS\" Sénégal » — aucun résultat pertinent",
+        "R4 : recherche web « \"WEST PLUS\" » seul (via la requête R1 entre guillemets) — aucun résultat pertinent",
+        "ouvert https://www.linkedin.com/company/west-plus — page officielle du bureau (Dakar, 38393, SN ; site http://www.westplus.net) : email rh@westplus.net lu sur la page",
+        "adresses probables testées : http://westplus.sn et http://www.westplus.sn (domaine inexistant, DNS non résolu) ; http://westplus.com et http://www.westplus.com (HTTP 200 mais aucun contenu mentionnant West Plus, Dakar ou le Sénégal — identité non confirmée, non retenu)"
+      ],
+      "statut": "a_verifier",
+      "note": "Le site westplus.net est protégé par un captcha (HTTP 202 + redirection /.well-known/sgcaptcha/) : protection non contournée, aucun email lu dessus. Email rh@westplus.net lu sur la page LinkedIn officielle du bureau, dont l'adresse (Dakar, BP 38393) et le site déclaré correspondent à la fiche. Le domaine westplus.com n'a pas été retenu : contenu sans rapport confirmé avec ce bureau."
+    },
+    {
+      "nom": "TALENTS CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [
+        "infos@talentsconsult.org"
+      ],
+      "email_qualite": "ok",
+      "tels": "(+221) 33 864 38 18",
+      "adresse": "Cité ATTAYA",
+      "ville": "Dakar (11500)",
+      "site_web": "https://talentsconsult.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Transformation des processus et des systèmes d'information, audit et conseil organisationnel, définition de schémas directeurs informatiques.",
+      "fiche_url": "https://www.goafricaonline.com/sn/592516-talents-consulting-bureaux-etudes-conseils-consultants-",
+      "preuve_url": "https://talentsconsult.com/contactez-nous/",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/592516-talents-consulting-bureaux-etudes-conseils-consultants- — bouton « Site web » : https://talentsconsult.com/ ; liens Twitter https://twitter.com/talents_2017 et LinkedIn https://www.linkedin.com/company/talents-consulting/",
+        "ouvert https://talentsconsult.com/ — aucun email dans la page",
+        "ouvert https://talentsconsult.com/contactez-nous/ (depuis /contact) — email infos@talentsconsult.org lu sur la page, avec le même téléphone +221 33 864 38 18 et la même adresse Cité ATTAYA qu'en fiche",
+        "ouvert https://talentsconsult.com/a-propos/ — aucun email"
+      ],
+      "statut": "a_verifier",
+      "note": "Email trouvé sur le site du bureau ; R1 à R4 non nécessaires. Le domaine du site (.com) et celui de l'email (.org) diffèrent, mais l'adresse est celle publiée sur la page contact du site officiel."
+    },
+    {
+      "nom": "TECSON CONSULTING",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 824 97 87 / (+221) 77 570 18 12 / (+221) 77 644 65 60",
+      "adresse": "Sacré Coeur 3 - Lot nº8619H, 3ème étage à gauche",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592521-tecson-consulting-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/592521-tecson-consulting-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » : http://tecsonconsulting.com ; aucun autre lien",
+        "ouvert http://tecsonconsulting.com/ (et /contact, /contacts, /nous-contacter, /contact-us, /a-propos, /about, /mentions-legales, /qui-sommes-nous) — aucune réponse (HTTP 000, connexion impossible) ; essai aussi en https sur tecsonconsulting.com et www.tecsonconsulting.com : même échec. Le site déclaré sur la fiche n'est plus en ligne.",
+        "R1 : recherche web « \"TECSON CONSULTING\" Sénégal » — aucun résultat sur ce bureau (homonymes étrangers uniquement)",
+        "R2 : recherche web « TECSON CONSULTING Dakar email contact » — aucun résultat pertinent",
+        "R3 : recherche web « \"33 824 97 87\" OR \"77 570 18 12\" Dakar Sénégal » — aucun résultat pertinent",
+        "R4 : recherche web « \"TECSON CONSULTING\" » seul — uniquement des homonymes (TECCON Consulting GmbH en Autriche, Tecson en Suisse, TECSIS Corporation, TEC Consulting en Lituanie) ; aucun lien avec Dakar",
+        "adresses probables testées : http://tecsonconsulting.sn et https://tecsonconsulting.sn (aucune réponse, domaine non joignable) ; tecsonconsulting.com déjà testé via la fiche"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email trouvé. Le site tecsonconsulting.com annoncé sur la fiche ne répond plus et aucune page du bureau n'a été trouvée ailleurs ; les homonymes trouvés (Autriche, Suisse, Canada, Lituanie) n'ont aucun rapport, donc ni site ni email ne lui sont attribués. Restent les trois téléphones et l'adresse."
+    },
+    {
+      "nom": "TRANSECOR SARL",
+      "sigle": "TRANSECOR",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 864 44 10 ; Fax : (+221) 33 825 74 73",
+      "adresse": "Sacré Cœur 3 villa N°142 BIS, 2ème Étage, BP 45402 Dakar-Fann",
+      "ville": "Dakar",
+      "site_web": "https://transecor.com/",
+      "site_source": "fiche goafrica",
+      "specialite": "Ingénieurs conseils en ingénierie des transports et gestion du trafic : études de trafic, audits de sécurité routière, route, bâtiment, hydraulique, assainissement, environnement et aménagement (société sénégalaise créée en 2007).",
+      "fiche_url": "https://www.goafricaonline.com/sn/592563-transecor-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "fiche goafricaonline https://www.goafricaonline.com/sn/592563-transecor-bureaux-etudes-conseils-consultants-dakar-senegal — bouton « Site web » : http://www.transecor.com ; aucun autre lien",
+        "ouvert http://www.transecor.com/ (et /contact, /contacts, /nous-contacter, /contact-us, /a-propos, /about, /mentions-legales, /qui-sommes-nous) puis https://transecor.com/ et https://transecor.com/contact : HTTP 200 mais corps de réponse vide (1 octet), aucun contenu ni email lisible, y compris avec un User-Agent de navigateur",
+        "R1 : recherche web « \"TRANSECOR\" Sénégal bureau d'études » — confirme un bureau sénégalais (projet BRT de Dakar, Banque mondiale), sans email",
+        "R2 : recherche web « TRANSECOR Dakar email contact ingénieurs conseils » — aucun email trouvé",
+        "R3 : recherche web « \"33 864 44 10\" OR \"+221 33 864 44 10\" » — aucun résultat pertinent",
+        "R4 : recherche web « \"TRANSECOR\" » seul — pages trouvées : https://transecor.com/ et https://transecor.com/contact (vides, voir plus haut), https://www.devex.com/organizations/transecor-engineering-consulting-research-128146 (HTTP 403, inaccessible), https://www.linkedin.com/in/transecor-sas-10571964/ (HTTP 999, accès refusé sans connexion — page de connexion non franchie), https://www.instagram.com/transecor.sas/ et une fiche Owler/ZoomInfo ; aucun email lu",
+        "archive publique : snapshot Wayback de https://transecor.com/contact/ repéré (20260421142248) mais web.archive.org inaccessible depuis cet environnement (HTTP 403)",
+        "adresses probables testées : http://transecor.sn, https://transecor.sn, http://www.transecor.sn (aucune réponse, domaine non joignable)"
+      ],
+      "statut": "a_verifier",
+      "note": "Aucun email lu. Le site transecor.com répond mais sert une page vide (1 octet) : aucun contact lisible. Les pages tierces susceptibles d'en porter un sont inaccessibles (Devex 403, LinkedIn exige une connexion, Wayback bloqué). Aucun email n'est reconstitué. Restent le téléphone, le fax et l'adresse."
+    }
+  ]
+}
