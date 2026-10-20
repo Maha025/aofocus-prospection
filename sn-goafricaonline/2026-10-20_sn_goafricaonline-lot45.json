@@ -1,0 +1,93 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-10-20",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "relecture des 24 pages (p=1 à p=24) : fin des 47 fiches présentes dans l'annuaire et jamais traitées — p=21 et p=23",
+  "_methode": "Les 24 pages de la pagination ont été relues et comparées aux fiches déjà déposées : l'annuaire affiche toujours 707 résultats mais sa composition a changé depuis le 06/10/2026, 47 fiches n'avaient jamais été traitées. Pour chacune : relevé du nom, de l'adresse, des téléphones et du lien « Site web » sur sa fiche, recherche de l'email sur son site s'il existe, puis quatre recherches web (R1 nom + Sénégal, R2 nom/sigle + Dakar + email/contact, R3 téléphone, R4 nom entre guillemets) et, à défaut, essai des adresses probables en .sn et .com.",
+  "bureaux": [
+    {
+      "nom": "TROPICA",
+      "sigle": "",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 867 18 98 / (+221) 33 867 18 99",
+      "adresse": "Sicap Liberté 6 N° 8181, BP: 5335",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/592641-tropica-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom, adresse, deux téléphones ; aucun bouton « Site web »",
+        "R1 : recherche « TROPICA Sénégal Dakar Sicap Liberté 6 bureau d'études » → aucune page du bureau",
+        "R2 : recherche « \"TROPICA\" Dakar email contact Sénégal société » → seulement TROPICASEM (semences, KM 5 Bd du Centenaire, tropicasem.sn), autre entreprise",
+        "R3 : recherche « \"33 867 18 98\" OR \"+221 33 867 18 98\" » → aucune page ne reprend ce numéro",
+        "R4 : recherche « \"TROPICA\" Sénégal » → de nouveau TROPICASEM (groupe Novalliance) et des résultats touristiques ; aucun bureau d'études",
+        "Adresse probable testée : tropica.sn → ne résout pas",
+        "Adresse probable testée : tropica.com → répond mais appartient à Tropica Aquarium Plants (Danemark, plantes d'aquarium) → non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "À ne pas confondre avec TROPICASEM (semences maraîchères, Bd du Centenaire, groupe Novalliance) : adresse et activité différentes. Le domaine tropica.com appartient à une société danoise. Aucun email."
+    },
+    {
+      "nom": "SOCIETE AFRICAINE DE CONSEIL ET D'INGENIERIE-SACI",
+      "sigle": "SACI",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 860 56 87 / (+221) 33 860 56 88",
+      "adresse": "40 Mermoz pyrotechnie",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "Ingénierie et conseil : génie civil et construction, études pour des projets publics (aéroport Blaise Diagne, pôles aquacoles).",
+      "fiche_url": "https://www.goafricaonline.com/sn/653690-saci-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom, adresse, deux téléphones ; aucun bouton « Site web »",
+        "R1 : recherche « Société Africaine de Conseil et d'Ingénierie SACI Sénégal Dakar Mermoz » → document de l'OACI citant un consortium Studi International (Tunisie) + Sofreavia (France) + Société Africaine de Conseil et d'Ingénierie (Sénégal) pour l'aéroport Blaise Diagne ; fiche bidsfactory (un marché Banque mondiale, pôles aquacoles) — aucune adresse e-mail",
+        "R2 : recherche « \"SACI\" Dakar email contact ingénierie Sénégal bureau d'études » → un CV en ligne mentionne « SACI Sénégal » rattachée au groupe Studi International (2007-2010) ; aucune adresse e-mail",
+        "R3 : recherche « \"33 860 56 87\" OR \"+221 33 860 56 87\" » → aucune page ne reprend ce numéro en clair ; ce numéro apparaît en en-tête d'une étude d'impact MCC (projet ACCES) à côté du consortium mené par Studi, sans être rattaché nommément à SACI",
+        "R4 : recherche « \"SOCIETE AFRICAINE DE CONSEIL ET D'INGENIERIE\" » → aucune page propre au bureau ; homonymes écartés (Afrika German Consult en RDC, Alliance Africaine d'Architecture et d'Ingénierie en Guinée, SONED Afrique)",
+        "Adresse probable testée : saci-senegal.com → ne résout pas",
+        "Adresse probable testée : saci.sn → répond mais appartient à « Solution Informatique Durable - SOLID Afrique », autre société → non retenu"
+      ],
+      "statut": "a_verifier",
+      "note": "Bureau bien réel et actif sur des marchés publics (consortium aéroport Blaise Diagne avec Studi International et Sofreavia, études de pôles aquacoles financées par la Banque mondiale), probablement filiale sénégalaise du groupe Studi, mais aucune adresse e-mail publiée. Le domaine saci.sn appartient à une société informatique sans rapport."
+    },
+    {
+      "nom": "SOCIETE D'ETUDES ET DE CORDINATION - SECO",
+      "sigle": "SECO",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 825 17 97 / (+221) 33 825 30 54",
+      "adresse": "Rue 1 Angle D Point E",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "",
+      "specialite": "",
+      "fiche_url": "https://www.goafricaonline.com/sn/654579-seco-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : nom, adresse, deux téléphones ; aucun bouton « Site web »",
+        "R1 : recherche « SECO Société d'Etudes et de Coordination Sénégal Dakar Point E » → aucune page du bureau ; le SECO suisse (Secrétariat d'État à l'économie) et SECOIA (France) écartés",
+        "R2 : recherche « \"SECO\" Dakar email contact Point E bureau d'études » → aucune page du bureau",
+        "R3 : recherche « \"33 825 17 97\" OR \"+221 33 825 17 97\" » → aucune page ne reprend ce numéro",
+        "R4 : recherche « \"SOCIETE D'ETUDES ET DE COORDINATION\" Sénégal » → aucune correspondance",
+        "Adresses probables testées : seco.sn, seco-senegal.com → aucune ne résout"
+      ],
+      "statut": "a_verifier",
+      "note": "Le sigle SECO est très pris (Secrétariat d'État suisse à l'économie en tête des résultats). Aucune trace propre au bureau hors goafricaonline, aucun email. Le nom est écrit « CORDINATION » sur la fiche : repris tel quel."
+    }
+  ]
+}
