@@ -532,27 +532,34 @@
       "sigle": "W2I",
       "categorie": "autre",
       "type_marches": "inconnu",
-      "responsable": "",
-      "emails": [],
-      "email_qualite": "absent",
+      "responsable": "Amadou Willier, ingénieur et expert en bâtiment",
+      "emails": [
+        "contact@willieringenierie.sn",
+        "contact@willieringenierie.fr"
+      ],
+      "email_qualite": "ok",
       "tels": "(+221) 33 860 66 40",
       "adresse": "39 Cité Biagui, Route Aéroport",
       "ville": "Dakar",
-      "site_web": "",
-      "site_source": "",
-      "specialite": "",
+      "site_web": "https://willieringenierie.com/",
+      "site_source": "adresse probable vérifiée",
+      "specialite": "Bureau d'études bâtiment du Groupe WILLIER Ingénierie, avec deux bureaux : Mont-Saint-Aignan / Bois-Guillaume (France) et Dakar ; accompagne entreprises, collectivités et particuliers.",
       "fiche_url": "https://www.goafricaonline.com/sn/592607-w2i-bureaux-etudes-conseils-consultants-dakar-senegal",
-      "preuve_url": "",
+      "preuve_url": "https://willieringenierie.com/contact",
       "recherches": [
         "Fiche goafricaonline ouverte : nom, adresse, téléphone ; aucun bouton « Site web »",
         "R1 : recherche « W2I Willier Ingénierie Internationale Sénégal Dakar » → aucune page du bureau",
         "R2 : recherche « \"WILLIER INGENIERIE\" Dakar email contact » → aucune page du bureau",
         "R3 : recherche « \"33 860 66 40\" OR \"+221 33 860 66 40\" » → aucune page ne reprend ce numéro",
         "R4 : recherche « \"WILLIER INGENIERIE INTERNATIONALE\" » → aucune correspondance ; homonymes écartés (Wilier Triestina, cycles italiens ; Willi Ingénieurs SA, Suisse)",
-        "Adresses probables testées : w2i.sn, w2i.com, willieringenierie.com, w2i-senegal.com → aucune ne résout"
+        "Adresses probables testées : w2i.sn, w2i.com, w2i-senegal.com → ne résolvent pas ; willieringenierie.com → répond : « Groupe WILLIER Ingénierie », bureau d'études basé à Rouen (France) et à Dakar (Sénégal)",
+        "Site ouvert : https://willieringenierie.com/ → adresse du bureau de Dakar « 39 Cité Biagui, Route de l'aéroport, Dakar Sénégal », téléphone +221 33 820 27 83, adresses contact@willieringenierie.sn et contact@willieringenierie.fr lues en pied de page",
+        "Page ouverte : https://willieringenierie.com/contact → mêmes coordonnées, « Adresse de notre bureau » au Sénégal et en France",
+        "Page ouverte : https://willieringenierie.com/a-propos → dirigeant : Monsieur Amadou WILLIER, ingénieur et expert en bâtiment, natif de Diourbel, plus de trente ans d'expérience",
+        "Page ouverte : https://willieringenierie.com/mentions-legales → mêmes adresses e-mail"
       ],
       "statut": "a_verifier",
-      "note": "Aucune trace hors goafricaonline, aucun email."
+      "note": "Identité confirmée : le site donne exactement l'adresse de la fiche (39 Cité Biagui, Route de l'aéroport, Dakar). Le site a été trouvé par essai d'adresse probable, pas par la fiche. Deux adresses génériques lues en clair : celle du bureau de Dakar (.sn) placée en premier, celle du bureau français (.fr) ensuite. Le téléphone du site (+221 33 820 27 83) diffère de celui de la fiche (33 860 66 40) : les deux sont conservés, la fiche telle quelle dans tels."
     }
   ]
 }
