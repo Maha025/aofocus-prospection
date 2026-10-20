@@ -331,10 +331,10 @@
         "R2 : recherche « \"SICOS CONSTRUCTION\" Dakar email contact Grand Yoff » → aucune page du bureau",
         "R3 : recherche « \"33 827 90 37\" OR \"+221 33 827 90 37\" » → aucune page ne reprend ce numéro",
         "R4 : recherche « \"SICOS CONSTRUCTION\" » (couplée au nom complet) → aucune correspondance",
-        "Adresses probables testées : sicos.sn, sicos.com, sicosconstruction.com → aucune ne résout"
+        "Adresses probables testées : sicos.sn, sicosconstruction.com → ne résolvent pas ; sicos.com → répond mais n'est qu'une page de vente de nom de domaine (57 500 $, Escrow.com), sans aucun contenu d'entreprise ni mention du Sénégal → non retenu"
       ],
       "statut": "a_verifier",
-      "note": "À ne pas confondre avec ICOS (Inspection de Contrôle et de Services, route de l'Aéroport) : nom et adresse différents. Aucun site ni email."
+      "note": "À ne pas confondre avec ICOS (Inspection de Contrôle et de Services, route de l'Aéroport) : nom et adresse différents. Le domaine sicos.com est un nom de domaine mis en vente, sans rapport avec le bureau. Aucun site ni email."
     }
   ]
 }
