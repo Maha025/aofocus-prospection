@@ -1,0 +1,39 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-10-22",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "relecture (étape 5) des 24 pages (p=1 à p=24) : 708 fiches listées dans l'annuaire, une seule jamais traitée (p=1)",
+  "_methode": "Relecture complète de la pagination p=1 à p=24, comparaison des liens de fiches avec les 754 fiche_url déjà déposées dans les lots 01 à 45 : une seule fiche nouvelle. Recherche complète pour ce bureau : fiche goafricaonline, puis R1 à R4 et essai des adresses de site probables.",
+  "bureaux": [
+    {
+      "nom": "CECIP ( CABINET D'ÉTUDES DE CONSEILS ET D'INGÉNIERIE DE PROJETS)",
+      "sigle": "CECIP",
+      "categorie": "autre",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 77 177 01 48",
+      "adresse": "Dakar - 29000 - Sénégal",
+      "ville": "Dakar",
+      "site_web": "",
+      "site_source": "vide",
+      "specialite": "Gestion de projets, formation et conseils",
+      "fiche_url": "https://www.goafricaonline.com/sn/1368425-cecip-cabinet-ingenierie-projets-bureaux-etudes-conseils-consultants-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1368425-cecip-cabinet-ingenierie-projets-bureaux-etudes-conseils-consultants-dakar-senegal — pas de bouton « Site web », aucun email, aucun lien externe ; adresse réduite à « Dakar - 29000 - Sénégal », un seul téléphone",
+        "R1 : recherche web « CECIP Cabinet d'Études de Conseils et d'Ingénierie de Projets Sénégal » — aucun résultat concernant ce bureau ; les réponses portent sur des avis de marchés (BCEAO, AGEROUTE, BID) et sur des cabinets marocains et ivoiriens homonymes, sans rapport",
+        "R2 : recherche web « CECIP Dakar cabinet ingénierie projets email contact » — aucun résultat concernant ce bureau ; profils LinkedIn individuels et CV de génie civil sans rapport",
+        "R3 : recherche web « \"77 177 01 48\" Sénégal » — aucune page citant ce numéro, uniquement des guides de numérotation téléphonique du Sénégal",
+        "R3 bis : recherche web « \"+221 77 177 01 48\" » (format international) — aucune page citant ce numéro",
+        "R4 : recherche web « \"CECIP\" \"CABINET D'ÉTUDES DE CONSEILS ET D'INGÉNIERIE DE PROJETS\" » (nom entre guillemets) — aucun résultat concernant ce bureau",
+        "Recherche complémentaire « \"CECIP\" Sénégal cabinet conseil gestion de projets formation » — aucun résultat concernant ce bureau ; les cabinets proposés (MGP Afrique, CACEP-GROUP, IDECA, Activ' Consult, CEC, Cabinet NPM) portent d'autres noms et ne sont pas CECIP",
+        "Adresses probables testées (étape 4) : https://cecip.sn (le nom de domaine n'existe pas), https://cecip-senegal.com (n'existe pas), https://cecipsn.com (n'existe pas), http://cecip.com (le domaine existe mais n'affiche qu'une page « Coming Soon » sans contenu, rien ne le rattache à ce bureau)"
+      ],
+      "statut": "a_verifier",
+      "note": "Fiche très récente et presque vide : ni email, ni site web, ni responsable, ni adresse précise sur goafricaonline (2 vues au moment de la consultation). R1 à R4 et les adresses de site probables n'ont rien donné : ce bureau n'a aucune présence web indexée. Le domaine cecip.com existe mais n'est qu'une page d'attente sans contenu : il ne lui est pas attribué, faute de preuve d'identité. Seul le téléphone est exploitable."
+    }
+  ]
+}
