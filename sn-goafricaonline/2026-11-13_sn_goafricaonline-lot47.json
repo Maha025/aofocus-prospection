@@ -1,0 +1,46 @@
+{
+  "_source": "goafricaonline.com — annuaire « Bureaux d'études - Conseils - Consultants », Sénégal — https://www.goafricaonline.com/annuaire-resultat?type=company&whatWho=Bureaux+d%27%C3%A9tudes+-+Conseils+-+Consultants&where=country-SN",
+  "_extrait_le": "2026-11-13",
+  "_agent": "routine prospection goafrica SN",
+  "_pays": "SN",
+  "_pages": "relecture (étape 5) des 24 pages (p=1 à p=24) : 709 fiches listées dans l'annuaire, une seule jamais traitée (p=24)",
+  "_methode": "Liste de reprise _reprise-2026-09-24.txt vérifiée comme entièrement traitée (81 fiches sur 81 présentes dans les fichiers de reprise 01 à 06). Relecture complète de la pagination p=1 à p=24 (une requête à la fois, 3,5 s d'intervalle), comparaison des 709 liens de fiches de l'annuaire avec les 708 fiche_url déjà déposées dans les lots 01 à 46 et les reprises : une seule fiche nouvelle. Recherche complète pour ce bureau : fiche goafricaonline, puis R1 à R4 et essai des adresses de site probables.",
+  "bureaux": [
+    {
+      "nom": "KHADIJA CONSULTING",
+      "sigle": "",
+      "categorie": "formation",
+      "type_marches": "inconnu",
+      "responsable": "",
+      "emails": [],
+      "email_qualite": "absent",
+      "tels": "(+221) 33 832 29 67 (standard) ; (+221) 77 744 29 51 (mobile 1) ; (+221) 78 762 21 74 (mobile 2) ; (+221) 70 493 44 34 (mobile 3)",
+      "adresse": "Hann maristes 2, Dakar - Sénégal",
+      "ville": "Dakar",
+      "site_web": "https://khadija-consulting.com/",
+      "site_source": "recherche web",
+      "specialite": "Formation accélérée en gestion d'entreprise : gestion de paie, gestion de caisse, comptabilité, assistante comptable, analyse financière, assistante fiscale",
+      "fiche_url": "https://www.goafricaonline.com/sn/1176221-khadija-consulting-formation-professionnelle-dakar-senegal",
+      "preuve_url": "",
+      "recherches": [
+        "Fiche goafricaonline ouverte : https://www.goafricaonline.com/sn/1176221-khadija-consulting-formation-professionnelle-dakar-senegal — catégorie « Bureaux d'études - Conseils - Consultants », adresse « Hann maristes 2, Dakar », 4 téléphones, horaires, 1 avis, 343 vues ; AUCUN bouton « Site web », aucun email, aucun lien externe (vérifié aussi dans le code de la page : aucun champ website renseigné)",
+        "R1 : recherche web « KHADIJA CONSULTING Sénégal » — aucun résultat concernant ce bureau ; les réponses portent sur des annuaires de cabinets de conseil au Sénégal (consultancy.org, aninver) et sur des personnes homonymes (Khadija Mahile au Maroc, profils LinkedIn Khadija Kane, Khadija Touré), sans rapport",
+        "R2 : recherche web « Khadija Consulting Dakar email contact formation gestion » — aucun résultat concernant ce bureau ; profils LinkedIn et Malt individuels, autres cabinets de Dakar (Aba International Consulting, GFA Consulting, Talents Consulting), sans rapport",
+        "R3 : recherche web du numéro affiché « \"33 832 29 67\" entreprise Dakar annuaire » — aucune page citant ce numéro, uniquement des listes sectorielles Dun & Bradstreet pour Dakar sans numéros de téléphone (une première formulation associant le numéro au prénom « Khadija » a été refusée par l'outil de recherche comme identification d'une personne privée ; la requête a donc été reformulée en recherche d'entreprise)",
+        "R3 bis : recherche web du numéro au format international « \"+221 77 744 29 51\" Khadija Consulting formation Dakar société » — aucune page citant ce numéro ; résultats sans rapport (profils LinkedIn, fiches goafricaonline d'autres entreprises : LQT Consulting Management, Khadija & Fils ateliers de couture)",
+        "R4 : recherche web « \"KHADIJA CONSULTING\" » (nom entre guillemets, seul) — aucun résultat concernant ce bureau ; uniquement des personnes et sociétés étrangères aux noms proches (Khadija Rahim Coaching and Consulting aux États-Unis, Khawaja Consulting Limited au Royaume-Uni, Zackria and Associates PC)",
+        "Recherche complémentaire « Khadija Consulting Hann Maristes Dakar formation comptabilité facebook » (mode approfondi) — c'est elle qui a identifié le bureau : page Facebook « Khadija consulting » et deux fiches de l'annuaire de formation Senformation",
+        "Page ouverte : https://www.senformation.com/etablissement/cabinet-khadija-academie/ — fiche « Cabinet Khadija Académie », présentée aussi sous le nom « Khadija Consulting », adresse « Hann Mariste 2 immeuble bicis, Dakar », téléphone +221 70 493 44 34 (identique au mobile 3 de la fiche goafricaonline), site web indiqué https://khadija-consulting.com/ ; AUCUN email du bureau sur la page, le contact passe par un formulaire Senformation",
+        "Page ouverte : https://www.senformation.com/centres/cabinet-khadija-academie — mêmes informations (nom, adresse Hann Mariste 2 immeuble Bicis, téléphone +221 70 493 44 34, site khadija-consulting.com), aucun email du bureau, aucun nom de responsable",
+        "Site du bureau : https://khadija-consulting.com/ et https://www.khadija-consulting.com/ — INJOIGNABLES lors de ce passage : le nom de domaine ne résout pas en DNS (passerelle réseau : « host allowed, but the gateway could not connect to it »), en HTTPS comme en HTTP. Impossible d'ouvrir l'accueil, la page contact, le pied de page, les mentions légales ni la page « à propos » : aucun email n'a donc pu y être lu",
+        "Archive web (web.archive.org) tentée pour retrouver une copie du site : inaccessible depuis cet environnement (web.archive.org refuse la connexion / 429), aucune capture n'a pu être consultée",
+        "Page ouverte : https://www.facebook.com/p/Khadija-consulting-61556279191787/ — la page n'affiche que le formulaire de connexion Facebook, aucun contenu public (ni email, ni téléphone, ni adresse). Mur de connexion non contourné",
+        "Recherche web « \"khadija-consulting.com\" contact email » — aucune page citant ce domaine, aucun email associé",
+        "Recherche web « \"Cabinet Khadija Académie\" OR \"Khadija Académie\" Dakar contact inscription » (mode approfondi) — confirme le nom, l'adresse Hann Mariste 2 immeuble Bicis et le téléphone +221 70 493 44 34, mais aucun email du bureau. L'adresse « ecoles@sencampus.com » lue dans les données structurées de la fiche Senformation est l'adresse de la plateforme Senformation / Sencampus elle-même, pas celle du bureau : elle n'est donc pas retenue",
+        "Adresses probables testées (étape 4) : https://khadijaconsulting.com (le domaine existe, hébergement Squarespace 198.185.159.144, mais répond HTTP 404 sans aucun contenu — rien ne le rattache à ce bureau, il n'est pas retenu) ; https://khadijaconsulting.sn, https://khadija-consulting.sn, https://khadijaacademie.com, https://khadijaacademie.sn, https://cabinet-khadija.com (aucun de ces noms de domaine n'existe en DNS)"
+      ],
+      "statut": "a_verifier",
+      "note": "Identité confirmée : la fiche Senformation « Cabinet Khadija Académie » porte le même nom commercial (Khadija Consulting), la même adresse (Hann Mariste 2, immeuble Bicis, Dakar) et le même téléphone que le mobile 3 de la fiche goafricaonline (+221 70 493 44 34) ; le site khadija-consulting.com y est déclaré comme son site. Ce site est donc retenu, mais il était INJOIGNABLE pendant ce passage (le nom de domaine ne résout pas en DNS) : aucun email n'a pu y être lu, et l'archive web n'était pas accessible depuis cet environnement. À revoir : si le domaine est remis en service, sa page contact est la piste la plus probable pour un email. La page Facebook du bureau existe mais est derrière un mur de connexion. Aucun email n'est donc disponible aujourd'hui ; les 4 téléphones et l'adresse sont exploitables. Bureau de formation en gestion d'entreprise (paie, caisse, comptabilité, fiscalité) plutôt que bureau d'études techniques, bien qu'il soit classé dans « Bureaux d'études - Conseils - Consultants » par l'annuaire."
+    }
+  ]
+}
